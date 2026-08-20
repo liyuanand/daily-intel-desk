@@ -156,6 +156,26 @@ function applyAnalysis(item, analysis, model) {
   };
 }
 
+function selectBalancedCandidates(items, limit) {
+  const categories = Object.keys(categoryMeta);
+  const pools = new Map(categories.map(category => [category, items
+    .filter(item => item.category === category)
+    .sort((a, b) => b.priority - a.priority || new Date(b.publishedAt) - new Date(a.publishedAt))]));
+  const selected = [];
+  while (selected.length < limit) {
+    let added = false;
+    for (const category of categories) {
+      const candidate = pools.get(category).shift();
+      if (!candidate) continue;
+      selected.push(candidate);
+      added = true;
+      if (selected.length === limit) break;
+    }
+    if (!added) break;
+  }
+  return selected;
+}
+
 async function analyzeBatch(items, apiKey, model) {
   const endpoint = `${(process.env.DEEPSEEK_BASE_URL || "https://api.deepseek.com").replace(/\/$/, "")}/chat/completions`;
   const response = await fetch(endpoint, {
@@ -207,10 +227,10 @@ async function enrichWithDeepSeek(items, previousItems) {
     return { items: merged, meta: { enabled: Boolean(apiKey), status: reused ? "cached" : "disabled", model, analyzed: 0, reused } };
   }
 
-  const candidates = merged
-    .filter(item => item.kind !== "guide" && !item.aiAnalysis)
-    .sort((a, b) => b.priority - a.priority || new Date(b.publishedAt) - new Date(a.publishedAt))
-    .slice(0, maxItems);
+  const candidates = selectBalancedCandidates(
+    merged.filter(item => item.kind !== "guide" && !item.aiAnalysis),
+    maxItems
+  );
   if (!candidates.length) return { items: merged, meta: { enabled: true, status: "cached", model, analyzed: 0, reused } };
 
   try {

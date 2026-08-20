@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-20T08:24:52.485Z",
+  "generatedAt": "2026-08-20T08:31:47.549Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
-    "enabled": true,
-    "status": "ok",
+    "enabled": false,
+    "status": "cached",
     "model": "deepseek-chat",
-    "analyzed": 12,
-    "reused": 12
+    "analyzed": 0,
+    "reused": 24
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,6 +194,44 @@
       "priority": 89
     },
     {
+      "id": "31d5861fbd9f",
+      "title": "十年阅读历程，这是我的阅读工具推荐",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113567",
+      "publishedAt": "2026-08-20T07:25:47.000Z",
+      "summary": "从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ... 查看全文",
+      "actionSteps": [
+        "找到原始研究或权威资料",
+        "区分事实、推测和传播口号",
+        "写下这条知识会改变的一个决策"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 83,
+      "priority": 76
+    },
+    {
+      "id": "e5da017074a9",
+      "title": "鸿蒙智行智界 RX 轿跑 SUV 开启预订，29.98 万 / 35.98 万元起",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/199.htm",
+      "publishedAt": "2026-08-20T08:27:36.000Z",
+      "summary": "IT之家 8 月 20 日消息，在今天的享界 G9 及鸿蒙智行新品发布会上，鸿蒙智行全新轿跑 SUV—— 智界 RX 正式开启预订。 共光路舱内激光雷达：29.98 万元起 L3 级自动驾驶架构：35.98 万元起 IT之家汇总新车主要信息如下： 智界 RX 提供闪蝶蓝、星玫粉、钛空银、极光绿、曜石黑与暖云白六款车色可选，每款车色均匹配推荐轮毂搭配方案，首发华为巨鲸电池平台“黑匣子”技术，更创新的车身架构设计，更先进的电磁热控压铸技术，",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
       "id": "ea023e7c93a2",
       "title": "绿联海外推出新款带屏 Qi2 无线充电基座：内置散热风扇、可同时充 iPhone / AirPods，79.99 美元",
       "category": "ai",
@@ -209,27 +247,6 @@
       ],
       "tags": [
         "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "207a86a9f869",
-      "title": "七彩虹首款水冷笔电隐星 P16 Pro 星风水冷版 2026 上市：251HX + 5060，国补后 9999 元",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/188.htm",
-      "publishedAt": "2026-08-20T07:58:41.000Z",
-      "summary": "IT之家 8 月 20 日消息，七彩虹 (Colorful) 现已在电商平台上架其首款水冷笔记本电脑 —— 隐星 P16 Pro 星风水冷版 2026。其标价 11499 元， 国家补贴后 9999 元 ，8 月 28 日 10:00 发售。 这一型号基于 英特尔酷睿 Ultra 7 处理器 251HX 、 NVIDIA GeForce RTX 5060 笔记本电脑 GPU ，搭载 16GB DDR5-5600 SO-DIMM 内存 和",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "电商"
       ],
       "trust": 58,
       "opportunity": 67,
@@ -616,25 +633,6 @@
       "link": "https://sspai.com/post/113438",
       "publishedAt": "2026-08-18T06:30:00.000Z",
       "summary": "屏幕不是注意力中心的地方可以塞下多少有用的东西呢？ 查看全文",
-      "actionSteps": [
-        "找到原始研究或权威资料",
-        "区分事实、推测和传播口号",
-        "写下这条知识会改变的一个决策"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 63,
-      "priority": 65
-    },
-    {
-      "id": "d28f4e776c8d",
-      "title": "7月音乐精选：夏天赠予我们的 9 张专辑",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113454",
-      "publishedAt": "2026-08-18T02:52:11.000Z",
-      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
       "actionSteps": [
         "找到原始研究或权威资料",
         "区分事实、推测和传播口号",
@@ -1358,7 +1356,7 @@
     },
     {
       "id": "d593c5f3b42d",
-      "title": "目标零百加速 1.1 秒：特斯拉有望本月演示 Roadster，靠 SpaceX 推进器实现悬停",
+      "title": "目标零百加速 1.1 秒：特斯拉有望本月演示 Roadster 跑车，靠 SpaceX 推进器实现悬停",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",

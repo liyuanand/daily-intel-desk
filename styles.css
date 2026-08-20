@@ -56,7 +56,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 
 .workspace { margin-left: var(--sidebar); min-width: 0; }
 .topbar { position: sticky; top: 0; z-index: 10; height: 68px; display: flex; align-items: center; gap: 16px; padding: 0 clamp(20px, 3vw, 48px); border-bottom: 1px solid var(--border); background: rgba(245, 246, 242, .92); backdrop-filter: blur(12px); }
-.search-wrap { width: min(520px, 55vw); height: 44px; display: flex; align-items: center; gap: 9px; padding: 0 11px; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); transition: border-color .2s, box-shadow .2s; }
+.search-wrap { width: min(520px, 55vw); min-width: 0; height: 44px; display: flex; align-items: center; gap: 9px; padding: 0 11px; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); transition: border-color .2s, box-shadow .2s; }
 .search-wrap:focus-within { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(217, 74, 52, .1); }
 .search-wrap svg { width: 17px; color: var(--text-soft); }
 .search-wrap input { min-width: 0; flex: 1; border: 0; outline: 0; background: none; color: var(--text); }
@@ -100,6 +100,11 @@ h1 { margin: 0; font: 700 clamp(28px, 3vw, 40px)/1.25 "Noto Serif SC", serif; le
 .chip { min-height: 34px; flex: 0 0 auto; border: 1px solid transparent; border-radius: 5px; padding: 5px 11px; background: transparent; color: var(--text-soft); transition: background .2s, color .2s, border-color .2s; }
 .chip:hover { background: var(--surface-2); color: var(--text); }
 .chip.active { border-color: var(--border); background: var(--surface); color: var(--text); font-weight: 600; box-shadow: 0 1px 2px rgba(20, 30, 24, .05); }
+.ai-filter { display: inline-flex; align-items: center; gap: 5px; margin-left: 6px; border-color: #b7d9d3; color: var(--teal); }
+.ai-filter:hover, .ai-filter.active { border-color: var(--teal); background: var(--teal-soft); color: var(--teal); }
+.ai-filter svg { width: 14px; height: 14px; }
+.ai-filter b { min-width: 18px; height: 18px; display: grid; place-items: center; border-radius: 9px; background: var(--teal-soft); font-size: 9px; }
+.ai-filter.active b { background: var(--teal); color: white; }
 .sort-control { display: flex; align-items: center; gap: 7px; flex: 0 0 auto; color: var(--text-soft); font-size: 12px; }
 .sort-control select { height: 34px; border: 1px solid var(--border); border-radius: 5px; padding: 0 28px 0 9px; background: var(--surface); color: var(--text); }
 
@@ -252,6 +257,8 @@ h1 { margin: 0; font: 700 clamp(28px, 3vw, 40px)/1.25 "Noto Serif SC", serif; le
   .signal-metrics span { flex: 1; min-width: 0; padding: 0 5px; }
   .toolbar { align-items: flex-start; flex-direction: column; gap: 10px; padding: 14px 0; }
   .filter-chips { width: 100%; }
+  .filter-chips { flex-wrap: wrap; overflow-x: visible; }
+  .ai-filter { margin-left: 0; }
   .chip { min-height: 44px; }
   .sort-control { width: 100%; justify-content: flex-end; }
   .sort-control select { height: 44px; }

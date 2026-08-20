@@ -8,6 +8,7 @@ const state = {
   search: "",
   sort: "priority",
   savedOnly: false,
+  aiOnly: false,
   visible: 8,
   saved: new Set(readStore("daily-intel:saved", [])),
   read: new Set(readStore("daily-intel:read", [])),
@@ -70,6 +71,7 @@ function filteredItems() {
   return state.items
     .filter(item => state.category === "all" || item.category === state.category)
     .filter(item => !state.savedOnly || state.saved.has(item.id))
+    .filter(item => !state.aiOnly || item.aiAnalysis)
     .filter(item => !search || [item.title, item.summary, item.source, ...(item.tags || [])].join(" ").toLowerCase().includes(search))
     .sort((a, b) => {
       if (state.sort === "latest") return new Date(b.publishedAt) - new Date(a.publishedAt);
@@ -108,10 +110,11 @@ function renderFeed() {
   const items = filteredItems();
   const visibleItems = items.slice(0, state.visible);
   const categoryLabel = state.category === "all" ? "情报流" : state.categories[state.category];
-  elements.feedTitle.textContent = state.savedOnly ? "我的收藏" : categoryLabel;
+  const feedLabel = state.savedOnly ? "我的收藏" : categoryLabel;
+  elements.feedTitle.textContent = state.aiOnly ? `${feedLabel} · AI 分析` : feedLabel;
   elements.resultCount.textContent = `${items.length} 条`;
   elements.feed.innerHTML = visibleItems.length ? visibleItems.map(itemCard).join("") : `
-    <div class="empty-state"><i data-lucide="search-x"></i><h3>没有找到匹配资讯</h3><p>试试更换关键词或分类。</p></div>`;
+    <div class="empty-state"><i data-lucide="search-x"></i><h3>没有找到匹配资讯</h3><p>${state.aiOnly ? "该分类暂时没有 DeepSeek 分析内容。" : "试试更换关键词或分类。"}</p></div>`;
   elements.loadMore.hidden = state.visible >= items.length;
   $("#saved-count").textContent = state.saved.size;
   renderIcons();
@@ -147,6 +150,9 @@ function renderSummary(data) {
   const top = [...state.items].sort((a, b) => b.priority - a.priority)[0];
   $("#strong-signal").textContent = top ? `${top.title}。建议先完成：${top.actionSteps[0]}。` : "暂无足够数据生成今日信号。";
   $("#metric-items").textContent = state.items.length;
+  const aiCount = state.items.filter(item => item.aiAnalysis).length;
+  $("#metric-ai").textContent = aiCount;
+  $("#ai-filter-count").textContent = aiCount;
   $("#metric-sources").textContent = new Set(state.items.map(item => item.source)).size;
   const updated = formatUpdated(data.generatedAt);
   $("#last-updated").textContent = updated;
@@ -166,7 +172,7 @@ function setCategory(category) {
   state.savedOnly = false;
   state.visible = 8;
   $("#saved-filter").classList.remove("active");
-  $$('[data-category]').forEach(button => button.classList.toggle("active", button.dataset.category === category));
+  $$('.nav-item[data-category], .chip[data-category]').forEach(button => button.classList.toggle("active", button.dataset.category === category));
   document.body.classList.remove("menu-open");
   $("#menu-button").setAttribute("aria-expanded", "false");
   renderFeed();
@@ -237,6 +243,15 @@ $("#category-nav").addEventListener("click", event => {
 });
 
 $("#filter-chips").addEventListener("click", event => {
+  const aiFilter = event.target.closest("#ai-filter");
+  if (aiFilter) {
+    state.aiOnly = !state.aiOnly;
+    state.visible = 8;
+    aiFilter.classList.toggle("active", state.aiOnly);
+    aiFilter.setAttribute("aria-pressed", String(state.aiOnly));
+    renderFeed();
+    return;
+  }
   const button = event.target.closest("[data-category]");
   if (button) setCategory(button.dataset.category);
 });
@@ -265,7 +280,7 @@ $("#saved-filter").addEventListener("click", () => {
   state.category = "all";
   state.visible = 8;
   $("#saved-filter").classList.toggle("active", state.savedOnly);
-  $$('[data-category]').forEach(button => button.classList.toggle("active", !state.savedOnly && button.dataset.category === "all"));
+  $$('.nav-item[data-category], .chip[data-category]').forEach(button => button.classList.toggle("active", !state.savedOnly && button.dataset.category === "all"));
   renderFeed();
 });
 
