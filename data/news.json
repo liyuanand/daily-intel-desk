@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:58:06.747Z",
+  "generatedAt": "2026-08-20T13:12:31.937Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 26
+    "reused": 18
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,14 +194,153 @@
       "priority": 89
     },
     {
-      "id": "787bae98274f",
-      "title": "华为余承东：HarmonyOS 6 终端设备数突破 8000 万",
+      "id": "318d5ffb0f02",
+      "title": "Unlocking hidden revenue streams with market models",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "publishedAt": "2026-08-20T09:47:22.000Z",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider ",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 82,
+      "opportunity": 67,
+      "priority": 80
+    },
+    {
+      "id": "89e03be13118",
+      "title": "Support networks aim to help kids through the polycrisis",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "publishedAt": "2026-08-20T09:00:00.000Z",
+      "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 82,
+      "opportunity": 67,
+      "priority": 80
+    },
+    {
+      "id": "9b2867b8e0d0",
+      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+      "publishedAt": "2026-08-20T12:00:23.000Z",
+      "summary": "Article URL: https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff Comments URL: https://news.ycombinator.com/item?id=49373423 Points: 0 # Comments: 0",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "760d033ab950",
+      "title": "Australia passes law to levy tech giants that fail to pay for local news",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+      "publishedAt": "2026-08-20T11:23:43.000Z",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49373123 Points: 19 # Comments: 5",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "eb9205c680e9",
+      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "publishedAt": "2026-08-20T11:03:29.000Z",
+      "summary": "Article URL: https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/ Comments URL: https://news.ycombinator.com/item?id=49372994 Points: 11 # Comments: 0",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "固定主体、风格、镜头和负面词做 3 组对照",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "0bc25d53973c",
+      "title": "Risk Engineering",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://risk-engineering.org/",
+      "publishedAt": "2026-08-20T10:18:58.000Z",
+      "summary": "Article URL: https://risk-engineering.org/ Comments URL: https://news.ycombinator.com/item?id=49372661 Points: 9 # Comments: 2",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "e2dc35a6be96",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "publishedAt": "2026-08-20T10:08:52.000Z",
+      "summary": "Article URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html Comments URL: https://news.ycombinator.com/item?id=49372583 Points: 211 # Comments: 64",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "a1d4e45c1e87",
+      "title": "台电推出 2026 款 T70 Pro 平板电脑：联发科 G100 + 8G + 128G 售 1299 元",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/206.htm",
-      "publishedAt": "2026-08-20T08:40:28.000Z",
-      "summary": "IT之家 8 月 20 日消息，在今天的享界 G9 及鸿蒙智行新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布， HarmonyOS 6 终端设备数突破 8000 万 。 余承东透露， 部分主流 App，例如微信、抖音，在 9 月份还会有大升级 。 据IT之家此前报道，在今年 3 月的直播中，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，鸿蒙系统用户规模正经历急剧增长， 预计将在今年",
+      "link": "https://www.ithome.com/0/992/354.htm",
+      "publishedAt": "2026-08-20T13:10:43.000Z",
+      "summary": "IT之家 8 月 20 日消息，台电现已在京东上架 2026 款 T70 Pro 平板，该机采用“联发科 G100 + 8GB RAM + 128GB 存储空间”规格， 定价为 1299 元 。 该机配备一块 14 英寸 2240x1400 分辨率 IPS LCD 面板，前置 8Mp 自拍摄像头；后置 13Mp 主摄。 该机搭载联发科 G100 处理器，匹配 8GB RAM 和 128GB 存储空间，内置 10000mAh 电池，支持双",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -213,14 +352,14 @@
       "priority": 70
     },
     {
-      "id": "3edbaf0acd61",
-      "title": "阔屏开拓者：余承东首秀华为 Pura X View 全新阔直板手机，96.1% 业界最高屏占比",
+      "id": "cd673a7a18e6",
+      "title": "惠普星 Book 官宣与 OPPO 对接，支持无线互传、多屏协同等功能",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/204.htm",
-      "publishedAt": "2026-08-20T08:37:31.000Z",
-      "summary": "IT之家 8 月 20 日消息，在今天的享界 G9 及鸿蒙智行新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东首秀华为 Pura X View 全新阔直板手机。 IT之家从发布会现场了解到，华为 Pura X View 全新阔直板手机是业界最高屏占比手机，达到 96.1%；采用极窄四等边设计，黑边低至 1.05mm。 该机屏幕拥有 6500nits 高峰值亮度、1,000,000:1 对比度，分辨率达到 22",
+      "link": "https://www.ithome.com/0/992/351.htm",
+      "publishedAt": "2026-08-20T13:01:48.000Z",
+      "summary": "IT之家 8 月 20 日消息，中国惠普今日宣布， 惠普星 Book 与 OPPO 成功对接 ，支持“双端开挂”。 据介绍，OPPO 手机靠近星 Book，会主动弹出连接提示。用户扫码完成连接后， 可使用文件互传、多屏协同和远程控制等功能 。IT之家附各功能详情如下： 无线互传 在 OPPO 手机中选中照片，通过分享页面快速发送到星 Book。不用数据线，也不用通过聊天软件反复传给自己。 星 Book 中的 PPT、Word 等文件，也",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -232,14 +371,54 @@
       "priority": 70
     },
     {
-      "id": "b3bba1743a93",
-      "title": "极兔速递 2026 财年半年报归母净利润 2.5 亿美元，同比增长 189.49%",
+      "id": "4c38a0621c00",
+      "title": "曝奕境汽车南昌门店活动送仿版 Labubu，品牌总经理曾清林发文回应",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/203.htm",
-      "publishedAt": "2026-08-20T08:34:31.000Z",
-      "summary": "IT之家 8 月 20 日消息，极兔速递今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告： 营业总收入 ：76.72 亿美元，同比增长 39.5% 毛利润 ：10.14 亿美元，同比增长 88.4% 毛利率 ：13.2%，同比提升 3.4 个百分点 归母净利润 ：2.5 亿美元，同比增长 189.49% 经营现金流 ：6.36 亿美元，同比增长 50.9% ",
+      "link": "https://www.ithome.com/0/992/346.htm",
+      "publishedAt": "2026-08-20T12:50:16.000Z",
+      "summary": "IT之家 8 月 20 日消息，有网友反映参加南昌当地奕境 X9 预售发布会，签到礼品可以选择领取 labubu 盲盒一个，拆开后发现是仿版 Labubu。奕境汽车品牌总经理曾清林刚刚发文就此事进行了回应。 IT之家附曾清林微博原文如下： 南昌门店送出仿版 Labubu 这件事，这两天一边处理一边复盘，心里挺沉重。 门店新开业，接待量大，确实一些细节工作没有做好。心意是好的，想给到店用户准备一份小礼物、小惊喜，但忽略了知识产权红线，好心",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "262be1666422",
+      "title": "美光在美成立存储研究实验室，未来十年将投百亿美元探索“关键突破”",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/345.htm",
+      "publishedAt": "2026-08-20T12:44:05.000Z",
+      "summary": "IT之家 8 月 20 日消息，美光科技今天（20 日）宣布成立美光研究实验室，并计划未来 十年投入 100 亿美元 （IT之家注：现汇率约合 674.61 亿元人民币） 。 这家机构总部位于美国爱达荷州博伊西，将专注长期前沿技术，且不局限于现有产品和技术路线。美光希望借此联合客户、高校、政府和整个半导体产业，探索未来数十年的关键突破，研究方向包括 核心存储技术、先进存储与计算架构、芯片封装以及下一阶段的半导体制造技术 。 美光研究实验",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "1e802b45db46",
+      "title": "代码显示谷歌正计划为安卓版 Snapseed 修图应用引入自定义 LUT 功能",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/344.htm",
+      "publishedAt": "2026-08-20T12:42:22.000Z",
+      "summary": "IT之家 8 月 20 日消息，外媒 Android Authority 在拆解谷歌安卓版 Snapseed 修图应用 v4.1.4.966755460 版本时发现，谷歌正计划为应用带来自定义 LUT 功能，用户未来可以直接导入 .cube 格式的 LUT，一键套用专业调色效果。 IT之家注：LUT 即“查找表”（Look-Up Table），是一种常用于专业照片和视频后期制作的调色文件，可以将输入的颜色值映射为新的输出颜色，从而快速改",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -247,91 +426,6 @@
       ],
       "tags": [
         "AI",
-        "电商"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "f1956c89ae65",
-      "title": "中国电信 2026 年半年度归母净利润 195.88 亿元，同比下降 14.9%",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/198.htm",
-      "publishedAt": "2026-08-20T08:26:12.000Z",
-      "summary": "IT之家 8 月 20 日消息，中国电信今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告： 营业总收入 ：2590.1 亿元，同比下降 3.9% 毛利润 ：770.89 亿元，同比下降约 6.8% 毛利率 ：约 29.8%，同比下降 0.9 个百分点 归母净利润 ：195.88 亿元，同比下降 14.9% 扣非净利润 ：174.9 亿元，同比下降 19.5% 经营现金流 ：603.75 亿元，同比增长 28",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "6d33f76ef3b5",
-      "title": "微软承认 Win11 安装 KB5121003 之后导致《ARC Raiders》等部分游戏闪退或无法运行，正在调查问题根源",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/103.htm",
-      "publishedAt": "2026-08-20T06:56:05.000Z",
-      "summary": "IT之家 8 月 20 日消息，当地时间 8 月 19 日，微软确认最新的 8 月累积更新 KB5121003 可能导致部分游戏出现闪退 / 崩溃，甚至系统黑屏重启等问题。 该更新于 8 月 11 日作为 8 月 Patch Tuesday 的一部分推送，涉及 Win11 24H2 与 25H2 两个版本。由于其中加入了万众期待的“低延迟配置”（Low Latency Profile），相信已经有很多人安装更新。 IT之家注：“低延迟配",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "4ce35718dc1f",
-      "title": "利基型存储加速扩产：消息称华邦新晶圆厂项目“两步并一步”",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/096.htm",
-      "publishedAt": "2026-08-20T06:44:12.000Z",
-      "summary": "IT之家 8 月 20 日消息，台媒《工商时报》今日指出，利基型存储器领域业者华邦电子 (Winbond) 正加快新产能建设节奏以回应 AI 带来的长期需求提升。该企业 原计划分为两期进行的高雄路竹园区扩展项目已整合为 Module B 同步加速推进 。 这一项目将覆盖标准 DRAM、CUBE 客制化内存解决方案、WoW 键合、硅电容器等品类，并满足未来 14nm、12nm 级内存工艺升级和 EUV 光刻机导入需求。 华邦高雄路竹 Mo",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "dd188a8e2cc6",
-      "title": "MiniMax Design 发布，释放 H3 多模态视频模型生产力",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/095.htm",
-      "publishedAt": "2026-08-20T06:41:43.000Z",
-      "summary": "IT之家 8 月 20 日消息，MiniMax 今日发布多模态创作 Agent 工作台 MiniMax Design，进一步释放原生多模态视频模型 H3 的生产力，推动模型能力进入商业内容生产流程。 据IT之家了解，MiniMax Design 是一款多模态创作 Harness。用户提出创作需求后，Agent 能够理解目标、拆解任务，并调用相应的模型与 Skills，完成素材处理、内容生成、编辑和最终交付。 H3 具备多模态理解、视频生",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "先做 15 秒分镜，分别验证画面、口播和字幕",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "Agent",
         "视频"
       ],
       "trust": 58,
@@ -339,14 +433,35 @@
       "priority": 70
     },
     {
-      "id": "d6e5db01056f",
-      "title": "极佳视界通用双足人形机器人 Maker L01 发布，曾获华为哈勃投资",
+      "id": "78a617f40e35",
+      "title": "树莓派为 Raspberry Pi CM5 推出编程夹具，简化大规模部署工作",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/342.htm",
+      "publishedAt": "2026-08-20T12:39:33.000Z",
+      "summary": "IT之家 8 月 20 日消息，Raspberry Pi（树莓派）官方当地时间 19 日宣布为 Raspberry Pi Compute Module 5 (CM5) 计算模块核心板推出编程烧录夹具（治具）。 该设备 可简化大规模商业化部署 Raspberry Pi CM5 时的配置工作流程 ：用户在为编程夹具设计好操作系统和安全配置后，仅需将其与被操作的计算模块连接妥当，然后按下夹具便可自动化完成安全启动、全盘加密、裸操作系统安装等常",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "自动化"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "ecfe1b91bff4",
+      "title": "沙特 HUMAIN 预告 Horizon Ultra 笔电，搭载高通骁龙 X2 Elite 处理器",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/082.htm",
-      "publishedAt": "2026-08-20T05:59:30.000Z",
-      "summary": "IT之家 8 月 20 日消息，极佳视界今日发布了通用双足人形机器人 Maker L01，展示了产品的多项亮点。 Maker L01 全身搭载 31 个关节电机， 支持奔跑、跳跃、空翻等动作 ，最高移动速度 4m/s，官方展示了打乒乓球的场景。 Maker L01 重量 42kg，配备 518Wh 热插拔电池，宣称全栈开放，从科研到赛事开发均可开箱即用。 IT之家查询公开资料获悉，极佳视界是一家物理 AI 公司，成立于 2023 年，专",
+      "link": "https://www.ithome.com/0/992/336.htm",
+      "publishedAt": "2026-08-20T12:24:42.000Z",
+      "summary": "IT之家 8 月 20 日消息，沙特阿拉伯主权财富基金 PIF 旗下人工智能企业 HUMAIN 首席执行官 Tareq Amin 近日通过一段开箱视频预热了 HUMAIN 将推出的 Horizon Ultra 笔记本电脑。 可以看到这款笔电的内包装相对别致， 正面设计类似 AI 机器人聊天框 。 而在 C 面左侧，Horizon Ultra 贴有高通骁龙 X2 Elite 处理器标识 ，表明了驱动此设备的核心动力；另一方面，其英语-阿拉",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -354,7 +469,95 @@
       ],
       "tags": [
         "AI",
+        "视频",
         "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "ad2b6de567c5",
+      "title": "微软重金招聘首席法律工程师，“懂 AI 的律师”最高可获近 28 万美元年薪",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/317.htm",
+      "publishedAt": "2026-08-20T11:06:40.000Z",
+      "summary": "IT之家 8 月 20 日消息，据《商业内幕》今天（20 日）报道，微软本周在 LinkedIn 发布了一则招聘信息，寻求招募一名首席法律工程师，参与 规划公司律师使用 AI 的方式 。 这个职位需要 开发 AI 智能体、改进提示词，并培训客户与合作伙伴解决方案部门 的律师，需要接受培训的部门主要为微软的商业业务提供支持。 微软要求应聘者拥有 法律学位和至少 7 年执业律师经验 ，并优先考虑 具备 AI 法律工具实际使用经验 的人选，基",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "政策"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "847c9c71959f",
+      "title": "亚马逊在美国市场扩展 Prime Air 无人机配送服务，今年底将进驻当地 500 座城镇",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/258.htm",
+      "publishedAt": "2026-08-20T10:21:43.000Z",
+      "summary": "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”。 公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送。 目前，Prime Air 已经在美国 7 个州设立 11 个配送站提",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "d53ef3374382",
+      "title": "银河通用首款双足机器人 Galbot ET1“星仔”亮相，能跳街舞手撑地、倒立",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/247.htm",
+      "publishedAt": "2026-08-20T09:56:17.000Z",
+      "summary": "IT之家 8 月 20 日消息，银河通用全新人形机器人 Galbot ET1 官宣，在今日的 2026 WRC 世界机器人大会首次公开亮相。 这是银河通用首款双足机器人，名为“ 星仔 ”，宣称搭载银河星脑，不靠预设脚本，真正做到实时互动，语音动作实时生成，即兴接梗，人感交互。 银河通用创始人兼 CTO 王鹤博士介绍称，星仔是 全球首个具备自主学习能力的物理智能体 。 IT之家注意到，视频开场，星仔展示了一段高难度街舞 —— 手撑地、倒立",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "视频",
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "78581594d7f4",
+      "title": "阿里发布 Qwen-UI-Agent，主打让模型真正“会用”每一块屏幕",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/239.htm",
+      "publishedAt": "2026-08-20T09:45:51.000Z",
+      "summary": "IT之家 8 月 20 日消息，据千问大模型官方公众号，阿里巴巴正式推出 Qwen-UI-Agent ，一个以真实世界为中心的 GUI 智能体基座模型，涵盖移动端、电脑端、网页端以及深度搜索（DeepSearch）环境。 据介绍，Qwen-UI-Agent 在 GUI 任务上全面对标乃至超越业界旗舰模型: 移动端: MobileWorld 82.1%， 分别领先 GPT-5.6 Sol、Claude Opus 4.8、Seed 2.1 ",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "画出触发器、数据、决策和输出四段流程",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "Agent"
       ],
       "trust": 58,
       "opportunity": 67,
@@ -373,27 +576,6 @@
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
         "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "a48010e1b95b",
-      "title": "金山云 2026 财年第二财季营业总收入 30.72 亿元，同比增长 30.8%",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/991/782.htm",
-      "publishedAt": "2026-08-19T10:14:52.000Z",
-      "summary": "IT之家 8 月 20 日消息，金山云今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第二财季（2026 年 4 月～2026 年 6 月）报告： 营业总收入 ：30.72 亿元，同比增长 30.8%，环比增长 13.6% 毛利润 ：4.66 亿元，同比增长 37.58%，环比增长 34.84% 毛利率 ：15.2%，同比增长 0.8 个百分点，环比增长 2.4 个百分点 经营现金流 ：28.51 亿元，同比增长",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
       ],
       "tags": [
         "AI"
@@ -441,86 +623,8 @@
         "AI"
       ],
       "trust": 58,
-      "opportunity": 65,
-      "priority": 67
-    },
-    {
-      "id": "1af21cfe468e",
-      "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113564",
-      "publishedAt": "2026-08-18T07:05:05.000Z",
-      "summary": "二次元加爵士，你说有没有搞头？音乐人介绍炒饭（B站），本职是常驻波士顿的程序员社畜，同时也是多乐器演奏音乐人、B站UP主。炒饭没有专业科班学习经历，却凭兴趣及自学掌握了多种音乐技能，专辑音乐均为自己在 ... 查看全文",
-      "actionSteps": [
-        "找到原始研究或权威资料",
-        "区分事实、推测和传播口号",
-        "写下这条知识会改变的一个决策"
-      ],
-      "tags": [],
-      "trust": 58,
       "opportunity": 63,
       "priority": 65
-    },
-    {
-      "id": "e543e8c325ca",
-      "title": "App+1 | 让任务栏更有用：WindowSill",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113438",
-      "publishedAt": "2026-08-18T06:30:00.000Z",
-      "summary": "屏幕不是注意力中心的地方可以塞下多少有用的东西呢？ 查看全文",
-      "actionSteps": [
-        "找到原始研究或权威资料",
-        "区分事实、推测和传播口号",
-        "写下这条知识会改变的一个决策"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 63,
-      "priority": 65
-    },
-    {
-      "id": "cc3d07422d7c",
-      "title": "中共中央 国务院转发《中央宣传部、司法部关于开展法治宣传教育的第九个五年规划（2026－2030年）》",
-      "category": "policy",
-      "source": "中国政府网",
-      "sourceFeed": "中国政府网",
-      "link": "https://www.gov.cn/zhengce/202607/content_7076696.htm",
-      "publishedAt": "2026-07-26T16:00:00.000Z",
-      "summary": "中国政府网发布的最新政策：中共中央 国务院转发《中央宣传部、司法部关于开展法治宣传教育的第九个五年规划（2026－2030年）》。建议结合原文附件，核对适用对象、执行时间和申报材料。",
-      "actionSteps": [
-        "查找政策原文和附件",
-        "核对适用地区、对象和生效时间",
-        "列出企业需要补齐的材料与流程"
-      ],
-      "tags": [
-        "教育"
-      ],
-      "trust": 92,
-      "opportunity": 45,
-      "priority": 56
-    },
-    {
-      "id": "0eb903f42e58",
-      "title": "国务院关于同意将山东省潍坊市列为国家历史文化名城的批复",
-      "category": "policy",
-      "source": "中国政府网",
-      "sourceFeed": "中国政府网",
-      "link": "https://www.gov.cn/zhengce/content/202607/content_7076508.htm",
-      "publishedAt": "2026-07-23T16:00:00.000Z",
-      "summary": "中国政府网发布的最新政策：国务院关于同意将山东省潍坊市列为国家历史文化名城的批复。建议结合原文附件，核对适用对象、执行时间和申报材料。",
-      "actionSteps": [
-        "查找政策原文和附件",
-        "核对适用地区、对象和生效时间",
-        "列出企业需要补齐的材料与流程"
-      ],
-      "tags": [],
-      "trust": 92,
-      "opportunity": 45,
-      "priority": 56
     },
     {
       "id": "9836dce51f9f",
@@ -542,118 +646,96 @@
       "priority": 56
     },
     {
-      "id": "fe03aa19840e",
-      "title": "国务院关于印发《全民健身计划（2026—2030年）》的通知",
-      "category": "policy",
-      "source": "中国政府网",
-      "sourceFeed": "中国政府网",
-      "link": "https://www.gov.cn/zhengce/content/202607/content_7076420.htm",
-      "publishedAt": "2026-07-22T16:00:00.000Z",
-      "summary": "中国政府网发布的最新政策：国务院关于印发《全民健身计划（2026—2030年）》的通知。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "id": "6cfc72493666",
+      "title": "美政府机构警告：黑客正利用 AI 攻击全美多地供水系统",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/352.htm",
+      "publishedAt": "2026-08-20T13:05:23.000Z",
+      "summary": "美国CISA等机构警告，黑客正利用AI攻击全美多地供水系统，目标为西门子S7可编程逻辑控制器，涉及能源、供水等关键基础设施。",
       "actionSteps": [
-        "查找政策原文和附件",
-        "核对适用地区、对象和生效时间",
-        "列出企业需要补齐的材料与流程"
-      ],
-      "tags": [],
-      "trust": 92,
-      "opportunity": 45,
-      "priority": 56
-    },
-    {
-      "id": "79127fb50f93",
-      "title": "Go 1.27",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://go.dev/blog/go1.27",
-      "publishedAt": "2026-08-19T18:33:49.000Z",
-      "summary": "Go语言发布1.27版本，可能包含新特性、性能改进或工具链更新，对开发者有重要影响。",
-      "actionSteps": [
-        "阅读Go 1.27发布说明",
-        "评估新特性对现有项目的影响",
-        "规划升级测试"
+        "关注CISA等官方安全公告",
+        "评估自身工控系统风险",
+        "加强网络安全防护措施"
       ],
       "tags": [
-        "Go",
-        "编程语言",
-        "版本更新",
-        "开发工具"
+        "网络安全",
+        "关键基础设施",
+        "AI攻击"
       ],
       "trust": 3,
-      "opportunity": 3,
+      "opportunity": 2,
       "priority": 4,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:21:52.730Z",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "Go开发者需了解新版本变化，可能影响现有项目升级和开发效率。",
-        "riskNotes": "具体更新内容未在摘要中提及，需查看官方博客。"
+        "whyItMatters": "关键基础设施安全风险上升，可能影响供水等民生服务，相关企业需加强工控系统防护。",
+        "riskNotes": "报道源自外媒，具体攻击细节和影响范围未经官方证实，需关注CISA官方公告。"
       }
     },
     {
-      "id": "b650c8e47359",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "publishedAt": "2026-08-19T19:06:16.000Z",
-      "summary": "技术爱好者成功解锁被锁定的电子垃圾Cricut Maker，引发关于电子垃圾回收和维修权的讨论。",
+      "id": "82572a2640bf",
+      "title": "斗鱼 2026 年第二季度财报发布：总收入 9.81 亿元，毛利润同比增长 12%",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/347.htm",
+      "publishedAt": "2026-08-20T12:51:46.000Z",
+      "summary": "斗鱼发布2026年Q2财报，总收入9.81亿元，环比增长19.4%，毛利润1.59亿元，同比增长12%，毛利率16.2%。",
       "actionSteps": [
-        "阅读解锁教程了解技术细节",
-        "评估法律风险与道德考量",
-        "考虑支持维修权立法"
+        "关注斗鱼官方财报",
+        "分析直播行业趋势",
+        "评估相关投资风险"
       ],
       "tags": [
-        "电子垃圾",
-        "维修权",
-        "Cricut",
-        "解锁"
+        "斗鱼",
+        "财报",
+        "直播"
       ],
-      "trust": 2,
-      "opportunity": 3,
+      "trust": 4,
+      "opportunity": 2,
       "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:21:52.729Z",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对消费者，可能提供维修或再利用电子设备的思路；对环保和维修权运动有积极意义。",
-        "riskNotes": "解锁方法可能违反制造商条款，存在法律风险，且技术细节未验证。"
+        "whyItMatters": "反映直播行业动态，对投资者和从业者有参考价值。",
+        "riskNotes": "财报数据来自公司公告，但未经审计，需关注后续审计报告。"
       }
     },
     {
-      "id": "5bdbe701c0fd",
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "publishedAt": "2026-08-19T18:36:45.000Z",
-      "summary": "Unsloth发布Dynamic 3.0 GGUFs，可能优化大语言模型在CPU上的推理性能，降低部署成本。",
+      "id": "6ea6c73e2e79",
+      "title": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/339.htm",
+      "publishedAt": "2026-08-20T12:29:27.000Z",
+      "summary": "OpenAI接近实现让AI智能体熟练操作电脑的目标，计划向客户开放功能，尤其浏览器操作。",
       "actionSteps": [
-        "访问Unsloth文档了解新特性",
-        "在测试环境评估性能提升",
-        "比较现有GGUF方案"
+        "关注OpenAI官方公告",
+        "评估AI操作电脑对自身工作的影响",
+        "探索相关应用场景"
       ],
       "tags": [
         "AI",
-        "GGUF",
-        "模型优化",
-        "推理"
+        "智能体",
+        "OpenAI"
       ],
-      "trust": 2,
+      "trust": 3,
       "opportunity": 4,
       "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:21:52.730Z",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对AI开发者和企业，可能提供更高效的模型部署方案，减少硬件依赖。",
-        "riskNotes": "性能提升数据未提供，需实际测试验证。"
+        "whyItMatters": "AI操作电脑将改变人机交互方式，影响办公自动化、软件开发等领域。",
+        "riskNotes": "报道基于商业内幕，OpenAI未官方确认，功能开放时间不确定。"
       }
     },
     {
@@ -781,286 +863,127 @@
       }
     },
     {
-      "id": "6bb05c154299",
-      "title": "鸿蒙智行问界 M6 增程 Max 四驱版、Max+ 长续航版车型发布，23.98 万元起",
+      "id": "fb15ff7944ce",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
       "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/209.htm",
-      "publishedAt": "2026-08-20T08:45:59.000Z",
-      "summary": "问界M6发布增程新版本，Max四驱版23.98万，Max+长续航版25.98万，上市4个月交付超4.5万辆。",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "publishedAt": "2026-08-20T12:10:00.000Z",
+      "summary": "MIT技术评论文章讨论多重危机支持网络和氢能热潮，涉及技术与社会应对复杂危机。",
       "actionSteps": [
-        "对比竞品车型",
-        "关注实际交付数据",
-        "考虑购车需求"
+        "阅读原文了解详情",
+        "关注氢能技术进展",
+        "评估相关投资机会"
       ],
       "tags": [
-        "汽车",
-        "新能源",
-        "问界"
+        "氢能",
+        "多重危机",
+        "技术趋势"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "氢能发展可能影响能源行业，多重危机支持网络对社区韧性有参考价值。",
+        "riskNotes": "文章摘要不完整，具体观点和数据需阅读原文。"
+      }
+    },
+    {
+      "id": "d0dc8507a711",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "publishedAt": "2026-08-20T12:04:38.000Z",
+      "summary": "开发者训练125M参数模型，在iPhone上实时自动续写钢琴曲，每秒处理108个音符，类似代码补全。",
+      "actionSteps": [
+        "查看项目代码和演示",
+        "评估模型在音乐创作中的实用性",
+        "探索类似技术在音乐教育中的应用"
+      ],
+      "tags": [
+        "AI",
+        "音乐",
+        "端侧模型"
       ],
       "trust": 3,
-      "opportunity": 2,
+      "opportunity": 3,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:58:06.747Z",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "新能源汽车市场竞争加剧，影响消费者购车选择和行业格局。",
-        "riskNotes": "数据来自发布会，需官方确认，交付量可能含订单。"
+        "whyItMatters": "展示端侧AI音乐创作潜力，可能推动音乐教育、娱乐应用创新。",
+        "riskNotes": "项目为个人展示，未提及训练数据、模型质量评估，实际应用需进一步验证。"
       }
     },
     {
-      "id": "3f2c4f5e9fdf",
-      "title": "华为余承东：Pura X View 全新阔直板手机首发 HarmonyOS 7",
+      "id": "276fd27b435a",
+      "title": "The next big thing in hydrogen could be underground",
       "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/207.htm",
-      "publishedAt": "2026-08-20T08:44:51.000Z",
-      "summary": "华为发布Pura X View阔直板手机，首发HarmonyOS 7，厚度6.68mm，重201g，内置7000mAh电池，8月20日预约，28日门店体验。",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "publishedAt": "2026-08-20T10:00:00.000Z",
+      "summary": "MIT报道称地下可能蕴藏天然氢能，寻找新来源成为趋势，氢能可用于卡车、飞机、炼钢等领域。",
       "actionSteps": [
-        "关注华为官方发布会获取准确信息",
-        "8月20日开启预约，可提前登记",
-        "8月28日到门店体验真机"
+        "关注地下氢能研究动态",
+        "评估相关技术成熟度",
+        "留意能源政策对氢能的扶持"
       ],
       "tags": [
-        "华为",
-        "手机",
-        "HarmonyOS"
+        "氢能",
+        "能源",
+        "科技"
       ],
-      "trust": 2,
+      "trust": 3,
       "opportunity": 3,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:58:06.747Z",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "新手机主打轻薄长续航，支持阔感观剧阅读等，对追求大屏和长续航的用户有吸引力，可关注预约和体验。",
-        "riskNotes": "信息来自IT之家，非官方发布，具体配置和功能可能调整，建议以华为官方发布会为准。"
+        "whyItMatters": "地下氢能若可开发，将影响能源行业格局，为清洁能源投资提供新方向。",
+        "riskNotes": "报道基于研究进展，实际商业化尚远，需验证地质储量和开采技术可行性。"
       }
     },
     {
-      "id": "42fca51638cf",
-      "title": "消息称 Anthropic 与 Fractile 达成初步供应合同，后者寻求 65 亿美元估值",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/165.htm",
-      "publishedAt": "2026-08-20T07:44:23.000Z",
-      "summary": "Anthropic与AI芯片初创Fractile达成初步供应合同，价值约2.5亿美元，Fractile计划2027年交付推理加速器。",
+      "id": "438e2e1219b1",
+      "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/202608/content_7078711.htm",
+      "publishedAt": "2026-08-19T16:00:00.000Z",
+      "summary": "中共中央、国务院、中央军委决定授予张陆二级航天功勋奖章，授予武飞、张洪章英雄航天员称号并颁发三级航天功勋奖章。",
       "actionSteps": [
-        "关注Anthropic和Fractile官方声明",
-        "分析AI芯片市场趋势",
-        "评估对AI应用成本的影响"
+        "查阅官方政策原文",
+        "了解航天功勋奖章评选标准",
+        "关注相关表彰活动"
       ],
       "tags": [
-        "Anthropic",
-        "Fractile",
-        "AI芯片",
-        "供应合同"
+        "航天",
+        "政策",
+        "荣誉"
       ],
-      "trust": 2,
-      "opportunity": 2,
+      "trust": 5,
+      "opportunity": 1,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:35:13.331Z",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "反映AI芯片市场竞争加剧，可能影响AI算力成本，对AI行业和相关投资有潜在影响。",
-        "riskNotes": "消息来自彭博社，非官方确认，合同细节和交付时间可能变化，需关注后续公告。"
-      }
-    },
-    {
-      "id": "1383ffabe61d",
-      "title": "交通运输部：AI 可有效识别驾驶员疲劳驾驶、分心驾驶，准确率达 95% 以上",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/127.htm",
-      "publishedAt": "2026-08-20T07:18:35.000Z",
-      "summary": "交通运输部称AI识别疲劳驾驶准确率达95%以上，将推动AI在交通领域应用。",
-      "actionSteps": [
-        "关注交通运输部后续政策文件",
-        "运输企业评估AI监控系统部署成本",
-        "科技公司关注交通AI招标信息"
-      ],
-      "tags": [
-        "交通运输",
-        "AI",
-        "疲劳驾驶",
-        "政策"
-      ],
-      "trust": 4,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:35:13.331Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对运输企业和司机而言，AI监控可能提高安全要求，影响驾驶行为。对科技公司，意味着交通AI市场机会。对公众，提升道路安全。",
-        "riskNotes": "信息来自交通运输部发布会，为官方一手来源，但准确率数据未提供测试条件和样本，需谨慎对待。"
-      }
-    },
-    {
-      "id": "3a924037d0d5",
-      "title": "DeepSeek Harness 更新多模态支持，剧透 V4 视觉版",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/120.htm",
-      "publishedAt": "2026-08-20T07:10:06.000Z",
-      "summary": "DeepSeek Harness更新支持多模态，暗示DeepSeek V4视觉版可能发布，但需第三方模型支持。",
-      "actionSteps": [
-        "更新Harness体验新功能",
-        "关注DeepSeek官方动态",
-        "测试第三方视觉模型"
-      ],
-      "tags": [
-        "AI",
-        "多模态",
-        "DeepSeek"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:58:06.747Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI工具功能增强，可能提升用户体验，但视觉版未确认。",
-        "riskNotes": "推测成分高，官方未发布视觉版，需谨慎对待。"
-      }
-    },
-    {
-      "id": "3f17ea70854d",
-      "title": "Waymo 将 Gemini AI 助手整合进 Ojai 自动驾驶出租车，可语音调温度、查周边",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/108.htm",
-      "publishedAt": "2026-08-20T07:02:15.000Z",
-      "summary": "Waymo将Gemini AI助手整合进Ojai自动驾驶出租车，支持语音调节温度、查询周边信息，已在旧金山湾区测试，扩展至洛杉矶等地。",
-      "actionSteps": [
-        "关注Waymo官方公告确认Ojai服务范围",
-        "了解Gemini功能在车内的具体应用",
-        "在可用城市体验自动驾驶出租车服务"
-      ],
-      "tags": [
-        "自动驾驶",
-        "AI助手",
-        "Waymo"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:58:06.747Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "自动驾驶网约车服务将更智能便捷，用户可通过语音控制车内环境，获取周边信息，提升出行体验。",
-        "riskNotes": "信息来自IT之家，非官方公告，实际功能和服务范围可能变化，需关注Waymo官方发布。"
-      }
-    },
-    {
-      "id": "d829edc693d4",
-      "title": "Feature Request: Support AGENTS.md",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/anthropics/claude-code/issues/6235",
-      "publishedAt": "2026-08-19T21:19:50.000Z",
-      "summary": "GitHub上请求Claude Code支持AGENTS.md文件，引发开发者关注。",
-      "actionSteps": [
-        "查看GitHub issue详情",
-        "评估自身对AGENTS.md的需求",
-        "关注Claude Code更新"
-      ],
-      "tags": [
-        "AI编程",
-        "开发者工具",
-        "开源"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:21:52.729Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "影响AI编程工具的使用，开发者可关注功能更新。",
-        "riskNotes": "功能请求未实现，需关注官方回应。"
-      }
-    },
-    {
-      "id": "ebc042d1fb8a",
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://os8088.com/spotlight/",
-      "publishedAt": "2026-08-19T21:11:31.000Z",
-      "summary": "复古计算爱好者为IBM XT开发了浏览器，并支持CP/M 2.2和MS Word 1.1a，引发技术怀旧与极简计算讨论。",
-      "actionSteps": [
-        "访问os8088.com查看详细文档",
-        "评估其硬件要求与现有设备兼容性",
-        "考虑在模拟器中测试体验"
-      ],
-      "tags": [
-        "复古计算",
-        "IBM XT",
-        "浏览器",
-        "极简"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:21:52.729Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对极简计算和复古技术感兴趣的个人或企业，可能探索低功耗、低成本的计算方案，或用于教育、艺术项目。",
-        "riskNotes": "信息来源为Hacker News，非官方一手资料，具体功能与兼容性需验证。"
-      }
-    },
-    {
-      "id": "5831236134c1",
-      "title": "Pixel 11 Pro Fold feels like the end of an era",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "publishedAt": "2026-08-19T19:43:48.000Z",
-      "summary": "Pixel 11 Pro Fold评测称其标志着一个时代的结束，可能反映折叠屏手机市场趋势变化或产品线调整。",
-      "actionSteps": [
-        "阅读完整评测文章",
-        "对比其他折叠屏手机评测",
-        "关注Google官方发布信息"
-      ],
-      "tags": [
-        "Pixel",
-        "折叠屏",
-        "手机评测",
-        "市场趋势"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:21:52.729Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对消费者而言，影响购机决策；对企业，可能预示折叠屏技术成熟度或市场饱和信号。",
-        "riskNotes": "评测观点主观，需参考更多专业评测和官方信息。"
+        "whyItMatters": "体现国家航天成就，激励相关行业，但普通人直接关联有限。",
+        "riskNotes": "政策原文来自官方，但具体适用对象和细节需核对原文附件。"
       }
     },
     {
@@ -1092,68 +1015,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "影响AI行业投资预期和技术路线选择，企业需调整AI战略，个人关注AI职业发展。",
         "riskNotes": "基于新闻摘要，缺乏详细数据，AI进展评估主观性强。"
-      }
-    },
-    {
-      "id": "dcedd6fa1f80",
-      "title": "We still don’t know how people are really using AI",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "publishedAt": "2026-08-18T10:06:43.000Z",
-      "summary": "AI公司发布的用户使用报告可能选择性披露数据，缺乏独立验证，导致公众对AI实际使用情况认知有限。",
-      "actionSteps": [
-        "审慎看待AI公司发布的使用报告",
-        "寻求第三方独立研究数据",
-        "结合自身需求评估AI工具价值"
-      ],
-      "tags": [
-        "AI报告",
-        "数据透明度",
-        "行业观察"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:24:52.485Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "企业和个人依赖AI报告做决策，数据不透明可能误导投资或产品选择，需警惕宣传性数据。",
-        "riskNotes": "文章观点基于研究者评论，未提供具体证据，需交叉验证。"
-      }
-    },
-    {
-      "id": "72564937568e",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "publishedAt": "2026-08-18T09:00:00.000Z",
-      "summary": "AI自我改进可能不会很快实现，尽管LLM能写代码和生成数据，但独立进展有限，需重新评估AI发展速度预期。",
-      "actionSteps": [
-        "阅读原文了解AI自我改进的挑战",
-        "调整对AI发展速度的预期",
-        "关注技术突破的实际证据"
-      ],
-      "tags": [
-        "AI发展",
-        "技术预期",
-        "行业分析"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:24:52.485Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI发展速度影响投资和职业规划，若自我改进放缓，相关行业预期需调整，避免过度乐观。",
-        "riskNotes": "文章观点可能基于特定分析，需阅读原文了解论据。"
       }
     },
     {
@@ -1282,34 +1143,127 @@
       }
     },
     {
-      "id": "feabeee897e0",
-      "title": "《使命召唤：现代战争 4》Beta 测试版 PC 配置公布：3GB 显存显卡也能玩",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/208.htm",
-      "publishedAt": "2026-08-20T08:45:55.000Z",
-      "summary": "《使命召唤：现代战争4》Beta测试公布PC配置，最低3GB显存，8月21日抢先体验，8月28日免费开放，含Switch 2。",
+      "id": "cc3d07422d7c",
+      "title": "中共中央 国务院转发《中央宣传部、司法部关于开展法治宣传教育的第九个五年规划（2026－2030年）》",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/202607/content_7076696.htm",
+      "publishedAt": "2026-07-26T16:00:00.000Z",
+      "summary": "中共中央、国务院转发“八五”普法规划（2026-2030），部署未来五年法治宣传教育重点任务，要求各地各部门结合实际落实。",
       "actionSteps": [
-        "查看官方Beta测试配置要求",
-        "检查个人电脑硬件是否达标",
-        "根据测试时间安排下载和体验"
+        "查阅官方发布的规划全文",
+        "评估规划对所在单位或个人的普法要求",
+        "关注地方配套实施方案"
       ],
       "tags": [
-        "游戏",
-        "使命召唤",
-        "Beta测试"
+        "政策",
+        "普法",
+        "法治教育"
       ],
-      "trust": 2,
+      "trust": 4,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "普法规划影响公民法律意识提升、企业合规经营环境，相关单位需关注普法责任和活动安排。",
+        "riskNotes": "规划全文未提供，具体内容需以官方发布为准，本摘要基于标题和简短描述。"
+      }
+    },
+    {
+      "id": "0eb903f42e58",
+      "title": "国务院关于同意将山东省潍坊市列为国家历史文化名城的批复",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202607/content_7076508.htm",
+      "publishedAt": "2026-07-23T16:00:00.000Z",
+      "summary": "国务院批复同意将山东潍坊列为国家历史文化名城，将加强文化遗产保护。",
+      "actionSteps": [
+        "关注潍坊历史文化名城保护规划",
+        "评估文旅投资机会",
+        "了解相关文化资源"
+      ],
+      "tags": [
+        "政策",
+        "历史文化",
+        "城市发展"
+      ],
+      "trust": 4,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "提升城市文化品牌，可能带动文旅产业，影响当地居民和投资者。",
+        "riskNotes": "批复内容未详述，具体保护措施和影响需关注后续政策。"
+      }
+    },
+    {
+      "id": "7d23d457886f",
+      "title": "Browser De-Slop",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+      "publishedAt": "2026-08-20T12:19:37.000Z",
+      "summary": "Hacker News文章讨论浏览器去臃肿化，可能涉及简化浏览器功能或减少冗余。",
+      "actionSteps": [
+        "阅读原文了解具体内容",
+        "尝试相关工具或方法",
+        "评估对工作效率的影响"
+      ],
+      "tags": [
+        "浏览器",
+        "效率",
+        "技术"
+      ],
+      "trust": 1,
       "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:58:06.747Z",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "游戏玩家可提前体验新作，需检查电脑配置是否满足要求，并关注测试时间安排，避免错过。",
-        "riskNotes": "配置信息来自IT之家，非官方发布，具体配置可能调整，建议以动视官方公告为准。"
+        "whyItMatters": "浏览器是日常工具，去臃肿化可能提升用户体验和效率。",
+        "riskNotes": "文章内容未提供，具体观点和可行性需进一步验证。"
+      }
+    },
+    {
+      "id": "5b59d04b2793",
+      "title": "新玩意 249｜少数派的编辑们最近买了啥？",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113650",
+      "publishedAt": "2026-08-20T09:30:00.000Z",
+      "summary": "少数派编辑分享近期购买的新奇产品，提供使用体验和推荐。",
+      "actionSteps": [
+        "阅读原文了解产品详情",
+        "对比其他用户评价",
+        "根据需求决定是否购买"
+      ],
+      "tags": [
+        "消费",
+        "产品",
+        "体验"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "为消费者提供产品参考，可能影响购买决策。",
+        "riskNotes": "内容为主观体验，产品效果因人而异，需自行判断。"
       }
     },
     {
@@ -1344,38 +1298,6 @@
       }
     },
     {
-      "id": "ea023e7c93a2",
-      "title": "绿联海外推出新款带屏 Qi2 无线充电基座：内置散热风扇、可同时充 iPhone / AirPods，79.99 美元",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/190.htm",
-      "publishedAt": "2026-08-20T08:04:06.000Z",
-      "summary": "绿联在海外推出带屏Qi2无线充电基座，支持25W充电和散热风扇，可同时充iPhone和AirPods，售价79.99美元。",
-      "actionSteps": [
-        "关注绿联官方渠道确认产品详情",
-        "对比其他Qi2充电器价格和性能",
-        "评估自身设备兼容性后决定是否购买"
-      ],
-      "tags": [
-        "绿联",
-        "无线充电",
-        "Qi2",
-        "苹果配件"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:35:13.331Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对苹果用户而言，该产品提供更便捷的无线充电体验，但需注意其充电速率和兼容性，可能影响购买决策。",
-        "riskNotes": "信息来自IT之家，非官方一手来源，产品参数和价格可能变动，需以绿联官方发布为准。"
-      }
-    },
-    {
       "id": "31d5861fbd9f",
       "title": "十年阅读历程，这是我的阅读工具推荐",
       "category": "knowledge",
@@ -1407,39 +1329,8 @@
       }
     },
     {
-      "id": "d3a0f02044bf",
-      "title": "“AI 教母”李飞飞：管理一家初创公司，让我展现出“虎妈”的一面",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/121.htm",
-      "publishedAt": "2026-08-20T07:10:34.000Z",
-      "summary": "李飞飞称经营AI初创公司World Labs后展现“虎妈”一面，作为资历最深者承担家长角色，与年轻同事相处。",
-      "actionSteps": [
-        "阅读原文了解管理细节",
-        "评估自身管理风格",
-        "关注World Labs动态"
-      ],
-      "tags": [
-        "AI创业",
-        "管理",
-        "李飞飞"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:58:06.747Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "反映AI创业公司管理文化，对创业者有借鉴意义，但无直接商业影响。",
-        "riskNotes": "来源为彭博社采访，非官方一手，内容主观，无具体数据。"
-      }
-    },
-    {
       "id": "795bf78ffcc4",
-      "title": "Windows brings out the Rorschach test in everyone",
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
@@ -1466,37 +1357,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对普通用户影响小，但反映操作系统用户体验的多样性，企业可借鉴。",
         "riskNotes": "基于论坛讨论，非官方数据，观点主观。"
-      }
-    },
-    {
-      "id": "be24b4dbece9",
-      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-      "publishedAt": "2026-08-20T04:42:02.000Z",
-      "summary": "探讨微软娱乐包贴有俄罗斯方块标签的原因，涉及历史和市场策略。",
-      "actionSteps": [
-        "阅读原文了解背景",
-        "分析品牌合作策略",
-        "关注怀旧游戏市场"
-      ],
-      "tags": [
-        "微软",
-        "游戏",
-        "营销"
-      ],
-      "trust": 1,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:21:52.729Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对游戏行业和市场营销有启示，普通用户可了解历史。",
-        "riskNotes": "基于历史文章，需核实具体事实。"
       }
     },
     {
@@ -1688,65 +1548,34 @@
       }
     },
     {
-      "id": "a7d177338217",
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "publishedAt": "2026-08-18T12:10:00.000Z",
-      "summary": "MIT技术评论的每日通讯，讨论AI实际使用情况的不确定性及Flock的设计选择，反映AI应用透明度问题。",
+      "id": "1af21cfe468e",
+      "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113564",
+      "publishedAt": "2026-08-18T07:05:05.000Z",
+      "summary": "B站UP主炒饭（程序员兼音乐人）举办线下音乐分享签售会，融合爵士与动漫音乐。",
       "actionSteps": [
-        "阅读原文了解AI使用报告局限性",
-        "评估自身AI工具使用效果",
-        "关注独立研究以获取更全面数据"
+        "查看活动详情和购票信息",
+        "关注相关音乐作品",
+        "思考个人兴趣与职业结合的可能性"
       ],
       "tags": [
-        "AI应用",
-        "数据透明度",
-        "科技趋势"
+        "音乐",
+        "活动",
+        "创作者"
       ],
-      "trust": 2,
+      "trust": 3,
       "opportunity": 1,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "analyzedAt": "2026-08-20T13:12:31.937Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI使用数据不透明可能影响企业决策和个人对AI工具的信任，了解真实使用模式有助于合理选择AI产品。",
-        "riskNotes": "文章内容未提供具体数据，仅概述观点，需阅读原文获取细节。"
-      }
-    },
-    {
-      "id": "e608a03499cf",
-      "title": "The role of the astronaut is in flux",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-      "publishedAt": "2026-08-18T09:00:00.000Z",
-      "summary": "NASA Artemis II宇航员绕月飞行创下人类最远距离纪录，宇航员角色正在演变，可能影响未来太空探索方向。",
-      "actionSteps": [
-        "阅读原文了解宇航员角色变化",
-        "关注太空探索相关产业动态",
-        "评估对科技和商业的潜在影响"
-      ],
-      "tags": [
-        "太空探索",
-        "宇航员",
-        "科技前沿"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:24:52.485Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "太空探索进展可能带动科技、教育、商业航天等行业发展，普通人可关注相关就业和投资机会。",
-        "riskNotes": "摘要未提供具体细节，需阅读原文了解角色变化的具体内容。"
+        "whyItMatters": "展示跨领域兴趣发展，为文化消费和创作者经济提供案例。",
+        "riskNotes": "活动信息来自少数派，具体时间地点需核实，可能仅限特定城市。"
       }
     }
   ]
