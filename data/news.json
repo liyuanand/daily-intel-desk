@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:21:52.730Z",
+  "generatedAt": "2026-08-20T08:24:52.485Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 0
+    "reused": 12
   },
   "categories": {
     "ai": "AI 实操",
@@ -192,245 +192,6 @@
       "trust": 96,
       "opportunity": 76,
       "priority": 89
-    },
-    {
-      "id": "2e30d1f99689",
-      "title": "国务院关于修改《住房公积金管理条例》的决定",
-      "category": "policy",
-      "source": "中国政府网",
-      "sourceFeed": "中国政府网",
-      "link": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
-      "publishedAt": "2026-08-17T16:00:00.000Z",
-      "summary": "中国政府网发布的最新政策：国务院关于修改《住房公积金管理条例》的决定。建议结合原文附件，核对适用对象、执行时间和申报材料。",
-      "actionSteps": [
-        "查找政策原文和附件",
-        "核对适用地区、对象和生效时间",
-        "列出企业需要补齐的材料与流程"
-      ],
-      "tags": [],
-      "trust": 92,
-      "opportunity": 63,
-      "priority": 79
-    },
-    {
-      "id": "a7d177338217",
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "publishedAt": "2026-08-18T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 82,
-      "opportunity": 65,
-      "priority": 77
-    },
-    {
-      "id": "dcedd6fa1f80",
-      "title": "We still don’t know how people are really using AI",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "publishedAt": "2026-08-18T10:06:43.000Z",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent ",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 82,
-      "opportunity": 65,
-      "priority": 77
-    },
-    {
-      "id": "e608a03499cf",
-      "title": "The role of the astronaut is in flux",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-      "publishedAt": "2026-08-18T09:00:00.000Z",
-      "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 b",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 82,
-      "opportunity": 65,
-      "priority": 77
-    },
-    {
-      "id": "72564937568e",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "publishedAt": "2026-08-18T09:00:00.000Z",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 82,
-      "opportunity": 65,
-      "priority": 77
-    },
-    {
-      "id": "015cb6485c82",
-      "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
-      "category": "policy",
-      "source": "中国政府网",
-      "sourceFeed": "中国政府网",
-      "link": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
-      "publishedAt": "2026-08-16T16:00:00.000Z",
-      "summary": "中国政府网发布的最新政策：国务院关于《特殊教育发展提升“十五五”行动计划》的批复。建议结合原文附件，核对适用对象、执行时间和申报材料。",
-      "actionSteps": [
-        "查找政策原文和附件",
-        "核对适用地区、对象和生效时间",
-        "列出企业需要补齐的材料与流程"
-      ],
-      "tags": [
-        "教育"
-      ],
-      "trust": 92,
-      "opportunity": 61,
-      "priority": 76
-    },
-    {
-      "id": "12350bb99931",
-      "title": "科乐美《寂静岭 : Townfall》开启预购：Steam 国区 310 元起、官方同步放出游戏实机演示",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/197.htm",
-      "publishedAt": "2026-08-20T08:20:06.000Z",
-      "summary": "IT之家 8 月 20 日消息，科乐美旗下《Silent Hill：Townfall（寂静岭：Townfall）》现已在 Steam 平台开启预购，官方同步放出了游戏实机演示，本作将于 9 月 24 日发售。 具体价格方面，本作在 Steam 国区标准版 310 元，豪华版 380 元，预购奖励为“CRTV 风格：生锈”。豪华版除了游戏本体外，还包括 48 小时提前解锁、“西蒙的装束：替换装束”、数字画册和原声带。IT之家附游戏商品页（",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "ccfdbe894f46",
-      "title": "全球首款阔直板手机华为 Pura X View 亮相，定位“为内容而生”",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/195.htm",
-      "publishedAt": "2026-08-20T08:16:33.000Z",
-      "summary": "IT之家 8 月 20 日消息，据 @微博数码 ，华为 Pura X View 阔直板手机今天（20 日）正式亮相。根据介绍，作为全球首款阔直板手机，新品为内容而生，在直板机身中实现了 横向视野的实质性拓展 。在影音、阅读、游戏等场景下，观看体验更沉浸，信息呈现更完整。阔屏从折叠走向直板，为直板机形态变革打开了新方向。 据IT之家此前报道，博主 @数码闲聊站 在本月初发文透露， 某厂的阔直板新手机已 Ready ，方案属于行业首发。结合",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "48d238c02a8d",
-      "title": "盛色推出 15.6 英寸便携屏 D1：1080P 60Hz + 双扬，首发价 299 元",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/194.htm",
-      "publishedAt": "2026-08-20T08:13:16.000Z",
-      "summary": "IT之家 8 月 20 日消息，盛色现已在京东上架一块 15.6 英寸便携屏（型号为 D1），该机为 1080P 60Hz 规格，提供双扬声器，8 月 26 日首销，首发价 299 元。 京东 盛色 D1 便携屏 299 元 直达链接 该机整体重量约 765g，配备一块 1920x1080 分辨率 60Hz IPS 面板，峰值亮度 300 尼特，静态对比度 1000:1，支持 8-Bit 色彩（6-Bit + FRC）。 该机提供双 2",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "49a4d12c1eaa",
-      "title": "旗舰机型先行：首批 GrapheneOS 摩托罗拉设备预计 2027 年上市",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/193.htm",
-      "publishedAt": "2026-08-20T08:11:59.000Z",
-      "summary": "IT之家 8 月 20 日消息，GrapheneOS 官方本月早些时候确认，运行其同名 Android 操作系统发行版的 Motorola（摩托罗拉）设备预计将于 2027 年开始上市。 首批运行 GrapheneOS 的摩托罗拉智能手机将是旗舰机型， 硬件配置和定价均高于 Google（谷歌）Pixel 系列 。 另一方面，由于高通的处理方式和摩托罗拉此前的产品策略， 支持 GrapheneOS 的低端设备要到晚些时候才能面世 ，以留",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "5b744a62369c",
-      "title": "鸿蒙智行首款科技豪华硬派 SUV 享界 G9 上市：首发华为全地形途灵平台、原生电动顶帐，42.98 万元起",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/192.htm",
-      "publishedAt": "2026-08-20T08:07:19.000Z",
-      "summary": "IT之家 8 月 20 日消息，在今天的享界 G9 及鸿蒙智行新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发布了鸿蒙智行首款科技豪华硬派 SUV —— 享界 G9。 IT之家附鸿蒙智行首款科技豪华硬派 SUV 享界 G9 各版型价格如下： 据介绍，新车尺寸为 5377×2050×1897mm、轴距 3160mm，车身转角内收，方中带润，塑造刚柔并济的视觉效果。灯组设计上，搭载双百万像素全彩智慧投影大灯、星",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "d593c5f3b42d",
-      "title": "目标零百加速 1.1 秒：特斯拉有望本月演示 Roadster，靠 SpaceX 推进器实现悬停",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/191.htm",
-      "publishedAt": "2026-08-20T08:05:58.000Z",
-      "summary": "IT之家 8 月 20 日消息，8 月 18 日做客“Squawk on the Street”节目时， 前特斯拉前总裁乔恩 · 麦克尼尔（Jon McNeill）透露 Roadster 跑车多次延期的原因之一，和 SpaceX 研发的推进器有关。 IT之家查询公开资料，麦克尼尔曾于 2015 年至 2018 年担任特斯拉总裁，他表示特斯拉希望借助 Roadster 为承压的汽车业务注入活力和关注度。 麦克尼尔在 CNBC 采访中透露，",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI",
-        "机器人"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
     },
     {
       "id": "ea023e7c93a2",
@@ -1186,6 +947,69 @@
       }
     },
     {
+      "id": "2e30d1f99689",
+      "title": "国务院关于修改《住房公积金管理条例》的决定",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
+      "publishedAt": "2026-08-17T16:00:00.000Z",
+      "summary": "国务院修改《住房公积金管理条例》，具体修改内容、适用对象及执行时间需查阅原文附件确认。",
+      "actionSteps": [
+        "访问中国政府网查阅原文及附件",
+        "核对修改条款对自身或企业的影响",
+        "咨询当地公积金管理中心获取执行细则"
+      ],
+      "tags": [
+        "住房公积金",
+        "政策修改",
+        "住房政策"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "住房公积金涉及广大职工的住房储蓄和贷款权益，条例修改可能影响缴存比例、提取条件或使用范围，进而影响个人和企业的财务安排。",
+        "riskNotes": "摘要未提供具体修改条款，需以官方原文为准，避免误读。"
+      }
+    },
+    {
+      "id": "5b744a62369c",
+      "title": "鸿蒙智行首款科技豪华硬派 SUV 享界 G9 上市：首发华为全地形途灵平台、原生电动顶帐，42.98 万元起",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/192.htm",
+      "publishedAt": "2026-08-20T08:07:19.000Z",
+      "summary": "鸿蒙智行发布享界G9硬派SUV，首发华为全地形途灵平台，42.98万元起，尺寸5377×2050×1897mm。",
+      "actionSteps": [
+        "查阅官方发布会回放获取详细配置",
+        "对比同类硬派SUV价格和性能",
+        "如有意向，预约试驾体验"
+      ],
+      "tags": [
+        "华为",
+        "享界G9",
+        "SUV",
+        "发布"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对硬派SUV市场有影响，华为技术加持可能提升竞争力，但价格较高。",
+        "riskNotes": "信息来自IT之家发布会报道，具体配置和价格需以官方为准。"
+      }
+    },
+    {
       "id": "d829edc693d4",
       "title": "Feature Request: Support AGENTS.md",
       "category": "opportunity",
@@ -1312,6 +1136,259 @@
       }
     },
     {
+      "id": "dcedd6fa1f80",
+      "title": "We still don’t know how people are really using AI",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "publishedAt": "2026-08-18T10:06:43.000Z",
+      "summary": "AI公司发布的用户使用报告可能选择性披露数据，缺乏独立验证，导致公众对AI实际使用情况认知有限。",
+      "actionSteps": [
+        "审慎看待AI公司发布的使用报告",
+        "寻求第三方独立研究数据",
+        "结合自身需求评估AI工具价值"
+      ],
+      "tags": [
+        "AI报告",
+        "数据透明度",
+        "行业观察"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "企业和个人依赖AI报告做决策，数据不透明可能误导投资或产品选择，需警惕宣传性数据。",
+        "riskNotes": "文章观点基于研究者评论，未提供具体证据，需交叉验证。"
+      }
+    },
+    {
+      "id": "72564937568e",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "summary": "AI自我改进可能不会很快实现，尽管LLM能写代码和生成数据，但独立进展有限，需重新评估AI发展速度预期。",
+      "actionSteps": [
+        "阅读原文了解AI自我改进的挑战",
+        "调整对AI发展速度的预期",
+        "关注技术突破的实际证据"
+      ],
+      "tags": [
+        "AI发展",
+        "技术预期",
+        "行业分析"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "AI发展速度影响投资和职业规划，若自我改进放缓，相关行业预期需调整，避免过度乐观。",
+        "riskNotes": "文章观点可能基于特定分析，需阅读原文了解论据。"
+      }
+    },
+    {
+      "id": "015cb6485c82",
+      "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
+      "publishedAt": "2026-08-16T16:00:00.000Z",
+      "summary": "国务院批复《特殊教育发展提升“十五五”行动计划》，旨在提升特殊教育质量，具体措施需查阅原文。",
+      "actionSteps": [
+        "查阅国务院批复原文及行动计划",
+        "关注特殊教育相关资源变化",
+        "评估对教育行业和家庭的影响"
+      ],
+      "tags": [
+        "特殊教育",
+        "教育政策",
+        "十五五"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "特殊教育政策影响残障儿童及家庭，可能带来教育资源改善和就业机会，相关从业者应关注。",
+        "riskNotes": "摘要未提供具体内容，需以官方原文为准。"
+      }
+    },
+    {
+      "id": "12350bb99931",
+      "title": "科乐美《寂静岭 : Townfall》开启预购：Steam 国区 310 元起、官方同步放出游戏实机演示",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/197.htm",
+      "publishedAt": "2026-08-20T08:20:06.000Z",
+      "summary": "科乐美《寂静岭：Townfall》开启Steam预购，国区标准版310元，豪华版380元，9月24日发售，预购奖励为CRTV风格皮肤。",
+      "actionSteps": [
+        "访问Steam页面核实价格和发售日期",
+        "观看官方实机演示评估游戏质量",
+        "根据个人兴趣决定是否预购"
+      ],
+      "tags": [
+        "游戏",
+        "科乐美",
+        "预购",
+        "Steam"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对恐怖游戏爱好者而言，这是新作预购信息，需关注价格和发售时间；对游戏行业，科乐美重启经典IP显示其市场策略。",
+        "riskNotes": "信息来自IT之家，非官方一手来源，价格和发售日期需以Steam页面为准。"
+      }
+    },
+    {
+      "id": "ccfdbe894f46",
+      "title": "全球首款阔直板手机华为 Pura X View 亮相，定位“为内容而生”",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/195.htm",
+      "publishedAt": "2026-08-20T08:16:33.000Z",
+      "summary": "华为发布全球首款阔直板手机Pura X View，定位“为内容而生”，拓展横向视野，但配置信息未披露。",
+      "actionSteps": [
+        "关注华为官方发布会获取详细信息",
+        "对比现有直板机评估新形态优势",
+        "等待评测后再考虑购买"
+      ],
+      "tags": [
+        "华为",
+        "手机",
+        "新形态",
+        "发布"
+      ],
+      "trust": 1,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "新形态手机可能影响用户观看体验，对内容消费和移动设备市场有潜在影响。",
+        "riskNotes": "信息来自微博数码，非官方发布，配置和上市时间未确认。"
+      }
+    },
+    {
+      "id": "48d238c02a8d",
+      "title": "盛色推出 15.6 英寸便携屏 D1：1080P 60Hz + 双扬，首发价 299 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/194.htm",
+      "publishedAt": "2026-08-20T08:13:16.000Z",
+      "summary": "盛色推出15.6英寸便携屏D1，1080P 60Hz，双扬声器，首发价299元，8月26日首销。",
+      "actionSteps": [
+        "查看京东商品页确认规格和价格",
+        "比较其他品牌便携屏性价比",
+        "根据需求决定是否购买"
+      ],
+      "tags": [
+        "便携屏",
+        "盛色",
+        "低价",
+        "显示器"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "低价便携屏适合移动办公或扩展显示，对预算有限的用户有吸引力。",
+        "riskNotes": "信息来自IT之家，价格和规格需以京东页面为准，实际显示效果待验证。"
+      }
+    },
+    {
+      "id": "49a4d12c1eaa",
+      "title": "旗舰机型先行：首批 GrapheneOS 摩托罗拉设备预计 2027 年上市",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/193.htm",
+      "publishedAt": "2026-08-20T08:11:59.000Z",
+      "summary": "GrapheneOS官方确认首批摩托罗拉设备预计2027年上市，先推旗舰机型，低端设备稍后。",
+      "actionSteps": [
+        "关注GrapheneOS官方公告获取更新",
+        "评估现有Pixel设备是否满足需求",
+        "等待更多细节再决定是否等待"
+      ],
+      "tags": [
+        "GrapheneOS",
+        "摩托罗拉",
+        "隐私",
+        "手机"
+      ],
+      "trust": 3,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对注重隐私和安全的用户，GrapheneOS扩展至摩托罗拉提供更多选择，但等待时间长。",
+        "riskNotes": "信息来自GrapheneOS官方，但具体型号和价格未公布，时间可能变动。"
+      }
+    },
+    {
+      "id": "d593c5f3b42d",
+      "title": "目标零百加速 1.1 秒：特斯拉有望本月演示 Roadster，靠 SpaceX 推进器实现悬停",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/191.htm",
+      "publishedAt": "2026-08-20T08:05:58.000Z",
+      "summary": "特斯拉Roadster有望本月演示，目标零百加速1.1秒，使用SpaceX推进器实现悬停，前总裁透露延期原因。",
+      "actionSteps": [
+        "关注特斯拉官方消息确认演示",
+        "分析技术可行性，避免过度期待",
+        "评估对电动车市场的影响"
+      ],
+      "tags": [
+        "特斯拉",
+        "Roadster",
+        "性能",
+        "电动车"
+      ],
+      "trust": 1,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "特斯拉Roadster的性能突破可能引领电动车技术，但多次延期需谨慎看待。",
+        "riskNotes": "信息来自前总裁访谈，非官方确认，演示和性能数据未验证。"
+      }
+    },
+    {
       "id": "795bf78ffcc4",
       "title": "Windows brings out the Rorschach test in everyone",
       "category": "opportunity",
@@ -1433,6 +1510,68 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "涉及儿童隐私和安全，家长需谨慎选择监控工具，企业需考虑伦理设计。",
         "riskNotes": "摘要未提供具体研究数据，个人经历代表性有限。"
+      }
+    },
+    {
+      "id": "a7d177338217",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "publishedAt": "2026-08-18T12:10:00.000Z",
+      "summary": "MIT技术评论的每日通讯，讨论AI实际使用情况的不确定性及Flock的设计选择，反映AI应用透明度问题。",
+      "actionSteps": [
+        "阅读原文了解AI使用报告局限性",
+        "评估自身AI工具使用效果",
+        "关注独立研究以获取更全面数据"
+      ],
+      "tags": [
+        "AI应用",
+        "数据透明度",
+        "科技趋势"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "AI使用数据不透明可能影响企业决策和个人对AI工具的信任，了解真实使用模式有助于合理选择AI产品。",
+        "riskNotes": "文章内容未提供具体数据，仅概述观点，需阅读原文获取细节。"
+      }
+    },
+    {
+      "id": "e608a03499cf",
+      "title": "The role of the astronaut is in flux",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "summary": "NASA Artemis II宇航员绕月飞行创下人类最远距离纪录，宇航员角色正在演变，可能影响未来太空探索方向。",
+      "actionSteps": [
+        "阅读原文了解宇航员角色变化",
+        "关注太空探索相关产业动态",
+        "评估对科技和商业的潜在影响"
+      ],
+      "tags": [
+        "太空探索",
+        "宇航员",
+        "科技前沿"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "太空探索进展可能带动科技、教育、商业航天等行业发展，普通人可关注相关就业和投资机会。",
+        "riskNotes": "摘要未提供具体细节，需阅读原文了解角色变化的具体内容。"
       }
     }
   ]
