@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-20T08:31:47.549Z",
+  "generatedAt": "2026-08-20T08:35:13.331Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
-    "enabled": false,
-    "status": "cached",
+    "enabled": true,
+    "status": "ok",
     "model": "deepseek-chat",
-    "analyzed": 0,
-    "reused": 24
+    "analyzed": 12,
+    "reused": 21
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,25 +194,6 @@
       "priority": 89
     },
     {
-      "id": "31d5861fbd9f",
-      "title": "十年阅读历程，这是我的阅读工具推荐",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113567",
-      "publishedAt": "2026-08-20T07:25:47.000Z",
-      "summary": "从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ... 查看全文",
-      "actionSteps": [
-        "找到原始研究或权威资料",
-        "区分事实、推测和传播口号",
-        "写下这条知识会改变的一个决策"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 83,
-      "priority": 76
-    },
-    {
       "id": "e5da017074a9",
       "title": "鸿蒙智行智界 RX 轿跑 SUV 开启预订，29.98 万 / 35.98 万元起",
       "category": "industry",
@@ -220,77 +201,13 @@
       "sourceFeed": "IT 之家",
       "link": "https://www.ithome.com/0/992/199.htm",
       "publishedAt": "2026-08-20T08:27:36.000Z",
-      "summary": "IT之家 8 月 20 日消息，在今天的享界 G9 及鸿蒙智行新品发布会上，鸿蒙智行全新轿跑 SUV—— 智界 RX 正式开启预订。 共光路舱内激光雷达：29.98 万元起 L3 级自动驾驶架构：35.98 万元起 IT之家汇总新车主要信息如下： 智界 RX 提供闪蝶蓝、星玫粉、钛空银、极光绿、曜石黑与暖云白六款车色可选，每款车色均匹配推荐轮毂搭配方案，首发华为巨鲸电池平台“黑匣子”技术，更创新的车身架构设计，更先进的电磁热控压铸技术，",
+      "summary": "IT之家 8 月 20 日消息，在今天的享界 G9 及鸿蒙智行新品发布会上，鸿蒙智行全新轿跑 SUV—— 智界 RX 正式开启预订。 共光路舱内激光雷达：29.98 万元起 L3 级自动驾驶架构：35.98 万元起 IT之家汇总新车主要信息如下： 智界 RX 定位中大型纯电轿跑 SUV， 基于华为途灵平台打造 ，提供单电机后驱与双电机四驱两种布局，车身尺寸为 5020×2007×1585mm，轴距 3000mm， 首发华为智擎新一代高性",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
       ],
       "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "ea023e7c93a2",
-      "title": "绿联海外推出新款带屏 Qi2 无线充电基座：内置散热风扇、可同时充 iPhone / AirPods，79.99 美元",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/190.htm",
-      "publishedAt": "2026-08-20T08:04:06.000Z",
-      "summary": "IT之家 8 月 20 日消息，绿联现已在海外推出新款带屏 Qi2 无线充电基座，该产品支持主动散热，可为苹果 iPhone 和 AirPods 耳机同时充电，定价为 79.99 美元 （IT之家注：现汇率约合 539.6 元人民币） 。 该充电基座支架支持 90 度旋转，可以让手机“悬浮”在空中，可为手机提供 25W Qi2 无线充电速率、为 AirPods 耳机提供 5W 无线充电速率。 绿联表示，该充电基座内置散热风扇，可以将手机",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "42fca51638cf",
-      "title": "消息称 Anthropic 与 Fractile 达成初步供应合同，后者寻求 65 亿美元估值",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/165.htm",
-      "publishedAt": "2026-08-20T07:44:23.000Z",
-      "summary": "IT之家 8 月 20 日消息，彭博社当地时间昨日报道称， AI 芯片初创企业 Fractile 已就一项总价值约 2.5 亿美元 （IT之家注：现汇率约合 16.87 亿元人民币） 的供应合同与 Anthropic 达成初步协议 。Fractile 计划 2027 年开始交付其 AI ASIC 推理加速器并扩大这笔交易。 Fractile 的芯片采用创新的“模拟内存计算”架构，运行头部模型时可实现 25 倍的速度、1/10 的成本。 ",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "1383ffabe61d",
-      "title": "交通运输部：AI 可有效识别驾驶员疲劳驾驶、分心驾驶，准确率达 95% 以上",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/127.htm",
-      "publishedAt": "2026-08-20T07:18:35.000Z",
-      "summary": "IT之家 8 月 20 日消息，今日，交通运输部举行专题新闻发布会，介绍“人工智能 + 交通运输”典型应用场景创新行动有关情况。 交通运输部科技司司长徐文强介绍，人工智能应用发展的总体趋势，是全面融入和加速应用。“一网四化”是当前及今后一个时期，综合交通运输高质量发展的主题主线。“人工智能 + 交通运输”典型应用场景创新行动，不是一项泛泛的概念设计，而是对行业既有成熟实践的提炼，是支撑“一网四化 \" 落地的核心技术引擎，有自己的清晰的发",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "自动化"
-      ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
@@ -448,18 +365,18 @@
       "priority": 70
     },
     {
-      "id": "0e820b2ecab8",
-      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113497",
-      "publishedAt": "2026-08-20T02:41:31.000Z",
-      "summary": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。 查看全文",
+      "id": "04c6faf24c76",
+      "title": "《空之轨迹 the 2nd》体验版上架 Steam，游戏 9 月 17 日发售",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/001.htm",
+      "publishedAt": "2026-08-20T03:12:36.000Z",
+      "summary": "IT之家 8 月 20 日消息，Falcom 旗下经典轨迹系列重制续作《空之轨迹 the 2nd》免费体验版现已登陆 Steam 平台，游戏正式版定于 2026 年 9 月 17 日正式发售，国区支持简体中文界面、字幕与完整音频。IT之家附游戏商品页（ https://store.steampowered.com/app/4225980/_the_2nd/ ?l=schinese&cc=cn ）。 “两人终有重逢的一天”。艾丝蒂尔和约书",
       "actionSteps": [
-        "找到原始研究或权威资料",
-        "区分事实、推测和传播口号",
-        "写下这条知识会改变的一个决策"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
       "tags": [],
       "trust": 58,
@@ -483,25 +400,6 @@
       "tags": [
         "AI"
       ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "0718996d13a2",
-      "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113618",
-      "publishedAt": "2026-08-19T09:39:05.000Z",
-      "summary": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ... 查看全文",
-      "actionSteps": [
-        "找到原始研究或权威资料",
-        "区分事实、推测和传播口号",
-        "写下这条知识会改变的一个决策"
-      ],
-      "tags": [],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
@@ -587,25 +485,6 @@
       "priority": 67
     },
     {
-      "id": "3d2cd3f0e85f",
-      "title": "国务院关于修改和废止部分行政法规的决定",
-      "category": "policy",
-      "source": "中国政府网",
-      "sourceFeed": "中国政府网",
-      "link": "https://www.gov.cn/zhengce/content/202608/content_7077980.htm",
-      "publishedAt": "2026-08-12T16:00:00.000Z",
-      "summary": "中国政府网发布的最新政策：国务院关于修改和废止部分行政法规的决定。建议结合原文附件，核对适用对象、执行时间和申报材料。",
-      "actionSteps": [
-        "查找政策原文和附件",
-        "核对适用地区、对象和生效时间",
-        "列出企业需要补齐的材料与流程"
-      ],
-      "tags": [],
-      "trust": 92,
-      "opportunity": 53,
-      "priority": 66
-    },
-    {
       "id": "1af21cfe468e",
       "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
       "category": "knowledge",
@@ -642,44 +521,6 @@
       "trust": 58,
       "opportunity": 63,
       "priority": 65
-    },
-    {
-      "id": "2ace30bffeec",
-      "title": "国务院办公厅关于重点林区“十五五”期间森林年采伐限额的复函",
-      "category": "policy",
-      "source": "中国政府网",
-      "sourceFeed": "中国政府网",
-      "link": "https://www.gov.cn/zhengce/content/202608/content_7077887.htm",
-      "publishedAt": "2026-08-10T16:00:00.000Z",
-      "summary": "中国政府网发布的最新政策：国务院办公厅关于重点林区“十五五”期间森林年采伐限额的复函。建议结合原文附件，核对适用对象、执行时间和申报材料。",
-      "actionSteps": [
-        "查找政策原文和附件",
-        "核对适用地区、对象和生效时间",
-        "列出企业需要补齐的材料与流程"
-      ],
-      "tags": [],
-      "trust": 92,
-      "opportunity": 49,
-      "priority": 61
-    },
-    {
-      "id": "ab6eadb0e7f9",
-      "title": "集成电路布图设计保护条例",
-      "category": "policy",
-      "source": "中国政府网",
-      "sourceFeed": "中国政府网",
-      "link": "https://www.gov.cn/zhengce/content/202608/content_7077398.htm",
-      "publishedAt": "2026-08-02T16:00:00.000Z",
-      "summary": "中国政府网发布的最新政策：集成电路布图设计保护条例。建议结合原文附件，核对适用对象、执行时间和申报材料。",
-      "actionSteps": [
-        "查找政策原文和附件",
-        "核对适用地区、对象和生效时间",
-        "列出企业需要补齐的材料与流程"
-      ],
-      "tags": [],
-      "trust": 92,
-      "opportunity": 45,
-      "priority": 56
     },
     {
       "id": "588e455871ed",
@@ -849,6 +690,38 @@
       }
     },
     {
+      "id": "2958273c6bca",
+      "title": "宇树科技上市第二天收跌 18.7%，市值较顶峰跌去 1670 亿元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/201.htm",
+      "publishedAt": "2026-08-20T08:29:25.000Z",
+      "summary": "宇树科技上市次日股价大跌18.7%，市值较峰值缩水1670亿元，引发市场对人形机器人板块估值泡沫的担忧。",
+      "actionSteps": [
+        "关注交易所官方公告，核实股价和市值数据",
+        "分析人形机器人行业基本面，评估估值合理性",
+        "谨慎对待高波动新股，设置止损策略"
+      ],
+      "tags": [
+        "宇树科技",
+        "股价下跌",
+        "人形机器人",
+        "市场波动"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "宇树科技作为人形机器人第一股，其股价剧烈波动可能影响投资者对相关概念股的信心，也可能波及一级市场融资环境。对普通投资者而言，需警惕高估值新股的回调风险。",
+        "riskNotes": "数据来源于IT之家，非官方一手信息，股价和市值数据需以交易所公告为准。报道未提供完整收盘价，且未说明下跌原因，需进一步核实。"
+      }
+    },
+    {
       "id": "b650c8e47359",
       "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
       "category": "opportunity",
@@ -976,24 +849,86 @@
       }
     },
     {
-      "id": "5b744a62369c",
-      "title": "鸿蒙智行首款科技豪华硬派 SUV 享界 G9 上市：首发华为全地形途灵平台、原生电动顶帐，42.98 万元起",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/192.htm",
-      "publishedAt": "2026-08-20T08:07:19.000Z",
-      "summary": "鸿蒙智行发布享界G9硬派SUV，首发华为全地形途灵平台，42.98万元起，尺寸5377×2050×1897mm。",
+      "id": "3d2cd3f0e85f",
+      "title": "国务院关于修改和废止部分行政法规的决定",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202608/content_7077980.htm",
+      "publishedAt": "2026-08-12T16:00:00.000Z",
+      "summary": "国务院决定修改和废止部分行政法规，具体内容需查看原文附件，涉及适用对象、执行时间和申报材料。",
       "actionSteps": [
-        "查阅官方发布会回放获取详细配置",
-        "对比同类硬派SUV价格和性能",
-        "如有意向，预约试驾体验"
+        "访问中国政府网下载原文附件",
+        "核对涉及的法规和修改内容",
+        "咨询法律专业人士评估影响"
       ],
       "tags": [
-        "华为",
-        "享界G9",
-        "SUV",
-        "发布"
+        "国务院",
+        "行政法规",
+        "政策变动"
+      ],
+      "trust": 4,
+      "opportunity": 1,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "法规修改可能影响企业合规和公民权利义务，需及时了解变化以调整行为。",
+        "riskNotes": "摘要未提供具体法规名称和修改细节，需查阅官方原文，避免误读。"
+      }
+    },
+    {
+      "id": "2ace30bffeec",
+      "title": "国务院办公厅关于重点林区“十五五”期间森林年采伐限额的复函",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202608/content_7077887.htm",
+      "publishedAt": "2026-08-10T16:00:00.000Z",
+      "summary": "国务院办公厅复函重点林区“十五五”期间森林年采伐限额，具体内容需查看原文附件。",
+      "actionSteps": [
+        "访问中国政府网获取复函原文",
+        "核对采伐限额和适用区域",
+        "调整林业经营计划以符合规定"
+      ],
+      "tags": [
+        "国务院",
+        "森林采伐",
+        "林业政策"
+      ],
+      "trust": 4,
+      "opportunity": 1,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "影响林业企业和相关产业链，需了解限额调整以合规经营。",
+        "riskNotes": "摘要未提供具体限额数字，需查阅官方原文，避免误解。"
+      }
+    },
+    {
+      "id": "42fca51638cf",
+      "title": "消息称 Anthropic 与 Fractile 达成初步供应合同，后者寻求 65 亿美元估值",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/165.htm",
+      "publishedAt": "2026-08-20T07:44:23.000Z",
+      "summary": "Anthropic与AI芯片初创Fractile达成初步供应合同，价值约2.5亿美元，Fractile计划2027年交付推理加速器。",
+      "actionSteps": [
+        "关注Anthropic和Fractile官方声明",
+        "分析AI芯片市场趋势",
+        "评估对AI应用成本的影响"
+      ],
+      "tags": [
+        "Anthropic",
+        "Fractile",
+        "AI芯片",
+        "供应合同"
       ],
       "trust": 2,
       "opportunity": 2,
@@ -1001,10 +936,42 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对硬派SUV市场有影响，华为技术加持可能提升竞争力，但价格较高。",
-        "riskNotes": "信息来自IT之家发布会报道，具体配置和价格需以官方为准。"
+        "whyItMatters": "反映AI芯片市场竞争加剧，可能影响AI算力成本，对AI行业和相关投资有潜在影响。",
+        "riskNotes": "消息来自彭博社，非官方确认，合同细节和交付时间可能变化，需关注后续公告。"
+      }
+    },
+    {
+      "id": "1383ffabe61d",
+      "title": "交通运输部：AI 可有效识别驾驶员疲劳驾驶、分心驾驶，准确率达 95% 以上",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/127.htm",
+      "publishedAt": "2026-08-20T07:18:35.000Z",
+      "summary": "交通运输部称AI识别疲劳驾驶准确率达95%以上，将推动AI在交通领域应用。",
+      "actionSteps": [
+        "关注交通运输部后续政策文件",
+        "运输企业评估AI监控系统部署成本",
+        "科技公司关注交通AI招标信息"
+      ],
+      "tags": [
+        "交通运输",
+        "AI",
+        "疲劳驾驶",
+        "政策"
+      ],
+      "trust": 4,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对运输企业和司机而言，AI监控可能提高安全要求，影响驾驶行为。对科技公司，意味着交通AI市场机会。对公众，提升道路安全。",
+        "riskNotes": "信息来自交通运输部发布会，为官方一手来源，但准确率数据未提供测试条件和样本，需谨慎对待。"
       }
     },
     {
@@ -1227,6 +1194,102 @@
       }
     },
     {
+      "id": "ab6eadb0e7f9",
+      "title": "集成电路布图设计保护条例",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202608/content_7077398.htm",
+      "publishedAt": "2026-08-02T16:00:00.000Z",
+      "summary": "中国政府网发布《集成电路布图设计保护条例》，旨在加强集成电路布图设计知识产权保护。",
+      "actionSteps": [
+        "查阅条例原文和附件",
+        "评估企业现有布图设计保护措施",
+        "咨询专业机构确保合规"
+      ],
+      "tags": [
+        "集成电路",
+        "知识产权",
+        "政策",
+        "布图设计"
+      ],
+      "trust": 5,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对集成电路设计企业，条例影响知识产权布局和维权。对相关从业人员，需了解申报流程。对行业，促进创新。",
+        "riskNotes": "来源为政府网，可信度高，但摘要未提供具体条款，需查阅原文附件确认适用对象、执行时间和申报材料。"
+      }
+    },
+    {
+      "id": "41cca4bbb82f",
+      "title": "Ocypus 魔鬼隐翅虫德尔塔 C40 数显版 M-ATX 机箱发售：木艺 I/O 饰板、黑白双色可选，449 元起",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/202.htm",
+      "publishedAt": "2026-08-20T08:30:21.000Z",
+      "summary": "Ocypus发布德尔塔C40数显版M-ATX机箱，黑白双色可选，售价449元起，支持Mini-ITX和Micro-ATX主板。",
+      "actionSteps": [
+        "查看京东商品页确认规格和价格",
+        "对比其他M-ATX机箱的散热和扩展性",
+        "根据自身配置评估兼容性"
+      ],
+      "tags": [
+        "Ocypus",
+        "机箱",
+        "M-ATX",
+        "DIY硬件"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对DIY装机用户提供新选择，木艺I/O饰板设计独特，但需考虑机箱尺寸和兼容性。",
+        "riskNotes": "信息来自IT之家，非官方一手来源，实际产品细节和价格可能变动，需以京东页面为准。"
+      }
+    },
+    {
+      "id": "3e9da0ca62c4",
+      "title": "谷歌确认 Android 17“防沉迷”功能为 Pixel 11 系列独占，帮助用户减少分心",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/200.htm",
+      "publishedAt": "2026-08-20T08:29:13.000Z",
+      "summary": "谷歌确认Android 17的“Pause Point”防沉迷功能为Pixel 11系列独占，帮助用户减少分心应用使用。",
+      "actionSteps": [
+        "关注谷歌官方Android 17发布说明",
+        "Pixel用户了解功能使用方法",
+        "开发者评估功能对应用的影响"
+      ],
+      "tags": [
+        "谷歌",
+        "Android 17",
+        "防沉迷",
+        "Pixel"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对Pixel用户，该功能可提升数字健康。对其他Android用户，可能期待功能下放。对开发者，需考虑功能适配。",
+        "riskNotes": "信息来自IT之家，非官方公告，独占性可能随版本更新变化，需关注谷歌官方说明。"
+      }
+    },
+    {
       "id": "12350bb99931",
       "title": "科乐美《寂静岭 : Townfall》开启预购：Steam 国区 310 元起、官方同步放出游戏实机演示",
       "category": "industry",
@@ -1323,67 +1386,66 @@
       }
     },
     {
-      "id": "49a4d12c1eaa",
-      "title": "旗舰机型先行：首批 GrapheneOS 摩托罗拉设备预计 2027 年上市",
-      "category": "industry",
+      "id": "ea023e7c93a2",
+      "title": "绿联海外推出新款带屏 Qi2 无线充电基座：内置散热风扇、可同时充 iPhone / AirPods，79.99 美元",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/193.htm",
-      "publishedAt": "2026-08-20T08:11:59.000Z",
-      "summary": "GrapheneOS官方确认首批摩托罗拉设备预计2027年上市，先推旗舰机型，低端设备稍后。",
+      "link": "https://www.ithome.com/0/992/190.htm",
+      "publishedAt": "2026-08-20T08:04:06.000Z",
+      "summary": "绿联在海外推出带屏Qi2无线充电基座，支持25W充电和散热风扇，可同时充iPhone和AirPods，售价79.99美元。",
       "actionSteps": [
-        "关注GrapheneOS官方公告获取更新",
-        "评估现有Pixel设备是否满足需求",
-        "等待更多细节再决定是否等待"
+        "关注绿联官方渠道确认产品详情",
+        "对比其他Qi2充电器价格和性能",
+        "评估自身设备兼容性后决定是否购买"
       ],
       "tags": [
-        "GrapheneOS",
-        "摩托罗拉",
-        "隐私",
-        "手机"
+        "绿联",
+        "无线充电",
+        "Qi2",
+        "苹果配件"
       ],
-      "trust": 3,
+      "trust": 2,
       "opportunity": 1,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对注重隐私和安全的用户，GrapheneOS扩展至摩托罗拉提供更多选择，但等待时间长。",
-        "riskNotes": "信息来自GrapheneOS官方，但具体型号和价格未公布，时间可能变动。"
+        "whyItMatters": "对苹果用户而言，该产品提供更便捷的无线充电体验，但需注意其充电速率和兼容性，可能影响购买决策。",
+        "riskNotes": "信息来自IT之家，非官方一手来源，产品参数和价格可能变动，需以绿联官方发布为准。"
       }
     },
     {
-      "id": "d593c5f3b42d",
-      "title": "目标零百加速 1.1 秒：特斯拉有望本月演示 Roadster 跑车，靠 SpaceX 推进器实现悬停",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/191.htm",
-      "publishedAt": "2026-08-20T08:05:58.000Z",
-      "summary": "特斯拉Roadster有望本月演示，目标零百加速1.1秒，使用SpaceX推进器实现悬停，前总裁透露延期原因。",
+      "id": "31d5861fbd9f",
+      "title": "十年阅读历程，这是我的阅读工具推荐",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113567",
+      "publishedAt": "2026-08-20T07:25:47.000Z",
+      "summary": "作者分享十年阅读历程中使用的工具，包括应用和服务，用于辅助阅读、记录书单和整理笔记。",
       "actionSteps": [
-        "关注特斯拉官方消息确认演示",
-        "分析技术可行性，避免过度期待",
-        "评估对电动车市场的影响"
+        "阅读原文了解具体工具",
+        "根据自身需求试用相关应用",
+        "结合习惯调整阅读工具组合"
       ],
       "tags": [
-        "特斯拉",
-        "Roadster",
-        "性能",
-        "电动车"
+        "阅读工具",
+        "书单管理",
+        "笔记整理"
       ],
       "trust": 1,
-      "opportunity": 2,
+      "opportunity": 1,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:24:52.485Z",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "特斯拉Roadster的性能突破可能引领电动车技术，但多次延期需谨慎看待。",
-        "riskNotes": "信息来自前总裁访谈，非官方确认，演示和性能数据未验证。"
+        "whyItMatters": "为阅读爱好者提供工具参考，可能提升阅读效率，但个人偏好不同，需选择性尝试。",
+        "riskNotes": "内容为个人经验分享，非权威评测，工具适用性因人而异。"
       }
     },
     {
@@ -1449,6 +1511,38 @@
       }
     },
     {
+      "id": "0e820b2ecab8",
+      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113497",
+      "publishedAt": "2026-08-20T02:41:31.000Z",
+      "summary": "夏普AQUOS R9评测：日系次旗舰手机，在性能与设计间寻求平衡，主打务实高效。",
+      "actionSteps": [
+        "查阅官方规格和更多独立评测",
+        "对比同价位其他品牌机型",
+        "根据个人需求决定是否购买"
+      ],
+      "tags": [
+        "夏普",
+        "手机评测",
+        "日系",
+        "次旗舰"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对手机消费者而言，该评测提供了日系品牌次旗舰的选购参考，可能影响购买决策。对行业而言，反映日系厂商在高端市场的竞争策略。",
+        "riskNotes": "评测内容来自少数派，主观性较强，未提供具体参数和对比数据，需结合其他评测和官方规格综合判断。"
+      }
+    },
+    {
       "id": "14d04233de5d",
       "title": "Turns are Better than Radians (2022)",
       "category": "opportunity",
@@ -1477,6 +1571,38 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对数学教学和编程有潜在影响，但改变习惯困难。",
         "riskNotes": "观点性文章，非官方标准，需评估实用性。"
+      }
+    },
+    {
+      "id": "0718996d13a2",
+      "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113618",
+      "publishedAt": "2026-08-19T09:39:05.000Z",
+      "summary": "iOS 27测试版更新至Beta6，临近正式发布，新功能细节逐渐明朗。",
+      "actionSteps": [
+        "关注苹果官方发布会",
+        "开发者测试新API和兼容性",
+        "用户等待正式版更新"
+      ],
+      "tags": [
+        "iOS 27",
+        "苹果",
+        "测试版",
+        "系统更新"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-20T08:35:13.331Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对iPhone用户，新系统将带来功能变化。对开发者，需适配新系统。对行业，影响移动生态。",
+        "riskNotes": "信息来自少数派，非官方，测试版功能可能变化，需以苹果官方发布为准。"
       }
     },
     {
