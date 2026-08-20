@@ -1,0 +1,15 @@
+{
+  "name": "daily-intel-desk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-news.mjs",
+    "update:ai": "node --env-file=.env scripts/update-news.mjs",
+    "check": "node --check app.js && node --check scripts/update-news.mjs",
+    "serve": "npx --yes serve ."
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5"
+  }
+}

@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="每日聚合 AI 实操、中国政策、行业趋势、商业机会和意外常识的个人资讯工作台。">
+  <meta name="theme-color" content="#f6f7f4">
+  <title>日知·资讯工作台</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js" defer></script>
+  <script src="app.js" type="module"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">跳到主内容</a>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="主导航">
+      <a class="brand" href="#" aria-label="日知首页">
+        <span class="brand-mark" aria-hidden="true">日</span>
+        <span><strong>日知</strong><small>DAILY INTEL</small></span>
+      </a>
+
+      <nav class="nav-list" id="category-nav">
+        <button class="nav-item active" data-category="all" type="button"><i data-lucide="layout-grid"></i><span>今日总览</span><b id="count-all">0</b></button>
+        <button class="nav-item" data-category="ai" type="button"><i data-lucide="wand-sparkles"></i><span>AI 实操</span><b id="count-ai">0</b></button>
+        <button class="nav-item" data-category="policy" type="button"><i data-lucide="landmark"></i><span>政策与合规</span><b id="count-policy">0</b></button>
+        <button class="nav-item" data-category="industry" type="button"><i data-lucide="chart-no-axes-combined"></i><span>行业趋势</span><b id="count-industry">0</b></button>
+        <button class="nav-item" data-category="opportunity" type="button"><i data-lucide="radar"></i><span>机会雷达</span><b id="count-opportunity">0</b></button>
+        <button class="nav-item" data-category="knowledge" type="button"><i data-lucide="lightbulb"></i><span>意外常识</span><b id="count-knowledge">0</b></button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="sync-status"><span class="status-dot"></span><span><b id="sync-label">自动更新中</b><small id="sidebar-updated">读取数据中</small></span></div>
+        <a href="README.md" target="_blank"><i data-lucide="github"></i>部署说明</a>
+      </div>
+    </aside>
+
+    <div class="workspace">
+      <header class="topbar">
+        <button class="icon-button menu-button" id="menu-button" type="button" aria-label="打开导航" aria-expanded="false"><i data-lucide="menu"></i></button>
+        <div class="search-wrap">
+          <i data-lucide="search"></i>
+          <label class="sr-only" for="search-input">搜索资讯</label>
+          <input id="search-input" type="search" placeholder="搜索主题、行业或工具">
+          <kbd>/</kbd>
+        </div>
+        <div class="topbar-actions">
+          <button class="icon-button" id="theme-button" type="button" aria-label="切换深色模式"><i data-lucide="moon"></i></button>
+          <button class="saved-button" id="saved-filter" type="button"><i data-lucide="bookmark"></i><span>已收藏</span><b id="saved-count">0</b></button>
+        </div>
+      </header>
+
+      <main id="main-content">
+        <section class="briefing-header" aria-labelledby="page-title">
+          <div>
+            <p class="date-line" id="today-label">正在整理今日情报</p>
+            <h1 id="page-title">今天，先看这些</h1>
+            <p class="intro">从噪音中找出真正值得行动的信息。</p>
+          </div>
+          <div class="freshness" title="数据由 GitHub Actions 定时抓取">
+            <i data-lucide="refresh-cw"></i>
+            <span><small>最后更新</small><b id="last-updated">读取中</b></span>
+          </div>
+        </section>
+
+        <section class="signal-strip" aria-label="今日信号">
+          <div class="signal-main">
+            <span class="signal-label"><i data-lucide="zap"></i>今日强信号</span>
+            <p id="strong-signal">正在分析今日高价值资讯…</p>
+          </div>
+          <div class="signal-metrics">
+            <span><b id="metric-items">0</b><small>条新资讯</small></span>
+            <span><b id="metric-actions">0</b><small>项可执行</small></span>
+            <span><b id="metric-sources">0</b><small>个信息源</small></span>
+          </div>
+        </section>
+
+        <section class="toolbar" aria-label="筛选工具">
+          <div class="filter-chips" id="filter-chips">
+            <button class="chip active" data-category="all" type="button">全部</button>
+            <button class="chip" data-category="ai" type="button">AI 实操</button>
+            <button class="chip" data-category="policy" type="button">政策</button>
+            <button class="chip" data-category="industry" type="button">行业</button>
+            <button class="chip" data-category="opportunity" type="button">赚钱机会</button>
+            <button class="chip" data-category="knowledge" type="button">常识</button>
+          </div>
+          <label class="sort-control">
+            <span>排序</span>
+            <select id="sort-select">
+              <option value="priority">综合价值</option>
+              <option value="latest">最新发布</option>
+              <option value="opportunity">机会指数</option>
+              <option value="trust">可信度</option>
+            </select>
+          </label>
+        </section>
+
+        <section class="content-layout">
+          <div>
+            <div class="section-heading">
+              <h2 id="feed-title">情报流</h2>
+              <span id="result-count">0 条</span>
+            </div>
+            <div class="feed" id="news-feed" aria-live="polite">
+              <div class="loading-state"><span></span><span></span><span></span></div>
+            </div>
+            <button class="load-more" id="load-more" type="button" hidden>查看更多<i data-lucide="chevron-down"></i></button>
+          </div>
+
+          <aside class="action-panel" aria-labelledby="action-title">
+            <div class="panel-heading">
+              <span><i data-lucide="list-checks"></i></span>
+              <div><p>不只是看资讯</p><h2 id="action-title">今日行动清单</h2></div>
+            </div>
+            <div id="action-list" class="action-list"></div>
+            <div class="panel-note">
+              <i data-lucide="shield-check"></i>
+              <p><b>决策前请复核</b><span>政策以官方原文为准，商业机会先小额验证。</span></p>
+            </div>
+          </aside>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <div class="mobile-overlay" id="mobile-overlay"></div>
+  <dialog id="detail-dialog" class="detail-dialog">
+    <button class="dialog-close icon-button" id="dialog-close" type="button" aria-label="关闭"><i data-lucide="x"></i></button>
+    <div id="dialog-content"></div>
+  </dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

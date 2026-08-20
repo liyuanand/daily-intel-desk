@@ -1,0 +1,54 @@
+[
+  {
+    "id": "gov-policy",
+    "name": "中国政府网",
+    "category": "policy",
+    "type": "gov-json",
+    "url": "https://www.gov.cn/zhengce/zuixin/ZUIXINZHENGCE.json",
+    "limit": 12
+  },
+  {
+    "id": "sspai-ai",
+    "name": "少数派",
+    "category": "ai",
+    "url": "https://sspai.com/feed",
+    "includeKeywords": ["AI", "人工智能", "模型", "生图", "视频", "Agent", "自动化", "提示词"],
+    "limit": 10
+  },
+  {
+    "id": "ithome-ai",
+    "name": "IT 之家",
+    "category": "ai",
+    "url": "https://www.ithome.com/rss/",
+    "includeKeywords": ["AI", "人工智能", "大模型", "生图", "视频生成", "Agent", "智能体"],
+    "limit": 10
+  },
+  {
+    "id": "ithome-industry",
+    "name": "IT 之家",
+    "category": "industry",
+    "url": "https://www.ithome.com/rss/",
+    "limit": 8
+  },
+  {
+    "id": "mit-tech-review",
+    "name": "MIT Technology Review",
+    "category": "industry",
+    "url": "https://www.technologyreview.com/feed/",
+    "limit": 6
+  },
+  {
+    "id": "hacker-news",
+    "name": "Hacker News",
+    "category": "opportunity",
+    "url": "https://hnrss.org/frontpage",
+    "limit": 10
+  },
+  {
+    "id": "sspai-knowledge",
+    "name": "少数派",
+    "category": "knowledge",
+    "url": "https://sspai.com/feed",
+    "limit": 10
+  }
+]

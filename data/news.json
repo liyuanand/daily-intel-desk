@@ -1,0 +1,1302 @@
+{
+  "generatedAt": "2026-08-20T07:56:11.241Z",
+  "status": "ok",
+  "failedSources": [],
+  "ai": {
+    "enabled": false,
+    "status": "disabled",
+    "model": "deepseek-chat",
+    "analyzed": 0,
+    "reused": 0
+  },
+  "categories": {
+    "ai": "AI 实操",
+    "policy": "政策与合规",
+    "industry": "行业趋势",
+    "opportunity": "机会雷达",
+    "knowledge": "意外常识"
+  },
+  "items": [
+    {
+      "id": "guide-painpoint-service",
+      "kind": "guide",
+      "title": "信息差不是转发新闻：用“高频麻烦”找到可收费服务",
+      "category": "opportunity",
+      "source": "工作台机会手册",
+      "publishedAt": "2026-08-20T05:30:00.000Z",
+      "summary": "真正可以变现的信息差，通常是某类客户不知道新工具、新规则或更低成本的做法，而你能帮他变成结果。",
+      "actionSteps": [
+        "选一个你接触得到的行业，收集 20 条抱怨、招聘要求和求助帖",
+        "找出每周发生、能计算损失、已经有预算的一个问题",
+        "用手工 + AI 在 48 小时内交付第一版，先收服务费再考虑做产品"
+      ],
+      "tags": [
+        "创业",
+        "服务",
+        "验证"
+      ],
+      "trust": 84,
+      "opportunity": 97,
+      "priority": 97
+    },
+    {
+      "id": "guide-video-automation",
+      "kind": "guide",
+      "title": "从选题到成片：搭一条 AI 短视频半自动生产线",
+      "category": "ai",
+      "source": "工作台实操指南",
+      "publishedAt": "2026-08-20T06:30:00.000Z",
+      "summary": "把选题、文案、分镜、生图/生视频、配音、字幕和质检串成流程，人只保留选题与成片审核两个关键节点。",
+      "actionSteps": [
+        "选一个 30 秒视频，先定义输入选题表和最终成片标准",
+        "用结构化 JSON 传递标题、口播、分镜、画面提示词和时长",
+        "在配音后再对齐字幕和画面，上线前人工复核事实、版权和敏感词"
+      ],
+      "tags": [
+        "AI",
+        "视频",
+        "自动化"
+      ],
+      "trust": 88,
+      "opportunity": 94,
+      "priority": 96
+    },
+    {
+      "id": "guide-image-consistency",
+      "kind": "guide",
+      "title": "AI 生图不再“抽卡”：一套可复制的角色一致性工作流",
+      "category": "ai",
+      "source": "工作台实操指南",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "summary": "把角色设定、构图、光线、色板和负面词拆成固定模板，通过参考图和编号管理，稳定生成同一角色的多幅素材。",
+      "actionSteps": [
+        "先生成正面、侧面、半身三张角色定妆照",
+        "固定角色特征、色板、画风和镜头词，只替换动作与场景",
+        "每次只改一个变量，用表格记录提示词、参数和入选结果"
+      ],
+      "tags": [
+        "AI",
+        "生图",
+        "工作流"
+      ],
+      "trust": 86,
+      "opportunity": 90,
+      "priority": 94
+    },
+    {
+      "id": "guide-unit-economics",
+      "kind": "guide",
+      "title": "营业额增长不等于赚钱：先算清单位经济模型",
+      "category": "knowledge",
+      "source": "工作台反常识卡",
+      "publishedAt": "2026-08-20T04:30:00.000Z",
+      "summary": "一笔订单的收入扣掉变动成本、获客成本、履约和售后后仍为正，规模才可能创造价值；否则销量越大亏得越多。",
+      "actionSteps": [
+        "随机抽 10 笔订单，逐笔列出商品、渠道、物流、人工和售后变动成本",
+        "分别计算首单和复购的贡献毛利，不要只看平均毛利率",
+        "先修复负贡献环节，再投广告和扩大销量"
+      ],
+      "tags": [
+        "商业",
+        "利润",
+        "决策"
+      ],
+      "trust": 94,
+      "opportunity": 91,
+      "priority": 94
+    },
+    {
+      "id": "guide-content-repurpose",
+      "kind": "guide",
+      "title": "低成本小生意：把企业的长内容变成一周多平台素材",
+      "category": "opportunity",
+      "source": "工作台机会手册",
+      "publishedAt": "2026-08-19T06:00:00.000Z",
+      "summary": "为律所、咨询、培训、制造等有专业内容但缺少运营人力的企业，提供“一次访谈，一周素材”的标准化服务。",
+      "actionSteps": [
+        "选定一个垂直行业，用一篇公开文章免费做出图文、短视频脚本和邮件样例",
+        "给客户明确承诺每周交付数量、审核轮次和品牌语气",
+        "把事实核对、版权授权和敏感内容审核写进合同"
+      ],
+      "tags": [
+        "AI",
+        "内容",
+        "创业"
+      ],
+      "trust": 82,
+      "opportunity": 94,
+      "priority": 93
+    },
+    {
+      "id": "guide-ai-report",
+      "kind": "guide",
+      "title": "每周省两小时：用 AI 自动整理表格和生成周报",
+      "category": "ai",
+      "source": "工作台实操指南",
+      "publishedAt": "2026-08-19T08:00:00.000Z",
+      "summary": "不让 AI 直接“看表写报告”，而是先计算指标、标记异常，再让模型根据确定数字生成解读。",
+      "actionSteps": [
+        "把周报拆成数据指标、变化解释、风险和下周动作四段",
+        "用公式或代码先计算数字，只把结果和口径交给 AI",
+        "加入“数字无依据则不得生成”规则，保留人工确认步骤"
+      ],
+      "tags": [
+        "AI",
+        "自动化",
+        "报告"
+      ],
+      "trust": 92,
+      "opportunity": 86,
+      "priority": 91
+    },
+    {
+      "id": "guide-policy-reading",
+      "kind": "guide",
+      "title": "一份政策文件，10 分钟判断和自己有没有关系",
+      "category": "policy",
+      "source": "工作台实操指南",
+      "publishedAt": "2026-08-18T08:00:00.000Z",
+      "summary": "先看发文机关和效力，再找适用对象、时间、地区、奖励/限制和申报附件，避免只看媒体标题做决策。",
+      "actionSteps": [
+        "确认是法律、行政法规、部门规章还是通知/指南",
+        "全文搜索“适用”“应当”“不得”“截止”“申报”",
+        "把影响转换成负责人、截止时间、材料清单和待咨询问题"
+      ],
+      "tags": [
+        "政策",
+        "合规",
+        "清单"
+      ],
+      "trust": 95,
+      "opportunity": 78,
+      "priority": 90
+    },
+    {
+      "id": "guide-correlation",
+      "kind": "guide",
+      "title": "数据一起涨，不代表它们互为因果",
+      "category": "knowledge",
+      "source": "工作台反常识卡",
+      "publishedAt": "2026-08-18T05:00:00.000Z",
+      "summary": "销量和广告投入同时上涨，可能是广告有效，也可能是旺季同时推高了两者。商业决策要先排查共同原因。",
+      "actionSteps": [
+        "写出至少三个可能同时影响两个指标的第三变量",
+        "对比没有采取该动作的相似客户、地区或时间段",
+        "用小范围 A/B 测试验证，不要把图表相关性直接写成结论"
+      ],
+      "tags": [
+        "数据",
+        "常识",
+        "决策"
+      ],
+      "trust": 96,
+      "opportunity": 76,
+      "priority": 89
+    },
+    {
+      "id": "a03f1f355f00",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "publishedAt": "2026-08-19T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industr",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 82,
+      "opportunity": 67,
+      "priority": 80
+    },
+    {
+      "id": "aa95229b217c",
+      "title": "Child-monitoring apps might need a reboot",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "publishedAt": "2026-08-19T09:00:00.000Z",
+      "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 82,
+      "opportunity": 67,
+      "priority": 80
+    },
+    {
+      "id": "795bf78ffcc4",
+      "title": "Windows brings out the Rorschach test in everyone",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "publishedAt": "2026-08-20T06:16:40.000Z",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803 Comments URL: https://news.ycombinator.com/item?id=49371006 Points: 70 # Comments: 13",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "be24b4dbece9",
+      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+      "publishedAt": "2026-08-20T04:42:02.000Z",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621 Comments URL: https://news.ycombinator.com/item?id=49370440 Points: 44 # Comments: 21",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "14d04233de5d",
+      "title": "Turns are Better than Radians (2022)",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "publishedAt": "2026-08-20T01:29:12.000Z",
+      "summary": "Article URL: https://www.computerenhance.com/p/turns-are-better-than-radians Comments URL: https://news.ycombinator.com/item?id=49369408 Points: 165 # Comments: 70",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "d829edc693d4",
+      "title": "Feature Request: Support AGENTS.md",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://github.com/anthropics/claude-code/issues/6235",
+      "publishedAt": "2026-08-19T21:19:50.000Z",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 228 # Comments: 130",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "画出触发器、数据、决策和输出四段流程",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "ebc042d1fb8a",
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://os8088.com/spotlight/",
+      "publishedAt": "2026-08-19T21:11:31.000Z",
+      "summary": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 83 # Comments: 38",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "5831236134c1",
+      "title": "Pixel 11 Pro Fold feels like the end of an era",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "publishedAt": "2026-08-19T19:43:48.000Z",
+      "summary": "Article URL: https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review Comments URL: https://news.ycombinator.com/item?id=49366264 Points: 58 # Comments: 129",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "b650c8e47359",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "publishedAt": "2026-08-19T19:06:16.000Z",
+      "summary": "Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/ Comments URL: https://news.ycombinator.com/item?id=49365841 Points: 197 # Comments: 47",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "5bdbe701c0fd",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "publishedAt": "2026-08-19T18:36:45.000Z",
+      "summary": "Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs Comments URL: https://news.ycombinator.com/item?id=49365443 Points: 247 # Comments: 91",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "79127fb50f93",
+      "title": "Go 1.27",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://go.dev/blog/go1.27",
+      "publishedAt": "2026-08-19T18:33:49.000Z",
+      "summary": "Article URL: https://go.dev/blog/go1.27 Comments URL: https://news.ycombinator.com/item?id=49365405 Points: 602 # Comments: 159",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "8d7c873a76f8",
+      "title": "Google has stopped pushing Git tags for some Android source code",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "publishedAt": "2026-08-19T17:47:29.000Z",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023 Comments URL: https://news.ycombinator.com/item?id=49364745 Points: 484 # Comments: 198",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "2e30d1f99689",
+      "title": "国务院关于修改《住房公积金管理条例》的决定",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
+      "publishedAt": "2026-08-17T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：国务院关于修改《住房公积金管理条例》的决定。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [],
+      "trust": 92,
+      "opportunity": 63,
+      "priority": 79
+    },
+    {
+      "id": "a7d177338217",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "publishedAt": "2026-08-18T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 82,
+      "opportunity": 65,
+      "priority": 77
+    },
+    {
+      "id": "dcedd6fa1f80",
+      "title": "We still don’t know how people are really using AI",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "publishedAt": "2026-08-18T10:06:43.000Z",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent ",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 82,
+      "opportunity": 65,
+      "priority": 77
+    },
+    {
+      "id": "e608a03499cf",
+      "title": "The role of the astronaut is in flux",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 b",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 82,
+      "opportunity": 65,
+      "priority": 77
+    },
+    {
+      "id": "72564937568e",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 82,
+      "opportunity": 65,
+      "priority": 77
+    },
+    {
+      "id": "015cb6485c82",
+      "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
+      "publishedAt": "2026-08-16T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：国务院关于《特殊教育发展提升“十五五”行动计划》的批复。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [
+        "教育"
+      ],
+      "trust": 92,
+      "opportunity": 61,
+      "priority": 76
+    },
+    {
+      "id": "4282f720eee9",
+      "title": "华为余承东：鸿蒙智行享界 G9 是首款 L3 级自动驾驶架构的豪华硬派 SUV",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/167.htm",
+      "publishedAt": "2026-08-20T07:44:49.000Z",
+      "summary": "IT之家 8 月 20 日消息，在今天的享界 G9 及鸿蒙智行新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布， 享界 G9 是首款 L3 级自动驾驶架构的豪华硬派 SUV 。 新车搭载全向立体融合感知系统，全车 38 个高精度传感器；采用 L3 级自动驾驶架构，支持全链路八大冗余。 IT之家注意到，鸿蒙智行享界 G9 还正式获批北京市 L3 级自动驾驶道路测试牌照，成为首款获批北京市时速 120 公里 ",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "42fca51638cf",
+      "title": "消息称 Anthropic 与 Fractile 达成初步供应合同，后者寻求 65 亿美元估值",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/165.htm",
+      "publishedAt": "2026-08-20T07:44:23.000Z",
+      "summary": "IT之家 8 月 20 日消息，彭博社当地时间昨日报道称， AI 芯片初创企业 Fractile 已就一项总价值约 2.5 亿美元 （IT之家注：现汇率约合 16.87 亿元人民币） 的供应合同与 Anthropic 达成初步协议 。Fractile 计划 2027 年开始交付其 AI ASIC 推理加速器并扩大这笔交易。 Fractile 的芯片采用创新的“模拟内存计算”架构，运行头部模型时可实现 25 倍的速度、1/10 的成本。 ",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "c6f1ce6cbed0",
+      "title": "庆祝系列诞生 30 周年，宝可梦推出联名款宝丽来拍立得相机",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/164.htm",
+      "publishedAt": "2026-08-20T07:43:57.000Z",
+      "summary": "IT之家 8 月 20 日消息，为庆祝宝可梦系列 30 周年，宝丽来将推出一整套宝可梦联名产品：以皮卡丘、仙子伊布等角色为主题的相机、拍立得相纸和配件。新品大多是在宝丽来现有产品基础上更换宝可梦主题设计，外观相当讨喜，8 月 25 日起可在宝丽来和宝可梦中心预购。 其中最吸睛的是两款小巧的宝丽来 Go 第三代相机。 宝可梦仙子伊布版 采用白粉双色机身，并配有多彩相机带，造型取自仙子伊布标志性的缎带和蝴蝶结； 宝可梦皮卡丘版 则采用黄色机",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "a7ad9b488b73",
+      "title": "北京人形机器人创新中心发布天工 Omni，CEO 熊友军称入局不算晚",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/157.htm",
+      "publishedAt": "2026-08-20T07:38:35.000Z",
+      "summary": "8 月 20 日消息，2026 世界机器人大会（WRC 2026）期间，北京人形机器人创新中心正式发布 轻量化人形机器人天工 Omni 。据了解，其打通硬件本体与端侧智能，是全球首个兼具感知移动与全身通用控制的 Humanoid Native 开放底座。 现场看到， 天工 Omni 身高 1.35m，整机 39kg ，具有一定负载能力。据介绍，其面向狭窄空间、应急救援及家庭服务等未来场景。值得一提的是，其开放了二次开发体系，开放关节、传",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "3cdaf5bed605",
+      "title": "《GTA 6》实机画面曝光游戏海量细节：玩家业力系统、车辆储物 / 加油、NPC 对话、六星通缉...",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/151.htm",
+      "publishedAt": "2026-08-20T07:35:32.000Z",
+      "summary": "IT之家 8 月 20 日消息，黑客组织 Cyberleek 现已 公布了《GTA6（侠盗猎车手 6）》4 段实机画面 ，IT之家整理相应实机画面细节如下： 玩家业力系统 泄露视频显示，《GTA 6》继承了《荒野大镖客：救赎 2》的业力系统，玩家做坏事（例如无端攻击 NPC 时），便会“业力降低”，界面右侧会出现恶魔符号，预计会导致玩家被其他 NPC / 阵营讨厌，乃至可能影响结局 / 成就。 车辆储物系统 R 星升级了游戏中车辆储物系",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "94a14ea6ea65",
+      "title": "消息称 SK 海力士劳资双方就 2026 年薪金谈判达成初步协议",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/146.htm",
+      "publishedAt": "2026-08-20T07:29:27.000Z",
+      "summary": "IT之家 8 月 20 日消息，韩联社当地时间今日报道称，SK 海力士劳资双方就 2026 年薪金谈判达成初步协议。 根据新的协议，SK 海力士员工将获得 6.3% 的平均涨薪； 对应企业营业利润 10% 的“利润分享”绩效将以四成现金和六成股票的形式支付 ，2/3 股票（整体的 40%）可在当年出售，剩余股票则递延支付。 而在初版“利润分享”条款中，这部分绩效将全额按现金支付，当年 80%、后两年各 10%。 新协议为资方降低了现金支",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "9488c1937962",
+      "title": "北汽张建勇：享界 G9 不会盲目堆砌配置，现在很多车把功能简单堆砌但很多用不上",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/144.htm",
+      "publishedAt": "2026-08-20T07:28:39.000Z",
+      "summary": "IT之家 8 月 20 日消息，在今日的享界 G9 及鸿蒙智行新品发布会上，北汽集团党委书记、董事长张建勇发表演讲。 张建勇表示， 享界 G9 不会盲目堆砌配置 ，而是围绕真实用车的需求，做精做准落地。 张建勇称，现在很多车型比拼配置清单，把各类的功能简单堆砌在车上， 但很多配置实际上用户日常根本用不上，体验感也不好 ，真正高频需要的功能却没有打磨到位。所以 G9 在定义之初，享界就反复研究用户真实的用车场景。 “城市的通勤要舒适，智能",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "dc4ca878c15c",
+      "title": "三年磨一剑的韩系旗舰 SUV：捷尼赛思 GV90 首秀，首创车顶气囊、提供对开门车型",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/143.htm",
+      "publishedAt": "2026-08-20T07:28:36.000Z",
+      "summary": "IT之家 8 月 20 日消息，北京时间 20 日（今天），捷尼赛思正式推出了旗舰 SUV GV90。新车代表了捷尼赛思旗舰车型的新方向，采用 SUV 车身形式，搭载专为旗舰车型开发的 eMP 平台，配备 123.5kWh 大容量电池、高性能电机、双电子限滑差速器以及多腔空气悬架。 其历史可以追溯到 2023 年 7 月，当时，捷尼赛思宣布了 GV90 已在开发的消息，该车也是现代和三星之间罕见的合作项目。 现代汽车集团执行董事长郑义宣",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "1383ffabe61d",
+      "title": "交通运输部：AI 可有效识别驾驶员疲劳驾驶、分心驾驶，准确率达 95% 以上",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/127.htm",
+      "publishedAt": "2026-08-20T07:18:35.000Z",
+      "summary": "IT之家 8 月 20 日消息，今日，交通运输部举行专题新闻发布会，介绍“人工智能 + 交通运输”典型应用场景创新行动有关情况。 交通运输部科技司司长徐文强介绍，人工智能应用发展的总体趋势，是全面融入和加速应用。“一网四化”是当前及今后一个时期，综合交通运输高质量发展的主题主线。“人工智能 + 交通运输”典型应用场景创新行动，不是一项泛泛的概念设计，而是对行业既有成熟实践的提炼，是支撑“一网四化 \" 落地的核心技术引擎，有自己的清晰的发",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "自动化"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "d3a0f02044bf",
+      "title": "“AI 教母”李飞飞：管理一家初创公司，让我展现出“虎妈”的一面",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/121.htm",
+      "publishedAt": "2026-08-20T07:10:34.000Z",
+      "summary": "IT之家 8 月 20 日消息，据彭博社报道，斯坦福大学教授、ImageNet 创办人李飞飞坦言，经营 AI 初创公司 World Labs 后，自己越来越显露出“虎妈”的一面。 李飞飞常被称为“AI 教母”，2024 年联合创办 World Labs。 她在 19 日披露的采访中谈到，自己是公司里 资历最深的人 ，因此在与年轻同事相处时，多少也承担了类似家长的角色。“我是公司里资历最深的人。从联合创始人到工程师、研究人员和科学家，他们",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "创业"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "3a924037d0d5",
+      "title": "DeepSeek Harness 更新多模态支持，剧透 V4 视觉版",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/120.htm",
+      "publishedAt": "2026-08-20T07:10:06.000Z",
+      "summary": "发布第 7 天，DeepSeek Harness 迎来版本更新！最新 增强多模态支持 ，DeepSeek 模型适配器支持配置启用原生图片请求。 黑鲸开眼 虽然 DeepSeek v4 模型还未发布支持视觉的版本。 但是如果更换了第三方支持视觉的模型，可以手动在配置中开启。 另一个角度讲，这难道是在剧透 DeepSeek 自家的视觉模型之后是会发布的？ 作为配套的改动，此前只能接纯文本的 / goal、/plan 等命令现在可以带图发送。",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "Agent",
+        "生图"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "3f17ea70854d",
+      "title": "Waymo 将 Gemini AI 助手整合进 Ojai 自动驾驶出租车，可语音调温度、查周边",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/108.htm",
+      "publishedAt": "2026-08-20T07:02:15.000Z",
+      "summary": "IT之家 8 月 20 日消息，谷歌的 Gemini 如今已经覆盖了越来越多的设备和服务，从智能手机、PC、耳机、智能家居产品，到 Android Auto 等平台都能看到它的身影。现在，谷歌又准备将 Gemini 扩展到生态系统的另一个领域，把它直接整合进 Waymo 即将推出的 Ojai 自动驾驶汽车中。 Ojai 是 Waymo 专门为网约车服务打造的一款自动驾驶出租车。经过过去几个月在旧金山湾区的测试后，Waymo 已向洛杉矶、",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "6d33f76ef3b5",
+      "title": "微软承认 Win11 安装 KB5121003 之后导致《ARC Raiders》等部分游戏闪退或无法运行，正在调查问题根源",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/103.htm",
+      "publishedAt": "2026-08-20T06:56:05.000Z",
+      "summary": "IT之家 8 月 20 日消息，当地时间 8 月 19 日，微软确认最新的 8 月累积更新 KB5121003 可能导致部分游戏出现闪退 / 崩溃，甚至系统黑屏重启等问题。 该更新于 8 月 11 日作为 8 月 Patch Tuesday 的一部分推送，涉及 Win11 24H2 与 25H2 两个版本。由于其中加入了万众期待的“低延迟配置”（Low Latency Profile），相信已经有很多人安装更新。 IT之家注：“低延迟配",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "4ce35718dc1f",
+      "title": "利基型存储加速扩产：消息称华邦新晶圆厂项目“两步并一步”",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/096.htm",
+      "publishedAt": "2026-08-20T06:44:12.000Z",
+      "summary": "IT之家 8 月 20 日消息，台媒《工商时报》今日指出，利基型存储器领域业者华邦电子 (Winbond) 正加快新产能建设节奏以回应 AI 带来的长期需求提升。该企业 原计划分为两期进行的高雄路竹园区扩展项目已整合为 Module B 同步加速推进 。 这一项目将覆盖标准 DRAM、CUBE 客制化内存解决方案、WoW 键合、硅电容器等品类，并满足未来 14nm、12nm 级内存工艺升级和 EUV 光刻机导入需求。 华邦高雄路竹 Mo",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "dd188a8e2cc6",
+      "title": "MiniMax Design 发布，释放 H3 多模态视频模型生产力",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/095.htm",
+      "publishedAt": "2026-08-20T06:41:43.000Z",
+      "summary": "IT之家 8 月 20 日消息，MiniMax 今日发布多模态创作 Agent 工作台 MiniMax Design，进一步释放原生多模态视频模型 H3 的生产力，推动模型能力进入商业内容生产流程。 据IT之家了解，MiniMax Design 是一款多模态创作 Harness。用户提出创作需求后，Agent 能够理解目标、拆解任务，并调用相应的模型与 Skills，完成素材处理、内容生成、编辑和最终交付。 H3 具备多模态理解、视频生",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "先做 15 秒分镜，分别验证画面、口播和字幕",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "Agent",
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "d6e5db01056f",
+      "title": "极佳视界通用双足人形机器人 Maker L01 发布，曾获华为哈勃投资",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/082.htm",
+      "publishedAt": "2026-08-20T05:59:30.000Z",
+      "summary": "IT之家 8 月 20 日消息，极佳视界今日发布了通用双足人形机器人 Maker L01，展示了产品的多项亮点。 Maker L01 全身搭载 31 个关节电机， 支持奔跑、跳跃、空翻等动作 ，最高移动速度 4m/s，官方展示了打乒乓球的场景。 Maker L01 重量 42kg，配备 518Wh 热插拔电池，宣称全栈开放，从科研到赛事开发均可开箱即用。 IT之家查询公开资料获悉，极佳视界是一家物理 AI 公司，成立于 2023 年，专",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "97cd9641603d",
+      "title": "Opus 4.8 级性能：Ornith-1.5 系列开源 AI 模型发布，量化版可在 iPhone 17 等手机上运行",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/076.htm",
+      "publishedAt": "2026-08-20T05:36:04.000Z",
+      "summary": "IT之家 8 月 20 日消息，DeepReinforce 昨日（8 月 19 日）宣布推出 Ornith-1.5 系列开源模型，在训练模型时重点引入“自我改进循环”机制， 其最大 397B 规模模型部分性能超过 Claude Opus 4.8。 训练方面，Ornith-1.5 在其学习过程中融入了自我改进循环，通过不断创建一个循环来实现自主性能提升，在这个循环中，人工智能模型会在学习过程中提出更困难的任务。 IT之家援引博文介绍，Or",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "0e820b2ecab8",
+      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113497",
+      "publishedAt": "2026-08-20T02:41:31.000Z",
+      "summary": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。 查看全文",
+      "actionSteps": [
+        "找到原始研究或权威资料",
+        "区分事实、推测和传播口号",
+        "写下这条知识会改变的一个决策"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "f99575405cd7",
+      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113638",
+      "publishedAt": "2026-08-20T00:46:04.000Z",
+      "summary": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。 查看全文",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "0718996d13a2",
+      "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113618",
+      "publishedAt": "2026-08-19T09:39:05.000Z",
+      "summary": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ... 查看全文",
+      "actionSteps": [
+        "找到原始研究或权威资料",
+        "区分事实、推测和传播口号",
+        "写下这条知识会改变的一个决策"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "c734de383dbc",
+      "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113588",
+      "publishedAt": "2026-08-19T07:20:08.000Z",
+      "summary": "本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ... 查看全文",
+      "actionSteps": [
+        "找到原始研究或权威资料",
+        "区分事实、推测和传播口号",
+        "写下这条知识会改变的一个决策"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 65,
+      "priority": 67
+    },
+    {
+      "id": "8138318a8501",
+      "title": "App+1 | Inkive：把纸质书上划好的线存进 Obsidian",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/111936",
+      "publishedAt": "2026-08-19T02:54:52.000Z",
+      "summary": "让纸书上的划线，回到你的数字笔记里。 查看全文",
+      "actionSteps": [
+        "找到原始研究或权威资料",
+        "区分事实、推测和传播口号",
+        "写下这条知识会改变的一个决策"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 65,
+      "priority": 67
+    },
+    {
+      "id": "34fb44050eba",
+      "title": "派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113607",
+      "publishedAt": "2026-08-19T00:30:54.000Z",
+      "summary": "Spotify 上线「播放列表备注」功能、Windows Server 2022 即将结束主流更新等。 查看全文",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 65,
+      "priority": 67
+    },
+    {
+      "id": "4d06ce379010",
+      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113593",
+      "publishedAt": "2026-08-18T09:01:31.000Z",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 65,
+      "priority": 67
+    },
+    {
+      "id": "3d2cd3f0e85f",
+      "title": "国务院关于修改和废止部分行政法规的决定",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202608/content_7077980.htm",
+      "publishedAt": "2026-08-12T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：国务院关于修改和废止部分行政法规的决定。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [],
+      "trust": 92,
+      "opportunity": 53,
+      "priority": 66
+    },
+    {
+      "id": "1af21cfe468e",
+      "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113564",
+      "publishedAt": "2026-08-18T07:05:05.000Z",
+      "summary": "二次元加爵士，你说有没有搞头？音乐人介绍炒饭（B站），本职是常驻波士顿的程序员社畜，同时也是多乐器演奏音乐人、B站UP主。炒饭没有专业科班学习经历，却凭兴趣及自学掌握了多种音乐技能，专辑音乐均为自己在 ... 查看全文",
+      "actionSteps": [
+        "找到原始研究或权威资料",
+        "区分事实、推测和传播口号",
+        "写下这条知识会改变的一个决策"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 63,
+      "priority": 65
+    },
+    {
+      "id": "e543e8c325ca",
+      "title": "App+1 | 让任务栏更有用：WindowSill",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113438",
+      "publishedAt": "2026-08-18T06:30:00.000Z",
+      "summary": "屏幕不是注意力中心的地方可以塞下多少有用的东西呢？ 查看全文",
+      "actionSteps": [
+        "找到原始研究或权威资料",
+        "区分事实、推测和传播口号",
+        "写下这条知识会改变的一个决策"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 63,
+      "priority": 65
+    },
+    {
+      "id": "d28f4e776c8d",
+      "title": "7月音乐精选：夏天赠予我们的 9 张专辑",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113454",
+      "publishedAt": "2026-08-18T02:52:11.000Z",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+      "actionSteps": [
+        "找到原始研究或权威资料",
+        "区分事实、推测和传播口号",
+        "写下这条知识会改变的一个决策"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 63,
+      "priority": 65
+    },
+    {
+      "id": "2ace30bffeec",
+      "title": "国务院办公厅关于重点林区“十五五”期间森林年采伐限额的复函",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202608/content_7077887.htm",
+      "publishedAt": "2026-08-10T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：国务院办公厅关于重点林区“十五五”期间森林年采伐限额的复函。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [],
+      "trust": 92,
+      "opportunity": 49,
+      "priority": 61
+    },
+    {
+      "id": "ab6eadb0e7f9",
+      "title": "集成电路布图设计保护条例",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202608/content_7077398.htm",
+      "publishedAt": "2026-08-02T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：集成电路布图设计保护条例。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [],
+      "trust": 92,
+      "opportunity": 45,
+      "priority": 56
+    },
+    {
+      "id": "588e455871ed",
+      "title": "国务院关于印发《知识产权保护和运用“十五五”规划》的通知",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202607/content_7077199.htm",
+      "publishedAt": "2026-07-30T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：国务院关于印发《知识产权保护和运用“十五五”规划》的通知。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [],
+      "trust": 92,
+      "opportunity": 45,
+      "priority": 56
+    },
+    {
+      "id": "a48d500f6172",
+      "title": "国务院关于出境入境管理的规定",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202607/content_7077172.htm",
+      "publishedAt": "2026-07-30T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：国务院关于出境入境管理的规定。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [],
+      "trust": 92,
+      "opportunity": 45,
+      "priority": 56
+    },
+    {
+      "id": "91c99049841e",
+      "title": "国办印发《关于国务院行政复议案件处理程序的若干规定》的通知",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202607/content_7076684.htm",
+      "publishedAt": "2026-07-26T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：国办印发《关于国务院行政复议案件处理程序的若干规定》的通知。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [],
+      "trust": 92,
+      "opportunity": 45,
+      "priority": 56
+    },
+    {
+      "id": "cc3d07422d7c",
+      "title": "中共中央 国务院转发《中央宣传部、司法部关于开展法治宣传教育的第九个五年规划（2026－2030年）》",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/202607/content_7076696.htm",
+      "publishedAt": "2026-07-26T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：中共中央 国务院转发《中央宣传部、司法部关于开展法治宣传教育的第九个五年规划（2026－2030年）》。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [
+        "教育"
+      ],
+      "trust": 92,
+      "opportunity": 45,
+      "priority": 56
+    },
+    {
+      "id": "0eb903f42e58",
+      "title": "国务院关于同意将山东省潍坊市列为国家历史文化名城的批复",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202607/content_7076508.htm",
+      "publishedAt": "2026-07-23T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：国务院关于同意将山东省潍坊市列为国家历史文化名城的批复。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [],
+      "trust": 92,
+      "opportunity": 45,
+      "priority": 56
+    },
+    {
+      "id": "9836dce51f9f",
+      "title": "中共中央 国务院印发《关于加强新时代社会工作的意见》",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/202607/content_7076433.htm",
+      "publishedAt": "2026-07-22T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：中共中央 国务院印发《关于加强新时代社会工作的意见》。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [],
+      "trust": 92,
+      "opportunity": 45,
+      "priority": 56
+    },
+    {
+      "id": "fe03aa19840e",
+      "title": "国务院关于印发《全民健身计划（2026—2030年）》的通知",
+      "category": "policy",
+      "source": "中国政府网",
+      "sourceFeed": "中国政府网",
+      "link": "https://www.gov.cn/zhengce/content/202607/content_7076420.htm",
+      "publishedAt": "2026-07-22T16:00:00.000Z",
+      "summary": "中国政府网发布的最新政策：国务院关于印发《全民健身计划（2026—2030年）》的通知。建议结合原文附件，核对适用对象、执行时间和申报材料。",
+      "actionSteps": [
+        "查找政策原文和附件",
+        "核对适用地区、对象和生效时间",
+        "列出企业需要补齐的材料与流程"
+      ],
+      "tags": [],
+      "trust": 92,
+      "opportunity": 45,
+      "priority": 56
+    }
+  ]
+}
