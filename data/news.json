@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T08:59:25.667Z",
+  "generatedAt": "2026-08-21T13:12:13.982Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 28
+    "reused": 27
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,14 +194,14 @@
       "priority": 89
     },
     {
-      "id": "0e9cf66b5dc0",
-      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "id": "e0985e6aa9f4",
+      "title": "DeepSeek-v4-flash-vision-exp",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-      "publishedAt": "2026-08-21T05:39:39.000Z",
-      "summary": "Article URL: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/ Comments URL: https://news.ycombinator.com/item?id=49384224 Points: 29 # Comments: 11",
+      "link": "https://api-docs.deepseek.com/guides/vision/",
+      "publishedAt": "2026-08-21T10:33:56.000Z",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/vision/ Comments URL: https://news.ycombinator.com/item?id=49386163 Points: 187 # Comments: 46",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -213,54 +213,14 @@
       "priority": 79
     },
     {
-      "id": "4794c079ade7",
-      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "id": "ad7b51a78de0",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-      "publishedAt": "2026-08-21T05:31:34.000Z",
-      "summary": "Article URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/ Comments URL: https://news.ycombinator.com/item?id=49384180 Points: 115 # Comments: 55",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "1900a54ebcdf",
-      "title": "Seed: Minimal, self-modifying agent harness",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/vivekhaldar/seed",
-      "publishedAt": "2026-08-21T05:20:50.000Z",
-      "summary": "Article URL: https://github.com/vivekhaldar/seed Comments URL: https://news.ycombinator.com/item?id=49384113 Points: 17 # Comments: 6",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "画出触发器、数据、决策和输出四段流程",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "Agent"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "04c75a9b8c23",
-      "title": "Micron announces $10B research hub in Boise",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
-      "publishedAt": "2026-08-21T03:51:58.000Z",
-      "summary": "Article URL: https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx Comments URL: https://news.",
+      "link": "https://annas-archive.pk/blog/physical-destruction.html",
+      "publishedAt": "2026-08-21T10:05:46.000Z",
+      "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 152 # Comments: 93",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -274,14 +234,93 @@
       "priority": 79
     },
     {
-      "id": "c670380bf836",
-      "title": "经典动画续集《海尔兄弟 2》完成备案：共 26 集，预计 2027 年春节档上线",
+      "id": "373e52152d04",
+      "title": "Small, native web tricks worth remembering",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://htmlcat.net/",
+      "publishedAt": "2026-08-21T09:45:14.000Z",
+      "summary": "Article URL: https://htmlcat.net/ Comments URL: https://news.ycombinator.com/item?id=49385860 Points: 100 # Comments: 23",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "12cda7f35762",
+      "title": "Better Batteries",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+      "publishedAt": "2026-08-21T07:48:50.000Z",
+      "summary": "Article URL: https://matklad.github.io/2026/08/20/better-batteries.html Comments URL: https://news.ycombinator.com/item?id=49385068 Points: 16 # Comments: 11",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "0e9cf66b5dc0",
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "publishedAt": "2026-08-21T05:39:39.000Z",
+      "summary": "Article URL: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/ Comments URL: https://news.ycombinator.com/item?id=49384224 Points: 64 # Comments: 42",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "d0248f9fe83f",
+      "title": "腾讯 QQ 鸿蒙版 App 获 9.2.60 邀测升级，好友聊天支持发送闪照",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/717.htm",
-      "publishedAt": "2026-08-21T08:33:29.000Z",
-      "summary": "IT之家 8 月 21 日消息，经典科普动画《海尔兄弟》的续集《海尔兄弟 2：深海奇航》已于 2026 年 8 月 10 日出现在国家广播电视总局办公厅发布的 2026 年 7 月全国国产电视动画片制作备案公示文件中。 《海尔兄弟 2：深海奇航》第一季共 26 集，每集时长 13 分钟，总时长 338 分钟。备案单位为海尔集团全资子公司，法定代表人为海尔集团董事局主席周云杰。该续集已于 2025 年入选国家广播电视总局重点动画项目。 原",
+      "link": "https://www.ithome.com/0/992/851.htm",
+      "publishedAt": "2026-08-21T12:59:04.000Z",
+      "summary": "IT之家 8 月 21 日消息，QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）开启 9.2.60 (3362) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/8/21-2026/9/16。 IT之家附 QQ 鸿蒙版 App 本次测试版本新特性如下： 1、好友聊天支持发送闪照。 2、新增支持空友爱看。 3、空间动态支持收藏。 4、扫一扫支持转文字。 5、新增支持精选照片、匿问我答。 6、新增支",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "视频",
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "0ff047d6371b",
+      "title": "开源鸿蒙 OpenHarmony 7.0 Release 发布，新增展锐 P7885 开发板支持",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/849.htm",
+      "publishedAt": "2026-08-21T12:55:52.000Z",
+      "summary": "IT之家 8 月 21 日消息，开源鸿蒙（OpenHarmony）7.0 Release 版本的代码已经上传到 GitCode 仓库。 根据官方发行日志，该版本在 Beta1 的基础上进一步增强了应用开发能力，系统层面新增支持展锐 P7885 芯片开发板，应用框架与媒体领域亦迎来多项功能扩展。 系统方面，OpenHarmony 7.0 Release 新增支持“展锐 P7885 芯片开发板”，支持 5G 蜂窝通信、统一渲染、GNSS 卫",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -293,18 +332,37 @@
       "priority": 70
     },
     {
-      "id": "4f47d5bb322c",
-      "title": "消息称 NVIDIA 与韩国 AI 芯片企业 Rebellions 展开合作初步讨论",
-      "category": "ai",
+      "id": "36237c46950a",
+      "title": "单天线覆盖八个频段：华为宣布联合沙特 stc 完成全球首个 MB² 微波方案商用部署",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/711.htm",
-      "publishedAt": "2026-08-21T08:13:38.000Z",
-      "summary": "IT之家 8 月 21 日消息，彭博社今日报道称， NVIDIA 已就可能的合作与韩国 AI 芯片企业 Rebellions 展开了初步讨论 。双方领导人本周在 NVIDIA 位于美国加利福尼亚州圣克拉拉的总部会面，就潜在合作事宜进行探讨。 知情人士透露，两家企业的洽谈尚属于初步阶段，双方可能最终达成技术合作、投资乃至收购，交易落空也是潜在情况。 Rebellions 主打其 NPU 架构人工智能推理加速器。其最新产品 Rebel100",
+      "link": "https://www.ithome.com/0/992/848.htm",
+      "publishedAt": "2026-08-21T12:46:48.000Z",
+      "summary": "IT之家 8 月 21 日消息，华为官方今日宣布，当地时间 8 月 21 日，沙特 stc 与华为在沙特阿拉伯利雅得完成全球首个多频多波束（MB²）微波解决方案的商用部署。该方案标志着全球微波回传技术正式进入多频、多方向的新阶段。 MB² 方案的核心在于其高度集成的天线设计。单个 MB² 天线可同时支持 13GHz、15GHz、18GHz、23GHz、26GHz、28GHz、32GHz、38GHz 这八个微波频段，并能够实现 10 个波",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "189b5cb94e23",
+      "title": "索尼 & 亚马逊《战神》剧集因主演受伤重新选角，《银河护卫队》“毁灭者”戴夫 · 巴蒂斯塔加盟饰演奎托斯",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/847.htm",
+      "publishedAt": "2026-08-21T12:41:02.000Z",
+      "summary": "IT之家 8 月 21 日消息，当地时间 8 月 20 日，据《Variety》报道，演员戴夫 · 巴蒂斯塔（Dave Bautista）已正式签约加盟亚马逊 Prime Video 新剧《战神》，并在其中饰演主角奎托斯。 该剧改编自索尼 PlayStation 同名游戏系列，由亚马逊与索尼联合制作，此前已获得两季预订。 巴蒂斯塔曾出演《银河护卫队》系列中的毁灭者德拉克斯（Drax the Destroyer）及《沙丘》系列电影。 他此",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
       "tags": [
         "AI"
@@ -314,18 +372,75 @@
       "priority": 70
     },
     {
-      "id": "ee2a2932fd1f",
-      "title": "浙江杭州一男子轻信 AI 推荐的“散心路线”，独自攀登“浙西三尖”童公尖最终被困深山",
-      "category": "ai",
+      "id": "8079c552a27f",
+      "title": "华硕推出灵光岛 AP304 悬浮海景房机箱：一体化弧面防爆玻璃、配 USB-C 20Gbps 接口，780 元起",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/710.htm",
-      "publishedAt": "2026-08-21T08:12:16.000Z",
-      "summary": "IT之家 8 月 21 日消息，据央视新闻报道，近期浙江杭州一男子与妻子吵架后心情郁闷计划外出散心，其向 AI 询问散心地点，AI 推荐他去“浙西三尖”童公尖观赏流星雨。然而该男子最终出发后却因路线不熟，且未带照明设备，结果在海拔约 1300 米处摔伤，只得报警求助。 据报道，该男子摔伤地点位于景区未开发区域，车辆无法直达。消防员到达山脚后需携带救援装备徒步进山，由于山中地势陡峭、荆棘丛生，加之夜间视线极差，消防员只能结合被困者的海拔和",
+      "link": "https://www.ithome.com/0/992/846.htm",
+      "publishedAt": "2026-08-21T12:33:35.000Z",
+      "summary": "IT之家 8 月 21 日消息，华硕现已在京东上架灵光岛 AP304 悬浮海景房机箱，该产品提供黑白双色可选，其中黑色售价 780 元，白色售价 849 元。 该机箱整体尺寸为 240x535x450mm，使用悬浮海景房设计，拥有嵌入式 RGB 灯带，兼顾外观和散热性能。机箱兼容 ATX、Micro-ATX、Mini-ITX 主板，搭载“升级版显卡支架”，号称能够进一步强化显卡稳定性。 I/O 方面，该机箱提供 1 个 USB-C 3.",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "f50a88a5a563",
+      "title": "GitHub 通报 8 月 17 日大规模宕机事件原因：基础设施容量未能跟上平台使用量的快速增长",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/844.htm",
+      "publishedAt": "2026-08-21T12:20:56.000Z",
+      "summary": "IT之家 8 月 21 日消息，GitHub 现已公布 8 月 17 日平台大规模宕机事件 的调查结果，确认此次事故并非由程序代码或配置变更引起，而是“基础设施容量未能跟上平台使用量的快速增长”。本次大规模宕机合计造成 GitHub 网站、身份验证、GitHub Actions、API、Pull Request、Issues 等多项服务中断 7 小时 47 分钟。 GitHub 表示，当日平台流量创下历史新高后，导致美国中部数据中心的一",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "38320a1c2a20",
+      "title": "国产 NAND 龙头长江存储冲刺科创板：IPO 审核状态变更为已受理，拟融资 330 亿元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/843.htm",
+      "publishedAt": "2026-08-21T12:14:46.000Z",
+      "summary": "IT之家 8 月 21 日消息，上海证券交易所网站显示，长江存储控股股份有限公司（IT之家下称“长江存储”）首次公开发行股票并在科创板上市的 IPO 审核状态已变更为“已受理”。 公司拟融资金额为 330 亿元，保荐机构为中信证券和中信建投 。 此前 8 月 19 日，长江存储 IPO 辅导状态刚由证监会官网公示变更为“辅导验收”。中信证券与中信建投于当日签署了《辅导工作完成报告》。公司于 2026 年 5 月 19 日在湖北证监局完成",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "1d1c2cd0fa64",
+      "title": "长芯博创 2026 年半年度归母净利润 3.21 亿元，同比增长 91.08%",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/842.htm",
+      "publishedAt": "2026-08-21T12:11:52.000Z",
+      "summary": "IT之家 8 月 21 日消息，长芯博创今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告： 营业总收入 ：16.88 亿元，同比增长 40.72% 归母净利润 ：3.21 亿元，同比增长 91.08% 扣非净利润 ：3.15 亿元，同比增长 94.49% 经营现金流 ：3.11 亿元，同比增长 4.57% 加权平均净资产收益率 ：15.32% 基本每股收益 ：1.1 元，同比增长 89.66% 稀释每股收益",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
       "tags": [
         "AI"
@@ -335,35 +450,14 @@
       "priority": 70
     },
     {
-      "id": "2660e08af62c",
-      "title": "雷鸟 iO AI 眼镜图赏：好看，也好戴",
+      "id": "49a64d8fa987",
+      "title": "软银向 Gravis 投资 2 亿美元，创建筑机器人领域 A 轮纪录",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/690.htm",
-      "publishedAt": "2026-08-21T07:55:39.000Z",
-      "summary": "8 月 21 日，雷鸟创新发布了新系列产品“雷鸟 iO”，这款眼镜定位首款“人类增强 AI 眼镜”，旨在让 AI 真正融入人的视野、感知和行动之中，成为每个人随身的智能增强伙伴。现在，IT之家已经提前拿到了这款雷鸟 iO AI 眼镜，先为大家送上开箱图赏。 雷鸟 iO AI 眼镜的包装整体看起来是偏高端、精致的，包装盒外观很简洁，主体是银灰色，正面能看到烫印的亮银色“RayNeo”字样和 Logo，以及一个矩形的视窗设计，视窗延展到侧面",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "db1c7446e8ea",
-      "title": "OpenAI 全面开源 Codex Harness",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/656.htm",
-      "publishedAt": "2026-08-21T07:18:30.000Z",
-      "summary": "就在昨天，OpenAI 又完成一次升级。这不是什么全新的模型发布，但它对开发者的影响力，甚至超过了模型本身的迭代。 OpenAI 正式宣布：将大名鼎鼎的 Codex 底层核心框架（Harness），作为平台全面开源！ 也就是说，OpenAI 把驱动自家顶级 AI 智能体的发动机，免费送给大家。 开发者再也不需要去把业务流程硬塞进一个通用聊天框了！ 你可以你直接把最强大的 AI 智能体循环，无缝镶嵌进你自有的产品、工程工具、运营看板，甚至",
+      "link": "https://www.ithome.com/0/992/733.htm",
+      "publishedAt": "2026-08-21T09:10:20.000Z",
+      "summary": "IT之家 8 月 21 日消息，建筑自动化企业 Gravis Robotics 当地时间本月 17 日宣布，SoftBank（软银）作为独家投资者在 A 轮融资中为该企业注资 2 亿美元 （IT之家注：现汇率约合 13.48 亿元人民币） 。 这一资金规模创下建筑机器人领域 A 轮历史新高 。 Gravis Robotics 由瑞士苏黎世联邦理工学院孵化， 目标是通过机械制造商无关的物理 AI 软件堆栈改变建筑行业自动化程度长期偏低的现",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -371,50 +465,8 @@
       ],
       "tags": [
         "AI",
-        "Agent",
-        "自动化"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "fe6053058458",
-      "title": "全球首富马斯克：在 AI 领域，中国是迄今最强竞争对手",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/654.htm",
-      "publishedAt": "2026-08-21T07:15:57.000Z",
-      "summary": "IT之家 8 月 21 日消息，全球首富埃隆 · 马斯克（Elon Musk）昨日（8 月 20 日）在 X 平台发布推文，指出在 AI 领域， 中国是 SpaceXAI 公司最强大的竞争对手。 网友布莱恩 · 罗梅尔（Brian Roemmele）于 8 月 19 日在 X 平台转发马斯克于 2011 年 12 月发布的推文，认为马斯克在 15 年前发布的预测完全正确。 马斯克在 2011 年的推文中写道：“在火箭技术领域，Space",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "b797b8db61e2",
-      "title": "雷鸟 iO AI 眼镜发布：支持实时提示、全天智记功能，首发价 2349 元",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/653.htm",
-      "publishedAt": "2026-08-21T07:14:45.000Z",
-      "summary": "IT之家 8 月 21 日消息，雷鸟 iO AI 眼镜今日发布，支持实时提示、全天智记功能，限时首发价 2349 元，国补价 1996.7 元。京东 PLUS 联名限时首发价 2747 元，国补价 2334.95 元。 IT之家从发布会获悉，这款新品 整机重量 34g ，提供前框重量 17g，采用双层钛合金结构，镜框边缘平均宽度 2.25mm，镜腿厚度仅 1.15mm，提供亲肤镜腿硅胶套。此外，眼镜右侧还提供一颗创新的 智能交互旋钮 。",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
+        "自动化",
+        "机器人"
       ],
       "trust": 58,
       "opportunity": 67,
@@ -442,25 +494,190 @@
       "priority": 67
     },
     {
-      "id": "4d06ce379010",
-      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+      "id": "7e4a22589012",
+      "title": "OpenAI 回应 Codex 使用限制：sub2api 转售共享会触发风控",
       "category": "ai",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113593",
-      "publishedAt": "2026-08-18T09:01:31.000Z",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/767.htm",
+      "publishedAt": "2026-08-21T10:05:26.000Z",
+      "summary": "OpenAI回应Codex使用限制，指出sub2api转售共享会触发风控，官方不支持将订阅转为API流量分享。",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
+        "检查自身使用方式是否合规",
+        "避免订阅转售行为",
+        "关注OpenAI官方政策更新"
       ],
       "tags": [
-        "AI"
+        "OpenAI",
+        "API",
+        "风控"
       ],
-      "trust": 58,
-      "opportunity": 63,
-      "priority": 65
+      "trust": 4,
+      "opportunity": 2,
+      "priority": 4,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对使用Codex API的开发者或企业，需注意合规使用，避免账号风险；对转售服务商，需调整商业模式。",
+        "riskNotes": "信息来自OpenAI团队负责人社交媒体，非官方正式公告，具体风控规则未公开。"
+      }
+    },
+    {
+      "id": "be7274cb1aba",
+      "title": "DeepSeek V4-Flash-Vision-Exp 上线：开启多模态 API 服务，Agent 能力接近 Opus-4.8",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/755.htm",
+      "publishedAt": "2026-08-21T09:21:20.000Z",
+      "summary": "DeepSeek发布V4-Flash-Vision-Exp多模态模型，支持图片输入，Agent能力接近Opus-4.8，已上线API平台。",
+      "actionSteps": [
+        "访问DeepSeek API平台了解详情",
+        "测试模型的多模态识别能力",
+        "评估集成到自身产品的可能性"
+      ],
+      "tags": [
+        "DeepSeek",
+        "多模态",
+        "API"
+      ],
+      "trust": 4,
+      "opportunity": 5,
+      "priority": 4,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对AI应用开发者，新模型提供多模态能力，可扩展应用场景，提升Agent交互体验。",
+        "riskNotes": "官方宣布，但性能对比数据需自行测试验证。"
+      }
+    },
+    {
+      "id": "9b7a151adba3",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "publishedAt": "2026-08-21T12:10:13.000Z",
+      "summary": "美国公民在边境删除手机数据被控重罪，引发关于隐私和执法边界的讨论。",
+      "actionSteps": [
+        "了解边境检查相关法律",
+        "评估个人数据保护措施",
+        "关注隐私权讨论"
+      ],
+      "tags": [
+        "隐私",
+        "边境执法",
+        "法律"
+      ],
+      "trust": 4,
+      "opportunity": 2,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "涉及个人隐私权与边境执法权力，对跨境旅行者具有直接影响。",
+        "riskNotes": "报道来源为纽约时报，但具体法律细节未提供，需核实。"
+      }
+    },
+    {
+      "id": "7f05bfbbca65",
+      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+      "publishedAt": "2026-08-21T11:43:38.000Z",
+      "summary": "TigerBeetle数据库核心架构深度解析，探讨其性能工程实践，对金融级事务处理和高并发场景有重要参考价值。",
+      "actionSteps": [
+        "阅读原文了解架构细节",
+        "评估TigerBeetle是否适用于自身业务",
+        "进行性能基准测试验证"
+      ],
+      "tags": [
+        "数据库",
+        "性能",
+        "架构"
+      ],
+      "trust": 3,
+      "opportunity": 4,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对开发者而言，了解TigerBeetle的架构设计有助于优化自身系统性能；对企业，可能影响技术选型，提升交易处理效率。",
+        "riskNotes": "文章为技术博客，非官方文档，性能数据需自行验证。"
+      }
+    },
+    {
+      "id": "785c810c16ee",
+      "title": "When AI designs a drug, who gets the credit?",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "publishedAt": "2026-08-21T09:00:00.000Z",
+      "summary": "探讨AI设计药物时知识产权归属问题，以Insilico Medicine为例，引发对AI贡献认定的讨论。",
+      "actionSteps": [
+        "了解AI辅助药物发现的法律框架",
+        "评估自身项目的知识产权策略",
+        "咨询法律专家"
+      ],
+      "tags": [
+        "AI",
+        "药物研发",
+        "知识产权"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对生物医药企业和研究者，明确AI在药物发现中的角色，影响专利归属和合作模式。",
+        "riskNotes": "文章为观点性内容，具体法律案例需进一步核实。"
+      }
+    },
+    {
+      "id": "4db71fc4427e",
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "publishedAt": "2026-08-21T09:00:00.000Z",
+      "summary": "Reflect Orbit公司计划部署太空镜反射阳光，研究称可能意外照亮夜空，影响天文观测和生态环境。",
+      "actionSteps": [
+        "关注项目进展和环境影响评估",
+        "参与公众讨论或反馈意见",
+        "天文机构评估潜在干扰"
+      ],
+      "tags": [
+        "太空",
+        "环境",
+        "天文"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对公众，可能影响夜间环境；对天文爱好者和科研机构，干扰观测；对相关企业，需评估环境影响。",
+        "riskNotes": "研究基于模拟，实际影响需项目落地后监测。"
+      }
     },
     {
       "id": "479599b131b0",
@@ -491,37 +708,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "该功能可简化设计流程，降低图像处理成本，对设计师、电商运营、内容创作者等有实际帮助，可能推动AI图像生成应用。",
         "riskNotes": "信息来自OpenAI官方，但API使用成本、生成质量及限制需实际测试，且可能仅限API，普通用户无法直接使用。"
-      }
-    },
-    {
-      "id": "f8d5e817777c",
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/openai/codex/issues/37674",
-      "publishedAt": "2026-08-21T03:17:43.000Z",
-      "summary": "OpenAI Codex在AWS Bedrock上存在bug，导致费用增加10倍，引发用户关注。",
-      "actionSteps": [
-        "查看GitHub issue了解详情",
-        "检查AWS账单确认是否受影响",
-        "联系AWS支持或暂停服务"
-      ],
-      "tags": [
-        "AWS",
-        "Codex",
-        "费用"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 3,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T04:55:54.174Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "使用AWS Bedrock上Codex服务的企业可能面临意外高额账单，需检查使用情况。",
-        "riskNotes": "信息来自Hacker News，具体bug细节和影响范围未确认，需查看GitHub issue。"
       }
     },
     {
@@ -680,65 +866,127 @@
       }
     },
     {
-      "id": "51fb64c5f127",
-      "title": "三星电子：预计 2026 年股东回报剩余资金达 90～110 万亿韩元",
+      "id": "c7d89ab55076",
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
       "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/725.htm",
-      "publishedAt": "2026-08-21T08:58:57.000Z",
-      "summary": "三星电子预计2026年股东回报剩余资金达90-110万亿韩元（约4366-5336亿元人民币），具体使用方式将在2027年1月底董事会决定，并计划2026年10月敲定Q3分红约30万亿韩元。",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "publishedAt": "2026-08-21T12:10:00.000Z",
+      "summary": "MIT技术评论报道太空反射镜计划可能威胁夜空，以及AI药物研发的进展。",
       "actionSteps": [
-        "关注三星电子官方公告及董事会决议",
-        "评估对相关投资组合的影响",
-        "咨询财务顾问获取专业建议"
+        "阅读原文了解具体计划",
+        "关注相关监管和伦理讨论",
+        "评估对个人或行业的潜在影响"
       ],
       "tags": [
-        "三星电子",
-        "股东回报",
-        "分红"
+        "太空",
+        "AI药物",
+        "科技影响"
       ],
-      "trust": 4,
-      "opportunity": 2,
+      "trust": 3,
+      "opportunity": 3,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T08:59:25.667Z",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "三星作为全球科技巨头，其股东回报计划可能影响股价和投资者信心，对持有三星股票或相关基金的个人投资者有直接影响。",
-        "riskNotes": "数据来自三星官方文件，但汇率换算和未来资金使用存在不确定性，需关注后续董事会决议及市场反应。"
+        "whyItMatters": "太空项目影响天文观测和夜间环境，AI药物研发可能加速新药上市，影响医疗健康领域。",
+        "riskNotes": "摘要内容不完整，具体细节和影响未明确，需查阅原文。"
       }
     },
     {
-      "id": "b0a9e4b0d86e",
-      "title": "马歇尔推出 Marshall STANMORE IV 音箱：新增自定义 M 键，3499 元",
-      "category": "industry",
+      "id": "f6d233056299",
+      "title": "青少年开发者借助 Claude Code AI 编程工具，成功为惠普打印机冷门机型开发出苹果 macOS 原生驱动",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/724.htm",
-      "publishedAt": "2026-08-21T08:57:46.000Z",
-      "summary": "马歇尔推出STANMORE IV音箱，定价3499元，新增自定义M键，总功率110W，尺寸350x203x185mm，重量约4kg，已在京东上架。",
+      "link": "https://www.ithome.com/0/992/832.htm",
+      "publishedAt": "2026-08-21T11:14:14.000Z",
+      "summary": "青少年开发者用Claude Code为惠普冷门打印机开发macOS驱动，展示AI编程在硬件兼容性上的潜力。",
       "actionSteps": [
-        "关注官方评测和用户反馈",
-        "对比同价位竞品",
-        "根据需求决定是否购买"
+        "关注AI编程工具的最新进展",
+        "评估自身设备兼容性问题是否可用AI解决",
+        "验证AI生成代码的安全性和可靠性"
       ],
       "tags": [
-        "马歇尔",
-        "音箱",
-        "新品发布"
+        "AI编程",
+        "硬件兼容",
+        "青少年开发"
       ],
       "trust": 3,
-      "opportunity": 2,
+      "opportunity": 4,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T08:59:25.667Z",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "该产品面向高端音频市场，对音响爱好者、家庭娱乐用户有吸引力，可能影响同价位音箱竞争格局。",
-        "riskNotes": "信息来自IT之家，具体音质、功能体验需实际评测，价格和规格可能因地区而异，需以官方信息为准。"
+        "whyItMatters": "AI编程工具降低开发门槛，普通人可解决小众硬件兼容问题，或推动更多非专业开发者参与技术修复。",
+        "riskNotes": "报道来源为IT之家转述外媒，未验证驱动实际可用性及安全性，需谨慎参考。"
+      }
+    },
+    {
+      "id": "9f78e3d5f51d",
+      "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://github.com/yaroslav/kino",
+      "publishedAt": "2026-08-21T11:06:25.000Z",
+      "summary": "Kino是一个为Ruby 4.0设计的高性能Ractor Web服务器，在Hacker News上获得关注。",
+      "actionSteps": [
+        "查看GitHub项目文档",
+        "在测试环境试用Kino",
+        "对比现有服务器性能"
+      ],
+      "tags": [
+        "Ruby",
+        "Web服务器",
+        "性能"
+      ],
+      "trust": 3,
+      "opportunity": 4,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对Ruby开发者，Kino可能提供更高并发性能，影响Web应用部署选择。",
+        "riskNotes": "项目处于早期，需验证稳定性和兼容性。"
+      }
+    },
+    {
+      "id": "fd48b479f78d",
+      "title": "代码显示三星正准备为 Galaxy Z Flip8/Fold8 手机引入 AI 小组件功能，基于谷歌“Create My Widget”技术",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/821.htm",
+      "publishedAt": "2026-08-21T10:43:15.000Z",
+      "summary": "三星将为Galaxy Z Flip8/Fold8引入AI小组件功能，基于谷歌技术，用户可用自然语言定制。",
+      "actionSteps": [
+        "关注三星官方公告",
+        "了解AI小组件功能",
+        "评估是否值得等待或升级"
+      ],
+      "tags": [
+        "三星",
+        "AI",
+        "手机功能"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "AI交互方式提升手机个性化体验，可能引领行业趋势。",
+        "riskNotes": "消息来源为代码挖掘，未官方确认，功能上线时间待验证。"
       }
     },
     {
@@ -770,100 +1018,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "该技术提供无化学灭蚊方案，可能应用于户外活动、农业、公共卫生等领域，减少蚊虫传播疾病风险，对相关行业和消费者有潜在影响。",
         "riskNotes": "报道源自央视新闻，但具体性能、量产规模、成本及实际效果尚未有第三方验证，需关注后续独立测试和用户反馈。"
-      }
-    },
-    {
-      "id": "17f6493a3ec9",
-      "title": "消息称《GTA 6》泄露源头为 R 星印度办公室，黑客组织 Cyberleek 已获得游戏 Xbox 开发副本",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/718.htm",
-      "publishedAt": "2026-08-21T08:36:26.000Z",
-      "summary": "据外媒，GTA6泄露源于R星印度工作室，黑客通过钓鱼入侵技术总监账号，获得Xbox开发副本，并索要5000万美元。",
-      "actionSteps": [
-        "关注R星官方声明",
-        "谨慎对待泄露内容，避免传播",
-        "关注网络安全事件对行业的影响"
-      ],
-      "tags": [
-        "GTA6",
-        "数据泄露",
-        "游戏安全"
-      ],
-      "trust": 1,
-      "opportunity": 1,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T08:59:25.667Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对游戏行业，重大泄露可能影响游戏开发进度和公司安全；对玩家，可能提前得知游戏内容，但存在法律风险。",
-        "riskNotes": "信息来自外媒和消息源，未经官方证实；泄露细节和黑客身份待确认；对游戏发售的影响未知。"
-      }
-    },
-    {
-      "id": "4e015367ec75",
-      "title": "韩国 IT 巨头 Kakao 计划年内完成分拆，新实体将聚焦 AI 智能体",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/712.htm",
-      "publishedAt": "2026-08-21T08:18:40.000Z",
-      "summary": "Kakao宣布分拆为Kakao AI和Kakao X，Kakao AI将聚焦AI智能体，以KakaoTalk和Kanana为核心，拆分比例36%和64%。",
-      "actionSteps": [
-        "关注Kakao官方公告确认分拆细节",
-        "分析分拆对AI行业的影响",
-        "评估相关投资机会"
-      ],
-      "tags": [
-        "Kakao",
-        "AI",
-        "公司分拆"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T08:59:25.667Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对AI行业，Kakao分拆显示大公司对AI业务的重视，可能影响韩国AI市场格局；对投资者，分拆可能带来新投资机会。",
-        "riskNotes": "信息来自韩媒和IT之家，非官方公告；拆分细节和完成时间未确认；对业务的实际影响需观察。"
-      }
-    },
-    {
-      "id": "92d0acf4aa3a",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://annas-archive.gl/blog/physical-destruction.html",
-      "publishedAt": "2026-08-21T02:37:47.000Z",
-      "summary": "AI公司大量销毁实体书，安娜档案呼吁在书籍被毁前扫描稀有书籍，引发对知识保存的讨论。",
-      "actionSteps": [
-        "关注相关新闻和报告，核实AI公司销毁书籍的具体情况",
-        "支持或参与图书馆、档案馆的数字化项目",
-        "呼吁立法保护稀有书籍的数字化保存"
-      ],
-      "tags": [
-        "AI",
-        "书籍销毁",
-        "知识保存",
-        "数字化"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T04:55:54.174Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "实体书被销毁可能导致稀有知识永久丢失，影响学者、研究人员和公众获取信息。",
-        "riskNotes": "来源为博客和论坛，未提供具体证据，需核实AI公司销毁书籍的规模和范围。"
       }
     },
     {
@@ -929,37 +1083,6 @@
       }
     },
     {
-      "id": "276fd27b435a",
-      "title": "The next big thing in hydrogen could be underground",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "publishedAt": "2026-08-20T10:00:00.000Z",
-      "summary": "MIT报道称地下可能蕴藏天然氢能，寻找新来源成为趋势，氢能可用于卡车、飞机、炼钢等领域。",
-      "actionSteps": [
-        "关注地下氢能研究动态",
-        "评估相关技术成熟度",
-        "留意能源政策对氢能的扶持"
-      ],
-      "tags": [
-        "氢能",
-        "能源",
-        "科技"
-      ],
-      "trust": 3,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T13:12:31.937Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "地下氢能若可开发，将影响能源行业格局，为清洁能源投资提供新方向。",
-        "riskNotes": "报道基于研究进展，实际商业化尚远，需验证地质储量和开采技术可行性。"
-      }
-    },
-    {
       "id": "438e2e1219b1",
       "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
       "category": "policy",
@@ -988,37 +1111,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "体现国家航天成就，激励相关行业，但普通人直接关联有限。",
         "riskNotes": "政策原文来自官方，但具体适用对象和细节需核对原文附件。"
-      }
-    },
-    {
-      "id": "a03f1f355f00",
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-      "publishedAt": "2026-08-19T12:10:00.000Z",
-      "summary": "MIT技术评论探讨AI递归自我改进的进展可能不如预期迅速，引发对AI发展速度的重新评估。",
-      "actionSteps": [
-        "关注AI技术突破的可靠来源",
-        "评估自身业务对AI的依赖度",
-        "制定灵活的技术应对策略"
-      ],
-      "tags": [
-        "AI",
-        "技术发展",
-        "行业趋势"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:21:52.729Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "影响AI行业投资预期和技术路线选择，企业需调整AI战略，个人关注AI职业发展。",
-        "riskNotes": "基于新闻摘要，缺乏详细数据，AI进展评估主观性强。"
       }
     },
     {
@@ -1209,6 +1301,68 @@
       }
     },
     {
+      "id": "ae5a64e520e1",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113693",
+      "publishedAt": "2026-08-21T10:08:59.000Z",
+      "summary": "少数派推荐近期值得一看的10部作品，包括《复仇者联盟5》新预告等。",
+      "actionSteps": [
+        "查看推荐列表",
+        "根据兴趣选择观看",
+        "关注上映时间"
+      ],
+      "tags": [
+        "影视推荐",
+        "娱乐",
+        "文化"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "提供文化娱乐消费指南，帮助用户选择影视作品。",
+        "riskNotes": "内容为主观推荐，无客观数据，需个人判断。"
+      }
+    },
+    {
+      "id": "02c37866e6d6",
+      "title": "Mother tongue",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "publishedAt": "2026-08-21T09:00:00.000Z",
+      "summary": "MIT技术评论文章《母语》以故事形式探讨语言消亡，可能涉及文化传承。",
+      "actionSteps": [
+        "阅读全文了解主题",
+        "思考语言保护意义",
+        "关注相关文化项目"
+      ],
+      "tags": [
+        "语言",
+        "文化",
+        "故事"
+      ],
+      "trust": 3,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-21T13:12:13.982Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "语言多样性关乎文化认同，可能引发对濒危语言的关注。",
+        "riskNotes": "摘要为故事片段，未提供具体数据或论点，需阅读全文。"
+      }
+    },
+    {
       "id": "9c3c55b3e110",
       "title": "骨伽推出 LQX PRO / ELITE 360 ARGB 液冷：搭载类碳纤纹理风扇",
       "category": "ai",
@@ -1237,68 +1391,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对DIY装机用户而言，高解热能力水冷可支持高端CPU，但需确认兼容性；类碳纤纹理设计满足个性化需求。",
         "riskNotes": "信息来自IT之家，非官方一手来源；解热能力为设计值，实际性能需实测；价格和上市时间未提及。"
-      }
-    },
-    {
-      "id": "9283a5b94115",
-      "title": "小米 Poco M8x 5G 手机海外发布：骁龙 4 Gen 5 芯片，6.9 寸 720P LCD 屏",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/719.htm",
-      "publishedAt": "2026-08-21T08:37:19.000Z",
-      "summary": "小米在印度发布Poco M8x 5G，定位中低端，配备7900mAh电池、120Hz刷新率、6.9英寸HD+ LCD屏，搭载骁龙4 Gen 5，起售价18999卢比（约1336元）。",
-      "actionSteps": [
-        "关注官方发布确认详细规格",
-        "比较同价位竞品",
-        "查看评测了解实际体验"
-      ],
-      "tags": [
-        "小米",
-        "手机",
-        "印度市场"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T08:59:25.667Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对预算有限的消费者，该手机提供大电池和5G，但屏幕分辨率较低；可能影响印度市场手机竞争格局。",
-        "riskNotes": "信息来自IT之家，非官方一手；价格和配置可能因地区而异；实际续航和性能需实测。"
-      }
-    },
-    {
-      "id": "09d5ecd76f33",
-      "title": "Emacs 31.1 will release on 8/24",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
-      "publishedAt": "2026-08-21T08:19:48.000Z",
-      "summary": "Emacs 31.1 将于8月24日发布，该信息来自GitHub上的HISTORY文件，Hacker News讨论热度较低。",
-      "actionSteps": [
-        "关注Emacs官方发布公告",
-        "查看更新日志了解新特性",
-        "测试兼容性并规划升级"
-      ],
-      "tags": [
-        "Emacs",
-        "软件发布",
-        "开发者工具"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T08:59:25.667Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "Emacs是广泛使用的文本编辑器，新版本可能带来功能改进和修复，对开发者、技术爱好者和依赖Emacs的工作流程有影响。",
-        "riskNotes": "信息来源为GitHub提交，非官方正式公告，发布日期可能变动，需关注官方发布说明。"
       }
     },
     {
@@ -1364,37 +1456,6 @@
       }
     },
     {
-      "id": "3cc4c313c8f3",
-      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://Argentic.network",
-      "publishedAt": "2026-08-21T06:24:16.000Z",
-      "summary": "Argentic是一个基于L402协议的闪电网络收费系统，用于AI爬虫代理，HN讨论中。",
-      "actionSteps": [
-        "访问Argentic.network了解详情",
-        "评估是否适用于自身业务",
-        "关注社区反馈和迭代"
-      ],
-      "tags": [
-        "AI",
-        "支付",
-        "闪电网络"
-      ],
-      "trust": 1,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T08:59:25.667Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对AI和数据服务提供商，这可能提供新的变现方式；对开发者，可能影响数据抓取的成本和方式。",
-        "riskNotes": "来源为HN展示，非官方；技术成熟度和市场接受度未知；需验证实际功能。"
-      }
-    },
-    {
       "id": "8e4aca069487",
       "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
       "category": "knowledge",
@@ -1457,37 +1518,6 @@
       }
     },
     {
-      "id": "318d5ffb0f02",
-      "title": "Unlocking hidden revenue streams with market models",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "publishedAt": "2026-08-20T09:47:22.000Z",
-      "summary": "航空公司通过市场模型优化收益管理，挖掘隐藏收入流，涉及多段航线定价与座位分配。",
-      "actionSteps": [
-        "阅读原文了解模型具体方法",
-        "关注航空公司定价策略变化",
-        "评估对个人出行成本的影响"
-      ],
-      "tags": [
-        "航空",
-        "收益管理",
-        "市场模型"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T01:58:37.069Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对普通旅客，可能影响票价和航班选择；对航空业，提升收益效率，可能改变市场竞争格局。",
-        "riskNotes": "原文摘要不完整，未提供具体模型细节或数据，需核实原始文章。"
-      }
-    },
-    {
       "id": "5b59d04b2793",
       "title": "新玩意 249｜少数派的编辑们最近买了啥？",
       "category": "knowledge",
@@ -1516,37 +1546,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "为消费者提供产品参考，可能影响购买决策。",
         "riskNotes": "内容为主观体验，产品效果因人而异，需自行判断。"
-      }
-    },
-    {
-      "id": "89e03be13118",
-      "title": "Support networks aim to help kids through the polycrisis",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-      "publishedAt": "2026-08-20T09:00:00.000Z",
-      "summary": "文章讲述支持网络帮助儿童应对多重危机，如气候变化、社会动荡等。",
-      "actionSteps": [
-        "阅读原文了解支持网络具体形式",
-        "关注儿童心理健康资源",
-        "评估自身可参与的支持方式"
-      ],
-      "tags": [
-        "儿童",
-        "心理支持",
-        "多重危机"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T01:58:37.069Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对家长和教育者，提供儿童心理支持资源；对社会，关注下一代韧性建设。",
-        "riskNotes": "摘要不完整，未提供具体网络或方法，需阅读原文。"
       }
     },
     {
