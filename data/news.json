@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T01:51:55.826Z",
+  "generatedAt": "2026-08-22T04:51:37.809Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 27
+    "reused": 34
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,63 +194,6 @@
       "priority": 89
     },
     {
-      "id": "c60e9177a631",
-      "title": "Three important steps in my maturation process",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "publishedAt": "2026-08-21T22:29:00.000Z",
-      "summary": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ Comments URL: https://news.ycombinator.com/item?id=49394496 Points: 46 # Comments: 9",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "c5fc940f7ada",
-      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-      "publishedAt": "2026-08-21T21:00:48.000Z",
-      "summary": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49393733 Points: 0 # Comments: 0",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "31ef8ebb46d9",
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://rust-glancer.github.io/blog/hello-world/",
-      "publishedAt": "2026-08-21T19:51:54.000Z",
-      "summary": "https://matklad.github.io/2026/08/21/rust-glancer.html Comments URL: https://news.ycombinator.com/item?id=49393052 Points: 21 # Comments: 12",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
       "id": "f717a74c16c7",
       "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
       "category": "opportunity",
@@ -258,7 +201,7 @@
       "sourceFeed": "Hacker News",
       "link": "https://tumbleforth.hardcoded.net/",
       "publishedAt": "2026-08-21T18:59:52.000Z",
-      "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 56 # Comments: 8",
+      "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 66 # Comments: 8",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -277,7 +220,7 @@
       "sourceFeed": "Hacker News",
       "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
       "publishedAt": "2026-08-21T18:36:34.000Z",
-      "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 149 # Comments: 46",
+      "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 165 # Comments: 52",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -289,58 +232,37 @@
       "priority": 79
     },
     {
-      "id": "5c2957c7d0e2",
-      "title": "OTel isn't going well (and I made a spreadsheet about it)",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-      "publishedAt": "2026-08-21T17:45:41.000Z",
-      "summary": "Article URL: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/ Comments URL: https://news.ycombinator.com/item?id=49391553 Points: 17 # Comments: 3",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "4813a6de319d",
-      "title": "日产暴跌 58.7%，丰田、本田 2026 年 7 月在华新车销量均同比下降",
+      "id": "a01bde09be15",
+      "title": "领克回应主动召回领克 900 等车型：免费更换激光雷达，随整车质保",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/913.htm",
-      "publishedAt": "2026-08-22T01:12:43.000Z",
-      "summary": "IT之家 8 月 22 日消息，据日本共同社报道，日本三大车商 2026 年 7 月在中国市场的新车销量全部出炉， 三家公司均较上年同期下降 。 丰田 7 月销量 114,700 辆，同比下降 24.3% 日产 7 月销量 23,677 辆，同比下降 58.7%，连续 4 个月同比下降 本田 7 月销量 25,052 辆，同比下降 44.1%，连续 30 个月同比下降 ▲ 广汽丰田铂智 7 据IT之家此前报道， 丰田、日产、本田 202",
+      "link": "https://www.ithome.com/0/992/942.htm",
+      "publishedAt": "2026-08-22T03:36:28.000Z",
+      "summary": "IT之家 8 月 22 日消息，领克汽车昨晚发布《关于主动召回特定批次车辆的情况说明》，回应主动召回领克 900 等车型。 公告称，近期，我们在主动排查及用户反馈中发现，部分搭载激光雷达的车辆在特殊场景下可能出现 辅助驾驶功能受限 的情况。对此我们高度重视，迅速组织内部技术团队与供应商联合展开全面核查。 经分析， 由于供应商制程工艺波动 ，特定批次激光雷达的内部元器件 (电源 IC) 可能存在损伤。基于系统的安全设计，车辆会在特殊场景下",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
       ],
-      "tags": [
-        "新能源"
-      ],
+      "tags": [],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "bf0ac0561ff5",
-      "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
-      "category": "industry",
+      "id": "8e75946253ff",
+      "title": "豆包输入法鸿蒙版 0.9.1 上架尝鲜，语音输入可精准识别快速 / 轻声说话",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/910.htm",
-      "publishedAt": "2026-08-22T00:59:58.000Z",
-      "summary": "IT之家 8 月 22 日消息，金融媒体 mitrade 昨日（8 月 21 日）发布博文，报道称 Anthropic 最早可能会在本月（2026 年 8 月）底公开提交 IPO 申请，预估融资规模将超过此前 SpaceX 创造的纪录。 数据显示，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 于今年 6 月 IPO 上市初期，筹集了 750 亿美元 （IT之家注：现汇率约合 5,053.39 亿元人民币） ，创下了史",
+      "link": "https://www.ithome.com/0/992/930.htm",
+      "publishedAt": "2026-08-22T02:39:30.000Z",
+      "summary": "IT之家 8 月 22 日消息，豆包输入法鸿蒙版现已在 App Gallery 应用商店 开启尝鲜 ，版本号为 0.9.1（901），时间为 8 月 22 日至 9 月 21 日。 官方表示，豆包输入法的「语音输入」使用豆包同款语音大模型，语音输入又快又准，支持多方言、英语及中英混输；快速说话、轻声说话均可精准识别，无网 / 弱网环境下也能流畅使用，同时提供点击输入、长按输入等多种操作方式。「键盘输入」则提供了 9 键、26 键的键盘输",
       "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
       ],
       "tags": [],
       "trust": 58,
@@ -388,73 +310,6 @@
       "priority": 70
     },
     {
-      "id": "f1adbbd5be6a",
-      "title": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/887.htm",
-      "publishedAt": "2026-08-21T18:11:57.000Z",
-      "summary": "IT之家 8 月 22 日消息，动视旗下《使命召唤 ® ：现代战争 ® 4》试玩现已登陆 Steam 平台，本作由 Infinity Ward、Beenox、Digital Legends、Activision Shanghai 等多家工作室联合开发，动视发行，完整游戏于今天正式发售。 IT之家附游戏商品页（ https://store.steampowered.com/app/4783780/_4/ ?l=schinese&cc=cn",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "3277062057f1",
-      "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/883.htm",
-      "publishedAt": "2026-08-21T15:34:51.000Z",
-      "summary": "8 月 21 日，据《商业内幕》报道，旧金山机器人大会 Actuate 吸引了约 1500 名投资者、创业者和工程师参与，但现场展示的机器人数量却远少于预期。 在人工智能从软件领域向现实世界延伸的背景下，机器人行业正迎来投资热潮，但硬件供应不足、训练数据短缺以及供应链限制，成为行业进一步发展的关键挑战。 硅谷最热门的机器人技术大会上为数不多的机器人之一 报道称，Actuate 大会由机器人软件公司 Foxglove 主办，今年参会人数较",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "机器人",
-        "创业",
-        "政策"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "8a0b48a3f252",
-      "title": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/882.htm",
-      "publishedAt": "2026-08-21T15:32:33.000Z",
-      "summary": "据《连线》报道，随着人工智能快速进入工作、教育和日常生活，美国社会对 AI 的抵触情绪正在上升。 最新调查显示，超过一半的 30 岁以下美国人对 AI“担忧多于兴奋”，这一比例相比五年前增加了 24%；超过 70% 的受访者认为，AI 将导致就业岗位减少。 《连线》指出，硅谷正在试图解释这股反 AI 情绪，但部分科技公司领导者可能没有真正理解公众担忧的根源。 公众对 AI 的不安已经不只集中在就业和数据中心建设。 相关调查显示，美国人还",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "教育"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
       "id": "f99575405cd7",
       "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
       "category": "ai",
@@ -474,6 +329,70 @@
       "trust": 58,
       "opportunity": 63,
       "priority": 65
+    },
+    {
+      "id": "50941ac5ea5c",
+      "title": "特斯拉官宣 9 月 3 日举办 Cybercab 发布会，有望开放首次公众试乘",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/973.htm",
+      "publishedAt": "2026-08-22T04:17:45.000Z",
+      "summary": "特斯拉宣布9月3日在奥斯汀举办Cybercab发布会，有望首次开放公众试乘，该车专为完全自动驾驶设计，已在公共道路测试。",
+      "actionSteps": [
+        "关注发布会直播或报道",
+        "了解自动驾驶出租车政策法规",
+        "评估对出行市场的影响"
+      ],
+      "tags": [
+        "特斯拉",
+        "自动驾驶",
+        "Cybercab",
+        "发布会"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "自动驾驶出租车商业化进展影响出行行业和消费者，发布会可能带来新体验和商业模式。",
+        "riskNotes": "信息来自特斯拉官方账号，但试乘细节和实际运营能力未证实，需关注发布会实况。"
+      }
+    },
+    {
+      "id": "56fc7326e71e",
+      "title": "OpenAI 下调 GPT-5.6 Sol 模型价格，API 与 Credit 费用降幅超 20%",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/969.htm",
+      "publishedAt": "2026-08-22T04:01:33.000Z",
+      "summary": "OpenAI下调GPT-5.6 Sol模型价格，API和Credit费用降幅超20%，降低使用成本。",
+      "actionSteps": [
+        "访问OpenAI官网确认价格",
+        "评估自身业务对API的依赖",
+        "考虑调整AI使用策略以降低成本"
+      ],
+      "tags": [
+        "OpenAI",
+        "GPT-5.6",
+        "降价",
+        "AI"
+      ],
+      "trust": 3,
+      "opportunity": 4,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "降价使AI技术更易获取，可能促进中小企业采用，影响AI应用市场格局。",
+        "riskNotes": "价格信息来自IT之家，需以OpenAI官方公告为准；降价可能伴随服务调整。"
+      }
     },
     {
       "id": "785c810c16ee",
@@ -693,23 +612,88 @@
       }
     },
     {
-      "id": "b906cd58e9ec",
-      "title": "特斯拉官网更新：监督版 FSD 支持地区不再包含中国",
+      "id": "8b48c7ae4005",
+      "title": "国内首台抽蓄项目长斜井智能掘锚一体化装备成功应用",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/918.htm",
-      "publishedAt": "2026-08-22T01:45:24.000Z",
-      "summary": "特斯拉官网更新FSD监督版可用地区，中国不在名单中，与5月信息矛盾，或影响中国用户期待。",
+      "link": "https://www.ithome.com/0/992/975.htm",
+      "publishedAt": "2026-08-22T04:45:29.000Z",
+      "summary": "国内首台抽蓄项目长斜井智能掘锚一体化装备在河南九峰山电站成功应用，提升施工效率。",
       "actionSteps": [
-        "访问特斯拉官网确认最新名单",
-        "关注特斯拉中国官方动态",
-        "评估对相关投资或购车计划的影响"
+        "关注项目后续进展和效率数据",
+        "研究智能掘锚装备技术细节",
+        "评估对抽水蓄能行业的影响"
       ],
       "tags": [
-        "特斯拉",
-        "FSD",
-        "自动驾驶"
+        "抽水蓄能",
+        "智能装备",
+        "能源",
+        "基建"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "该装备应用标志我国抽水蓄能建设技术突破，可能推动相关工程降本增效，对能源基建有积极影响。",
+        "riskNotes": "信息来源为中国电建，可能带有宣传成分；实际效果需项目运行数据验证。"
+      }
+    },
+    {
+      "id": "19cd5263172e",
+      "title": "爆料称索尼 PS6 游戏掌机售价恐超 600 美元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/971.htm",
+      "publishedAt": "2026-08-22T04:11:15.000Z",
+      "summary": "爆料称索尼PS6游戏掌机因LPDDR内存成本飙升，售价恐超600美元（约4043元人民币）。",
+      "actionSteps": [
+        "关注索尼官方公告",
+        "比较同类产品价格",
+        "评估自身购买预算"
+      ],
+      "tags": [
+        "索尼",
+        "PS6",
+        "掌机",
+        "价格"
+      ],
+      "trust": 1,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "游戏硬件价格影响消费者购买决策，PS6掌机定价可能影响市场格局。",
+        "riskNotes": "消息源为论坛爆料，非官方信息，价格和配置未证实，需谨慎对待。"
+      }
+    },
+    {
+      "id": "acfa80ed481a",
+      "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/992/941.htm",
+      "publishedAt": "2026-08-22T03:35:46.000Z",
+      "summary": "Anthropic IPO招股书将美国公众对AI的抵制列为关键风险，CFO在试探性推介中回应竞争、开源模型利润压力和数据中心建设放缓等问题。",
+      "actionSteps": [
+        "关注Anthropic官方招股书披露",
+        "评估AI监管政策变化风险",
+        "跟踪AI行业公众情绪动态"
+      ],
+      "tags": [
+        "AI",
+        "IPO",
+        "风险",
+        "监管"
       ],
       "trust": 2,
       "opportunity": 1,
@@ -717,10 +701,10 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T01:51:55.825Z",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对中国消费者，FSD入华时间可能推迟，影响购车决策；对行业，特斯拉在华智驾布局存变数。",
-        "riskNotes": "基于IT之家报道，官网信息可能更新；需核实特斯拉官方最新公告。"
+        "whyItMatters": "AI行业领军企业的IPO风险披露反映公众情绪可能影响监管和商业前景，对AI从业者和投资者有参考意义。",
+        "riskNotes": "信息源自CNBC报道，非官方一手来源，招股书细节未核实，需关注后续官方文件。"
       }
     },
     {
@@ -848,6 +832,70 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对AI代理开发者和团队协作，可能改变知识管理方式，提高效率。",
         "riskNotes": "项目处于展示阶段，未提供具体实现细节，需验证可行性。"
+      }
+    },
+    {
+      "id": "c5fc940f7ada",
+      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "publishedAt": "2026-08-21T21:00:48.000Z",
+      "summary": "SalesPatriot（YC W25）正在招聘Forward Deployed Engineers，职位信息发布在Y Combinator公司页面。",
+      "actionSteps": [
+        "访问招聘页面查看详情",
+        "评估自身技能匹配度",
+        "准备申请材料"
+      ],
+      "tags": [
+        "招聘",
+        "YC",
+        "工程师",
+        "机会"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对求职者而言是潜在就业机会，反映初创公司对技术人才的需求。",
+        "riskNotes": "招聘信息来自官方，但具体职位要求和待遇未详述，需进一步核实。"
+      }
+    },
+    {
+      "id": "31ef8ebb46d9",
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://rust-glancer.github.io/blog/hello-world/",
+      "publishedAt": "2026-08-21T19:51:54.000Z",
+      "summary": "Rust Glancer项目声称使用比传统LSP少100倍内存的Rust语言服务器，在Hacker News上获得81分和24条评论。",
+      "actionSteps": [
+        "阅读项目技术博客",
+        "测试或试用该工具",
+        "关注社区反馈"
+      ],
+      "tags": [
+        "Rust",
+        "LSP",
+        "内存",
+        "开发工具"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对开发者而言，内存效率高的工具可提升开发体验，尤其对大型项目。",
+        "riskNotes": "项目声称的性能未独立验证，需查看技术细节和实际测试。"
       }
     },
     {
@@ -1162,98 +1210,99 @@
       }
     },
     {
-      "id": "1c6e58a0b0ef",
-      "title": "奇瑞全新 QQ3 摩登版纯电小车开启预订，现款 5.89 万元起",
+      "id": "84b135b51a27",
+      "title": "单联瑜：小米武汉智能工厂累计参观人数破 2 万，接待 354 名海外游客",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/917.htm",
-      "publishedAt": "2026-08-22T01:41:21.000Z",
-      "summary": "奇瑞全新QQ3摩登版纯电小车开启预订，复古设计，现款5.89万起，预计近期上市。",
+      "link": "https://www.ithome.com/0/992/976.htm",
+      "publishedAt": "2026-08-22T04:48:20.000Z",
+      "summary": "小米武汉智能工厂参观人数破2万，接待354名海外游客，展示智能制造实力。",
       "actionSteps": [
-        "关注奇瑞官方发布信息",
-        "比较同级别竞品",
-        "如有意向可预订或试驾"
+        "关注小米智能工厂的产能和效率数据",
+        "分析其开放参观对品牌和销售的影响",
+        "考察智能工厂模式对行业启示"
       ],
       "tags": [
-        "奇瑞",
-        "电动车",
-        "微型车"
+        "小米",
+        "智能工厂",
+        "智能制造",
+        "品牌"
       ],
-      "trust": 2,
+      "trust": 3,
       "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T01:51:55.826Z",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对消费者，提供新选择，价格亲民；对行业，奇瑞布局微型电动车市场。",
-        "riskNotes": "信息来自IT之家，具体配置和价格未完全公布，需官方确认。"
+        "whyItMatters": "小米智能工厂的开放参观有助于提升品牌形象，吸引潜在合作和投资，对制造业智能化转型有示范作用。",
+        "riskNotes": "参观人数数据来自小米高管，可能带有宣传性质；实际影响需结合其他指标。"
       }
     },
     {
-      "id": "0fcb3db7485e",
-      "title": "极星 Polestar 4 SUV 无伪装实车曝光：新增后窗、方正尾门设计",
-      "category": "industry",
+      "id": "0606a8f7c0c6",
+      "title": "现代汽车申请可伸缩安全带导向器专利：瞄准无 B 柱车型，装在座椅上",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/916.htm",
-      "publishedAt": "2026-08-22T01:39:28.000Z",
-      "summary": "极星Polestar 4 SUV无伪装实车曝光，新增后窗和方正尾门，计划9月2日海外发布。",
+      "link": "https://www.ithome.com/0/992/974.htm",
+      "publishedAt": "2026-08-22T04:37:08.000Z",
+      "summary": "现代汽车申请可伸缩安全带导向器专利，面向无B柱车型，安全带可自动前移，提升便利性。",
       "actionSteps": [
-        "关注极星官方9月2日发布会",
-        "对比轿跑版与SUV版配置差异",
-        "如有购车意向，可预约试驾"
+        "关注现代汽车专利后续进展",
+        "评估无B柱车型市场趋势",
+        "跟踪相关技术对汽车安全标准的影响"
       ],
       "tags": [
-        "极星",
-        "SUV",
-        "电动车",
-        "发布"
+        "汽车",
+        "专利",
+        "安全带",
+        "无B柱"
       ],
-      "trust": 2,
+      "trust": 3,
       "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T01:51:55.826Z",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对关注电动汽车的消费者，提供新车型设计变化信息，影响购车决策。",
-        "riskNotes": "实车图片来自媒体抓拍，非官方发布，最终设计可能调整。"
+        "whyItMatters": "该技术可能提升无B柱车型的安全带使用便利性，未来或应用于智能汽车，影响汽车设计和用户体验。",
+        "riskNotes": "专利仅为申请，不代表量产；技术细节和实际效果需进一步验证。"
       }
     },
     {
-      "id": "3c615c315d8d",
-      "title": "开源兼容层 Wine 11.16 发布：新增 VA-API 硬件解码，修复 Steam 无法启动等 35 个 Bug",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/915.htm",
-      "publishedAt": "2026-08-22T01:22:17.000Z",
-      "summary": "Wine 11.16发布，新增VA-API硬件解码，修复35个Bug，首次支持ARM64。",
+      "id": "cad041c3eb8c",
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113675",
+      "publishedAt": "2026-08-22T03:00:00.000Z",
+      "summary": "少数派广州线下店将举办迈克尔·杰克逊68周年诞辰唱片展，为音乐爱好者提供交流空间。",
       "actionSteps": [
-        "更新Wine到11.16版本",
-        "测试常用Windows应用兼容性",
-        "关注ARM64支持进展"
+        "查看少数派官方活动详情",
+        "规划参与时间",
+        "关注线下店地址"
       ],
       "tags": [
-        "Wine",
-        "Linux",
-        "兼容层",
-        "更新"
+        "音乐",
+        "展览",
+        "线下活动",
+        "MJ"
       ],
-      "trust": 2,
-      "opportunity": 2,
+      "trust": 3,
+      "opportunity": 1,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T01:51:55.826Z",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对Linux用户，提升Windows应用运行体验，尤其视频解码和ARM设备。",
-        "riskNotes": "信息来自IT之家转述Linuxiac，Wine官方发布说明需核实。"
+        "whyItMatters": "对MJ粉丝和音乐爱好者是文化活动机会，也体现线下零售空间转型。",
+        "riskNotes": "活动信息来自少数派，具体细节和参与方式未明确，需关注官方通知。"
       }
     },
     {
@@ -1662,34 +1711,67 @@
       }
     },
     {
-      "id": "8138318a8501",
-      "title": "App+1 | Inkive：把纸质书上划好的线存进 Obsidian",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/111936",
-      "publishedAt": "2026-08-19T02:54:52.000Z",
-      "summary": "Inkive应用可将纸质书上的划线内容数字化，存入Obsidian笔记系统，实现纸书笔记与数字笔记的整合。",
+      "id": "81ababf2be74",
+      "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+      "publishedAt": "2026-08-22T02:37:30.000Z",
+      "summary": "早期人类可能食用碳水化合物和含糖食物，挑战传统饮食观念。",
       "actionSteps": [
-        "搜索Inkive应用介绍和用户评价",
-        "下载试用，测试划线识别准确度",
-        "配置Obsidian插件或导入流程"
+        "查阅原始研究论文",
+        "关注相关领域专家解读",
+        "评估对饮食指南的潜在影响"
       ],
       "tags": [
-        "效率工具",
-        "笔记",
-        "Obsidian"
+        "人类进化",
+        "饮食",
+        "碳水化合物",
+        "研究"
       ],
       "trust": 2,
-      "opportunity": 3,
-      "priority": 1,
+      "opportunity": 1,
+      "priority": 0,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:58:06.747Z",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对知识工作者和学生，可提高笔记整理效率，实现纸质阅读与数字管理的无缝衔接。",
-        "riskNotes": "摘要来自少数派，未提供详细功能和使用方法，需实际测试或查看评测确认效果。"
+        "whyItMatters": "该研究可能影响现代饮食建议，对健康产业和食品行业有潜在影响。",
+        "riskNotes": "基于历史研究，证据可能有限；结论需更多考古和人类学证据支持。"
+      }
+    },
+    {
+      "id": "c60e9177a631",
+      "title": "Three important steps in my maturation process",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "publishedAt": "2026-08-21T22:29:00.000Z",
+      "summary": "个人成长经验分享，作者总结成熟过程中的三个重要步骤，引发讨论。",
+      "actionSteps": [
+        "阅读原文获取详细观点",
+        "结合自身情况反思",
+        "参与讨论交流心得"
+      ],
+      "tags": [
+        "个人成长",
+        "经验",
+        "成熟",
+        "反思"
+      ],
+      "trust": 1,
+      "opportunity": 1,
+      "priority": 0,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T04:51:37.808Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "个人成长经验可能对职业发展和自我提升有启发，但主观性强。",
+        "riskNotes": "内容为个人观点，缺乏实证；适用性因人而异。"
       }
     }
   ]
