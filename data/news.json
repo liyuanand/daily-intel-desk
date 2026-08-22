@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T08:49:26.685Z",
+  "generatedAt": "2026-08-22T13:01:54.961Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 36
+    "reused": 37
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,14 +194,35 @@
       "priority": 89
     },
     {
-      "id": "6f0bdfca6c29",
-      "title": "百度地图与经典游戏 IP《仙剑奇侠传》开启联动，上线龙葵付费语音包 / 3D 导航车标",
+      "id": "50fd8b3736cf",
+      "title": "米哈游 UE5 奇幻游戏新作《源初之结》开启全球测试招募，宣传海报曝光",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/026.htm",
-      "publishedAt": "2026-08-22T08:17:07.000Z",
-      "summary": "IT之家 8 月 22 日消息，百度地图宣布与经典游戏 IP《仙剑奇侠传》开启联动，上线经典角色龙葵的双声线导航语音包，整套语音包售价 8 元。 据介绍，相应语音包提供蓝葵、红葵两种不同声线， 其中蓝色龙葵声音温柔，适合日常返程导航；红色龙葵风格飒爽 。用户打开百度地图 App，搜索关键词“仙剑奇侠传”，就能进入联动专题页面，购买任意一款龙葵语音，就能拿到配套的双色龙葵地图主题皮肤。 官方同步上线两款 3D 导航车标（定价 6 元），其",
+      "link": "https://www.ithome.com/0/993/092.htm",
+      "publishedAt": "2026-08-22T12:28:29.000Z",
+      "summary": "IT之家 8 月 22 日消息，8 月 21 日起，米哈游旗下奇幻写实动作游戏新作《源初之结》（英文名《The Weavers》或《NODUSFALL》）在 Facebook、Instagram、Threads 等平台投放全球测试招募广告，标志着这款备受期待的 UE5 新作正式进入宣发阶段。 《源初之结》是一款以多元神话为题材、聚焦多人合作的奇幻写实动作游戏。玩家将以“织者”的身份踏入神权陨落、秩序崩塌的世界，结识强大的伙伴，共同迎战撼",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "9f4844c3f8b5",
+      "title": "微软谈老 Windows 自带游戏《三维弹球》为何删了：我们没法花好几天研究代码",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/089.htm",
+      "publishedAt": "2026-08-22T12:11:10.000Z",
+      "summary": "IT之家 8 月 22 日消息，据科技媒体 Windows Latest 今天报道，微软曾经在 Win2K、WinXP 等经典系统中预装《三维弹球》游戏。但随着 Windows Vista 发布，这款游戏最终被删除。 多年来，人们一直以为这款游戏被删与法律问题有关。但根据微软资深工程师 Raymond Chen 解释，这款游戏消失的原因，其实远没有大家想的那么复杂。 据悉，微软团队曾在开发 Windows XP 64 位时，将数百万行 ",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -213,39 +234,18 @@
       "priority": 70
     },
     {
-      "id": "0c445a5a0fe3",
-      "title": "美国警方借助苹果 AirTag 定位，成功抓获劫车嫌疑人",
-      "category": "ai",
+      "id": "94e404e25293",
+      "title": "WordPress 扩展 W3 Total Cache 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/001.htm",
-      "publishedAt": "2026-08-22T06:52:22.000Z",
-      "summary": "IT之家 8 月 22 日消息，据外媒 autoevolution 报道，近日美国俄亥俄州克利夫兰警方利用苹果 AirTag 提供的定位信息，成功追踪并逮捕了一名涉嫌劫车的嫌疑人。 据报道，相应事件发生在一家加油站，受害者系一名 67 岁女子，其在加油时遭到犯罪嫌疑人持枪索要车钥匙，之后犯罪嫌疑人驾驶受害者的汽车逃之夭夭。 警方接到受害者报警后，联系克利夫兰实时犯罪中心追踪车辆，但由于当时天气恶劣，监控画面无法看清车牌信息。随后警方了解",
+      "link": "https://www.ithome.com/0/993/088.htm",
+      "publishedAt": "2026-08-22T12:09:00.000Z",
+      "summary": "IT之家 8 月 22 日消息，安全研究机构 WPScan 发文，透露 WordPress 一款拥有超过 90 万活跃安装量的扩展 W3 Total Cache 存在严重安全漏洞，该漏洞编号为 CVE-2026-18051，CVSS 评分达到满分 10.0 分。 IT之家参考通报获悉，该漏洞源于 W3 Total Cache 在处理缓存文件路径时存在缺陷，没有将文件路径限制在指定目录范围内，导致攻击者可以将文件写入服务器上的任意现有目录",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "8e75946253ff",
-      "title": "豆包输入法鸿蒙版 0.9.1 上架尝鲜，语音输入可精准识别快速 / 轻声说话",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/930.htm",
-      "publishedAt": "2026-08-22T02:39:30.000Z",
-      "summary": "IT之家 8 月 22 日消息，豆包输入法鸿蒙版现已在 App Gallery 应用商店 开启尝鲜 ，版本号为 0.9.1（901），时间为 8 月 22 日至 9 月 21 日。 官方表示，豆包输入法的「语音输入」使用豆包同款语音大模型，语音输入又快又准，支持多方言、英语及中英混输；快速说话、轻声说话均可精准识别，无网 / 弱网环境下也能流畅使用，同时提供点击输入、长按输入等多种操作方式。「键盘输入」则提供了 9 键、26 键的键盘输",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
       "tags": [],
       "trust": 58,
@@ -253,25 +253,48 @@
       "priority": 70
     },
     {
-      "id": "5320b0449c33",
-      "title": "菲利华 2026 年半年度归母净利润 2.95 亿元，同比增长 32.95%",
-      "category": "industry",
+      "id": "030394c9bcbb",
+      "title": "雷鸟 iO AI 眼镜体验：全天智记是亮点，堪比随身助理",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/217.htm",
-      "publishedAt": "2026-08-20T09:00:05.000Z",
-      "summary": "IT之家 8 月 22 日消息，菲利华今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告： 营业总收入 ：13.08 亿元，同比增长 44.06% 归母净利润 ：2.95 亿元，同比增长 32.95% 扣非净利润 ：2.74 亿元，同比增长 34.57% 经营现金流 ：1.36 亿元，同比下降 28.73% 加权平均净资产收益率 ：6.1% 基本每股收益 ：0.5656 元，同比增长 32.8% 稀释每股收益",
+      "link": "https://www.ithome.com/0/993/065.htm",
+      "publishedAt": "2026-08-22T10:20:28.000Z",
+      "summary": "眼下 AI 眼镜绝对是智能穿戴设备里炙手可热的赛道。IDC 预测，2026 年全球 AI 眼镜出货量将突破 2300 万台，中国市场增速更为突出，预计同比增长 77.7%。在国内，包括华为、小米、阿里、字节、理想等几乎所有大厂都在挤入这个市场。 而在智能眼镜市场，雷鸟创新显然是老玩家了，目前也已经形成了包括旗舰独立计算 AR 眼镜 X 系列、AI 拍摄智能眼镜 V 系列、高端 AR 观影眼镜 GT 系列、分体式入门观影 AR 眼镜 Ai",
       "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
       ],
       "tags": [
-        "AI"
+        "AI",
+        "视频"
       ],
       "trust": 58,
-      "opportunity": 65,
-      "priority": 67
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "eeb850beaf7c",
+      "title": "英伟达否认年底前推出中国特供 AI 芯片：路线图中无此产品",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/033.htm",
+      "publishedAt": "2026-08-22T08:55:25.000Z",
+      "summary": "IT之家 8 月 22 日消息，The Information 昨日报道称英伟达计划在年底前向中国客户小批量出货一款定制 AI 芯片，英伟达随后予以明确否认。 英伟达发言人表示：“The Information 关于英伟达 LPU 的报道不实。我们目前在中国市场没有 LPU 销售，产品路线图中也没有针对中国市场的 LPU 产品。” The Information 称，该芯片是英伟达于今年 3 月 GTC 大会上发布的 Groq 3 LP",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
     },
     {
       "id": "f99575405cd7",
@@ -295,25 +318,99 @@
       "priority": 65
     },
     {
-      "id": "48ae197b6340",
-      "title": "璞泰来 2026 年半年度归母净利润 14.52 亿元，同比增长 37.58%",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/991/738.htm",
-      "publishedAt": "2026-08-19T09:19:56.000Z",
-      "summary": "IT之家 8 月 22 日消息，璞泰来今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告： 营业总收入 ：101.15 亿元，同比增长 42.7% 归母净利润 ：14.52 亿元，同比增长 37.58% 扣非净利润 ：13.12 亿元，同比增长 32.25% 经营现金流 ：17.99 亿元，同比增长 47.05% 加权平均净资产收益率 ：6.89% 基本每股收益 ：0.69 元，同比增长 40.82% 稀释每",
+      "id": "c4b6f54aa6e7",
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "publishedAt": "2026-08-22T10:26:09.000Z",
+      "summary": "加拿大暂停与美国贸易谈判，并对美国关税实施对等报复，总理卡尼发表声明。",
       "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
+        "关注两国官方公告了解关税清单",
+        "评估自身业务或消费的受影响程度",
+        "考虑供应链多元化或替代采购方案"
       ],
       "tags": [
-        "AI"
+        "贸易",
+        "关税",
+        "加拿大",
+        "美国"
       ],
-      "trust": 58,
-      "opportunity": 63,
-      "priority": 65
+      "trust": 4,
+      "opportunity": 2,
+      "priority": 4,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对进出口企业而言，关税变化直接影响成本和供应链；对普通消费者而言，可能导致商品价格上涨；对全球经济而言，贸易紧张可能加剧。",
+        "riskNotes": "来源为加拿大总理官网声明，属于官方一手信息，但具体关税细节和影响需进一步核实。"
+      }
+    },
+    {
+      "id": "6ad84036a6d6",
+      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "publishedAt": "2026-08-22T12:07:06.000Z",
+      "summary": "Meta被指控针对儿童隐私采取“钩住、持有、收获、隐藏”策略，相关细节在审判第一周被披露。",
+      "actionSteps": [
+        "关注案件进展和最终判决",
+        "检查并调整儿童账户的隐私设置",
+        "关注监管动态，评估对相关投资的影响"
+      ],
+      "tags": [
+        "Meta",
+        "隐私",
+        "儿童",
+        "法律"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对家长和儿童用户而言，涉及隐私安全，可能影响对Meta产品的信任；对科技行业而言，可能引发更严格的监管和行业标准变化。",
+        "riskNotes": "来源为The Guardian报道，基于法庭披露，但Meta尚未回应，指控未经最终裁决。"
+      }
+    },
+    {
+      "id": "7c62b55c6a5b",
+      "title": "研究人员曝光美国 NASA 地面控制软件 AIT-GUI 存在严重安全漏洞，可导致黑客向飞船发送任意指令",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/085.htm",
+      "publishedAt": "2026-08-22T11:53:08.000Z",
+      "summary": "NASA地面控制软件AIT-GUI被曝严重漏洞，CVSS评分9.4，黑客可能向飞船发送任意指令，影响航天任务安全。",
+      "actionSteps": [
+        "关注NASA官方安全公告",
+        "评估相关系统是否受影响",
+        "加强网络安全防护措施"
+      ],
+      "tags": [
+        "网络安全",
+        "航天",
+        "漏洞"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "航天系统安全漏洞可能危及卫星、飞船等关键设施，引发数据泄露或任务失败，对依赖航天技术的通信、导航、气象服务造成潜在影响。",
+        "riskNotes": "漏洞细节来自安全公司报告，未经NASA官方确认，实际可利用性和影响范围需进一步验证。"
+      }
     },
     {
       "id": "41561ff48455",
@@ -344,69 +441,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "平台企业需加强商家资质审核和商品质量管控，消费者可能面临更严格的监管，但具体执行效果待观察。",
         "riskNotes": "信息来自IT之家转述官方公告，非一手来源，具体政策细节和处罚措施未披露。"
-      }
-    },
-    {
-      "id": "cea9ec42ca12",
-      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "publishedAt": "2026-08-22T06:16:57.000Z",
-      "summary": "贸易谈判破裂后，加拿大宣布将对美国关税进行对等反制，影响双边贸易。",
-      "actionSteps": [
-        "关注加拿大和美国官方贸易公告",
-        "评估自身业务或投资对关税的敏感度",
-        "咨询专业顾问调整策略"
-      ],
-      "tags": [
-        "贸易",
-        "关税",
-        "加拿大"
-      ],
-      "trust": 4,
-      "opportunity": 3,
-      "priority": 3,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "关税变化影响进出口企业成本，可能波及消费者价格，对跨境贸易和投资有重要影响。",
-        "riskNotes": "信息来自BBC报道，具体关税清单和生效时间未详，需关注官方政策文件。"
-      }
-    },
-    {
-      "id": "56fc7326e71e",
-      "title": "OpenAI 下调 GPT-5.6 Sol 模型价格，API 与 Credit 费用降幅超 20%",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/969.htm",
-      "publishedAt": "2026-08-22T04:01:33.000Z",
-      "summary": "OpenAI下调GPT-5.6 Sol模型价格，API和Credit费用降幅超20%，降低使用成本。",
-      "actionSteps": [
-        "访问OpenAI官网确认价格",
-        "评估自身业务对API的依赖",
-        "考虑调整AI使用策略以降低成本"
-      ],
-      "tags": [
-        "OpenAI",
-        "GPT-5.6",
-        "降价",
-        "AI"
-      ],
-      "trust": 3,
-      "opportunity": 4,
-      "priority": 3,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T04:51:37.808Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "降价使AI技术更易获取，可能促进中小企业采用，影响AI应用市场格局。",
-        "riskNotes": "价格信息来自IT之家，需以OpenAI官方公告为准；降价可能伴随服务调整。"
       }
     },
     {
@@ -627,65 +661,130 @@
       }
     },
     {
-      "id": "c0d29a8bb733",
-      "title": "《逃离塔科夫》开发者回应降低难度原因：吸引 Steam 新玩家",
+      "id": "4e147fe62419",
+      "title": "DeepSeek 调整 API 周末计费：周六日全天统一按低谷价收费",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/030.htm",
-      "publishedAt": "2026-08-22T08:46:00.000Z",
-      "summary": "《逃离塔科夫》开发商Battlestate Games为吸引Steam新玩家，降低游戏难度，工作室负责人尼基塔·布解释了这一决策。",
+      "link": "https://www.ithome.com/0/993/095.htm",
+      "publishedAt": "2026-08-22T12:51:37.000Z",
+      "summary": "DeepSeek调整API计费规则，自2026年8月23日起，周六日全天统一按低谷价收费，此前峰谷定价实施不到一周。",
       "actionSteps": [
-        "关注游戏官方渠道获取更新详情",
-        "参与社区讨论了解玩家反馈",
-        "根据个人偏好决定是否尝试或回归"
+        "查看DeepSeek官方公告确认新计费规则",
+        "重新评估API调用成本，优化周末任务调度",
+        "关注后续定价调整动态"
       ],
       "tags": [
-        "游戏",
-        "逃离塔科夫",
-        "难度调整"
+        "AI",
+        "API",
+        "定价",
+        "DeepSeek"
       ],
-      "trust": 3,
+      "trust": 2,
       "opportunity": 2,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "游戏难度调整影响玩家体验和社区生态，对现有玩家和新玩家都有直接影响。",
-        "riskNotes": "报道基于Insider Gaming，非官方声明，具体改动细节未明确，需关注官方公告。"
+        "whyItMatters": "对开发者而言，可降低周末调用成本，影响成本规划；对AI行业而言，定价策略调整可能引发竞争反应。",
+        "riskNotes": "信息来自用户反馈和IT之家，非官方公告，具体计费细节需以DeepSeek官方文档为准。"
       }
     },
     {
-      "id": "91d4b02fb230",
-      "title": "京东快递公布江苏大闸蟹全套寄递保障方案：行业首创“午餐达、晚餐达”",
+      "id": "bfd6660ff1ba",
+      "title": "B 社员工：微软收购后，我们从不裁员变成每年裁员",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/028.htm",
-      "publishedAt": "2026-08-22T08:26:59.000Z",
-      "summary": "京东快递发布江苏大闸蟹寄递方案，首创“午餐达、晚餐达”，部分城市可实现当日达，冷链资源翻倍，揽收人员增加80%。",
+      "link": "https://www.ithome.com/0/993/094.htm",
+      "publishedAt": "2026-08-22T12:35:57.000Z",
+      "summary": "微软收购后贝塞斯达员工从稳定就业变为每年裁员，近期计划裁撤3200个岗位，引发员工抗议。",
       "actionSteps": [
-        "关注京东快递官方公告了解具体服务城市",
-        "电商卖家可评估合作可能性",
-        "消费者可关注配送时效承诺"
+        "关注微软官方声明",
+        "评估游戏行业就业趋势",
+        "提升自身技能以应对变化"
       ],
       "tags": [
-        "物流",
-        "生鲜电商",
-        "京东"
+        "裁员",
+        "游戏行业",
+        "就业"
       ],
-      "trust": 3,
-      "opportunity": 3,
+      "trust": 2,
+      "opportunity": 0,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "提升大闸蟹配送效率，减少损耗，对电商和消费者有利，但需验证实际履约能力。",
-        "riskNotes": "信息来自京东物流黑板报，属企业宣传，具体覆盖范围和时效未独立验证。"
+        "whyItMatters": "游戏行业裁员影响就业稳定，波及开发者生计，可能影响游戏项目质量和玩家社区，对行业人才流动和职业发展有警示作用。",
+        "riskNotes": "裁员数字来自员工集会报道，微软官方未证实，具体岗位和影响范围需核实。"
+      }
+    },
+    {
+      "id": "01175d5a4288",
+      "title": "长城魏牌 V8X 开启交付：定位大五座旗舰 SUV 车型，指导价 23.98-31.58 万元",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/090.htm",
+      "publishedAt": "2026-08-22T12:12:55.000Z",
+      "summary": "长城魏牌V8X中大型SUV上市并交付，5款配置，指导价23.98-31.58万元，限时权益价22.68-30.28万元，主打豪华与运动，配备双VLA智能体和超级Hi4混动系统。",
+      "actionSteps": [
+        "访问长城汽车官网或经销商核实配置和价格",
+        "对比同级别竞品车型的配置与价格",
+        "关注试驾评测和用户反馈"
+      ],
+      "tags": [
+        "汽车",
+        "长城",
+        "SUV",
+        "新品发布"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对消费者而言，提供了新的中大型SUV选择，价格区间与竞品相比具有竞争力；对企业而言，长城汽车通过新品强化高端市场布局，可能影响同价位车型的竞争格局。",
+        "riskNotes": "信息来自IT之家，非官方一手来源，具体配置和价格需以官方发布为准；限时权益价可能有附加条件。"
+      }
+    },
+    {
+      "id": "c83f244d8916",
+      "title": "1899 元起荣耀 Play11 Pro 手机开售：7000mAh 电池，6.6 英寸 1.5K 120Hz 屏幕",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/087.htm",
+      "publishedAt": "2026-08-22T12:03:01.000Z",
+      "summary": "荣耀Play11 Pro手机开售，三个存储版本，首发价1899元起，叠加国补后最低1614.15元，配备7000mAh电池和6.6英寸1.5K 120Hz屏幕。",
+      "actionSteps": [
+        "在京东等电商平台核实价格和补贴",
+        "对比同价位其他品牌手机",
+        "关注用户评价和续航实测"
+      ],
+      "tags": [
+        "手机",
+        "荣耀",
+        "新品",
+        "性价比"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对消费者而言，提供了高性价比长续航手机选择；对手机市场而言，荣耀在中端市场加强竞争力，可能影响同价位机型销售。",
+        "riskNotes": "信息来自IT之家，官网未上架，价格和补贴政策可能因地区而异，需以官方渠道为准。"
       }
     },
     {
@@ -751,38 +850,6 @@
       }
     },
     {
-      "id": "acfa80ed481a",
-      "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/941.htm",
-      "publishedAt": "2026-08-22T03:35:46.000Z",
-      "summary": "Anthropic IPO招股书将美国公众对AI的抵制列为关键风险，CFO在试探性推介中回应竞争、开源模型利润压力和数据中心建设放缓等问题。",
-      "actionSteps": [
-        "关注Anthropic官方招股书披露",
-        "评估AI监管政策变化风险",
-        "跟踪AI行业公众情绪动态"
-      ],
-      "tags": [
-        "AI",
-        "IPO",
-        "风险",
-        "监管"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T04:51:37.808Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI行业领军企业的IPO风险披露反映公众情绪可能影响监管和商业前景，对AI从业者和投资者有参考意义。",
-        "riskNotes": "信息源自CNBC报道，非官方一手来源，招股书细节未核实，需关注后续官方文件。"
-      }
-    },
-    {
       "id": "c5fc940f7ada",
       "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
       "category": "opportunity",
@@ -844,37 +911,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对开发者而言，内存效率高的工具可提升开发体验，尤其对大型项目。",
         "riskNotes": "项目声称的性能未独立验证，需查看技术细节和实际测试。"
-      }
-    },
-    {
-      "id": "f717a74c16c7",
-      "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://tumbleforth.hardcoded.net/",
-      "publishedAt": "2026-08-21T18:59:52.000Z",
-      "summary": "Tumble Forth项目展示了从汇编到操作系统并用C编译器构建的过程，2023年发布。",
-      "actionSteps": [
-        "访问项目网站了解详情",
-        "评估学习或应用价值",
-        "尝试构建或参与"
-      ],
-      "tags": [
-        "编程",
-        "操作系统",
-        "开源"
-      ],
-      "trust": 3,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对编程爱好者和操作系统开发者有学习价值，可能启发创新项目。",
-        "riskNotes": "信息来自Hacker News，项目细节和可用性需自行验证。"
       }
     },
     {
@@ -1189,6 +1225,162 @@
       }
     },
     {
+      "id": "958bcb70ebae",
+      "title": "大葱哥放出 R 星《GTA6》游戏第七段实机视频，展示加油、打劫小卖部等玩法",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/096.htm",
+      "publishedAt": "2026-08-22T12:53:01.000Z",
+      "summary": "黑客Cyberleek泄露《GTA6》第七段实机视频，展示加油、打劫小卖部等玩法，视频大部分为驾驶场景，并短暂进入俱乐部。",
+      "actionSteps": [
+        "关注R星官方公告确认游戏信息",
+        "谨慎对待泄露内容，避免传播侵权信息",
+        "等待官方演示或试玩体验"
+      ],
+      "tags": [
+        "游戏",
+        "GTA6",
+        "泄露",
+        "黑客"
+      ],
+      "trust": 1,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对游戏玩家而言，泄露内容提前揭示了游戏玩法细节，可能影响购买决策；对游戏行业而言，泄露事件可能引发对游戏开发进度和保密措施的关注。",
+        "riskNotes": "来源为黑客泄露，非官方发布，内容真实性未经证实，可能涉及版权问题。"
+      }
+    },
+    {
+      "id": "143f9a0e7451",
+      "title": "中柏推出 EZpad Max15 安卓平板：搭 15 英寸 1080P 面板、联发科 G99 + 8G + 256G 售 1899 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/093.htm",
+      "publishedAt": "2026-08-22T12:35:53.000Z",
+      "summary": "中柏推出EZpad Max15安卓平板，15英寸1080P屏，联发科G99+8G+256G，售价1899元，可作轻办公本。",
+      "actionSteps": [
+        "对比同类产品",
+        "关注用户评价",
+        "按需购买"
+      ],
+      "tags": [
+        "平板",
+        "安卓",
+        "性价比"
+      ],
+      "trust": 3,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "大屏安卓平板价格亲民，适合影音娱乐和轻办公，为预算有限的用户提供新选择。",
+        "riskNotes": "产品参数来自IT之家，实际性能、屏幕质量和系统体验需用户验证。"
+      }
+    },
+    {
+      "id": "1c691f18433e",
+      "title": "联想 YOGA Air 14 2026 笔记本新增酷睿 Ultra7 266V 版本：重约 1.2kg，9999 元",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/082.htm",
+      "publishedAt": "2026-08-22T11:25:50.000Z",
+      "summary": "联想YOGA Air 14 2026新增酷睿Ultra7 266V版本，16GB内存+1TB SSD，售价9999元，主打轻薄便携。",
+      "actionSteps": [
+        "比较不同配置性价比",
+        "查看专业评测",
+        "根据需求决定是否购买"
+      ],
+      "tags": [
+        "笔记本",
+        "联想",
+        "新品"
+      ],
+      "trust": 3,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "新款笔记本提供更多配置选择，适合追求高性能轻薄本的消费者，价格和性能平衡值得关注。",
+        "riskNotes": "产品信息来自IT之家，具体性能表现和实际体验需用户评测，价格可能变动。"
+      }
+    },
+    {
+      "id": "9de8e8e603c4",
+      "title": "Z80–The 1970s Microprocessor Still Alive",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "publishedAt": "2026-08-22T09:49:57.000Z",
+      "summary": "1970年代的Z80微处理器至今仍在使用，文章探讨其长寿原因和应用场景，引发技术怀旧与嵌入式系统讨论。",
+      "actionSteps": [
+        "阅读原文了解Z80应用",
+        "评估自身项目是否适用成熟技术",
+        "关注嵌入式系统发展趋势"
+      ],
+      "tags": [
+        "Z80",
+        "嵌入式",
+        "技术趋势"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "Z80的持续应用表明成熟技术在某些领域仍具价值，对嵌入式系统开发者、复古计算爱好者有参考意义，也提醒技术迭代并非完全取代。",
+        "riskNotes": "文章内容基于计算机学会出版物，具体应用数据和市场情况需进一步查证。"
+      }
+    },
+    {
+      "id": "93b991f0f95e",
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://munderdiffl.in/",
+      "publishedAt": "2026-08-22T09:49:14.000Z",
+      "summary": "Munder Difflin是一个代理工具，用于运行多个克隆体，模拟办公室环境，可能用于自动化办公或测试。",
+      "actionSteps": [
+        "访问官网了解详情",
+        "评估合规性",
+        "谨慎使用"
+      ],
+      "tags": [
+        "自动化",
+        "工具",
+        "办公"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "该工具可能提高办公自动化效率，但涉及克隆和代理，需关注伦理和法律风险，对远程工作或团队协作有潜在影响。",
+        "riskNotes": "项目信息来自Hacker News，具体功能和用途需访问官网确认，可能存在夸大或误导。"
+      }
+    },
+    {
       "id": "0ffda1ad7ecb",
       "title": "苹果官网上架 Bellroy Cinch 邮差包：12L 容量，可收纳 MacBook、AirTag，849 元",
       "category": "ai",
@@ -1217,100 +1409,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对苹果用户而言，这是一款官方推荐的配件，但价格较高，需评估是否物有所值。",
         "riskNotes": "信息来自IT之家，非苹果官方公告，价格和规格可能变动，购买前需核实。"
-      }
-    },
-    {
-      "id": "81861a764c4d",
-      "title": "漫威《复仇者联盟 4》重映版片长 185 分钟：仅比原版多 4 分钟，距首映已过去七年",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/029.htm",
-      "publishedAt": "2026-08-22T08:42:09.000Z",
-      "summary": "《复仇者联盟4》重映版片长185分钟，比原版多4分钟，新增内容，9月25日全球上映，中国内地未定档。",
-      "actionSteps": [
-        "关注官方定档消息",
-        "查看影院排片和预售",
-        "决定是否观影"
-      ],
-      "tags": [
-        "漫威",
-        "电影",
-        "重映"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "重映为影迷提供怀旧机会，新增内容可能吸引观众重返影院，对电影市场有积极影响。",
-        "riskNotes": "信息来自AMC排片和IT之家，具体新增内容未披露，中国上映情况未知。"
-      }
-    },
-    {
-      "id": "03ce10d48a31",
-      "title": "V社 Steam Frame 头显现已支持 89 款游戏，发售日仍未公布",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/027.htm",
-      "publishedAt": "2026-08-22T08:18:43.000Z",
-      "summary": "V社Steam Frame头显已支持89款游戏，但发售日未公布，开发者透露相关决策。",
-      "actionSteps": [
-        "关注V社官方公告获取发售信息",
-        "游戏开发者评估适配可能性",
-        "玩家可关注兼容列表更新"
-      ],
-      "tags": [
-        "VR",
-        "游戏",
-        "Steam"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "VR硬件生态扩展，对游戏玩家和开发者有潜在影响，但发售时间不明。",
-        "riskNotes": "信息来自IT之家，游戏列表和开发者言论未官方确认。"
-      }
-    },
-    {
-      "id": "0606a8f7c0c6",
-      "title": "现代汽车申请可伸缩安全带导向器专利：瞄准无 B 柱车型，装在座椅上",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/992/974.htm",
-      "publishedAt": "2026-08-22T04:37:08.000Z",
-      "summary": "现代汽车申请可伸缩安全带导向器专利，面向无B柱车型，安全带可自动前移，提升便利性。",
-      "actionSteps": [
-        "关注现代汽车专利后续进展",
-        "评估无B柱车型市场趋势",
-        "跟踪相关技术对汽车安全标准的影响"
-      ],
-      "tags": [
-        "汽车",
-        "专利",
-        "安全带",
-        "无B柱"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T04:51:37.808Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "该技术可能提升无B柱车型的安全带使用便利性，未来或应用于智能汽车，影响汽车设计和用户体验。",
-        "riskNotes": "专利仅为申请，不代表量产；技术细节和实际效果需进一步验证。"
       }
     },
     {
@@ -1376,37 +1474,6 @@
       }
     },
     {
-      "id": "5d9a1ebcc719",
-      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-      "publishedAt": "2026-08-22T01:02:09.000Z",
-      "summary": "GrapheneOS与摩托罗拉合作，初期聚焦常规非折叠设备，可能提升设备安全性和隐私。",
-      "actionSteps": [
-        "关注GrapheneOS官方公告",
-        "了解合作具体机型",
-        "评估对设备选择的影响"
-      ],
-      "tags": [
-        "GrapheneOS",
-        "摩托罗拉",
-        "隐私安全"
-      ],
-      "trust": 1,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T01:51:55.826Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对用户，可能获得更安全的安卓设备；对行业，合作或推动隐私保护发展。",
-        "riskNotes": "信息来自社交平台，非官方新闻稿；合作细节未披露。"
-      }
-    },
-    {
       "id": "17a127087e4f",
       "title": "HN: The Good Parts (2016)",
       "category": "opportunity",
@@ -1467,37 +1534,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对天文爱好者和科研人员有参考价值，可能促进相关领域研究，但普通公众影响有限。",
         "riskNotes": "信息来自Hacker News，原始来源为科学项目，需进一步核实数据发布细节。"
-      }
-    },
-    {
-      "id": "986d50ac2e35",
-      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-      "publishedAt": "2026-08-21T17:54:06.000Z",
-      "summary": "文章介绍优化meshoptimizer以在几分钟内处理数十亿三角形，技术细节在Hacker News讨论。",
-      "actionSteps": [
-        "阅读原文了解优化方法",
-        "开发者可评估集成到项目",
-        "关注社区反馈"
-      ],
-      "tags": [
-        "图形学",
-        "优化",
-        "开源"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对3D图形和游戏开发有技术价值，可能提升渲染效率，但需专业背景。",
-        "riskNotes": "信息来自Hacker News，技术有效性需实际测试。"
       }
     },
     {
