@@ -1,22 +1,13 @@
 {
-  "generatedAt": "2026-08-23T02:01:03.488Z",
-  "status": "partial",
-  "failedSources": [
-    {
-      "name": "IT 之家",
-      "error": "The operation was aborted due to timeout"
-    },
-    {
-      "name": "IT 之家",
-      "error": "terminated"
-    }
-  ],
+  "generatedAt": "2026-08-23T04:53:25.994Z",
+  "status": "ok",
+  "failedSources": [],
   "ai": {
     "enabled": true,
     "status": "ok",
     "model": "deepseek-chat",
-    "analyzed": 11,
-    "reused": 27
+    "analyzed": 12,
+    "reused": 34
   },
   "categories": {
     "ai": "AI 实操",
@@ -201,6 +192,191 @@
       "trust": 96,
       "opportunity": 76,
       "priority": 89
+    },
+    {
+      "id": "4dbde0995099",
+      "title": "赵长江：智界 RX 预售开启 24 小时，L3 级自动驾驶架构版本订单达到 90%",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/168.htm",
+      "publishedAt": "2026-08-23T03:48:09.000Z",
+      "summary": "IT之家 8 月 23 日消息，智界汽车执行董事及执行副总裁赵长江今日发文透露， 智界 RX 预售开启 24 小时，L3 级自动驾驶架构版本的订单达到 90% 。 赵长江还表示，下订用户中，有不少是法拉利、保时捷、宝马车主，他们认为智界 RX 是智能时代更好的选择，同时也有部分鸿蒙智行 9 系车主增购，认为智界 RX 是家里第二台适合自己开的车。 目前这款新车的各版本配置已出炉，预售价 29.98 万元起。 IT之家汇总智界 RX 新车",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "ebaf93f7250b",
+      "title": "网易《逆水寒：新世界》首次季中大更新： 4.1.3 版本预告片公布，首张新地图、全新种植玩法等",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/166.htm",
+      "publishedAt": "2026-08-23T03:40:53.000Z",
+      "summary": "IT之家 8 月 23 日消息，网易《逆水寒：新世界》官宣，下周五（ 8 月 28 日 ），《逆水寒：新世界》首次季中大更新正式开启。 官方发布了 4.1.3 首次季中大更新预告片 ，首张新地图、全新惊喜种植玩法、首个宠物赛季主题、首个新赛事…… IT之家附新版本主要亮点如下： 元气开学 全新开学季时装企划“社团招新”即将开启，充满无限可能与美好的崭新校园生活向你招手。更有一首《江湖修炼手册》伴你一起修炼青春。 为了让玩家轻松上线、尽情",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "bcbb5af37e25",
+      "title": "告别 XP 时代旧设计，微软将为 Win11 现代化改造鼠标指示器功能",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/165.htm",
+      "publishedAt": "2026-08-23T03:39:03.000Z",
+      "summary": "IT之家 8 月 23 日消息，在上世纪 90 年代，如果你在 Windows 中找不到鼠标光标，通常只能依靠鼠标移动时留下的轨迹，通过来回移动鼠标来定位光标。进入 21 世纪初，微软增加了一项可以通过按下 Ctrl 键来寻找鼠标光标的功能，随着 Windows XP 的普及，这项功能也被越来越多的用户使用。 此后，这项功能基本没有发生太大变化，但如今微软终于准备在 Windows 11 中对它进行现代化改造。 如果你不熟悉这项功能，可",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "0b614691a1c1",
+      "title": "OPPO 新机通过 3C 认证：支持 80W 快充，预计为 Find X10 系列",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/138.htm",
+      "publishedAt": "2026-08-23T01:02:32.000Z",
+      "summary": "IT之家 8 月 23 日消息，一款型号为 PMW110 的 OPPO 新机于 8 月 21 日通过 3C 认证，支持 80W 快充，预计为 OPPO Find X10 系列。 在此之前，这款新机已经于本月初入网，支持 N79 5G 频段 +2.4GHz 扩频通信，预装 ColorOS17 AI 系统， 备案了多个 AI 大模型 。此前爆料显示，新机预计将于 9 月下旬发布，搭载 2nm 天玑 9600 Pro 处理器、HPC 2 亿超",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "718f84e74617",
+      "title": "内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/136.htm",
+      "publishedAt": "2026-08-23T00:52:23.000Z",
+      "summary": "IT之家 8 月 23 日消息，据彭博社报道，由于内存芯片成本大幅上涨，英伟达一些最大客户已经被告知，搭载英伟达 AI 芯片的服务器价格在很多情况下将上涨超过 15%。 报道称，涨价将从明年年初出货的服务器开始生效，受影响的产品包括搭载旗舰级 Vera Rubin 和 Grace Blackwell 芯片的服务器。知情人士表示，具体涨幅将取决于英伟达采用的芯片世代以及服务器的内存配置。 报道称，近期，为微软、Alphabet 旗下谷歌以",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "5e014506cb40",
+      "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/133.htm",
+      "publishedAt": "2026-08-23T00:15:10.000Z",
+      "summary": "IT之家 8 月 23 日消息，总部位于伦敦的 AI 实验室 Inherent 由前谷歌 DeepMind 员工创立。该公司表示，其 AI 智能体 Faraday 仅使用规模远小于 Anthropic 和 OpenAI 旗舰模型的模型，就在一项特定任务中取得了更好的表现。 在众多由前 Google DeepMind 员工创办的初创公司中，Inherent 此前获得的关注相对较少。不过，与那些资金更加充裕、却还没有拿出太多实际成果的竞争对",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "984ac5097787",
+      "title": "哈佛商学院推出 699 美元创业训练营，讲师 AI 数字分身提供路演反馈",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/131.htm",
+      "publishedAt": "2026-08-22T23:58:11.000Z",
+      "summary": "IT之家 8 月 23 日消息，随着哈佛商学院（HBS）寻求扩大自身影响力，其开始借助 AI 虚拟形象为学生提供个性化反馈。 这些 AI 虚拟形象由一家名为 HeyGen 的初创公司打造，目前已被纳入哈佛商学院为创业者推出的 HBS Foundry 训练营。这项课程为期 8 周，收费 699 美元 （IT之家注：现汇率约合 4,710 元人民币） 。 该项目每周都会安排教师进行直播授课，但在模拟路演和董事会会议等实践环节中，真正负责向学",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "机器人",
+        "创业"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "46ffc588142a",
+      "title": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/126.htm",
+      "publishedAt": "2026-08-22T23:36:19.000Z",
+      "summary": "IT之家 8 月 23 日消息，8 月 23 日是《DOTA2》 2026 年国际邀请赛（TI2026 / TI15）的决赛日，三支战队将为了 DOTA2 最高荣耀，在中国上海展开最后的争夺。 Team Liquid、Nigma Galaxy 和 BoomBoys 在 8 月 22 日的比赛中被淘汰，无缘冠军之神盾的争夺；Team Spirit、Team Yandex 和 TEAM VISION 进入决赛日，竞争 TI15 最后的总冠军",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "9dbd8f7a83fb",
+      "title": "利用 AI 合成虚假影像骚扰他人，四川一男子被行拘",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/110.htm",
+      "publishedAt": "2026-08-22T14:44:19.000Z",
+      "summary": "IT之家 8 月 22 日消息，AI 合成技术在当下已广泛应用，不法分子也盯着这项技术行坏事。据央视新闻今天报道，四川警方近日查获一起利用 AI 合成虚假影像骚扰他人的案件，嫌疑人徐某某被公安机关依法行政拘留。 IT之家从原报道获悉，四川眉山仁寿县市民小张上个月来派出所报案，称自己遭到网友徐某某利用合成照片恶意胁迫和持续骚扰，正常生活受到严重影响。 据了解，小张与徐某某通过互联网认识，但双方从未在线下见过面。为达成线下见面并单独相处的目",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
     },
     {
       "id": "785c810c16ee",
@@ -417,6 +593,230 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "政策可能影响社会工作相关机构、从业人员及服务对象，需关注具体措施。",
         "riskNotes": "摘要未提供具体条款，需查阅官方原文确认适用范围和执行细节。"
+      }
+    },
+    {
+      "id": "2ef926e474eb",
+      "title": "华为 MatePad Edge 鸿蒙 HarmonyOS 7.0 花粉 Beta 版电脑模式无线投屏功能上线",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/175.htm",
+      "publishedAt": "2026-08-23T04:36:44.000Z",
+      "summary": "华为 MatePad Edge 升级鸿蒙 7.0 花粉 Beta 后，新增电脑模式无线投屏功能，可无线连接大屏。",
+      "actionSteps": [
+        "检查设备是否支持",
+        "升级至指定版本",
+        "申请花粉 Beta 资格"
+      ],
+      "tags": [
+        "华为",
+        "鸿蒙",
+        "无线投屏",
+        "平板"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "提升平板生产力，方便办公演示，但需特定版本和花粉资格。",
+        "riskNotes": "Beta 版功能可能不稳定，需官方升级路径，非正式版。"
+      }
+    },
+    {
+      "id": "e11e56631e19",
+      "title": "启境 GX7 智能「阔」五座 SUV 西湖烟紫色官图发布，新车首搭华为鸿蒙座舱 6、预埋 L3 级高阶架构",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/173.htm",
+      "publishedAt": "2026-08-23T04:25:38.000Z",
+      "summary": "启境 GX7 智能 SUV 发布官图，首搭鸿蒙座舱6，预埋L3级高阶架构，采用华为乾崑联合设计。",
+      "actionSteps": [
+        "关注官方发布信息",
+        "对比其他智能车型",
+        "等待实车评测"
+      ],
+      "tags": [
+        "智能汽车",
+        "鸿蒙座舱",
+        "L3架构",
+        "启境"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "展示智能汽车与鸿蒙生态融合趋势，对消费者购车有参考价值。",
+        "riskNotes": "官图发布，具体配置和上市时间未定，L3为预埋架构。"
+      }
+    },
+    {
+      "id": "5b9c966c33b5",
+      "title": "朱雀归巢：实现我国首次火箭陆地回收后，蓝箭航天朱雀三号一子级装车返程",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/171.htm",
+      "publishedAt": "2026-08-23T04:03:48.000Z",
+      "summary": "朱雀三号遥二火箭成功实现我国首次火箭陆地回收，标志重复使用火箭技术重大突破。",
+      "actionSteps": [
+        "关注蓝箭航天官方公告获取详细技术报告",
+        "研究商业航天产业链相关投资机会",
+        "留意后续发射计划及政策支持"
+      ],
+      "tags": [
+        "航天",
+        "火箭回收",
+        "商业航天",
+        "技术突破"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "降低航天发射成本，推动商业航天发展，可能带动相关产业链投资和就业。",
+        "riskNotes": "信息来源为IT之家，具体技术细节和后续计划需官方确认。"
+      }
+    },
+    {
+      "id": "ba4f76c56c23",
+      "title": "第 48 届世界技能大赛 9 月 22 日上海开幕，新增无人机系统等 7 个项目",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/170.htm",
+      "publishedAt": "2026-08-23T04:00:59.000Z",
+      "summary": "第48届世界技能大赛将于9月在上海举行，新增无人机系统等7个比赛项目，聚焦人工智能等新技术。",
+      "actionSteps": [
+        "关注大赛官网获取详情",
+        "评估相关技能培训需求",
+        "考虑参与或观摩"
+      ],
+      "tags": [
+        "世界技能大赛",
+        "技能人才",
+        "人工智能",
+        "职业教育"
+      ],
+      "trust": 4,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "反映技能人才需求变化，对职业教育和培训有指导意义。",
+        "riskNotes": "报道来自央视，但具体项目细节需官方确认。"
+      }
+    },
+    {
+      "id": "0625c5c13796",
+      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113002",
+      "publishedAt": "2026-08-23T03:00:00.000Z",
+      "summary": "WinAirCast 是一款让 Windows 电脑音频串流到 HomePod 的工具，旨在打破生态壁垒，提供稳定低延迟的音频体验。",
+      "actionSteps": [
+        "访问官网了解系统要求",
+        "下载并安装测试版",
+        "验证音频延迟和稳定性"
+      ],
+      "tags": [
+        "音频串流",
+        "Windows",
+        "HomePod",
+        "工具"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对同时使用 Windows 和苹果设备的用户，可提升音频体验，无需购买额外硬件。",
+        "riskNotes": "工具为第三方开发，稳定性和兼容性需实际测试，非官方支持。"
+      }
+    },
+    {
+      "id": "bf057c195745",
+      "title": "Oura 遭集体诉讼，被指夸大智能戒指睡眠追踪准确性",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/151.htm",
+      "publishedAt": "2026-08-23T02:24:56.000Z",
+      "summary": "Oura因夸大睡眠追踪准确性遭集体诉讼，原告称其依赖AI估算，准确性如抛硬币。",
+      "actionSteps": [
+        "关注诉讼进展和官方回应",
+        "评估自身对睡眠追踪数据的需求",
+        "对比其他品牌产品的准确性验证"
+      ],
+      "tags": [
+        "Oura",
+        "智能戒指",
+        "集体诉讼",
+        "睡眠监测"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "消费者对智能穿戴设备数据准确性需保持警惕，可能影响购买决策和行业监管。",
+        "riskNotes": "诉讼尚未判决，指控未证实，Oura可能反驳。"
+      }
+    },
+    {
+      "id": "0b175ba72071",
+      "title": "OpenAI 一改此前立场，呼吁加州强化 AI 安全法案",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/141.htm",
+      "publishedAt": "2026-08-23T01:20:58.000Z",
+      "summary": "OpenAI呼吁加州加强SB 53法案，要求对前沿AI模型进行监控和网络安全保护。",
+      "actionSteps": [
+        "查阅加州SB 53法案原文",
+        "关注AI监管政策动态",
+        "评估对AI行业的影响"
+      ],
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "监管",
+        "加州"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "AI监管趋势变化，可能影响AI企业合规成本和技术发展。",
+        "riskNotes": "OpenAI立场转变原因未明，法案具体条款需查阅官方文件。"
       }
     },
     {
@@ -855,70 +1255,136 @@
       }
     },
     {
-      "id": "9a723309fd34",
-      "title": "Software Engineering in the Agentic Era",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
-      "publishedAt": "2026-08-23T00:20:21.000Z",
-      "summary": "文章探讨代理式工程模式，可能涉及AI代理在软件开发中的应用和模式。",
+      "id": "d154e5842712",
+      "title": "沈腾主演电影《欢迎来龙餐馆》 总票房破 15 亿，进入年度前五",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/169.htm",
+      "publishedAt": "2026-08-23T03:52:43.000Z",
+      "summary": "电影《欢迎来龙餐馆》上映13天票房破15亿，进入2026年内地票房前五。",
       "actionSteps": [
-        "阅读原文了解代理式工程模式",
-        "评估AI代理对自身工作的影响",
-        "学习相关技能以适应变化"
+        "关注后续票房走势",
+        "分析成功因素如营销、口碑",
+        "对影视投资或从业者参考"
       ],
       "tags": [
-        "AI代理",
-        "软件开发",
-        "工程模式"
+        "电影",
+        "票房",
+        "沈腾",
+        "市场"
       ],
-      "trust": 1,
+      "trust": 3,
       "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T02:01:03.487Z",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI代理可能改变软件开发方式，影响开发者技能需求和就业市场。",
-        "riskNotes": "仅标题和链接，内容未验证，需阅读原文确认观点。"
+        "whyItMatters": "反映电影市场趋势，沈腾票房号召力，可能影响影视投资和档期安排。",
+        "riskNotes": "数据来自猫眼专业版，需以官方票房为准。"
       }
     },
     {
-      "id": "e65ee3debbce",
-      "title": "US Military newspaper editor voices censorship fears after being fired",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
-      "publishedAt": "2026-08-23T00:19:17.000Z",
-      "summary": "美国军方报纸编辑被解雇后表达对审查的担忧，涉及新闻自由和军队内部管理。",
+      "id": "6821639cce83",
+      "title": "壹号掌机 X2 Mini Pro 国行开售：AMD 锐龙 AI Max+ 388，日常价 17,599 元起",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/161.htm",
+      "publishedAt": "2026-08-23T03:29:16.000Z",
+      "summary": "壹号本旗舰掌机X2 Mini Pro国行开售，搭载AMD锐龙AI Max+ 388，日常价17599元起，预售立减2000元。",
       "actionSteps": [
-        "关注事件后续报道",
-        "思考新闻自由与安全平衡",
-        "不轻信单方面说法"
+        "访问壹号本官网或电商平台核实价格和配置",
+        "对比同类产品如Steam Deck、ROG Ally等",
+        "根据预算和需求决定是否参与预售"
       ],
       "tags": [
-        "新闻自由",
-        "军方",
-        "审查"
+        "掌机",
+        "AMD",
+        "预售",
+        "高端"
       ],
       "trust": 2,
-      "opportunity": 0,
+      "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T02:01:03.488Z",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "反映媒体自由与安全审查的冲突，可能影响公众对军方透明度的信任。",
-        "riskNotes": "来源BBC，但事件细节和背景未提供，需进一步核实。"
+        "whyItMatters": "高端掌机市场新品，价格较高，适合追求便携高性能游戏或AI应用的消费者，预售优惠可节省2000元。",
+        "riskNotes": "价格和配置来自IT之家，未经官方确认，实际性能和市场反响待验证。"
+      }
+    },
+    {
+      "id": "99609a67b1b6",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://martypc.net/",
+      "publishedAt": "2026-08-23T03:13:16.000Z",
+      "summary": "MartyPC 是一个用 Rust 编写的跨平台早期 PC 模拟器，支持多种早期硬件。",
+      "actionSteps": [
+        "访问项目网站了解详情",
+        "下载并尝试运行",
+        "参与社区反馈问题"
+      ],
+      "tags": [
+        "模拟器",
+        "Rust",
+        "复古计算",
+        "开源"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对复古计算爱好者和开发者有价值，可研究早期 PC 架构。",
+        "riskNotes": "项目可能处于早期阶段，功能有限，需自行评估。"
+      }
+    },
+    {
+      "id": "1c232580dfbf",
+      "title": "I Dream of Quieter Computing",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "publishedAt": "2026-08-23T02:33:22.000Z",
+      "summary": "文章探讨对更安静计算的向往，可能涉及降低电脑噪音的设计理念。",
+      "actionSteps": [
+        "阅读原文了解观点",
+        "评估自身对噪音的需求",
+        "考虑静音硬件方案"
+      ],
+      "tags": [
+        "静音计算",
+        "硬件",
+        "用户体验",
+        "设计"
+      ],
+      "trust": 1,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对追求安静工作环境的用户有共鸣，可能影响硬件选择。",
+        "riskNotes": "仅为个人观点，无具体产品信息。"
       }
     },
     {
       "id": "5f827225d9c7",
-      "title": "Thinking in Python by Bruce Eckel",
+      "title": "Thinking in Python",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
@@ -976,37 +1442,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "可能引发对资源再利用和环保创新的关注，对相关行业有启发。",
         "riskNotes": "摘要信息有限，具体内容需点击链接查看，无法确认其实际价值。"
-      }
-    },
-    {
-      "id": "b0c261b5c2bf",
-      "title": "I set a trap for a book-marketing scammer (2025)",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-      "publishedAt": "2026-08-22T18:08:25.000Z",
-      "summary": "作者分享如何设计陷阱揭露图书营销骗局，保护作者免受欺诈。",
-      "actionSteps": [
-        "阅读文章了解骗局手法",
-        "提高对可疑营销的警惕",
-        "分享给其他作者以防受骗"
-      ],
-      "tags": [
-        "图书营销",
-        "防骗",
-        "作者保护"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T02:01:03.488Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "提高公众对图书营销骗局的警惕，帮助作者识别和防范类似欺诈。",
-        "riskNotes": "内容为个人经验分享，具体骗局手法可能随时间变化，需结合最新情况。"
       }
     },
     {
@@ -1323,34 +1758,35 @@
       }
     },
     {
-      "id": "c734de383dbc",
-      "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113588",
-      "publishedAt": "2026-08-19T07:20:08.000Z",
-      "summary": "《控制》新作《控制：共振》闭门试玩体验，被誉为新怪谈游戏祖师爷回归。",
+      "id": "6bd6b4d652fa",
+      "title": "The Art and Beauty of Blade Runner",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "publishedAt": "2026-08-23T00:56:03.000Z",
+      "summary": "Hacker News上关于《银翼杀手》艺术与美学的文章，讨论其视觉风格和文化影响。",
       "actionSteps": [
-        "关注游戏发售日期",
-        "阅读更多评测",
-        "体验前作"
+        "阅读原文了解具体观点",
+        "结合电影分析视觉设计元素",
+        "用于创意灵感或学术研究"
       ],
       "tags": [
-        "游戏",
-        "新怪谈",
-        "Remedy"
+        "银翼杀手",
+        "艺术",
+        "科幻",
+        "文化"
       ],
-      "trust": 2,
+      "trust": 1,
       "opportunity": 1,
-      "priority": 1,
+      "priority": 0,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:58:06.747Z",
+        "analyzedAt": "2026-08-23T04:53:25.993Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对游戏玩家有娱乐价值，可能影响游戏行业趋势。",
-        "riskNotes": "主观体验，无具体发售信息，需关注官方公告。"
+        "whyItMatters": "对影视、设计、科幻文化爱好者有参考价值，可能启发创意产业。",
+        "riskNotes": "内容来自Hacker News，观点主观，无商业影响。"
       }
     },
     {
