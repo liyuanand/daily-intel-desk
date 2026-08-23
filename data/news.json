@@ -1,13 +1,22 @@
 {
-  "generatedAt": "2026-08-22T13:01:54.961Z",
-  "status": "ok",
-  "failedSources": [],
+  "generatedAt": "2026-08-23T02:01:03.488Z",
+  "status": "partial",
+  "failedSources": [
+    {
+      "name": "IT 之家",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "IT 之家",
+      "error": "terminated"
+    }
+  ],
   "ai": {
     "enabled": true,
     "status": "ok",
     "model": "deepseek-chat",
-    "analyzed": 12,
-    "reused": 37
+    "analyzed": 11,
+    "reused": 27
   },
   "categories": {
     "ai": "AI 实操",
@@ -192,256 +201,6 @@
       "trust": 96,
       "opportunity": 76,
       "priority": 89
-    },
-    {
-      "id": "50fd8b3736cf",
-      "title": "米哈游 UE5 奇幻游戏新作《源初之结》开启全球测试招募，宣传海报曝光",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/092.htm",
-      "publishedAt": "2026-08-22T12:28:29.000Z",
-      "summary": "IT之家 8 月 22 日消息，8 月 21 日起，米哈游旗下奇幻写实动作游戏新作《源初之结》（英文名《The Weavers》或《NODUSFALL》）在 Facebook、Instagram、Threads 等平台投放全球测试招募广告，标志着这款备受期待的 UE5 新作正式进入宣发阶段。 《源初之结》是一款以多元神话为题材、聚焦多人合作的奇幻写实动作游戏。玩家将以“织者”的身份踏入神权陨落、秩序崩塌的世界，结识强大的伙伴，共同迎战撼",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "9f4844c3f8b5",
-      "title": "微软谈老 Windows 自带游戏《三维弹球》为何删了：我们没法花好几天研究代码",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/089.htm",
-      "publishedAt": "2026-08-22T12:11:10.000Z",
-      "summary": "IT之家 8 月 22 日消息，据科技媒体 Windows Latest 今天报道，微软曾经在 Win2K、WinXP 等经典系统中预装《三维弹球》游戏。但随着 Windows Vista 发布，这款游戏最终被删除。 多年来，人们一直以为这款游戏被删与法律问题有关。但根据微软资深工程师 Raymond Chen 解释，这款游戏消失的原因，其实远没有大家想的那么复杂。 据悉，微软团队曾在开发 Windows XP 64 位时，将数百万行 ",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "94e404e25293",
-      "title": "WordPress 扩展 W3 Total Cache 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/088.htm",
-      "publishedAt": "2026-08-22T12:09:00.000Z",
-      "summary": "IT之家 8 月 22 日消息，安全研究机构 WPScan 发文，透露 WordPress 一款拥有超过 90 万活跃安装量的扩展 W3 Total Cache 存在严重安全漏洞，该漏洞编号为 CVE-2026-18051，CVSS 评分达到满分 10.0 分。 IT之家参考通报获悉，该漏洞源于 W3 Total Cache 在处理缓存文件路径时存在缺陷，没有将文件路径限制在指定目录范围内，导致攻击者可以将文件写入服务器上的任意现有目录",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "030394c9bcbb",
-      "title": "雷鸟 iO AI 眼镜体验：全天智记是亮点，堪比随身助理",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/065.htm",
-      "publishedAt": "2026-08-22T10:20:28.000Z",
-      "summary": "眼下 AI 眼镜绝对是智能穿戴设备里炙手可热的赛道。IDC 预测，2026 年全球 AI 眼镜出货量将突破 2300 万台，中国市场增速更为突出，预计同比增长 77.7%。在国内，包括华为、小米、阿里、字节、理想等几乎所有大厂都在挤入这个市场。 而在智能眼镜市场，雷鸟创新显然是老玩家了，目前也已经形成了包括旗舰独立计算 AR 眼镜 X 系列、AI 拍摄智能眼镜 V 系列、高端 AR 观影眼镜 GT 系列、分体式入门观影 AR 眼镜 Ai",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "视频"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "eeb850beaf7c",
-      "title": "英伟达否认年底前推出中国特供 AI 芯片：路线图中无此产品",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/033.htm",
-      "publishedAt": "2026-08-22T08:55:25.000Z",
-      "summary": "IT之家 8 月 22 日消息，The Information 昨日报道称英伟达计划在年底前向中国客户小批量出货一款定制 AI 芯片，英伟达随后予以明确否认。 英伟达发言人表示：“The Information 关于英伟达 LPU 的报道不实。我们目前在中国市场没有 LPU 销售，产品路线图中也没有针对中国市场的 LPU 产品。” The Information 称，该芯片是英伟达于今年 3 月 GTC 大会上发布的 Groq 3 LP",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "机器人"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "f99575405cd7",
-      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
-      "category": "ai",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113638",
-      "publishedAt": "2026-08-20T00:46:04.000Z",
-      "summary": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。 查看全文",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 63,
-      "priority": 65
-    },
-    {
-      "id": "c4b6f54aa6e7",
-      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-      "publishedAt": "2026-08-22T10:26:09.000Z",
-      "summary": "加拿大暂停与美国贸易谈判，并对美国关税实施对等报复，总理卡尼发表声明。",
-      "actionSteps": [
-        "关注两国官方公告了解关税清单",
-        "评估自身业务或消费的受影响程度",
-        "考虑供应链多元化或替代采购方案"
-      ],
-      "tags": [
-        "贸易",
-        "关税",
-        "加拿大",
-        "美国"
-      ],
-      "trust": 4,
-      "opportunity": 2,
-      "priority": 4,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对进出口企业而言，关税变化直接影响成本和供应链；对普通消费者而言，可能导致商品价格上涨；对全球经济而言，贸易紧张可能加剧。",
-        "riskNotes": "来源为加拿大总理官网声明，属于官方一手信息，但具体关税细节和影响需进一步核实。"
-      }
-    },
-    {
-      "id": "6ad84036a6d6",
-      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "publishedAt": "2026-08-22T12:07:06.000Z",
-      "summary": "Meta被指控针对儿童隐私采取“钩住、持有、收获、隐藏”策略，相关细节在审判第一周被披露。",
-      "actionSteps": [
-        "关注案件进展和最终判决",
-        "检查并调整儿童账户的隐私设置",
-        "关注监管动态，评估对相关投资的影响"
-      ],
-      "tags": [
-        "Meta",
-        "隐私",
-        "儿童",
-        "法律"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 3,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对家长和儿童用户而言，涉及隐私安全，可能影响对Meta产品的信任；对科技行业而言，可能引发更严格的监管和行业标准变化。",
-        "riskNotes": "来源为The Guardian报道，基于法庭披露，但Meta尚未回应，指控未经最终裁决。"
-      }
-    },
-    {
-      "id": "7c62b55c6a5b",
-      "title": "研究人员曝光美国 NASA 地面控制软件 AIT-GUI 存在严重安全漏洞，可导致黑客向飞船发送任意指令",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/085.htm",
-      "publishedAt": "2026-08-22T11:53:08.000Z",
-      "summary": "NASA地面控制软件AIT-GUI被曝严重漏洞，CVSS评分9.4，黑客可能向飞船发送任意指令，影响航天任务安全。",
-      "actionSteps": [
-        "关注NASA官方安全公告",
-        "评估相关系统是否受影响",
-        "加强网络安全防护措施"
-      ],
-      "tags": [
-        "网络安全",
-        "航天",
-        "漏洞"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 3,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "航天系统安全漏洞可能危及卫星、飞船等关键设施，引发数据泄露或任务失败，对依赖航天技术的通信、导航、气象服务造成潜在影响。",
-        "riskNotes": "漏洞细节来自安全公司报告，未经NASA官方确认，实际可利用性和影响范围需进一步验证。"
-      }
-    },
-    {
-      "id": "41561ff48455",
-      "title": "广东市场监管召开平台企业行政指导会，点名“充电宝产品质量风险”“AI 生成虚假宣传”等",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/004.htm",
-      "publishedAt": "2026-08-22T07:00:25.000Z",
-      "summary": "广东省市场监管局召开平台企业行政指导会，点名充电宝质量、AI虚假宣传等问题，要求平台压实主体责任，规范网络交易秩序。",
-      "actionSteps": [
-        "关注广东省市场监管局官网获取正式文件",
-        "平台企业自查合规风险，完善审核机制",
-        "消费者留意相关投诉渠道和维权途径"
-      ],
-      "tags": [
-        "市场监管",
-        "平台经济",
-        "消费者权益"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 3,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "平台企业需加强商家资质审核和商品质量管控，消费者可能面临更严格的监管，但具体执行效果待观察。",
-        "riskNotes": "信息来自IT之家转述官方公告，非一手来源，具体政策细节和处罚措施未披露。"
-      }
     },
     {
       "id": "785c810c16ee",
@@ -661,181 +420,85 @@
       }
     },
     {
-      "id": "4e147fe62419",
-      "title": "DeepSeek 调整 API 周末计费：周六日全天统一按低谷价收费",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/095.htm",
-      "publishedAt": "2026-08-22T12:51:37.000Z",
-      "summary": "DeepSeek调整API计费规则，自2026年8月23日起，周六日全天统一按低谷价收费，此前峰谷定价实施不到一周。",
+      "id": "3377c27b081e",
+      "title": "NanoGPT Speedrun Frontier",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "publishedAt": "2026-08-22T22:14:27.000Z",
+      "summary": "Prime Intellect研究NanoGPT速度优化，可能涉及训练效率提升。",
       "actionSteps": [
-        "查看DeepSeek官方公告确认新计费规则",
-        "重新评估API调用成本，优化周末任务调度",
-        "关注后续定价调整动态"
+        "阅读研究文章了解技术细节",
+        "评估对AI开发成本的影响",
+        "关注相关开源实现"
       ],
       "tags": [
-        "AI",
-        "API",
-        "定价",
-        "DeepSeek"
+        "AI训练",
+        "效率优化",
+        "NanoGPT"
+      ],
+      "trust": 1,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T02:01:03.488Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "提高训练效率可降低AI开发成本，加速模型迭代。",
+        "riskNotes": "研究细节未提供，需查看原文验证技术可行性。"
+      }
+    },
+    {
+      "id": "2a6060ec93e9",
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "publishedAt": "2026-08-22T19:04:41.000Z",
+      "summary": "macOS 27中hdiutil被弃用，影响磁盘映像管理工具的使用。",
+      "actionSteps": [
+        "检查官方文档确认弃用信息",
+        "更新依赖hdiutil的脚本",
+        "寻找替代工具"
+      ],
+      "tags": [
+        "macOS",
+        "开发工具",
+        "弃用"
       ],
       "trust": 2,
-      "opportunity": 2,
+      "opportunity": 1,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "analyzedAt": "2026-08-23T02:01:03.488Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对开发者而言，可降低周末调用成本，影响成本规划；对AI行业而言，定价策略调整可能引发竞争反应。",
-        "riskNotes": "信息来自用户反馈和IT之家，非官方公告，具体计费细节需以DeepSeek官方文档为准。"
+        "whyItMatters": "开发者需迁移到新工具，可能影响自动化脚本和系统管理。",
+        "riskNotes": "来源个人博客，需确认官方文档。"
       }
     },
     {
-      "id": "bfd6660ff1ba",
-      "title": "B 社员工：微软收购后，我们从不裁员变成每年裁员",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/094.htm",
-      "publishedAt": "2026-08-22T12:35:57.000Z",
-      "summary": "微软收购后贝塞斯达员工从稳定就业变为每年裁员，近期计划裁撤3200个岗位，引发员工抗议。",
+      "id": "c0f9d10986f5",
+      "title": "Why your local LLM feels dumber than it is",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "publishedAt": "2026-08-22T18:14:16.000Z",
+      "summary": "本地LLM性能常被低估，文章探讨原因及优化方法，引发技术社区热议。",
       "actionSteps": [
-        "关注微软官方声明",
-        "评估游戏行业就业趋势",
-        "提升自身技能以应对变化"
+        "阅读原文了解性能影响因素",
+        "检查本地LLM配置和参数设置",
+        "尝试社区建议的优化技巧"
       ],
       "tags": [
-        "裁员",
-        "游戏行业",
-        "就业"
-      ],
-      "trust": 2,
-      "opportunity": 0,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "游戏行业裁员影响就业稳定，波及开发者生计，可能影响游戏项目质量和玩家社区，对行业人才流动和职业发展有警示作用。",
-        "riskNotes": "裁员数字来自员工集会报道，微软官方未证实，具体岗位和影响范围需核实。"
-      }
-    },
-    {
-      "id": "01175d5a4288",
-      "title": "长城魏牌 V8X 开启交付：定位大五座旗舰 SUV 车型，指导价 23.98-31.58 万元",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/090.htm",
-      "publishedAt": "2026-08-22T12:12:55.000Z",
-      "summary": "长城魏牌V8X中大型SUV上市并交付，5款配置，指导价23.98-31.58万元，限时权益价22.68-30.28万元，主打豪华与运动，配备双VLA智能体和超级Hi4混动系统。",
-      "actionSteps": [
-        "访问长城汽车官网或经销商核实配置和价格",
-        "对比同级别竞品车型的配置与价格",
-        "关注试驾评测和用户反馈"
-      ],
-      "tags": [
-        "汽车",
-        "长城",
-        "SUV",
-        "新品发布"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对消费者而言，提供了新的中大型SUV选择，价格区间与竞品相比具有竞争力；对企业而言，长城汽车通过新品强化高端市场布局，可能影响同价位车型的竞争格局。",
-        "riskNotes": "信息来自IT之家，非官方一手来源，具体配置和价格需以官方发布为准；限时权益价可能有附加条件。"
-      }
-    },
-    {
-      "id": "c83f244d8916",
-      "title": "1899 元起荣耀 Play11 Pro 手机开售：7000mAh 电池，6.6 英寸 1.5K 120Hz 屏幕",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/087.htm",
-      "publishedAt": "2026-08-22T12:03:01.000Z",
-      "summary": "荣耀Play11 Pro手机开售，三个存储版本，首发价1899元起，叠加国补后最低1614.15元，配备7000mAh电池和6.6英寸1.5K 120Hz屏幕。",
-      "actionSteps": [
-        "在京东等电商平台核实价格和补贴",
-        "对比同价位其他品牌手机",
-        "关注用户评价和续航实测"
-      ],
-      "tags": [
-        "手机",
-        "荣耀",
-        "新品",
-        "性价比"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对消费者而言，提供了高性价比长续航手机选择；对手机市场而言，荣耀在中端市场加强竞争力，可能影响同价位机型销售。",
-        "riskNotes": "信息来自IT之家，官网未上架，价格和补贴政策可能因地区而异，需以官方渠道为准。"
-      }
-    },
-    {
-      "id": "81fe9937333c",
-      "title": "GPD 解释 Win Max 3 掌机为何卖 1750 美元：我们没有大品牌的议价能力，这个价已经是最大诚意",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/013.htm",
-      "publishedAt": "2026-08-22T07:24:26.000Z",
-      "summary": "GPD Win Max 3掌机定价1750美元起，公司解释因缺乏议价能力，价格已是最低诚意。",
-      "actionSteps": [
-        "对比同类产品性能和价格",
-        "评估自身预算和需求",
-        "关注众筹平台规则和风险"
-      ],
-      "tags": [
-        "GPD",
-        "掌机",
-        "定价"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "高价掌机对消费者购买决策有直接影响，也反映小众硬件厂商的定价困境。",
-        "riskNotes": "信息来自IT之家，价格和配置可能变动，众筹存在风险，需谨慎参与。"
-      }
-    },
-    {
-      "id": "843e933c591d",
-      "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/003.htm",
-      "publishedAt": "2026-08-22T06:54:05.000Z",
-      "summary": "匿名AI模型Ox Alpha在OpenRouter限免，DeepSWE跑分超Claude Fable 5，线索指向智谱，引发关注。",
-      "actionSteps": [
-        "访问OpenRouter体验Ox Alpha",
-        "关注智谱官方声明",
-        "开发者可测试其代码能力"
-      ],
-      "tags": [
-        "AI模型",
-        "开源",
-        "性能评测"
+        "本地LLM",
+        "性能优化",
+        "AI应用"
       ],
       "trust": 2,
       "opportunity": 3,
@@ -843,74 +506,41 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
+        "analyzedAt": "2026-08-23T02:01:03.488Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI模型性能竞争激烈，可能影响行业格局，开发者可关注其能力，但需验证真实性。",
-        "riskNotes": "信息来自IT之家，模型来源和跑分未独立验证，存在炒作可能。"
+        "whyItMatters": "帮助普通用户和开发者理解本地LLM的实际能力，避免因配置或使用不当而误判性能，从而更好地利用本地AI。",
+        "riskNotes": "来源为论坛讨论，非官方一手资料，具体优化方法需验证。"
       }
     },
     {
-      "id": "c5fc940f7ada",
-      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "id": "a0f751d89314",
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-      "publishedAt": "2026-08-21T21:00:48.000Z",
-      "summary": "SalesPatriot（YC W25）正在招聘Forward Deployed Engineers，职位信息发布在Y Combinator公司页面。",
+      "link": "https://marcua.net/minitools/figmimic/",
+      "publishedAt": "2026-08-22T18:11:40.000Z",
+      "summary": "Figmimic是一个书签工具，可将任意网页转换为Figma中的可编辑图层，简化设计流程。",
       "actionSteps": [
-        "访问招聘页面查看详情",
-        "评估自身技能匹配度",
-        "准备申请材料"
+        "访问工具页面了解使用方法",
+        "在测试网页上试用该工具",
+        "评估其输出质量与兼容性"
       ],
       "tags": [
-        "招聘",
-        "YC",
-        "工程师",
-        "机会"
-      ],
-      "trust": 3,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T04:51:37.808Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对求职者而言是潜在就业机会，反映初创公司对技术人才的需求。",
-        "riskNotes": "招聘信息来自官方，但具体职位要求和待遇未详述，需进一步核实。"
-      }
-    },
-    {
-      "id": "31ef8ebb46d9",
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://rust-glancer.github.io/blog/hello-world/",
-      "publishedAt": "2026-08-21T19:51:54.000Z",
-      "summary": "Rust Glancer项目声称使用比传统LSP少100倍内存的Rust语言服务器，在Hacker News上获得81分和24条评论。",
-      "actionSteps": [
-        "阅读项目技术博客",
-        "测试或试用该工具",
-        "关注社区反馈"
-      ],
-      "tags": [
-        "Rust",
-        "LSP",
-        "内存",
-        "开发工具"
+        "设计工具",
+        "Figma",
+        "网页转设计"
       ],
       "trust": 2,
-      "opportunity": 2,
+      "opportunity": 4,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T04:51:37.808Z",
+        "analyzedAt": "2026-08-23T02:01:03.488Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对开发者而言，内存效率高的工具可提升开发体验，尤其对大型项目。",
-        "riskNotes": "项目声称的性能未独立验证，需查看技术细节和实际测试。"
+        "whyItMatters": "为设计师和开发者提供快速将网页转化为设计稿的便捷方式，提高工作效率。",
+        "riskNotes": "工具来源为个人网站，未验证其稳定性和安全性，需谨慎使用。"
       }
     },
     {
@@ -1225,148 +855,147 @@
       }
     },
     {
-      "id": "958bcb70ebae",
-      "title": "大葱哥放出 R 星《GTA6》游戏第七段实机视频，展示加油、打劫小卖部等玩法",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/096.htm",
-      "publishedAt": "2026-08-22T12:53:01.000Z",
-      "summary": "黑客Cyberleek泄露《GTA6》第七段实机视频，展示加油、打劫小卖部等玩法，视频大部分为驾驶场景，并短暂进入俱乐部。",
-      "actionSteps": [
-        "关注R星官方公告确认游戏信息",
-        "谨慎对待泄露内容，避免传播侵权信息",
-        "等待官方演示或试玩体验"
-      ],
-      "tags": [
-        "游戏",
-        "GTA6",
-        "泄露",
-        "黑客"
-      ],
-      "trust": 1,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对游戏玩家而言，泄露内容提前揭示了游戏玩法细节，可能影响购买决策；对游戏行业而言，泄露事件可能引发对游戏开发进度和保密措施的关注。",
-        "riskNotes": "来源为黑客泄露，非官方发布，内容真实性未经证实，可能涉及版权问题。"
-      }
-    },
-    {
-      "id": "143f9a0e7451",
-      "title": "中柏推出 EZpad Max15 安卓平板：搭 15 英寸 1080P 面板、联发科 G99 + 8G + 256G 售 1899 元",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/093.htm",
-      "publishedAt": "2026-08-22T12:35:53.000Z",
-      "summary": "中柏推出EZpad Max15安卓平板，15英寸1080P屏，联发科G99+8G+256G，售价1899元，可作轻办公本。",
-      "actionSteps": [
-        "对比同类产品",
-        "关注用户评价",
-        "按需购买"
-      ],
-      "tags": [
-        "平板",
-        "安卓",
-        "性价比"
-      ],
-      "trust": 3,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "大屏安卓平板价格亲民，适合影音娱乐和轻办公，为预算有限的用户提供新选择。",
-        "riskNotes": "产品参数来自IT之家，实际性能、屏幕质量和系统体验需用户验证。"
-      }
-    },
-    {
-      "id": "1c691f18433e",
-      "title": "联想 YOGA Air 14 2026 笔记本新增酷睿 Ultra7 266V 版本：重约 1.2kg，9999 元",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/082.htm",
-      "publishedAt": "2026-08-22T11:25:50.000Z",
-      "summary": "联想YOGA Air 14 2026新增酷睿Ultra7 266V版本，16GB内存+1TB SSD，售价9999元，主打轻薄便携。",
-      "actionSteps": [
-        "比较不同配置性价比",
-        "查看专业评测",
-        "根据需求决定是否购买"
-      ],
-      "tags": [
-        "笔记本",
-        "联想",
-        "新品"
-      ],
-      "trust": 3,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "新款笔记本提供更多配置选择，适合追求高性能轻薄本的消费者，价格和性能平衡值得关注。",
-        "riskNotes": "产品信息来自IT之家，具体性能表现和实际体验需用户评测，价格可能变动。"
-      }
-    },
-    {
-      "id": "9de8e8e603c4",
-      "title": "Z80–The 1970s Microprocessor Still Alive",
+      "id": "9a723309fd34",
+      "title": "Software Engineering in the Agentic Era",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "publishedAt": "2026-08-22T09:49:57.000Z",
-      "summary": "1970年代的Z80微处理器至今仍在使用，文章探讨其长寿原因和应用场景，引发技术怀旧与嵌入式系统讨论。",
+      "link": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
+      "publishedAt": "2026-08-23T00:20:21.000Z",
+      "summary": "文章探讨代理式工程模式，可能涉及AI代理在软件开发中的应用和模式。",
       "actionSteps": [
-        "阅读原文了解Z80应用",
-        "评估自身项目是否适用成熟技术",
-        "关注嵌入式系统发展趋势"
+        "阅读原文了解代理式工程模式",
+        "评估AI代理对自身工作的影响",
+        "学习相关技能以适应变化"
       ],
       "tags": [
-        "Z80",
-        "嵌入式",
-        "技术趋势"
+        "AI代理",
+        "软件开发",
+        "工程模式"
       ],
-      "trust": 3,
+      "trust": 1,
       "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "analyzedAt": "2026-08-23T02:01:03.487Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "Z80的持续应用表明成熟技术在某些领域仍具价值，对嵌入式系统开发者、复古计算爱好者有参考意义，也提醒技术迭代并非完全取代。",
-        "riskNotes": "文章内容基于计算机学会出版物，具体应用数据和市场情况需进一步查证。"
+        "whyItMatters": "AI代理可能改变软件开发方式，影响开发者技能需求和就业市场。",
+        "riskNotes": "仅标题和链接，内容未验证，需阅读原文确认观点。"
       }
     },
     {
-      "id": "93b991f0f95e",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "id": "e65ee3debbce",
+      "title": "US Military newspaper editor voices censorship fears after being fired",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://munderdiffl.in/",
-      "publishedAt": "2026-08-22T09:49:14.000Z",
-      "summary": "Munder Difflin是一个代理工具，用于运行多个克隆体，模拟办公室环境，可能用于自动化办公或测试。",
+      "link": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
+      "publishedAt": "2026-08-23T00:19:17.000Z",
+      "summary": "美国军方报纸编辑被解雇后表达对审查的担忧，涉及新闻自由和军队内部管理。",
       "actionSteps": [
-        "访问官网了解详情",
-        "评估合规性",
-        "谨慎使用"
+        "关注事件后续报道",
+        "思考新闻自由与安全平衡",
+        "不轻信单方面说法"
       ],
       "tags": [
-        "自动化",
-        "工具",
-        "办公"
+        "新闻自由",
+        "军方",
+        "审查"
+      ],
+      "trust": 2,
+      "opportunity": 0,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T02:01:03.488Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "反映媒体自由与安全审查的冲突，可能影响公众对军方透明度的信任。",
+        "riskNotes": "来源BBC，但事件细节和背景未提供，需进一步核实。"
+      }
+    },
+    {
+      "id": "5f827225d9c7",
+      "title": "Thinking in Python by Bruce Eckel",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://thinkinginpython.com/",
+      "publishedAt": "2026-08-22T18:10:49.000Z",
+      "summary": "Bruce Eckel推出新书《Thinking in Python》，旨在帮助读者深入理解Python编程思维。",
+      "actionSteps": [
+        "访问官网查看书籍介绍",
+        "阅读样章或目录评估内容",
+        "考虑购买或寻找其他学习资源"
+      ],
+      "tags": [
+        "Python",
+        "编程书籍",
+        "学习资源"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T02:01:03.488Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "为Python学习者提供新的学习资源，可能提升编程思维和技能。",
+        "riskNotes": "书籍内容未详细评估，需查看目录或样章确认质量。"
+      }
+    },
+    {
+      "id": "0cbbcd53f19c",
+      "title": "Scrap (2006)",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://twitter.com/moxie/status/2091218652133732491",
+      "publishedAt": "2026-08-22T18:08:56.000Z",
+      "summary": "Hacker News上关于“Scrap (2006)”的帖子，获得314分和176条评论，内容可能涉及废弃物处理或创意再利用。",
+      "actionSteps": [
+        "点击链接查看具体内容",
+        "分析其潜在应用场景",
+        "评估是否值得进一步关注"
+      ],
+      "tags": [
+        "废弃物",
+        "创新",
+        "环保"
+      ],
+      "trust": 1,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T02:01:03.488Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "可能引发对资源再利用和环保创新的关注，对相关行业有启发。",
+        "riskNotes": "摘要信息有限，具体内容需点击链接查看，无法确认其实际价值。"
+      }
+    },
+    {
+      "id": "b0c261b5c2bf",
+      "title": "I set a trap for a book-marketing scammer (2025)",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+      "publishedAt": "2026-08-22T18:08:25.000Z",
+      "summary": "作者分享如何设计陷阱揭露图书营销骗局，保护作者免受欺诈。",
+      "actionSteps": [
+        "阅读文章了解骗局手法",
+        "提高对可疑营销的警惕",
+        "分享给其他作者以防受骗"
+      ],
+      "tags": [
+        "图书营销",
+        "防骗",
+        "作者保护"
       ],
       "trust": 2,
       "opportunity": 2,
@@ -1374,41 +1003,10 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T13:01:54.960Z",
+        "analyzedAt": "2026-08-23T02:01:03.488Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "该工具可能提高办公自动化效率，但涉及克隆和代理，需关注伦理和法律风险，对远程工作或团队协作有潜在影响。",
-        "riskNotes": "项目信息来自Hacker News，具体功能和用途需访问官网确认，可能存在夸大或误导。"
-      }
-    },
-    {
-      "id": "0ffda1ad7ecb",
-      "title": "苹果官网上架 Bellroy Cinch 邮差包：12L 容量，可收纳 MacBook、AirTag，849 元",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/031.htm",
-      "publishedAt": "2026-08-22T08:46:53.000Z",
-      "summary": "苹果中国官网上架Bellroy Cinch邮差包，12L容量，可收纳MacBook和AirTag，售价849元，有黑/米两色可选。",
-      "actionSteps": [
-        "访问苹果官网确认产品详情和库存",
-        "比较其他渠道价格和用户评价",
-        "根据个人需求决定是否购买"
-      ],
-      "tags": [
-        "苹果",
-        "配件",
-        "邮差包"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对苹果用户而言，这是一款官方推荐的配件，但价格较高，需评估是否物有所值。",
-        "riskNotes": "信息来自IT之家，非苹果官方公告，价格和规格可能变动，购买前需核实。"
+        "whyItMatters": "提高公众对图书营销骗局的警惕，帮助作者识别和防范类似欺诈。",
+        "riskNotes": "内容为个人经验分享，具体骗局手法可能随时间变化，需结合最新情况。"
       }
     },
     {
@@ -1441,99 +1039,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对MJ粉丝和音乐爱好者是文化活动机会，也体现线下零售空间转型。",
         "riskNotes": "活动信息来自少数派，具体细节和参与方式未明确，需关注官方通知。"
-      }
-    },
-    {
-      "id": "2715b13cc178",
-      "title": "There's no reason for software to be slow anymore",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://danluu.com/perf-opt/",
-      "publishedAt": "2026-08-22T01:06:17.000Z",
-      "summary": "文章讨论软件性能优化，认为软件没有理由再慢，强调性能优化的重要性。",
-      "actionSteps": [
-        "阅读原文了解具体论点",
-        "评估自身项目性能瓶颈",
-        "考虑引入性能优化实践"
-      ],
-      "tags": [
-        "性能优化",
-        "软件开发"
-      ],
-      "trust": 1,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T01:51:55.826Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对开发者，性能优化可提升用户体验和降低成本；对企业，软件效率影响竞争力。",
-        "riskNotes": "仅提供标题和链接，内容未验证；观点可能偏激，需阅读原文判断。"
-      }
-    },
-    {
-      "id": "17a127087e4f",
-      "title": "HN: The Good Parts (2016)",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://danluu.com/hn-comments/",
-      "publishedAt": "2026-08-21T23:53:03.000Z",
-      "summary": "Hacker News文章《HN: The Good Parts》回顾HN社区优质内容，引发讨论。",
-      "actionSteps": [
-        "点击链接阅读原文",
-        "浏览HN评论获取多元观点",
-        "收藏有价值内容"
-      ],
-      "tags": [
-        "Hacker News",
-        "社区",
-        "技术",
-        "阅读"
-      ],
-      "trust": 1,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T01:51:55.826Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对技术从业者，可从中获取HN社区精华内容，提升学习效率。",
-        "riskNotes": "文章内容未提供，仅标题和链接，具体价值需自行阅读。"
-      }
-    },
-    {
-      "id": "b7f75c9859c7",
-      "title": "Scientists release biggest 2D map of the universe",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "publishedAt": "2026-08-21T18:36:34.000Z",
-      "summary": "科学家发布迄今最大的宇宙二维地图，可通过Legacy Survey Sky Viewer查看，相关讨论在Hacker News上热度高。",
-      "actionSteps": [
-        "访问Legacy Survey Sky Viewer查看地图",
-        "关注科学新闻获取详细解读",
-        "科研人员可评估数据可用性"
-      ],
-      "tags": [
-        "天文",
-        "科学",
-        "开放数据"
-      ],
-      "trust": 4,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T08:49:26.685Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对天文爱好者和科研人员有参考价值，可能促进相关领域研究，但普通公众影响有限。",
-        "riskNotes": "信息来自Hacker News，原始来源为科学项目，需进一步核实数据发布细节。"
       }
     },
     {
@@ -1755,6 +1260,37 @@
       }
     },
     {
+      "id": "f99575405cd7",
+      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113638",
+      "publishedAt": "2026-08-20T00:46:04.000Z",
+      "summary": "石头发布A30 Pro Steam 3.0洗地机，Framework升级Laptop 12笔记本，哈浮VERSA飞行口袋云台相机发布，OpenAI回应Codex用户误删文件问题。",
+      "actionSteps": [
+        "关注产品评测和用户反馈",
+        "备份重要数据以防误删",
+        "查阅官方公告获取详细信息"
+      ],
+      "tags": [
+        "消费电子",
+        "AI",
+        "数据安全"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-23T02:01:03.487Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "新产品发布影响消费者选择，OpenAI误删文件事件提醒用户注意数据安全。",
+        "riskNotes": "信息来自少数派，具体产品参数和OpenAI回应细节未提供，需核实。"
+      }
+    },
+    {
       "id": "0718996d13a2",
       "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
       "category": "knowledge",
@@ -1818,24 +1354,23 @@
       }
     },
     {
-      "id": "c60e9177a631",
-      "title": "Three important steps in my maturation process",
+      "id": "16ad473b7deb",
+      "title": "NetBSD and my life (2005)",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "publishedAt": "2026-08-21T22:29:00.000Z",
-      "summary": "个人成长经验分享，作者总结成熟过程中的三个重要步骤，引发讨论。",
+      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "publishedAt": "2026-08-22T19:07:46.000Z",
+      "summary": "个人回忆文章，讲述NetBSD对作者生活的影响，可能涉及开源社区文化。",
       "actionSteps": [
-        "阅读原文获取详细观点",
-        "结合自身情况反思",
-        "参与讨论交流心得"
+        "阅读文章了解开源社区价值",
+        "考虑参与开源项目",
+        "反思技术对个人影响"
       ],
       "tags": [
-        "个人成长",
-        "经验",
-        "成熟",
-        "反思"
+        "开源",
+        "NetBSD",
+        "社区"
       ],
       "trust": 1,
       "opportunity": 1,
@@ -1843,10 +1378,10 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T04:51:37.808Z",
+        "analyzedAt": "2026-08-23T02:01:03.488Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "个人成长经验可能对职业发展和自我提升有启发，但主观性强。",
-        "riskNotes": "内容为个人观点，缺乏实证；适用性因人而异。"
+        "whyItMatters": "展示开源项目对个人成长的影响，鼓励参与开源社区。",
+        "riskNotes": "个人观点，非新闻，需注意时效性。"
       }
     }
   ]
