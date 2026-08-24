@@ -1,18 +1,13 @@
 {
-  "generatedAt": "2026-08-23T13:03:45.713Z",
-  "status": "partial",
-  "failedSources": [
-    {
-      "name": "Hacker News",
-      "error": "fetch failed"
-    }
-  ],
+  "generatedAt": "2026-08-24T01:58:34.920Z",
+  "status": "ok",
+  "failedSources": [],
   "ai": {
     "enabled": true,
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 28
+    "reused": 27
   },
   "categories": {
     "ai": "AI 实操",
@@ -199,56 +194,211 @@
       "priority": 89
     },
     {
-      "id": "543f347056f8",
-      "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/242.htm",
-      "publishedAt": "2026-08-23T09:49:59.000Z",
-      "summary": "IT之家 8 月 23 日消息，据外媒 Neowin 当地时间 21 日报道，微软计划在英国利兹斯凯尔顿农庄建设一座超大规模 AI 数据中心园区。其规模包括 3 栋建筑，总建筑面积达到 4.65 万平方米。这项计划遭到当地居民反对，社区发起了要求阻止项目获得最终规划批准的请愿，目前已 收集到 4 万个签名 。 项目所在地原为一座发电站。Harworth Group 于 2014 年仅以 300 万英镑 （IT之家注：现汇率约合 2,75",
+      "id": "8149cce46384",
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "publishedAt": "2026-08-23T13:51:10.000Z",
+      "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "91e45ba5d38f",
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://securelist.com/android-head-unit-malware/121106/",
+      "publishedAt": "2026-08-23T13:05:38.000Z",
+      "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "69a8e1bc7b72",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+      "publishedAt": "2026-08-23T10:14:48.000Z",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 90 # Comments: 59",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "96b98d390289",
+      "title": "Iranian hackers shut down UK power plant for 4 days",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+      "publishedAt": "2026-08-23T10:03:01.000Z",
+      "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 56 # Comments: 34",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "d191ca370d5a",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "publishedAt": "2026-08-23T10:02:51.000Z",
+      "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 159 # Comments: 80",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "59a17a6a341b",
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://skylens.yantraai.app/",
+      "publishedAt": "2026-08-23T09:27:40.000Z",
+      "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 36 # Comments: 17",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
       ],
       "tags": [
         "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "340d3efeb822",
+      "title": "AOC 海外推出 Q27G4ZRAD 显示器：27\" QHD 260Hz Fast IPS，HDR 400",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/361.htm",
+      "publishedAt": "2026-08-24T01:33:38.000Z",
+      "summary": "IT之家 8 月 24 日消息，AOC 近日面向海外市场推出 AOC GAMING 显示器新品 Q27G4ZRAD。这一型号基于 27\" Fast IPS 面板，支持 QHD (2560×1440) 分辨率， 刷新率为原生 240Hz、超频 260Hz ，获得 VESA DisplayHDR 400 认证。 Q27G4ZRAD 亮度 400nits，静态对比度 1000:1； GtG 响应时间 1ms 、MPRT 响应时间 0.3ms；",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "073c49b8b071",
+      "title": "首报震级 7.7 级，成都高新减灾研究所就宜宾长宁 4.7 级地震预警偏差致歉",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/360.htm",
+      "publishedAt": "2026-08-24T01:30:50.000Z",
+      "summary": "IT之家 8 月 24 日消息，今日，成都高新减灾研究所发布《关于对 8 月 24 日宜宾长宁 4.7 级地震的预警偏差的致歉说明》。 IT之家从说明中获悉，8 月 24 日 8:26 四川宜宾长宁发生 4.7 级地震 ，成都高新减灾研究所的大陆地震预警网对该地震的预警震级序列依次为 7.7 级 (震后第 5 秒)、6.4 级 (震后第 6 秒)、3.7 级 (震后第 7 秒)、4.1 级 (震后第 8 秒)、3.9 级 (震后第 16",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "7d3d21eb4d69",
+      "title": "CYBERLEEK 威胁泄露《GTA 6》完整版本为假消息",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/359.htm",
+      "publishedAt": "2026-08-24T01:26:50.000Z",
+      "summary": "IT之家 8 月 24 日消息，8 月 22 日，外媒 Insider Gaming 撰写了一篇关于 CYBERLEEK 组织向 Rockstar Games 和 Take-Two Interactive 发出威胁的报道，该威胁声称：如果这些公司不放弃对该团体的法律追诉，他们将发布《侠盗猎车手 6》（GTA 6）的完整构建版本。 然而，这篇文章所依据的图片和言论事后被证明是伪造的，是由众多模仿 CYBERLEEK 行为的人之一出于某种原",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "视频"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "ab056e3e471d",
-      "title": "OpenAI Codex 明天重置额度，并修复近期出现的用量消耗快问题",
-      "category": "ai",
+      "id": "7221ba41b6bc",
+      "title": "秦力洪：纯电渗透率今年有望超 50％，蔚来不会做增程车",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/235.htm",
-      "publishedAt": "2026-08-23T09:11:30.000Z",
-      "summary": "IT之家 8 月 23 日消息，OpenAI Codex & ChatGPT 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发文，回应近期网友提出的用量消耗过快问题，并将在明天为所有 Codex 订阅用户重置额度。 据蒂博所述，他们目前发现了三个影响用量计算的问题： a：在长时间会话中使用图片并进行多次上下文压缩（compaction）时，存在效率问题； b：计算机历史记录（Computer Histo",
+      "link": "https://www.ithome.com/0/993/357.htm",
+      "publishedAt": "2026-08-24T01:24:30.000Z",
+      "summary": "IT之家 8 月 24 日消息，蔚来联合创始人、总裁秦力洪 8 月 21 日发布视频， 宣布 7 月蔚来公司在全国 8 省 42 城销量超越宝马、奔驰、奥迪 。蔚来 ES8 用时 335 天，交付 14 万辆。 秦力洪表示，今年 7 月中国新能源渗透率历史性突破 60%， 纯电渗透率今年有望超 50％ 。 据《每日经济新闻》本月报道，秦力洪在接受采访时重申， 蔚来不会做增程车 ，会一直坚持做纯电车，“如果我们想做增程车，20 个月就能做",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
       "tags": [
-        "AI"
+        "视频",
+        "新能源"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "7ef8ac34f8c9",
-      "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹",
+      "id": "ae3249c3a71a",
+      "title": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/234.htm",
-      "publishedAt": "2026-08-23T09:02:48.000Z",
-      "summary": "IT之家 8 月 23 日消息，据外媒 TechCrunch 报道，当地时间 20 日，皮尤研究中心发布的一项研究显示，自 2022 年 11 月 ChatGPT 问世后发布的网页中，超过三分之一可能带有 AI 生成痕迹。这一结果与其他研究相互印证，表明 近年来新增的大量网页已经由 AI 直接生成，或经过了 AI 的“魔改” 。 就在这一研究发布前不久，互联网基础设施服务商 Cloudflare 指出，机器人产生的网络流量已经 超过人工",
+      "link": "https://www.ithome.com/0/993/326.htm",
+      "publishedAt": "2026-08-23T23:19:39.000Z",
+      "summary": "IT之家 8 月 24 日消息，Twitch 正面临一场集体诉讼，原因是其将主播的内容用于训练亚马逊的 AI。 一名 Twitch 主播已针对该平台及其母公司亚马逊提起拟议的集体诉讼，声称他的直播内容以及无数其他创作者的内容，在未经同意、也未获得报酬的情况下被用于生成式 AI 训练。 据 Courthouse News 报道，原告 Warren Pandiscia 是一位拥有约 1000 名粉丝的 Twitch 创作者，于上周在加州北区",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -256,41 +406,200 @@
       ],
       "tags": [
         "AI",
-        "机器人"
+        "视频"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "71bc19f4490f",
-      "title": "百度：没有增发配售计划",
+      "id": "6ceb28d3090b",
+      "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113767",
+      "publishedAt": "2026-08-23T23:13:55.000Z",
+      "summary": "九家车企召回近 430 万辆不易识别应急拉手汽车 英伟达达成 70 亿美元合作，研发顶级开放权重模型 高院发布著作权新司法解释，网络转载不允许先转后付 买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘 国际加紧制定统一月球时间 个人消费贷贴息政策扩展覆盖买车、装修等 看看就行的小道消息 少数派的近期动态 你可能错过的好文章 查看全文",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "政策"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "007dc875e840",
+      "title": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/289.htm",
-      "publishedAt": "2026-08-23T12:49:38.000Z",
-      "summary": "百度回应无增发配售计划，现金充裕，AI云收入增长显著，GPU云收入同比增283%，AI业务占比达50%。",
+      "link": "https://www.ithome.com/0/993/317.htm",
+      "publishedAt": "2026-08-23T15:24:10.000Z",
+      "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果零售店布局即将迎来调整，为一系列新的家庭设备做准备。 古尔曼披露，苹果今年秋季将准备重新调整零售店， 为新的家庭设备腾出空间 。负责门店布局的团队已经开始规划新的展示区域。较新的苹果零售店四周设有 Avenues 陈列区，用来展示 HomePod、Apple TV、AirPods、Beats 以及第三方配件。 今年秋季，",
       "actionSteps": [
-        "查阅百度官方财报核实数据",
-        "关注AI云服务市场动态",
-        "评估百度股票投资风险"
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
       ],
       "tags": [
-        "百度",
-        "AI云",
-        "财务"
+        "AI"
       ],
-      "trust": 3,
-      "opportunity": 3,
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "1b05d41f570a",
+      "title": "揭秘苹果摄像头版 AirPods 为何泄露：可能是测试新功能时合并错误",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/316.htm",
+      "publishedAt": "2026-08-23T15:22:40.000Z",
+      "summary": "IT之家 8 月 23 日消息，苹果在 8 月 17 日发布 macOS Tahoe 26.7 RC 时，意外泄露了摄像头版 AirPods 的演示视频。除了耳机惨遭曝光以外，这个系统还包含了 Home Hub 家庭中枢等大量未公布产品信息。 据彭博社报道，本次泄露并不是内鬼曝光或黑客入侵，仅仅只是一次人为失误。 众所周知，苹果内部的测试版操作系统与开发者直接获取的测试版有所不同。当苹果员工开发或测试 macOS / iOS 未来功能时",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "4e1be7848a65",
+      "title": "获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/313.htm",
+      "publishedAt": "2026-08-23T15:09:37.000Z",
+      "summary": "IT之家 8 月 23 日消息，据外媒 Interesting Engineering 今天报道，美国初创公司 Starcloud 已完成 2.5 亿美元 （IT之家注：现汇率约合 16.86 亿元人民币） A 轮扩展融资，估值达到 23 亿美元 （现汇率约合 155.09 亿元人民币） 。这笔新资金将用于研发配备高性能 GPU 的卫星，为 AI 提供算力。 据报道，本轮融资由 Manhattan West 领投， 新投资者涵盖英伟达 ",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "423ff4f3d2f6",
+      "title": "加州伯克利数学教授撰文批评学生基础差，却被抓包“用 AI 写的”",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/309.htm",
+      "publishedAt": "2026-08-23T14:33:38.000Z",
+      "summary": "IT之家 8 月 23 日消息，据英国《卫报》20 日报道，加州大学伯克利分校数学教授兹韦兹德利娜 · 斯坦科娃日前在《旧金山标准报》撰文批评部分学生存在“严重”的数学基础缺失，却又承认文章本身曾借助 AI 编辑，由此引发争议。 《旧金山标准报》上周刊登了斯坦科娃一篇约 2000 词的评论文章。她指出，自己教授的一些数学课学生水平 落后“五到八年” ，连分数和基础代数等初中阶段知识都没有掌握。 斯坦科娃将问题归咎于加州大学不参考标准化考",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "政策"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "ff91e2bb7753",
+      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/305.htm",
+      "publishedAt": "2026-08-23T14:13:31.000Z",
+      "summary": "IT之家 8 月 23 日消息，据英国《卫报》今天（23 日）报道，OpenAI 首席全球事务官克里斯 · 勒汉恩警告，前沿 AI 模型已经开始具备 规划和发动复杂网络攻击 的能力，公众和企业需要为 AI“持续不断”的网络攻击做好防御准备。 随着安全风险上升，OpenAI 本周宣布暂停开发部分最先进的内部模型。勒汉恩表示：“从这项技术现在能够做到的事情来看，AI 已经进入了一个不同的阶段。” 勒汉恩接受《卫报》采访前不久，OpenAI ",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "bd7459b1c25a",
+      "title": "填补国产空白：东南大学手术机器人具备接近人手的精细力觉感知能力，跨越 2400 公里成功完成 3 例手术",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/363.htm",
+      "publishedAt": "2026-08-24T01:43:02.000Z",
+      "summary": "东南大学研发的力交互腔镜手术机器人完成跨2400公里远程手术，填补国产空白，验证力反馈技术稳定性。",
+      "actionSteps": [
+        "关注国产手术机器人临床进展",
+        "评估医疗设备采购或合作机会",
+        "跟踪相关技术专利和审批动态"
+      ],
+      "tags": [
+        "手术机器人",
+        "远程医疗",
+        "国产替代"
+      ],
+      "trust": 4,
+      "opportunity": 4,
       "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "百度澄清无增发计划，缓解市场担忧；AI云高增长显示企业AI需求强劲，可能影响相关投资和合作。",
-        "riskNotes": "回应来自科创板日报，非百度官方直接发布；财务数据基于季度报告，需以官方财报为准。"
+        "whyItMatters": "国产手术机器人突破提升医疗可及性，降低手术成本，对医疗行业和患者有积极影响。",
+        "riskNotes": "来源为高校官方，但临床案例仅3例，长期效果和普及性需更多数据。"
+      }
+    },
+    {
+      "id": "ce7bbfc736ab",
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "publishedAt": "2026-08-23T14:38:25.000Z",
+      "summary": "斯洛伐克在交通测速摄像头中发现俄罗斯后门，引发对关键基础设施安全的担忧。",
+      "actionSteps": [
+        "关注斯洛伐克官方安全公告",
+        "检查相关设备供应链安全",
+        "加强网络安全防护措施"
+      ],
+      "tags": [
+        "网络安全",
+        "后门",
+        "基础设施"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "关键基础设施安全漏洞可能影响公共安全，提醒个人和企业重视供应链安全。",
+        "riskNotes": "来源为Hacker News，非官方报告，具体细节和影响范围未证实，需关注官方调查。"
       }
     },
     {
@@ -511,23 +820,147 @@
       }
     },
     {
-      "id": "391ca71b7350",
-      "title": "安世中国 CEO 张秋明：过去 11 个月已交付超 400 亿颗芯片",
+      "id": "356f10e60c86",
+      "title": "比亚迪腾势 Z9S 全国 61 城 101 家门店首批展车到店，新车预售 31.98 万元起",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/294.htm",
-      "publishedAt": "2026-08-23T13:02:18.000Z",
-      "summary": "安世中国CEO称过去11个月交付超400亿颗芯片，强调核心业务和创新，面对供应链变局和技术封锁未退缩。",
+      "link": "https://www.ithome.com/0/993/364.htm",
+      "publishedAt": "2026-08-24T01:44:16.000Z",
+      "summary": "比亚迪腾势Z9S展车到店，预售31.98万元起，宣称纯电续航1100km，充电速度全球第一。",
       "actionSteps": [
-        "关注安世中国官方财报或公告验证数据",
-        "评估供应链合作伙伴的稳定性",
-        "关注功率半导体市场趋势"
+        "关注第三方评测数据",
+        "到店体验实车",
+        "对比同价位竞品"
       ],
       "tags": [
-        "芯片",
-        "功率半导体",
-        "供应链"
+        "电动车",
+        "比亚迪",
+        "续航"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "电动车续航和充电技术突破可能降低用户里程焦虑，影响购车选择。",
+        "riskNotes": "数据来自厂商宣传，未经第三方验证，实际续航和充电速度需实测确认。"
+      }
+    },
+    {
+      "id": "f53bae99d98e",
+      "title": "联想集团与海尔集团签署战略合作协议，推动联想 AI PC 等与海尔智慧家庭场景融合",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/353.htm",
+      "publishedAt": "2026-08-24T01:08:58.000Z",
+      "summary": "联想与海尔签署战略合作，推动AI PC与智慧家庭场景融合，共同探索AI赋能实体经济新路径。",
+      "actionSteps": [
+        "关注联想和海尔官方发布的产品信息",
+        "评估现有智能家居设备的兼容性",
+        "留意AI PC在家庭场景中的应用案例"
+      ],
+      "tags": [
+        "AI",
+        "合作",
+        "智能家居"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "AI技术加速落地，企业合作可能带来更智能的家居和办公体验，普通人或可期待更便捷的AI产品。",
+        "riskNotes": "新闻来源为IT之家，非官方一手信息，具体合作细节和产品落地时间未披露，需关注后续官方公告。"
+      }
+    },
+    {
+      "id": "8b92fd763a04",
+      "title": "美国得州州长阿博特：AI 数据中心遭民众反对实属咎由自取",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/336.htm",
+      "publishedAt": "2026-08-24T00:07:43.000Z",
+      "summary": "得州州长批评AI数据中心遭民众反对是自食其果，反映AI扩张与社区利益冲突。",
+      "actionSteps": [
+        "关注得州数据中心政策动态",
+        "评估AI扩张对社区的影响",
+        "参与相关公共讨论"
+      ],
+      "tags": [
+        "AI",
+        "数据中心",
+        "社区"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "AI数据中心建设可能引发环境、能源和社区问题，影响当地居民生活和企业选址。",
+        "riskNotes": "州长言论为个人观点，非政策文件，具体反对原因和影响未详述，需进一步调查。"
+      }
+    },
+    {
+      "id": "5ecd5d267f52",
+      "title": "OpenAI CEO 奥尔特曼：担心人工智能会被少数强势主体掌控",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/333.htm",
+      "publishedAt": "2026-08-24T00:01:11.000Z",
+      "summary": "OpenAI CEO奥尔特曼担忧AI被少数强势主体掌控，强调公众应深度参与AI未来塑造，同时警惕AI失控风险。",
+      "actionSteps": [
+        "关注AI治理相关公开讨论和政策动态",
+        "评估自身业务对AI技术的依赖风险",
+        "参与AI伦理和公众意见征集活动"
+      ],
+      "tags": [
+        "AI治理",
+        "垄断风险",
+        "公众参与"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "AI治理影响技术发展方向和公众权益，普通人可能面临技术垄断和话语权缺失，企业需关注合规与伦理。",
+        "riskNotes": "基于播客访谈，非官方政策声明，具体措施未披露，需关注后续行动。"
+      }
+    },
+    {
+      "id": "5f4da513b00b",
+      "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/329.htm",
+      "publishedAt": "2026-08-23T23:28:42.000Z",
+      "summary": "AI初创公司Hugging Face探索出售，估值或达130亿美元，已与银行合作评估竞购兴趣。",
+      "actionSteps": [
+        "关注Hugging Face官方声明",
+        "评估对开源AI工具依赖风险",
+        "探索替代平台或本地化方案"
+      ],
+      "tags": [
+        "AI并购",
+        "开源生态",
+        "Hugging Face"
       ],
       "trust": 2,
       "opportunity": 2,
@@ -535,227 +968,10 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "芯片供应稳定对电子制造业至关重要，安世作为功率半导体龙头，其交付能力影响下游企业生产。",
-        "riskNotes": "数据为CEO演讲披露，未经独立审计；具体客户和产品细节未提供，需核实。"
-      }
-    },
-    {
-      "id": "d80ccd3b816d",
-      "title": "第二届世界人形机器人运动会：智元精灵 G2 成功摘取“消防应急场景”“图书场景”两枚金牌",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/292.htm",
-      "publishedAt": "2026-08-23T12:59:19.000Z",
-      "summary": "智元精灵G2在世界人形机器人运动会获两金三银两铜，暂列奖牌榜首位，场景赛覆盖消防、图书等真实环境。",
-      "actionSteps": [
-        "关注智元机器人官方发布",
-        "了解人形机器人竞赛标准",
-        "评估相关技术应用前景"
-      ],
-      "tags": [
-        "人形机器人",
-        "竞赛",
-        "智元"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "人形机器人在真实场景中的表现展示其应用潜力，可能预示未来在服务、应急等领域的商业化进程。",
-        "riskNotes": "赛事结果来自IT之家报道，非官方成绩单；具体比赛细节和评判标准未公开。"
-      }
-    },
-    {
-      "id": "ce0e9bb5698a",
-      "title": "2027 北京亦庄人形机器人半程马拉松大赛开启全球邀请，赛事规格再升级",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/288.htm",
-      "publishedAt": "2026-08-23T12:49:37.000Z",
-      "summary": "2027北京亦庄人形机器人半马开启全球邀请，赛事规格升级，时间2027年4月18日，地点亦庄。",
-      "actionSteps": [
-        "关注赛事官方公告",
-        "评估参赛或合作可能性",
-        "跟踪人形机器人技术进展"
-      ],
-      "tags": [
-        "人形机器人",
-        "马拉松",
-        "赛事"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "人形机器人赛事促进技术交流，可能吸引投资和人才，推动产业发展，相关企业可关注参赛机会。",
-        "riskNotes": "信息来自IT之家，官方细节未完全披露；赛事具体规则和奖励未公布。"
-      }
-    },
-    {
-      "id": "4440ea5c7714",
-      "title": "第二届世界人形机器人运动会 400 米小型组田径决赛：天工 Omni 以 45.66 秒夺冠",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/286.htm",
-      "publishedAt": "2026-08-23T12:35:44.000Z",
-      "summary": "第二届世界人形机器人运动会上，天工Omni以45.66秒夺得400米小型组冠军，展示人形机器人运动能力与开放开发生态。",
-      "actionSteps": [
-        "关注人形机器人技术进展",
-        "探索开放API的二次开发机会",
-        "评估相关投资或合作可能性"
-      ],
-      "tags": [
-        "人形机器人",
-        "技术竞赛",
-        "开放平台"
-      ],
-      "trust": 3,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "人形机器人技术进步加速，开放二次开发体系降低开发者门槛，可能催生更多应用场景和商业机会。",
-        "riskNotes": "成绩为现场显示，未经独立验证；机器人性能和应用场景描述来自官方或媒体报道，需进一步核实。"
-      }
-    },
-    {
-      "id": "27f9933f7f3d",
-      "title": "美国专家示警：学生依赖“AI 代写”会削弱思考能力",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/274.htm",
-      "publishedAt": "2026-08-23T12:28:38.000Z",
-      "summary": "美国专家警告学生依赖AI代写可能削弱思考能力，写作被视为思考技术，长期依赖或影响认知发展。",
-      "actionSteps": [
-        "教育者制定AI使用规范",
-        "学生自主完成写作练习",
-        "关注相关认知研究"
-      ],
-      "tags": [
-        "AI教育",
-        "思考能力",
-        "写作"
-      ],
-      "trust": 3,
-      "opportunity": 1,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI工具普及引发教育担忧，家长和教育者需平衡技术使用与能力培养，学生应警惕过度依赖。",
-        "riskNotes": "报道基于纽约时报，专家观点非实证研究；个体影响因人而异，需更多研究支持。"
-      }
-    },
-    {
-      "id": "8f7fdc03119e",
-      "title": "美国多地官员因 AI 数据中心项目遭死亡威胁与枪击",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/263.htm",
-      "publishedAt": "2026-08-23T11:53:41.000Z",
-      "summary": "美国密歇根州马歇尔市因AI数据中心项目暂停引发官员遭死亡威胁和枪击事件，凸显AI基础设施建设的社区冲突与安全风险。",
-      "actionSteps": [
-        "关注当地官方公告和权威媒体报道",
-        "评估AI项目选址的社区风险",
-        "制定社区沟通和安全管理预案"
-      ],
-      "tags": [
-        "AI基础设施",
-        "社区冲突",
-        "安全风险"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI数据中心建设可能引发当地居民对环境影响、隐私和安全的担忧，导致社区对立甚至暴力事件，影响项目推进和企业投资决策。",
-        "riskNotes": "报道来源为IT之家转引Tom's Hardware，非官方一手信息，具体威胁细节和调查进展未证实。"
-      }
-    },
-    {
-      "id": "4263d5ffa6c2",
-      "title": "挪威呼吁校园内禁止使用 AI 眼镜",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/260.htm",
-      "publishedAt": "2026-08-23T11:28:01.000Z",
-      "summary": "挪威教育大臣呼吁校园禁止AI眼镜，并限制生成式AI在中小学的使用，强调谨慎引入AI技术。",
-      "actionSteps": [
-        "关注挪威教育AI政策动态",
-        "评估AI教育产品的合规风险",
-        "调整面向学校的AI产品功能"
-      ],
-      "tags": [
-        "AI监管",
-        "教育",
-        "政策风险"
-      ],
-      "trust": 3,
-      "opportunity": 1,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "教育领域对AI的监管趋严，可能影响AI教育产品的市场准入，企业需关注政策动向并调整产品策略。",
-        "riskNotes": "报道基于CCTV国际时讯和挪威广播公司，政策细节可能不完整，具体法规尚未正式出台。"
-      }
-    },
-    {
-      "id": "61266559dfa6",
-      "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/248.htm",
-      "publishedAt": "2026-08-23T10:01:14.000Z",
-      "summary": "橡鹿机器人在世界机器人大会发布三款烹饪机器人，包括AI炒菜机器人和具身烹饪机器人，利用AI视觉和大模型提升烹饪自动化。",
-      "actionSteps": [
-        "关注产品正式发布信息",
-        "评估烹饪机器人在餐饮业的应用潜力",
-        "探索相关投资或合作机会"
-      ],
-      "tags": [
-        "烹饪机器人",
-        "AI视觉",
-        "餐饮自动化"
-      ],
-      "trust": 3,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "烹饪机器人进入商用和家用市场，可能改变餐饮业和家庭厨房生态，带来效率提升和新的商业模式。",
-        "riskNotes": "产品性能和市场接受度未经验证，报道来自新华网，具体技术细节和价格未公布。"
+        "whyItMatters": "Hugging Face是开源AI社区重要平台，其出售可能影响开源生态和AI工具可用性。",
+        "riskNotes": "消息来源为匿名知情人士，未官方确认，估值和交易存在不确定性。"
       }
     },
     {
@@ -1102,23 +1318,23 @@
       }
     },
     {
-      "id": "a0408ead858b",
-      "title": "能像“骑马”一样操控，大咖机器人 DaxAI 展示骐骥系列四足机器马",
-      "category": "ai",
+      "id": "7c1a41dd9aeb",
+      "title": "宫崎英高：任天堂 Switch 2 硬件升级令工作室欣喜，化解《The Duskbloods》开发困境",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/291.htm",
-      "publishedAt": "2026-08-23T12:54:06.000Z",
-      "summary": "大咖机器人展示骐骥X1四足机器马，可载人操控，形态似马，通过车把控制，成为世界机器人大会热门展品。",
+      "link": "https://www.ithome.com/0/993/365.htm",
+      "publishedAt": "2026-08-24T01:46:29.000Z",
+      "summary": "宫崎英高透露《The Duskbloods》最初在初代Switch开发，Switch 2硬件升级解决了性能困境。",
       "actionSteps": [
-        "关注后续产品测试和量产消息",
-        "评估个人或企业应用场景的可行性",
-        "留意相关安全标准和法规动态"
+        "关注任天堂官方关于Switch 2的发布",
+        "留意游戏评测以了解实际表现",
+        "评估是否值得等待新硬件"
       ],
       "tags": [
-        "四足机器人",
-        "载人",
-        "机器人大会"
+        "游戏",
+        "硬件",
+        "Switch 2"
       ],
       "trust": 2,
       "opportunity": 2,
@@ -1126,72 +1342,132 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.712Z",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "四足载人机器人可能开启新型短途代步或娱乐体验，但距离商业化、安全法规完善尚远，普通人可关注其技术进展。",
-        "riskNotes": "信息来自IT之家，非官方一手来源；产品仍属展示阶段，实际性能、安全性、量产时间未披露。"
+        "whyItMatters": "游戏开发者对硬件性能的依赖，Switch 2的升级可能影响未来游戏品质和玩家体验。",
+        "riskNotes": "信息来自访谈，非官方硬件规格，Switch 2具体性能未证实，需以任天堂官方发布为准。"
       }
     },
     {
-      "id": "7faa9dccdb3b",
-      "title": "长城欧拉 5 运动款、欧拉 5 GT 亮相，8 月 28 日上市",
+      "id": "d949f702921c",
+      "title": "全新华为 FreeBuds 7 悦彰耳机官宣今日开启预售：半入耳主动降噪、4 色可选",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/268.htm",
-      "publishedAt": "2026-08-23T12:25:44.000Z",
-      "summary": "长城欧拉5运动款和GT在成都车展亮相，8月28日上市，提供燃油、混动等动力选择，主打个性化设计。",
+      "link": "https://www.ithome.com/0/993/362.htm",
+      "publishedAt": "2026-08-24T01:35:28.000Z",
+      "summary": "华为FreeBuds 7悦彰耳机开启预售，主打半入耳主动降噪，单耳4.3g，9月正式发布。",
       "actionSteps": [
-        "关注上市发布会获取详细配置",
-        "对比同级别竞品车型",
-        "评估购车或投资机会"
+        "关注预售信息和用户评测",
+        "比较同类产品后决定是否购买",
+        "关注华为官方渠道获取最新动态"
       ],
       "tags": [
-        "汽车",
-        "新车发布",
-        "市场竞争"
+        "华为",
+        "耳机",
+        "消费电子"
       ],
-      "trust": 3,
-      "opportunity": 2,
+      "trust": 4,
+      "opportunity": 1,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "新车上市丰富消费者选择，双色车身和运动套件吸引年轻用户，可能影响同级别车型市场竞争格局。",
-        "riskNotes": "动力细节和价格未完全公布，报道来自IT之家，需以官方发布为准。"
+        "whyItMatters": "消费电子新品，对普通消费者有产品选择影响，但市场影响有限。",
+        "riskNotes": "官方发布，但具体性能需实测，价格未公布。"
       }
     },
     {
-      "id": "e76ea1c767e7",
-      "title": "因预约人数远超预期，《莱莎的炼金工房》衍生 AI 聊天游戏延期上线",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/257.htm",
-      "publishedAt": "2026-08-23T10:56:46.000Z",
-      "summary": "《莱莎的炼金工房》AI聊天游戏因预约火爆延期上线，官方加强服务器以保障体验，显示AI互动游戏市场需求旺盛。",
+      "id": "15fbdafa718a",
+      "title": "Authoritarianism of Code",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+      "publishedAt": "2026-08-23T14:36:38.000Z",
+      "summary": "文章探讨代码的威权主义，反思技术对自由和控制的潜在影响。",
       "actionSteps": [
-        "关注游戏上线时间",
-        "分析AI聊天游戏市场趋势",
-        "评估IP合作或开发机会"
+        "阅读原文并思考技术伦理",
+        "关注相关讨论",
+        "在技术使用中保持批判性"
       ],
       "tags": [
-        "AI游戏",
-        "IP合作",
-        "市场热度"
+        "技术伦理",
+        "代码",
+        "自由"
       ],
-      "trust": 3,
-      "opportunity": 3,
+      "trust": 1,
+      "opportunity": 1,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T13:03:45.713Z",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI聊天游戏结合热门IP吸引大量用户，延期反映技术准备不足，但市场潜力大，可能带动相关开发需求。",
-        "riskNotes": "预约人数和延期原因来自官方声明，具体数据未披露，市场热度需进一步观察。"
+        "whyItMatters": "技术设计可能隐含权力结构，影响用户自主权，提醒公众关注技术伦理。",
+        "riskNotes": "文章为个人观点，非实证研究，需结合其他资料理解。"
+      }
+    },
+    {
+      "id": "94efea681729",
+      "title": "What Is a Harness?",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://earendil.com/posts/what-is-a-harness/",
+      "publishedAt": "2026-08-23T14:24:21.000Z",
+      "summary": "Hacker News文章探讨'harness'概念，可能涉及技术工具或方法论，但摘要未提供具体内容。",
+      "actionSteps": [
+        "访问链接阅读原文",
+        "评估相关技术对自身工作的适用性",
+        "关注社区讨论获取更多视角"
+      ],
+      "tags": [
+        "技术概念",
+        "开发工具"
+      ],
+      "trust": 1,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "技术概念可能影响开发实践，但信息不足，需进一步了解。",
+        "riskNotes": "仅标题和链接，无实质内容，无法评估影响。"
+      }
+    },
+    {
+      "id": "dc92ded1c655",
+      "title": "Death to px, long live ch",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+      "publishedAt": "2026-08-23T13:56:27.000Z",
+      "summary": "Hacker News文章讨论CSS单位'ch'替代'px'，可能涉及响应式设计最佳实践。",
+      "actionSteps": [
+        "阅读原文了解观点",
+        "评估在项目中应用'ch'单位的可行性",
+        "关注社区反馈和兼容性测试"
+      ],
+      "tags": [
+        "前端开发",
+        "CSS单位"
+      ],
+      "trust": 1,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T01:58:34.919Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "前端开发技术讨论，对开发者有参考价值，但非重大新闻。",
+        "riskNotes": "仅标题和链接，无具体内容，需阅读原文。"
       }
     },
     {
@@ -1474,37 +1750,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对手机消费者而言，该评测提供了日系品牌次旗舰的选购参考，可能影响购买决策。对行业而言，反映日系厂商在高端市场的竞争策略。",
         "riskNotes": "评测内容来自少数派，主观性较强，未提供具体参数和对比数据，需结合其他评测和官方规格综合判断。"
-      }
-    },
-    {
-      "id": "f99575405cd7",
-      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
-      "category": "ai",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113638",
-      "publishedAt": "2026-08-20T00:46:04.000Z",
-      "summary": "石头发布A30 Pro Steam 3.0洗地机，Framework升级Laptop 12笔记本，哈浮VERSA飞行口袋云台相机发布，OpenAI回应Codex用户误删文件问题。",
-      "actionSteps": [
-        "关注产品评测和用户反馈",
-        "备份重要数据以防误删",
-        "查阅官方公告获取详细信息"
-      ],
-      "tags": [
-        "消费电子",
-        "AI",
-        "数据安全"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-23T02:01:03.487Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "新产品发布影响消费者选择，OpenAI误删文件事件提醒用户注意数据安全。",
-        "riskNotes": "信息来自少数派，具体产品参数和OpenAI回应细节未提供，需核实。"
       }
     }
   ]
