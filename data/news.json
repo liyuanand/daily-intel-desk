@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:02:51.070Z",
+  "generatedAt": "2026-08-24T09:06:02.374Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 30
+    "reused": 33
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,77 +194,39 @@
       "priority": 89
     },
     {
-      "id": "96b98d390289",
-      "title": "Iranian hackers shut down UK power plant for 4 days",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
-      "publishedAt": "2026-08-23T10:03:01.000Z",
-      "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 56 # Comments: 34",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "d191ca370d5a",
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "publishedAt": "2026-08-23T10:02:51.000Z",
-      "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 159 # Comments: 80",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "59a17a6a341b",
-      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://skylens.yantraai.app/",
-      "publishedAt": "2026-08-23T09:27:40.000Z",
-      "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 36 # Comments: 17",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "5713874c7a9f",
-      "title": "上汽 MG 07 后续将 OTA 升级 Momenta R7 世界模型，解锁车位到车位、行车漫游等",
-      "category": "ai",
+      "id": "6a2609942c40",
+      "title": "七彩虹 iGame X870E VULCAN W OC 主板预约开启，3999 元",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/454.htm",
-      "publishedAt": "2026-08-24T03:52:24.000Z",
-      "summary": "IT之家 8 月 24 日消息，上汽 MG 07 车型于 2026 成都车展正式上市，1 分 57 秒大定破万，远超去年 MG4 破万纪录（39 分 37 秒）。据官方透露，超 95% 的用户选择 Momenta 智能辅助驾驶方案。 Momenta 透露，该车搭载 Momenta 强化学习大模型与新芯航途 XHEART X7 大模型专用芯片， 后续将 OTA 升级 Momenta R7 世界模型 。 未来，通过 OTA 升级至 Mome",
+      "link": "https://www.ithome.com/0/993/635.htm",
+      "publishedAt": "2026-08-24T08:48:09.000Z",
+      "summary": "IT之家 8 月 24 日消息，七彩虹 (Colorful) 今日宣布其旗舰超频主板 iGame X870E VULCAN W OC V14“白火神”开启预约。这一型号电商平台 标价 3999 元 ，9 月 1 日开售。 iGame X870E VULCAN W OC V14 可视为 iGame X870E VULCAN OC V14“黑火神”调整 + 白化后的产物， 整体配置基本一致。 其采用 10 层沉金 + 背钻工艺 2oz 铜 ",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "电商"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "ed377ee6d7a2",
+      "title": "倍思推出随身充 100W 自带双线 20000mAh 移动电源：2C+1A，299 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/633.htm",
+      "publishedAt": "2026-08-24T08:44:05.000Z",
+      "summary": "IT之家 8 月 24 日消息，倍思推出随身充 100W 自带双线 20000mAh 移动电源，今日正式开售， 售价 299 元 。 这款产品采用分离线 + 伸缩线二合一设计，拥有 80cm 伸缩充电线 + 25cm 分离式闪充线，通过国家 3C 安全认证，重约 495g，采用 MacBook 同源 R 角曲率。 这款产品支持 单口 100W Max 闪充 ，支持 AVS、UFCS、PD、QC、AFC、PPS 等多项快充协议，支持小电流",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
       "tags": [],
       "trust": 58,
@@ -272,35 +234,33 @@
       "priority": 70
     },
     {
-      "id": "68ebca4c44b8",
-      "title": "Anthropic 最强大模型 Fable 5 遇冷，企业用户转向更便宜 AI 产品",
-      "category": "ai",
+      "id": "bc14594c0534",
+      "title": "《剑星》Switch2 版游戏新预告发布，支持体感操控",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/426.htm",
-      "publishedAt": "2026-08-24T03:34:10.000Z",
-      "summary": "IT之家 8 月 24 日消息，据英国《金融时报》报道，Anthropic 的美国客户正在使用更便宜的替代品来替代其最强大的 AI 工具，这在其预计将实现有史以来规模最大的 IPO 之前，对其高支出的商业模式提出了质疑。 支付集团 Ramp 收集的 7 万家公司的支出数据显示，Anthropic 最大、最昂贵的模型 Fable 5 在发布两个多月后，其支出仅占总支出约 11%，并且趋于平稳。 这打破了企业用户默认使用最强大模型的模式。A",
+      "link": "https://www.ithome.com/0/993/627.htm",
+      "publishedAt": "2026-08-24T08:34:53.000Z",
+      "summary": "IT之家 8 月 24 日消息，开发商 SHIFT UP 现已公布《剑星》Switch 2 版本的最新预告片和主视觉图。 IT之家了解到， Switch 2 版《剑星》预计将在今年下半年发售 ，本作是一款动作冒险游戏， 支持使用 Joy-Con 2 手柄进行体感操作 ，进一步提升沉浸感。 剧情方面，玩家将化身被派往地球的精英战士“EVE”，从神秘势力手中夺回地球。游戏以极具沉浸感的科幻世界为舞台，玩家将在激烈的战斗以及充满意外的剧情发展",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
-      "tags": [
-        "AI"
-      ],
+      "tags": [],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "bf0b60684d6c",
-      "title": "消息称 NVIDIA 考虑向 Perplexity AI 投资“数十亿美元”",
+      "id": "4eb72129d9f0",
+      "title": "AI 大模型周榜：国产 glm-5.3-max 首秀闯入综合榜前 15，kimi-k3-max 冲进前十",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/418.htm",
-      "publishedAt": "2026-08-24T03:30:56.000Z",
-      "summary": "IT之家 8 月 24 日消息，外媒 The Information 稍早前报道称，NVIDIA（英伟达）考虑在 Perplexity AI 的最新融资轮中向这家人工智能初创企业投资“数十亿美元”。双方正就该交易展开磋商， 还可能达成技术授权协议 。 报道指出， Perplexity AI 计划以超过 300 亿美元 （IT之家注：现汇率约合 2,018.73 亿元人民币） 的估值进行新一轮融资 ，这一金额相较 去年 7 月的 180 ",
+      "link": "https://www.ithome.com/0/993/601.htm",
+      "publishedAt": "2026-08-24T08:10:51.000Z",
+      "summary": "IT之家 8 月 24 日消息，Arena（ arena.ai ）平台发布 2026 年第 34 周（8 月 17 日 ~8 月 23 日）AI 大模型盲测排名，本期智谱新发布的 glm-5.3-max 首次入榜即闯入综合榜 Top 15，位列第 13 名，ELO 得分 1487 分；月之暗面 kimi-k3-max 从第 12 名升至第 10 名，首次杀入综合榜前十。此外，本周还有多个国产模型在各细分榜单中取得亮眼表现，新模型入榜数量",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -308,24 +268,46 @@
       ],
       "tags": [
         "AI",
-        "自动化"
+        "生图",
+        "视频"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "38ce7d74587f",
-      "title": "阿里云视频生成模型 Wan3.0 正式上线，支持单次生成 30 秒视频、文档输入",
+      "id": "59f5738bc111",
+      "title": "数据中心吸走大量建筑工人，美国住房建设出现用工荒",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/396.htm",
-      "publishedAt": "2026-08-24T03:17:59.000Z",
-      "summary": "IT之家 8 月 24 日消息，阿里云消息，今天，视频生成模型 Wan3.0 正式上线。官方称，Wan3.0 在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级，单次可生成 30 秒视频，并首次支持 doc、xls、ppt、pdf、md 等文档格式输入，力求准确还原真实世界。 官方称，公测至今的十余天里，Wan3.0 也以天为单位持续进化，在指令遵循、跨镜头一致性、音频质感以及视频编辑等方面有进一步的提升。 今天，Wan3.0",
+      "link": "https://www.ithome.com/0/993/599.htm",
+      "publishedAt": "2026-08-24T08:06:46.000Z",
+      "summary": "IT之家 8 月 24 日消息，据外媒 Futurism 当地时间 23 日报道，美国成屋签约销售量 跌至三年来最低水平 ，7 月新屋建设也大幅下滑，创三年半以来新低。两项指标同时走弱，显示美国房地产市场正面临明显压力。 居高不下的通胀和停滞的工资增长等因素无疑同时影响着住房供给和需求， AI 数据中心建设热潮 也成为加剧困境的新因素。 为支撑 AI 热潮而大规模兴建的数据中心正在 争夺建筑业熟练技工 ，一部分原本可以参与住宅建设的工人",
       "actionSteps": [
         "先确定一个真实业务场景",
-        "先做 15 秒分镜，分别验证画面、口播和字幕",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "31503beee199",
+      "title": "工程师的极致浪漫：雷军曝光小米玄戒 O3 隐藏彩蛋，芯片内刻 OK 手势寓意“万事 OK”",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/595.htm",
+      "publishedAt": "2026-08-24T07:59:53.000Z",
+      "summary": "IT之家 8 月 24 日消息，在今天的小米玄戒芯片技术沟通会上，新一代玄戒芯片正式发布，包括：「AI 旗舰 SoC」玄戒 O3、「1.22TB/s 高带宽 AI 加速芯片」玄戒 O100 和「智驾高算力 AI 芯片」玄戒 D100。 小米创办人、董事长兼 CEO 雷军刚刚在 b 站发布视频，介绍了小米玄戒芯片的最新进展。 IT之家注意到，雷军在视频中曝光了小米工程师在玄戒 O3 上埋下的一个隐藏彩蛋：用显微镜放大看玄戒 O3 芯片内部",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
         "记录成本、耗时和可复用模板"
       ],
       "tags": [
@@ -337,42 +319,64 @@
       "priority": 70
     },
     {
-      "id": "dded1fb83b9d",
-      "title": "今年已有 2800 余项国家标准发布，新兴产业占比超 50%",
+      "id": "0671c7645301",
+      "title": "三星新愿景：让 HBM 不只是内存",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/391.htm",
-      "publishedAt": "2026-08-24T02:56:00.000Z",
-      "summary": "IT之家 8 月 24 日消息，据央视新闻报道，今年以来，市场监管总局（国家标准委）已发布国家标准 2800 余项， 其中新兴产业国家标准达 1400 余项，占比超 50% ，有力支撑了新质生产力蓬勃发展。 其中，新一代信息技术产业和新材料产业发布国家标准均超过 300 项，《信息技术脑机接口多模态数据格式》《人工智能终端智能化分级》等标准树立了信息技术产业发展前沿标杆；《船用高强度止裂钢板》《聚丙烯腈基氧化纤维》等标准促进了新材料产业",
+      "link": "https://www.ithome.com/0/993/592.htm",
+      "publishedAt": "2026-08-24T07:50:29.000Z",
+      "summary": "IT之家 8 月 24 日消息，HBM（高带宽内存）历经十多年发展后，已经成为 AI 生态不可或缺的一环。如今三星提出了 HBM 的远期发展愿景，希望让 HBM 承担内存以外的任务。 据科技媒体 SammyGuru 今天报道，三星技术负责人 Han Sang-wook 近日在 Hot Chips 2026 大会中表示，既然 HBM 的基底芯片（IT之家注：Base Die）采用先进逻辑工艺制造，那为它是否能承担 SoC 的部分功能？ 在",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
         "记录成本、耗时和可复用模板"
       ],
       "tags": [
-        "新能源"
+        "AI"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "4b9ca170a75f",
-      "title": "三星电子创纪录的股东回报计划未达投资者预期，股价大跌 8%",
+      "id": "de6af17f2e87",
+      "title": "宇树科技股价收跌 10.31%：总市值 2439 亿元，跌至全球人形机器人市值榜第二",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/389.htm",
-      "publishedAt": "2026-08-24T02:53:47.000Z",
-      "summary": "IT之家 8 月 24 日消息，三星电子股价周一早盘交易中大跌 8%，此前该公司创纪录的 790 亿美元 （IT之家注：现汇率约合 5,316 亿元人民币） 股东回报计划令投资者失望，投资者原本期待能从三星由人工智能驱动的巨额现金收益中获得更多份额，同时也希望公司能更明确地披露股票回购计划。 这家韩国芯片制造商上周五表示，今年的股东回报将为 90 万亿至 110 万亿韩元 （现汇率约合 4,365 亿至 5,335 亿元人民币） ，其中",
+      "link": "https://www.ithome.com/0/993/591.htm",
+      "publishedAt": "2026-08-24T07:49:28.000Z",
+      "summary": "IT之家 8 月 24 日消息，截至 8 月 24 日收盘，宇树科技下跌 10.31%，报 603.08 元 / 股，总市值为 2439 亿元人民币。 根据海外机器人网站 RobotHub 数据显示，宇树科技市值被海外机器人独角兽 Figure AI 以约 2691 亿元人民币（390 亿美元）反超（IT之家注：Figure AI 尚未上市，390 亿美元为 2025 年 9 月完成 C 轮融资后的投后估值）。 宇树科技于 8 月 19",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
         "记录成本、耗时和可复用模板"
       ],
       "tags": [
-        "政策"
+        "AI",
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "e1a4c18db0a0",
+      "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113563",
+      "publishedAt": "2026-08-24T07:14:08.000Z",
+      "summary": "把非智能的双电机升降桌，改成我梦想中的智能升降中枢。 查看全文",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
       ],
       "trust": 58,
       "opportunity": 67,
@@ -400,98 +404,35 @@
       "priority": 70
     },
     {
-      "id": "f2541bb0273e",
-      "title": "四川省地震局通报：成都高新减灾研究所冒用“中国地震预警网”名义发布震级为 7.7 级预警信息，已终止其授权",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/483.htm",
-      "publishedAt": "2026-08-24T04:49:00.000Z",
-      "summary": "四川地震局通报成都高新减灾研究所冒用官方名义发布错误地震预警，已终止授权。",
-      "actionSteps": [
-        "关注官方后续通报",
-        "核实地震预警信息来源",
-        "提高对预警信息的辨别能力"
-      ],
-      "tags": [
-        "地震预警",
-        "官方通报",
-        "公共安全",
-        "监管"
-      ],
-      "trust": 5,
-      "opportunity": 0,
-      "priority": 4,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-24T05:02:51.069Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "错误预警可能引发恐慌，影响公众对预警系统的信任，需加强监管和核实。",
-        "riskNotes": "官方通报已发布，但具体细节和后续处理需关注。"
-      }
-    },
-    {
-      "id": "4a0981edf015",
-      "title": "消息称半导体硅晶圆迎三年多来首次大涨价：覆盖全尺寸规格，升幅 10% 上下",
+      "id": "ea2d07cafc89",
+      "title": "小米玄戒三芯齐发，央视新闻报道称“中国芯片产业再突破”",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/460.htm",
-      "publishedAt": "2026-08-24T03:56:51.000Z",
-      "summary": "半导体硅晶圆市场三年多来首次大涨价，覆盖12、8、6英寸全尺寸，涨幅约10%，受AI算力需求推动。",
+      "link": "https://www.ithome.com/0/993/602.htm",
+      "publishedAt": "2026-08-24T08:10:54.000Z",
+      "summary": "小米发布三款自研芯片：玄戒O3 AI旗舰SoC、O100高带宽AI加速芯片、D100 3nm智驾芯片。央视新闻称“三芯齐发中国芯片产业再突破”。",
       "actionSteps": [
-        "关注硅晶圆价格走势和供需情况",
-        "芯片制造商评估成本影响",
-        "投资者关注半导体材料板块"
+        "关注芯片后续评测和量产信息",
+        "评估对小米产品的影响",
+        "关注国产芯片产业链动态"
       ],
       "tags": [
-        "半导体",
-        "涨价",
+        "小米",
+        "芯片",
+        "自研",
         "AI"
       ],
       "trust": 3,
-      "opportunity": 3,
-      "priority": 4,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-24T05:02:51.069Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "硅晶圆涨价将影响芯片制造成本，可能传导至电子产品价格，相关产业链企业需调整策略。",
-        "riskNotes": "报道来自台媒，具体涨幅和持续时间需进一步核实，市场变化快。"
-      }
-    },
-    {
-      "id": "e3d7301f02bf",
-      "title": "阿里巴巴达摩院推出肝癌 AI 模型，可精准识别 1 厘米微小肿瘤",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/478.htm",
-      "publishedAt": "2026-08-24T04:16:47.000Z",
-      "summary": "阿里达摩院联合医院推出肝癌AI模型DAMO LiON，可识别1厘米微小肿瘤，临床试验发现15例漏诊。",
-      "actionSteps": [
-        "关注该模型的后续临床推广",
-        "了解AI医疗诊断的监管进展",
-        "评估相关医疗AI公司投资价值"
-      ],
-      "tags": [
-        "AI医疗",
-        "肝癌",
-        "诊断",
-        "达摩院"
-      ],
-      "trust": 4,
-      "opportunity": 3,
+      "opportunity": 4,
       "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-24T05:02:51.069Z",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI辅助诊断可提高早期肝癌检出率，对患者治疗和生存率有重大意义，推动医疗AI发展。",
-        "riskNotes": "研究发表于Nature Medicine，但样本量有限，需更大规模验证。"
+        "whyItMatters": "小米自研芯片覆盖AI、智驾等领域，可能提升国产芯片竞争力，对科技产业和消费者有深远影响。",
+        "riskNotes": "信息来自IT之家和央视新闻，但芯片性能数据需第三方验证；3nm工艺可能依赖代工，需关注实际量产情况。"
       }
     },
     {
@@ -554,6 +495,38 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "车载系统被感染可能导致隐私泄露、车辆功能异常甚至安全风险，车主和车企需关注固件安全。",
         "riskNotes": "报告来源为卡巴斯基，但具体感染途径和影响范围未在摘要中详述，需查阅原文确认。"
+      }
+    },
+    {
+      "id": "96b98d390289",
+      "title": "Iranian hackers shut down UK power plant for 4 days",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+      "publishedAt": "2026-08-23T10:03:01.000Z",
+      "summary": "伊朗黑客攻击英国电厂致其关闭4天，凸显关键基础设施网络安全风险。",
+      "actionSteps": [
+        "关注官方安全通报",
+        "评估自身系统安全",
+        "加强网络安全防护"
+      ],
+      "tags": [
+        "网络安全",
+        "关键基础设施",
+        "黑客攻击",
+        "地缘政治"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "关键基础设施安全威胁升级，可能影响能源供应和国家安全，企业需加强防护。",
+        "riskNotes": "来源为Telegraph，未经独立证实，细节和影响范围需核实。"
       }
     },
     {
@@ -774,24 +747,24 @@
       }
     },
     {
-      "id": "d2aaffec63ef",
-      "title": "古尔曼：中国折叠机占全球半壁江山，苹果得打好硬件和身份两张牌",
-      "category": "industry",
+      "id": "7cc440819546",
+      "title": "海信视像 AI 战略暨 JUOS 发布会将于 8 月 31 日 14:30 举行",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/484.htm",
-      "publishedAt": "2026-08-24T04:53:36.000Z",
-      "summary": "中国占全球折叠屏手机出货量过半，苹果折叠iPhone面临高售价、缺长焦等挑战，需打好硬件和身份牌。",
+      "link": "https://www.ithome.com/0/993/625.htm",
+      "publishedAt": "2026-08-24T08:27:58.000Z",
+      "summary": "海信宣布8月31日举行AI战略暨JUOS发布会，口号“巨简单，更懂家”，宣称将重构家庭AI交互体验。JUOS是海信自研的新一代智能操作系统，旨在替代基于Android的JUUI。",
       "actionSteps": [
-        "关注苹果9月发布会确认折叠iPhone信息",
-        "比较苹果与国产折叠机的性价比",
-        "关注折叠屏供应链相关投资机会"
+        "关注8月31日发布会直播或报道",
+        "评估JUOS对现有电视使用习惯的影响",
+        "开发者可关注JUOS生态开放政策"
       ],
       "tags": [
-        "折叠屏",
-        "苹果",
-        "智能手机",
-        "市场趋势"
+        "海信",
+        "JUOS",
+        "智能电视",
+        "AI"
       ],
       "trust": 2,
       "opportunity": 2,
@@ -799,72 +772,74 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-24T05:02:51.069Z",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "折叠屏手机市场增长迅速，苹果入局将加剧竞争，影响消费者选择和行业格局。",
-        "riskNotes": "基于记者预测，非官方信息，具体发布时间和配置未证实。"
+        "whyItMatters": "海信作为电视巨头，其自研操作系统可能改变智能电视交互方式，影响家庭娱乐生态，对消费者和开发者都有潜在影响。",
+        "riskNotes": "信息来自IT之家，非官方一手来源；JUOS具体功能和生态尚不明确，需关注发布会实际内容。"
       }
     },
     {
-      "id": "e3d30a8c8cbc",
-      "title": "小米雷军：当前国内高端汽车市场处于产品青黄不接状态，高端零部件国产替代预估需要 5~10 年",
-      "category": "industry",
+      "id": "17ac45217c9f",
+      "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌“豆包工作”",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/481.htm",
-      "publishedAt": "2026-08-24T04:40:00.000Z",
-      "summary": "小米CEO雷军称国内高端汽车市场产品供给不足，豪华车市场面临重构，高端零部件国产替代需5-10年。",
+      "link": "https://www.ithome.com/0/993/604.htm",
+      "publishedAt": "2026-08-24T08:12:54.000Z",
+      "summary": "字节跳动整合办公AI产品，TRAE和扣子团队并入豆包体系，TRAE Work和扣子与豆包整合，TRAE IDE及CLI作为编程产品线发展，统一品牌“豆包工作”。",
       "actionSteps": [
-        "关注高端汽车市场动态和国产替代进展",
-        "评估相关供应链企业投资机会",
-        "消费者可关注高端车型供给变化"
+        "关注字节官方公告确认整合",
+        "体验豆包工作相关产品",
+        "评估对现有办公流程的影响"
       ],
       "tags": [
-        "汽车",
-        "高端化",
-        "国产替代"
+        "字节跳动",
+        "AI办公",
+        "豆包",
+        "整合"
       ],
-      "trust": 3,
+      "trust": 2,
       "opportunity": 3,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-24T05:02:51.069Z",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "高端汽车市场缺口和零部件国产化进程影响消费者选择、车企战略和供应链投资机会。",
-        "riskNotes": "雷军观点为个人判断，非官方数据，市场预测存在不确定性。"
+        "whyItMatters": "字节跳动整合AI办公产品，可能改变办公软件市场格局，对企业和个人用户的工作方式产生影响。",
+        "riskNotes": "消息来自智能涌现，非官方公告；整合细节和品牌推出时间未确认。"
       }
     },
     {
-      "id": "4dcaa4306f25",
-      "title": "《使命召唤：现代战争 4》测试版疑似出现 AI 生成美术素材，引发玩家争议",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/477.htm",
-      "publishedAt": "2026-08-24T04:05:02.000Z",
-      "summary": "《使命召唤：现代战争4》测试版被指使用AI生成美术素材，引发玩家争议，动视已承认使用生成式AI工具。",
+      "id": "d191ca370d5a",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "publishedAt": "2026-08-23T10:02:51.000Z",
+      "summary": "用户用Qwen 3.8 27B模型30分钟完成逆向工程任务，展示开源模型潜力。",
       "actionSteps": [
-        "关注动视官方声明和后续回应",
-        "评估AI生成内容对游戏质量的影响",
-        "参与行业讨论，了解AI在创意领域的应用"
+        "关注Qwen模型进展",
+        "测试模型能力",
+        "评估应用场景"
       ],
       "tags": [
         "AI",
-        "游戏",
-        "争议"
+        "开源模型",
+        "逆向工程",
+        "Qwen"
       ],
-      "trust": 3,
-      "opportunity": 1,
+      "trust": 2,
+      "opportunity": 3,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-24T05:02:51.069Z",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI在游戏开发中的应用引发对创意产业就业和作品质量的担忧，玩家和从业者需关注行业趋势。",
-        "riskNotes": "报道基于玩家发现和动视披露，但AI生成内容的具体范围和影响未完全明确。"
+        "whyItMatters": "开源AI模型能力提升，可能降低逆向工程门槛，影响软件安全和开发效率。",
+        "riskNotes": "来源为XDA和Hacker News，非官方测试，任务难度和结果未验证。"
       }
     },
     {
@@ -1211,24 +1186,88 @@
       }
     },
     {
-      "id": "1ca31e9190b9",
-      "title": "消息称知名 AI 研究员 Luke Metz 离开 OpenAI，加入 Meta 超级智能实验室",
-      "category": "ai",
+      "id": "229d391e1afd",
+      "title": "飞利浦推出 22E2N1100LS 显示器：21.5 英寸 1080P 120Hz，449 元",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/480.htm",
-      "publishedAt": "2026-08-24T04:37:23.000Z",
-      "summary": "知名AI研究员Luke Metz从OpenAI离职后加入Meta超级智能实验室，反映顶尖AI人才争夺战持续激烈。",
+      "link": "https://www.ithome.com/0/993/647.htm",
+      "publishedAt": "2026-08-24T09:04:41.000Z",
+      "summary": "飞利浦推出21.5英寸1080P 120Hz显示器，VA面板，99.6% sRGB，售价449元，接口HDMI 1.4+VGA。",
       "actionSteps": [
-        "关注Meta超级智能实验室的后续研究成果",
-        "评估AI人才流动对相关公司股价的影响",
-        "跟踪OpenAI的人才保留策略"
+        "对比同价位竞品",
+        "查看用户评测",
+        "考虑购买需求"
       ],
       "tags": [
-        "AI",
-        "人才流动",
-        "Meta",
-        "OpenAI"
+        "飞利浦",
+        "显示器",
+        "120Hz",
+        "性价比"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "低价高刷显示器，适合预算有限的游戏或办公用户，可能影响入门显示器市场。",
+        "riskNotes": "参数来自IT之家，未核实官方数据，实际表现需评测。"
+      }
+    },
+    {
+      "id": "5d9c3f6979cb",
+      "title": "雷蛇键匠键帽",
+      "category": "industry",
+      "source": "三头蛇版发售：手工小批量制作，699 元",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/646.htm",
+      "publishedAt": "2026-08-24T09:03:32.000Z",
+      "summary": "雷蛇推出手工键帽“三头蛇版”，单颗699元，3D建模、树脂浇注、手工上色，限量发售。",
+      "actionSteps": [
+        "关注雷蛇官方发售",
+        "评估是否值得购买",
+        "考虑兼容性"
+      ],
+      "tags": [
+        "雷蛇",
+        "键帽",
+        "手工",
+        "高端外设"
+      ],
+      "trust": 3,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "高端定制键帽市场，满足个性化需求，但价格高昂，可能仅限小众玩家。",
+        "riskNotes": "信息来自IT之家，未官方确认，实际工艺和兼容性需验证。"
+      }
+    },
+    {
+      "id": "9be1180c2755",
+      "title": "曝三星 Galaxy S26 FE 手机电池容量与上代相同，4900mAh",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/645.htm",
+      "publishedAt": "2026-08-24T08:59:28.000Z",
+      "summary": "三星Galaxy S26 FE通过巴西认证，电池容量4900mAh与上代相同，随机附赠25W充电器。预计本周晚些时候发布。",
+      "actionSteps": [
+        "等待官方发布确认规格",
+        "对比上代机型评估升级价值",
+        "关注其他配置如处理器、屏幕等"
+      ],
+      "tags": [
+        "三星",
+        "S26FE",
+        "电池",
+        "手机"
       ],
       "trust": 2,
       "opportunity": 1,
@@ -1236,41 +1275,106 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-24T05:02:51.069Z",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "顶尖人才流向影响AI技术竞争格局，可能加速Meta在超级智能领域的发展，对AI行业从业者和投资者有参考意义。",
-        "riskNotes": "消息来源为知情人士，未经官方确认，具体职位和职责不明。"
+        "whyItMatters": "对关注三星中端手机的消费者而言，电池容量和充电规格是重要购机参考，但升级幅度有限可能影响购买意愿。",
+        "riskNotes": "信息来自IT之家转述GSMArena，非官方发布；认证信息可能不完整，实际发布时或有变化。"
       }
     },
     {
-      "id": "fb876feedc86",
-      "title": "诺兰电影《奥德赛》宣布 11 月 17 日数字上线，发行 4K 超高清 / 蓝光版本",
+      "id": "fb9ccac27244",
+      "title": "奔驰 CEO 康林松盛赞纯电 AMG CLA 45：开过最好的“V8”，能让我重生",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/479.htm",
-      "publishedAt": "2026-08-24T04:18:07.000Z",
-      "summary": "诺兰新片《奥德赛》宣布11月17日数字上线，发行4K蓝光，全球票房超13.5亿美元，中国票房超4亿元。",
+      "link": "https://www.ithome.com/0/993/643.htm",
+      "publishedAt": "2026-08-24T08:53:03.000Z",
+      "summary": "奔驰AMG CLA 45纯电版采用三电机，通过AMG Force S+模式模拟四缸发动机声浪和换挡，CEO康林松称其为开过最好的“V8”，定位为上一代四缸车型的纯电继任者。",
       "actionSteps": [
-        "关注数字上线平台和日期",
-        "影视从业者分析票房成功因素",
-        "观众可安排观看计划"
+        "关注车型发布和评测",
+        "对比其他纯电性能车",
+        "考虑试驾体验"
       ],
       "tags": [
-        "电影",
-        "诺兰",
-        "票房"
+        "奔驰",
+        "AMG",
+        "纯电",
+        "性能车"
       ],
-      "trust": 4,
-      "opportunity": 1,
+      "trust": 2,
+      "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-24T05:02:51.069Z",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "电影数字发行和票房表现反映影视行业趋势，对内容制作和发行渠道有参考意义。",
-        "riskNotes": "票房数据来自报道，但具体数字需核实，数字上线日期可能变动。"
+        "whyItMatters": "纯电性能车模拟燃油车体验，可能吸引传统性能车爱好者，影响电动车市场趋势。",
+        "riskNotes": "信息来自IT之家，CEO言论可能带有宣传性质；模拟效果需实际体验验证。"
+      }
+    },
+    {
+      "id": "8d50513aa04b",
+      "title": "vivo 公布 OriginOS 7 新功能“贴纸库”：能在桌面、壁纸、熄屏界面上贴纸",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/629.htm",
+      "publishedAt": "2026-08-24T08:37:37.000Z",
+      "summary": "vivo OriginOS 7 推出“贴纸库”功能，支持桌面、壁纸、熄屏等多处贴纸，AI 自动抠图并保存复用。",
+      "actionSteps": [
+        "关注vivo官方后续公告",
+        "体验OriginOS 7测试版",
+        "评估贴纸库对用户吸引力"
+      ],
+      "tags": [
+        "vivo",
+        "OriginOS",
+        "AI抠图",
+        "手机系统"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "提升手机个性化体验，AI 抠图降低操作门槛，可能带动贴纸素材生态。",
+        "riskNotes": "信息来自微博和IT之家，非官方正式发布，功能细节和上线时间待确认。"
+      }
+    },
+    {
+      "id": "1fb0f4054a23",
+      "title": "飞傲推出 QX11 解码耳放：双 ES9069Q DAC 芯片、提供 HiFi / 游戏模式，999 元",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/626.htm",
+      "publishedAt": "2026-08-24T08:30:36.000Z",
+      "summary": "飞傲推出QX11解码耳放，双ES9069Q DAC，支持HiFi和游戏模式，AI降噪，售价999元。",
+      "actionSteps": [
+        "关注飞傲官方发布",
+        "查看专业评测",
+        "对比同类产品"
+      ],
+      "tags": [
+        "飞傲",
+        "解码耳放",
+        "HiFi",
+        "游戏声卡"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "兼顾音乐和游戏需求，AI降噪提升语音清晰度，可能吸引音频和游戏玩家。",
+        "riskNotes": "参数来自IT之家，未官方确认，实际音质和降噪效果需实测。"
       }
     },
     {
@@ -1425,6 +1529,38 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "赛事组织失误可能影响参赛者体验和城市形象，对主办方和赞助商有负面影响。",
         "riskNotes": "报道来自BBC，但具体错误细节和后续处理未提及。"
+      }
+    },
+    {
+      "id": "59a17a6a341b",
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://skylens.yantraai.app/",
+      "publishedAt": "2026-08-23T09:27:40.000Z",
+      "summary": "Hacker News上展示了一个项目，包含实时3D卫星追踪器和五角大楼解密的UFO档案。链接指向skylens.yantraai.app，有36个点赞和17条评论。",
+      "actionSteps": [
+        "访问项目链接验证功能",
+        "评估数据来源和准确性",
+        "考虑是否用于研究或开发"
+      ],
+      "tags": [
+        "卫星",
+        "UFO",
+        "数据可视化",
+        "开源"
+      ],
+      "trust": 1,
+      "opportunity": 3,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-24T09:06:02.374Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "该项目结合卫星追踪与解密档案，可能吸引航天爱好者、研究人员，也可能带来新的数据可视化应用机会。",
+        "riskNotes": "来源为Hacker News，项目真实性需验证；UFO档案可能涉及敏感信息，需注意合规性。"
       }
     },
     {
@@ -1644,37 +1780,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "为消费者提供产品参考，可能影响购买决策。",
         "riskNotes": "内容为主观体验，产品效果因人而异，需自行判断。"
-      }
-    },
-    {
-      "id": "31d5861fbd9f",
-      "title": "十年阅读历程，这是我的阅读工具推荐",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113567",
-      "publishedAt": "2026-08-20T07:25:47.000Z",
-      "summary": "作者分享十年阅读历程中使用的工具，包括应用和服务，用于辅助阅读、记录书单和整理笔记。",
-      "actionSteps": [
-        "阅读原文了解具体工具",
-        "根据自身需求试用相关应用",
-        "结合习惯调整阅读工具组合"
-      ],
-      "tags": [
-        "阅读工具",
-        "书单管理",
-        "笔记整理"
-      ],
-      "trust": 1,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-20T08:35:13.331Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "为阅读爱好者提供工具参考，可能提升阅读效率，但个人偏好不同，需选择性尝试。",
-        "riskNotes": "内容为个人经验分享，非权威评测，工具适用性因人而异。"
       }
     },
     {
