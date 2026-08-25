@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:55:06.233Z",
+  "generatedAt": "2026-08-25T09:01:29.052Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 27
+    "reused": 29
   },
   "categories": {
     "ai": "AI 实操",
@@ -201,7 +201,7 @@
       "sourceFeed": "Hacker News",
       "link": "https://paulgraham.com/prepare.html",
       "publishedAt": "2026-08-25T01:40:39.000Z",
-      "summary": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 52 # Comments: 52",
+      "summary": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 110 # Comments: 131",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -220,7 +220,7 @@
       "sourceFeed": "Hacker News",
       "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
       "publishedAt": "2026-08-25T01:35:00.000Z",
-      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 41 # Comments: 43",
+      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 72 # Comments: 106",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -234,73 +234,35 @@
       "priority": 79
     },
     {
-      "id": "a1366bacb2bb",
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "publishedAt": "2026-08-24T21:01:38.000Z",
-      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 70 # Comments: 16",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "0036f024c556",
-      "title": "Oceans hit highest temperature on record",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "publishedAt": "2026-08-24T19:19:08.000Z",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 462 # Comments: 371",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "cd0d5ce1e9d2",
-      "title": "银河航天实现中国商业航天企业首次面向东南亚整星出口",
+      "id": "3cce00d9df43",
+      "title": "长城汽车 2026 年上半年归母净利润 24.65 亿元，同比下降 61.11%",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/946.htm",
-      "publishedAt": "2026-08-25T04:01:53.000Z",
-      "summary": "IT之家 8 月 25 日消息，北京时间 2026 年 8 月 25 日 11 时 21 分， 长征六号丙遥一运载火箭在太原卫星发射中心发射升空 ，将中科卫星 14 星、中科卫星 15 星、银河航天灵知 09 泰国立方星等 7 颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。其中， 中科卫星 14 星、中科卫星 15 星、银河航天灵知 09 泰国立方星由商业航天公司银河航天研制 。 银河航天灵知 09 泰国立方星（GISTDA Cub",
+      "link": "https://www.ithome.com/0/994/091.htm",
+      "publishedAt": "2026-08-25T08:50:56.000Z",
+      "summary": "IT之家 8 月 25 日消息，长城汽车今日发布 2026 年上半年（2026 年 1 月～2026 年 6 月）报告： 营业总收入 ：1,021.01 亿元，同比增长 10.58% 归母净利润 ：24.65 亿元，同比下降 61.11% 扣非净利润 ：16.1 亿元，同比下降 55.04% 经营现金流 ：104.36 亿元，同比增长 13.25% 加权平均净资产收益率 ：2.76% 基本每股收益 ：0.29 元，同比下降 60.81%",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
       ],
       "tags": [
-        "教育"
+        "AI"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "b08c8b7358fb",
-      "title": "版本间隔 4 周 → 2 周：微软加速 WebView2 Runtime 更迭，和 Edge 浏览器同步更新",
+      "id": "d49c558849c3",
+      "title": "消息称华为 Pura X View 阔直板手机搭载麒麟 9030S 处理器，现阶段全系采用 12GB 运存",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/945.htm",
-      "publishedAt": "2026-08-25T03:49:38.000Z",
-      "summary": "IT之家 8 月 25 日消息，微软昨日（8 月 24 日）发布博文，宣布自 Microsoft Edge 152 版本（计划 8 月 27 日发布）开始，WebView2 Runtime 将跟随 Edge 浏览器的更新节奏， 从现有的 4 周一次缩短到每隔 2 周一次。 WebView2 Runtime 是微软推出的网页渲染底层运行库，可视为连接“本地客户端软件”和“现代网页技术”的桥梁。它允许开发者将 HTML、CSS 和 Java",
+      "link": "https://www.ithome.com/0/994/090.htm",
+      "publishedAt": "2026-08-25T08:49:44.000Z",
+      "summary": "IT之家 8 月 25 日消息，博主 @数码闲聊站 今日发文透露， 华为 Pura X View 阔直板手机搭载的是麒麟 9030S 处理器 。 关于华为新款三折叠手机 Mate XT 2 手机的处理器情况，博主表示：“不知道， 我这边资料只写了新一代麒麟 9 处理器 ，不知道如何界定，等我再探一下。” 有网友询问了 Pura X View 的运存情况，博主透露：“ 目前都是 12GB，看看后期会不会加 16GB。 ” 据IT之家此前报",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -312,60 +274,52 @@
       "priority": 70
     },
     {
-      "id": "dabf71af2d84",
-      "title": "LinkedIn“看起来像是 AI 垃圾”按钮收效显著，相关内容浏览量下降四成",
-      "category": "ai",
+      "id": "798b883a4fcd",
+      "title": "零跑全新 B10 用户画像公开：63% 用户年龄集中在 25-35 岁，增换购占比 76%",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/873.htm",
-      "publishedAt": "2026-08-25T03:08:50.000Z",
-      "summary": "IT之家 8 月 25 日消息，LinkedIn 表示，AI 劣质帖子的浏览量已不如从前，同时，被用户怀疑发布此类内容的人也将开始收到相关反馈。 LinkedIn 首席产品官 Hari Srinivasan 表示，与几周前相比，目前该职业社交平台认定为 AI“垃圾内容”的帖子，整体浏览量已经下降了 40%。 “尽管我们已经取得了一些进展，但我们知道还有很多工作要做，以确保 LinkedIn 始终是一个能够让你找到真实的人和真实观点的地方",
+      "link": "https://www.ithome.com/0/994/088.htm",
+      "publishedAt": "2026-08-25T08:46:56.000Z",
+      "summary": "IT之家 8 月 25 日消息，零跑汽车官方今日公布了零跑全新 B10 用户画像， 63% 用户年龄集中在 25-35 岁 。 此外，零跑全新 B10 购车用户的年轻家庭占比 52%， 增换购占比 76% 。 零跑全新 B10 的男性用户占比为 60% ，女性用户占比 40%；液态银配色成为 60% 用户的首选，用户更在意前排双零重力座椅、全域 800V 碳化硅高压系统、610km 续航等配置。 综合IT之家此前报道， 零跑全新 B10",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
-      "tags": [
-        "AI",
-        "自动化",
-        "机器人"
-      ],
+      "tags": [],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "584d0599329d",
-      "title": "机器人接管最后一站，亚马逊计划打造完全自动化配送站",
-      "category": "ai",
+      "id": "e1c984a7a8b8",
+      "title": "研发成本过高，欧空局搁置阿丽亚娜 6 号运载火箭 Block 3 升级计划",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/870.htm",
-      "publishedAt": "2026-08-25T03:02:54.000Z",
-      "summary": "IT之家 8 月 25 日消息，亚马逊正在开发新一代高度自动化仓库，利用人工智能和机器人技术处理包裹，将物流自动化延伸到配送前的最后一个环节。 根据 Business Insider 查阅的一份上月内部规划文件，这项内部代号为“Project Tetromino”的计划旨在打造“完全自动化”的配送站。配送站是物流流程中的最后一个设施，从履约中心接收已经打包的商品，然后进行分拣和暂存，最后交由司机配送给客户。 文件显示，亚马逊计划在 20",
+      "link": "https://www.ithome.com/0/994/076.htm",
+      "publishedAt": "2026-08-25T08:37:57.000Z",
+      "summary": "IT之家 8 月 25 日消息，科技媒体 Ars Technica 于 8 月 21 日发布博文，报道称 欧洲航天局（ESA）已经决定搁置阿丽亚娜 6 号（Ariane 6）运载火箭的 Block 3 升级计划，将会影响未来深空科学探测任务。 Block 3 升级计划原定于 2030 年投入使用，由航天公司 ArianeGroup 推进，主要开发名为 ICARUS 的极致轻量化上面级（upper stage），基于名为 Phoebus ",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "画出触发器、数据、决策和输出四段流程",
-        "记录成本、耗时和可复用模板"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
-      "tags": [
-        "AI",
-        "自动化",
-        "机器人"
-      ],
+      "tags": [],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "9b6cd7ea9e8f",
-      "title": "小米智能门锁 5C 首销：直插式 C 级锁芯，首发价 659 元",
+      "id": "6949848f2304",
+      "title": "古尔曼：新一代苹果 iPad mini 最晚 10 月下旬发布，带来 OLED 屏幕、防水等升级",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/869.htm",
-      "publishedAt": "2026-08-25T03:01:22.000Z",
-      "summary": "IT之家 8 月 25 日消息，小米智能门锁 5C 现已在京东开启首销，新品到手价 659 元。 京东 小米智能门锁 5C 659 元 直达链接 小米智能门锁 5C 提供多种开锁方式，包含 AI 指纹、固定密码、周期 / 一次性密码、机械钥匙、米家 App 蓝牙、小米手机 / 手表 / 手环 NFC、NFC 门卡。 安全方面，这款门锁将离合内置锁体，配合直插式 C 级锁芯贯穿锁体结构，可有效防止外力拆卸前面板后直接开锁，同时还可抵御暴力",
+      "link": "https://www.ithome.com/0/994/014.htm",
+      "publishedAt": "2026-08-25T07:21:28.000Z",
+      "summary": "IT之家 8 月 25 日消息，据彭博社记者马克 · 古尔曼今日发文，苹果计划于今年 10 月底之前推出新款 iPad mini 平板， 最大的升级要点便是 OLED 屏幕 。 IT之家了解到，苹果前年已经为 iPad Pro 产品线更新 OLED 屏幕，但 iPad mini、iPad Air 和数字款 iPad 仍然采用 LCD 屏幕。新一代 iPad mini 采用 OLED 屏幕后，色彩将会更加鲜艳、对比度更高，显示黑色时也会更",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -379,14 +333,36 @@
       "priority": 70
     },
     {
-      "id": "2e248d2da910",
-      "title": "英特尔介绍 Crescent Island 加速卡：面向 AI 推理，额定 350W、最高 480GB 内存",
+      "id": "afa534d9a4f1",
+      "title": "DeepSeek-V4-PRO AI 模型测试：英伟达 Vera Rubin 每兆瓦吞吐量达 GB300 的 30 倍",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/866.htm",
-      "publishedAt": "2026-08-25T02:56:29.000Z",
-      "summary": "IT之家 8 月 25 日消息，科技媒体 videocardz 昨日（8 月 24 日）发布博文，报道称在 Hot Chips 2026 活动中，英特尔详细介绍了 Crescent Island GPU，采用 Xe3P 架构，主要面向 AI 推理和智能体 AI 工作负载。 Crescent Island 采用风冷设计，额定功耗为 350W，使用 PCIe Gen5 x16 接口。该 GPU 配备 32 个 Xe 核心和 32MB 统一 ",
+      "link": "https://www.ithome.com/0/993/750.htm",
+      "publishedAt": "2026-08-25T06:58:11.000Z",
+      "summary": "IT之家 8 月 24 日消息，英伟达昨日使用 SemiAnalysis AgentX 工作负载，以 DeepSeek-v4-PRO 1.6T 模型评估测试， 显示 Vera Rubin 每兆瓦吞吐量达到 Blackwell 的 30 倍。 每兆瓦吞吐量（Tokens per Megawatt，简称 tokens / MW）是衡量 AI 数据中心在固定电力额度下能产出多少 AI Token 的核心能效指标。 IT之家援引博文介绍，Sem",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "Agent"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "d4afbe13e0be",
+      "title": "雷军详解新一代玄戒芯片原型机，包括高速 AI 演示终端和个人 AI 超级计算终端",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/002.htm",
+      "publishedAt": "2026-08-25T06:53:32.000Z",
+      "summary": "IT之家 8 月 25 日消息，小米创办人、董事长兼 CEO 雷军刚刚发文，介绍了搭载新一代玄戒芯片的两款原型机， 包括高速 AI 演示终端和个人 AI 超级计算终端 。 玄戒 O100 原型机： 为端侧大模型而生的高速 AI 演示终端 。采用玄戒 O3 与 O100 双芯协同计算，将传统手机影像模块取消、主板全部推翻重制，加入主动风冷散热系统，最高可支持 10 瓦功率的超强散热能力。内置 Xiaomi MiMo 端侧模型， 实测可达每",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -400,44 +376,21 @@
       "priority": 70
     },
     {
-      "id": "17d1c1d13a39",
-      "title": "字节跳动发布“豆包工作”，与飞书深度打通",
+      "id": "ca3ccc312ff3",
+      "title": "英特尔披露 Wildcat Lake 处理器：平台 AI 算力最高 40 TOPS，UCIe 多芯片封装",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/865.htm",
-      "publishedAt": "2026-08-25T02:47:43.000Z",
-      "summary": "IT之家 8 月 25 日消息，字节跳动今日正式发布“ 豆包工作 ”。作为豆包面向生产力场景推出的全新 Agent 产品与品牌，豆包工作能围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流程。 豆包工作还与飞书深度打通 ，让 Agent 基于企业上下文更准确地完成工作。 目前， 豆包工作电脑版已可通过官网下载 ，用户也可在最新豆包电脑版中直接使用。即日起下载登录或升级，便可免费领取 30 天订阅权益。 IT之家从字节官方介绍获悉，针",
+      "link": "https://www.ithome.com/0/993/995.htm",
+      "publishedAt": "2026-08-25T06:36:59.000Z",
+      "summary": "IT之家 8 月 25 日消息，科技媒体 Wccftech 昨日（8 月 24 日）发布博文， 报道称英特尔披露了 Wildcat Lake（酷睿 Series 3）系列处理器的相关细节。 定位方面，英特尔 Wildcat Lake 主要面向入门级 PC，保留 Panther Lake 的基础架构，并通过封装、Die 面积、I/O 配置和优化主板设计降低平台成本。 性能方面，Wildcat Lake 最高提供 40 TOPS 的平台 A",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
         "记录成本、耗时和可复用模板"
       ],
       "tags": [
-        "AI",
-        "Agent",
-        "视频"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "2c47d65881c2",
-      "title": "中消协发布消费提示：使用人工智能服务需谨防误导",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/856.htm",
-      "publishedAt": "2026-08-25T02:34:13.000Z",
-      "summary": "IT之家 8 月 25 日消息，中国消费者协会今天发布人工智能服务消费提示，提醒广大消费者理性认识通用生成式人工智能的信息辅助和参考属性，对涉及价格费用、合同条款、售后服务、法律责任等重要消费信息，不宜仅依据人工智能生成内容作出决定，应通过经营者官方渠道、合同文本、监管部门及其他权威渠道进行核实确认。 IT之家附全文如下： 目前，以大语言模型为核心的生成式人工智能技术正加速融入消费生活各类场景。人工智能在提升消费便利和服务效率的同时，因",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "政策"
+        "AI"
       ],
       "trust": 58,
       "opportunity": 67,
@@ -483,8 +436,8 @@
         "AI"
       ],
       "trust": 58,
-      "opportunity": 67,
-      "priority": 70
+      "opportunity": 65,
+      "priority": 67
     },
     {
       "id": "6ceb28d3090b",
@@ -508,99 +461,34 @@
       "priority": 67
     },
     {
-      "id": "151501c01b8b",
-      "title": "Arm 成立 36 年来首颗自研芯片：AGI CPU 细节披露，1000 亿晶体管、支持 6TB 内存",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/911.htm",
-      "publishedAt": "2026-08-25T03:31:46.000Z",
-      "summary": "Arm 在 Hot Chips 2026 披露首颗自研 AGI CPU，基于 Neoverse V3，136核，1000亿晶体管，支持6TB内存，面向智能体AI。",
-      "actionSteps": [
-        "关注Arm官方后续发布",
-        "评估该芯片对现有AI工作负载的适用性",
-        "跟踪相关云服务商采用计划"
-      ],
-      "tags": [
-        "Arm",
-        "AI芯片",
-        "AGI",
-        "硬件"
-      ],
-      "trust": 3,
-      "opportunity": 6,
-      "priority": 4,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T04:55:06.233Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "Arm 进入自研芯片领域可能改变AI硬件格局，对云计算和AI开发者意味着更多选择，可能降低AI计算成本。",
-        "riskNotes": "报道来自IT之家转述Wccftech，非官方一手信息，具体性能指标需以Arm官方发布为准。"
-      }
-    },
-    {
-      "id": "cb16f1079758",
-      "title": "雅迪控股 2026 财年上半年归母净利润 12.01 亿元，同比下降 27.2%",
+      "id": "c78074bac82f",
+      "title": "渥太华大学研究人员警告：12.5 万年以来，海洋温度从未如此之高",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/947.htm",
-      "publishedAt": "2026-08-25T04:03:37.000Z",
-      "summary": "雅迪控股2026财年上半年营收182.36亿元，同比降5%；归母净利润12.01亿元，同比降27.2%；经营现金流降65.6%。",
+      "link": "https://www.ithome.com/0/994/093.htm",
+      "publishedAt": "2026-08-25T08:52:02.000Z",
+      "summary": "研究警告当前海洋温度创12.5万年来新高，超级厄尔尼诺与气候变化叠加导致极端天气频发。",
       "actionSteps": [
-        "查阅雅迪半年报全文",
-        "分析行业竞争格局变化",
-        "关注后续季度业绩指引"
+        "关注气候变化相关报告",
+        "做好极端天气应对准备",
+        "支持减排措施"
       ],
       "tags": [
-        "雅迪",
-        "财报",
-        "电动两轮车",
-        "业绩"
+        "海洋",
+        "气候",
+        "厄尔尼诺"
       ],
-      "trust": 5,
-      "opportunity": 2,
+      "trust": 3,
+      "opportunity": 1,
       "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对投资者，雅迪业绩下滑反映电动两轮车市场竞争加剧或需求疲软；对消费者，可能影响产品价格和售后；对行业，龙头业绩不佳可能预示行业调整。",
-        "riskNotes": "数据来自公司半年报，但未提供具体原因，需结合行业报告分析。"
-      }
-    },
-    {
-      "id": "c9a5dc0485de",
-      "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://news.ycombinator.com/item?id=49428842",
-      "publishedAt": "2026-08-25T03:46:01.000Z",
-      "summary": "Hacker News 用户寻求大于20英寸的低功耗电子纸触摸屏，用于日历项目，目前仅有10分和2条评论，说明该需求小众但存在市场空白。",
-      "actionSteps": [
-        "调研现有大尺寸电子纸屏供应商",
-        "评估低功耗触摸屏技术方案",
-        "关注相关众筹或新品发布动态"
-      ],
-      "tags": [
-        "电子纸",
-        "触摸屏",
-        "低功耗",
-        "硬件"
-      ],
-      "trust": 2,
-      "opportunity": 5,
-      "priority": 3,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T04:55:06.233Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对开发者和硬件爱好者而言，大尺寸电子纸触摸屏的稀缺可能带来定制化产品机会；对普通用户，未来可能出现更节能的智能家居显示设备。",
-        "riskNotes": "信息来源为论坛帖子，非官方数据，具体产品可用性和性能未经验证。"
+        "whyItMatters": "海洋升温加剧极端天气，影响农业、渔业和沿海地区，普通人需关注气候风险。",
+        "riskNotes": "研究结论基于模型和观测，需查阅原始论文确认数据准确性。"
       }
     },
     {
@@ -821,23 +709,54 @@
       }
     },
     {
-      "id": "aafafc9b2750",
-      "title": "微软 CEO 纳德拉示警：企业要掌控 Token 资本，使用 AI 不能押注单一模型",
+      "id": "3b446ac65c76",
+      "title": "阿里云 Token Plan 接入千问 App 及 PC 端，支持 Qwen3.8-Max 等模型",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/095.htm",
+      "publishedAt": "2026-08-25T08:57:41.000Z",
+      "summary": "阿里云Token Plan接入千问App及PC端，用户绑定API Key即可调用订阅额度，支持Qwen3.8-Max等模型，用于工作助理等复杂任务。",
+      "actionSteps": [
+        "下载千问App或访问PC端",
+        "在设置中绑定API Key",
+        "测试调用Qwen3.8-Max等模型"
+      ],
+      "tags": [
+        "阿里云",
+        "AI模型",
+        "Token Plan"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "降低AI模型使用门槛，个人和企业可更便捷地使用大模型能力，可能推动AI应用普及，尤其对开发者和办公场景有实际帮助。",
+        "riskNotes": "信息来自IT之家，非阿里云官方公告；具体支持模型列表和绑定流程需在千问App内确认；Token Plan的计费和额度规则未详细说明。"
+      }
+    },
+    {
+      "id": "475b344b5263",
+      "title": "阿里云 Snapshot 云沙箱快照功能下月 7 日起商业化计费，中国内地磁盘单价为 0.0021 元 / GiB / 时",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/955.htm",
-      "publishedAt": "2026-08-25T04:51:07.000Z",
-      "summary": "微软CEO纳德拉警告企业勿依赖单一AI模型，以免将知识和思考能力外包给模型提供商，失去独立生存能力。",
+      "link": "https://www.ithome.com/0/994/048.htm",
+      "publishedAt": "2026-08-25T08:14:45.000Z",
+      "summary": "阿里云云沙箱快照功能将于9月7日起商业化计费，中国内地磁盘单价0.0021元/GiB/时，支持断点续跑、秒级冷启动等场景。",
       "actionSteps": [
-        "评估当前AI供应商依赖程度",
-        "制定多模型策略，分散风险",
-        "建立内部数据治理和AI使用规范"
+        "访问阿里云官网查看官方计费说明",
+        "评估当前云沙箱使用量",
+        "优化快照策略以控制成本"
       ],
       "tags": [
-        "AI",
-        "企业战略",
-        "数据主权"
+        "阿里云",
+        "云沙箱",
+        "计费"
       ],
       "trust": 3,
       "opportunity": 2,
@@ -845,167 +764,103 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "企业采用AI时需考虑数据主权和模型依赖风险，避免被单一供应商锁定，影响长期竞争力。",
-        "riskNotes": "报道基于CNN播客，非微软官方声明，具体细节需核实。"
+        "whyItMatters": "对使用云沙箱的开发者或企业意味着成本增加，需评估使用频率和成本；同时新功能可能提升效率，需权衡利弊。",
+        "riskNotes": "信息来自IT之家，非阿里云官方公告；计费细节可能不完整，需查阅官方文档确认；商业化后可能影响现有用户。"
       }
     },
     {
-      "id": "4865f7b618f5",
-      "title": "中国 AI 为什么追得这么快？美媒找到一批关键人物",
+      "id": "cc79c42ba390",
+      "title": "印度初创公司 Airbound 开发“火箭形态”配送无人机，还要和卡车比货运成本",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/954.htm",
-      "publishedAt": "2026-08-25T04:46:15.000Z",
-      "summary": "华尔街日报报道中国AI快速发展归因于清华等高校人才网络、开源技术、人才回流和算力效率，代表人物包括唐杰、杨植麟、梁文锋。",
+      "link": "https://www.ithome.com/0/994/033.htm",
+      "publishedAt": "2026-08-25T08:03:46.000Z",
+      "summary": "印度无人机初创Airbound获3700万美元A轮融资，目标将无人机货运成本降至与卡车相当，累计融资超4500万美元。",
       "actionSteps": [
-        "关注中国AI人才和开源动态",
-        "评估AI技术发展对行业的影响",
-        "跟踪相关企业和技术进展"
+        "关注无人机物流政策动态",
+        "评估相关投资机会",
+        "跟踪Airbound技术进展"
+      ],
+      "tags": [
+        "无人机",
+        "物流",
+        "融资"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "无人机物流成本若能与卡车竞争，可能改变货运行业格局，影响电商和供应链。",
+        "riskNotes": "融资信息来自媒体报道，成本目标尚未实现，需验证技术可行性。"
+      }
+    },
+    {
+      "id": "111e068d7ed2",
+      "title": "澳大利亚唱片业协会“重拳出击”，纯 AI 生成歌曲禁入官方排行榜",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/026.htm",
+      "publishedAt": "2026-08-25T07:50:00.000Z",
+      "summary": "澳大利亚唱片业协会禁止纯AI生成歌曲进入官方排行榜，此前一首AI改编麦当娜歌曲连续16周上榜引发争议。",
+      "actionSteps": [
+        "关注AI内容监管政策",
+        "了解音乐行业AI应用边界",
+        "评估AI创作工具合规性"
       ],
       "tags": [
         "AI",
-        "中国",
-        "人才"
+        "音乐",
+        "监管"
       ],
       "trust": 3,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "AI生成内容在创意行业的地位引发讨论，可能影响音乐产业和AI应用规范。",
+        "riskNotes": "政策细节和行业反应需进一步确认，可能影响其他地区。"
+      }
+    },
+    {
+      "id": "affac886fad1",
+      "title": "SiFive's First Server Platform",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "publishedAt": "2026-08-25T03:06:26.000Z",
+      "summary": "SiFive发布首个服务器平台，基于RISC-V架构，可能挑战x86和ARM在服务器市场的地位。",
+      "actionSteps": [
+        "了解RISC-V架构优势",
+        "关注SiFive产品评测",
+        "评估对现有IT架构的影响"
+      ],
+      "tags": [
+        "RISC-V",
+        "服务器",
+        "芯片"
+      ],
+      "trust": 2,
       "opportunity": 3,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "中国AI产业竞争力提升，可能影响全球AI格局，对相关从业者和投资者有参考意义。",
-        "riskNotes": "报道基于采访，观点可能片面，需结合其他来源综合判断。"
-      }
-    },
-    {
-      "id": "f4f32ed624b4",
-      "title": "首条横跨京冀城市轨道有望年底开通，北京轨道交通 22 号线（红庙 — 平谷）开启空载试运行",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/952.htm",
-      "publishedAt": "2026-08-25T04:23:50.000Z",
-      "summary": "北京轨道交通22号线（红庙-平谷）开启空载试运行，计划年底开通，成为首条横跨京冀的城市轨道线路。",
-      "actionSteps": [
-        "关注沿线站点周边房产动态",
-        "评估通勤时间变化对生活工作的影响",
-        "留意官方发布的正式开通信息"
-      ],
-      "tags": [
-        "交通",
-        "京津冀",
-        "城市轨道"
-      ],
-      "trust": 4,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T04:55:06.233Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "京津冀通勤便利性提升，沿线房产和商业可能受益，但需关注具体站点和运营时间。",
-        "riskNotes": "信息来自央视新闻，但开通时间仍可能调整，具体站点和票价未公布。"
-      }
-    },
-    {
-      "id": "05a234899ebc",
-      "title": "工人大罢工后现代汽车与工会达成初步协议：月薪涨 10 万韩元并发放 4 个月工资奖金",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/951.htm",
-      "publishedAt": "2026-08-25T04:19:04.000Z",
-      "summary": "现代汽车与工会达成初步协议，月薪涨10万韩元并发放4个月工资奖金，结束十年来首次罢工。",
-      "actionSteps": [
-        "关注现代汽车后续协议批准情况",
-        "评估对汽车价格和供应链的潜在影响",
-        "投资者可关注相关股票动态"
-      ],
-      "tags": [
-        "汽车",
-        "劳资",
-        "韩国"
-      ],
-      "trust": 4,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T04:55:06.233Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "汽车行业劳资关系变化可能影响生产成本和供应链，对消费者和投资者有间接影响。",
-        "riskNotes": "协议为初步，最终批准和细节待确认，韩元汇率波动影响实际价值。"
-      }
-    },
-    {
-      "id": "2d3883e75a57",
-      "title": "索尼 Xperia 10 VIII 手机细节：屏幕亮度提升 50%，保留 3.5mm 端口，6 年安全更新",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/948.htm",
-      "publishedAt": "2026-08-25T04:09:29.000Z",
-      "summary": "索尼发布Xperia 10 VIII手机，6.1英寸120Hz屏，亮度提升50%，保留3.5mm耳机孔，提供6年安全更新。",
-      "actionSteps": [
-        "对比同价位竞品参数",
-        "关注实际评测和用户反馈",
-        "评估是否适合自身需求"
-      ],
-      "tags": [
-        "索尼",
-        "手机",
-        "Xperia",
-        "更新"
-      ],
-      "trust": 4,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T04:55:06.233Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对手机用户，该机型提供更亮屏幕和长期安全更新，适合注重耐用性和影音体验的用户；对行业，索尼坚持耳机孔和长更新周期可能影响其他厂商。",
-        "riskNotes": "信息来自IT之家，基于索尼官方发布会，但具体市场表现和实际体验需后续评测。"
-      }
-    },
-    {
-      "id": "b3436e89814e",
-      "title": "古尔曼：苹果 AirPods 5 耳机下月发布，提供普通版和主动降噪版",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/905.htm",
-      "publishedAt": "2026-08-25T03:27:25.000Z",
-      "summary": "据彭博社古尔曼报道，苹果可能下月发布AirPods 5，提供普通版和主动降噪版，带摄像头版本预计明年推出。",
-      "actionSteps": [
-        "关注苹果官方发布会邀请",
-        "等待正式发布后对比评测",
-        "评估现有耳机升级必要性"
-      ],
-      "tags": [
-        "苹果",
-        "AirPods",
-        "耳机",
-        "发布"
-      ],
-      "trust": 3,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T04:55:06.233Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对消费者，AirPods 5可能带来新功能和选择；对苹果生态用户，升级耳机需考虑兼容性；对行业，苹果动向影响TWS市场。",
-        "riskNotes": "信息来自彭博社记者，非官方确认，发布时间和功能存在不确定性。"
+        "whyItMatters": "RISC-V服务器若成熟，可能降低服务器成本，影响云计算和芯片行业。",
+        "riskNotes": "技术细节和性能数据需进一步核实，市场接受度未知。"
       }
     },
     {
@@ -1287,6 +1142,161 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "提升城市文化品牌，可能带动文旅产业，影响当地居民和投资者。",
         "riskNotes": "批复内容未详述，具体保护措施和影响需关注后续政策。"
+      }
+    },
+    {
+      "id": "fdce50acdfe5",
+      "title": "vivo X500 Pro Max 手机现身 Geekbench，天玑 9600 Pro 芯片",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/094.htm",
+      "publishedAt": "2026-08-25T08:55:58.000Z",
+      "summary": "vivo新机X500 Pro Max现身Geekbench，搭载天玑9600 Pro芯片，单核2574分，多核分数未完整，配备12GB内存和Android 17。",
+      "actionSteps": [
+        "关注vivo官方发布会",
+        "对比其他旗舰芯片性能",
+        "等待真机评测"
+      ],
+      "tags": [
+        "vivo",
+        "天玑9600",
+        "手机性能"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "预示vivo旗舰手机性能提升，可能影响消费者购机选择；对手机行业而言，天玑芯片竞争力增强，可能改变市场格局。",
+        "riskNotes": "信息来自IT之家，非官方确认；Geekbench数据可能为工程机，实际性能可能不同；型号和芯片名称需官方发布确认。"
+      }
+    },
+    {
+      "id": "fea80055a284",
+      "title": "明基推出 ScreenBar Max 双屏全景灯：为双显示器场景设计、全景非对称光型，1999 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/092.htm",
+      "publishedAt": "2026-08-25T08:51:10.000Z",
+      "summary": "明基推出ScreenBar Max双屏全景灯，售价1999元，专为双显示器设计，提供全景非对称光型，消除照明死角。",
+      "actionSteps": [
+        "比较同类产品",
+        "查看用户评测",
+        "根据需求决定是否购买"
+      ],
+      "tags": [
+        "明基",
+        "显示器",
+        "照明"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对多屏办公用户，该产品可能改善视觉舒适度，减少眼疲劳，提升工作效率。",
+        "riskNotes": "产品性能需实际体验验证，价格较高，性价比待评估。"
+      }
+    },
+    {
+      "id": "b7ff5be25272",
+      "title": "Caviar 更新定制版苹果 iPhone Ultra 折叠屏手机：新增 4 种外观，1.4 万美元起",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/070.htm",
+      "publishedAt": "2026-08-25T08:36:21.000Z",
+      "summary": "奢侈品商Caviar更新定制版苹果折叠屏手机，新增液态金属、乔布斯等4种外观，售价1.4万美元起，采用925纯银等高端材质。",
+      "actionSteps": [
+        "关注苹果官方折叠屏手机发布动态",
+        "访问Caviar官网核实定制版详情",
+        "评估高端定制手机市场趋势"
+      ],
+      "tags": [
+        "奢侈品",
+        "折叠屏",
+        "定制手机"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对普通消费者而言，该产品价格高昂，属小众奢侈品市场；对手机行业而言，反映折叠屏手机在高端定制领域的延伸，可能带动相关配件和定制服务需求。",
+        "riskNotes": "信息来源于IT之家，非官方一手来源；具体配置和价格需以Caviar官方为准；折叠屏手机本身尚未发布，定制版存在不确定性。"
+      }
+    },
+    {
+      "id": "4762f50065dc",
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://github.com/dragthelake/ambient-context",
+      "publishedAt": "2026-08-25T04:33:24.000Z",
+      "summary": "一款macOS菜单栏应用，通过辅助功能API读取聚焦窗口文本，无需截图或OCR，自动生成Markdown文件，实现屏幕记忆。",
+      "actionSteps": [
+        "搜索应用名称并下载试用",
+        "配置输出文件夹",
+        "测试隐私保护功能"
+      ],
+      "tags": [
+        "效率工具",
+        "macOS",
+        "隐私"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "为需要记录工作内容的用户提供轻量级工具，可能提升效率，但涉及隐私问题，需谨慎使用。",
+        "riskNotes": "来自Hacker News，非官方产品页面；应用名称和下载链接未提供；读取所有窗口文本可能带来隐私风险，需用户自行评估。"
+      }
+    },
+    {
+      "id": "d17611afa158",
+      "title": "Volcanoes that made history",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
+      "publishedAt": "2026-08-25T04:09:43.000Z",
+      "summary": "文章回顾历史上重大火山喷发事件及其对文明和气候的影响，探讨火山学最新研究进展。",
+      "actionSteps": [
+        "阅读原文了解具体火山事件",
+        "关注火山监测预警信息",
+        "评估所在地区火山风险"
+      ],
+      "tags": [
+        "火山",
+        "历史",
+        "气候"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "火山活动可影响全球气候、航空安全和农业生产，了解历史有助于评估未来风险。",
+        "riskNotes": "摘要信息有限，具体内容需阅读原文核实。"
       }
     },
     {
@@ -1636,38 +1646,6 @@
       }
     },
     {
-      "id": "cad041c3eb8c",
-      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
-      "category": "ai",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113675",
-      "publishedAt": "2026-08-22T03:00:00.000Z",
-      "summary": "少数派广州线下店将举办迈克尔·杰克逊68周年诞辰唱片展，为音乐爱好者提供交流空间。",
-      "actionSteps": [
-        "查看少数派官方活动详情",
-        "规划参与时间",
-        "关注线下店地址"
-      ],
-      "tags": [
-        "音乐",
-        "展览",
-        "线下活动",
-        "MJ"
-      ],
-      "trust": 3,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-22T04:51:37.808Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对MJ粉丝和音乐爱好者是文化活动机会，也体现线下零售空间转型。",
-        "riskNotes": "活动信息来自少数派，具体细节和参与方式未明确，需关注官方通知。"
-      }
-    },
-    {
       "id": "02c37866e6d6",
       "title": "Mother tongue",
       "category": "industry",
@@ -1696,6 +1674,37 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "语言多样性关乎文化认同，可能引发对濒危语言的关注。",
         "riskNotes": "摘要为故事片段，未提供具体数据或论点，需阅读全文。"
+      }
+    },
+    {
+      "id": "a8a056370efe",
+      "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113673",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "summary": "少数派文章介绍台湾打工换宿体验，通过人际喜好串联淡水地图，分享真实生活经验。",
+      "actionSteps": [
+        "阅读原文了解详情",
+        "搜索台湾打工换宿平台",
+        "评估自身适应能力"
+      ],
+      "tags": [
+        "台湾",
+        "打工换宿",
+        "旅行"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 0,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T09:01:29.051Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "为旅行者提供独特的深度游方式，可能促进文化交流，但对普通人影响较小，主要面向背包客和体验式旅行者。",
+        "riskNotes": "文章来自少数派社区，代表作者个人观点；打工换宿的具体安排和安全性需自行核实。"
       }
     },
     {
