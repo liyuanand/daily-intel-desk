@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:53:39.809Z",
+  "generatedAt": "2026-08-25T04:55:06.233Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 24
+    "reused": 27
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,20 +194,41 @@
       "priority": 89
     },
     {
-      "id": "876b079beb5e",
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+      "id": "c75e015ff81a",
+      "title": "How Universities Should Prepare Founders",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "publishedAt": "2026-08-24T21:03:06.000Z",
-      "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 126 # Comments: 101",
+      "link": "https://paulgraham.com/prepare.html",
+      "publishedAt": "2026-08-25T01:40:39.000Z",
+      "summary": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 52 # Comments: 52",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
         "先访谈 5 位潜在客户，再决定是否投入"
       ],
       "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "66ddcea94b08",
+      "title": "Was modern art a CIA psy-op? (2020)",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+      "publishedAt": "2026-08-25T01:35:00.000Z",
+      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 41 # Comments: 43",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
       "trust": 58,
       "opportunity": 92,
       "priority": 79
@@ -220,7 +241,7 @@
       "sourceFeed": "Hacker News",
       "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
       "publishedAt": "2026-08-24T21:01:38.000Z",
-      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 54 # Comments: 12",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 70 # Comments: 16",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -239,7 +260,7 @@
       "sourceFeed": "Hacker News",
       "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
       "publishedAt": "2026-08-24T19:19:08.000Z",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 395 # Comments: 295",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 462 # Comments: 371",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -251,111 +272,100 @@
       "priority": 79
     },
     {
-      "id": "f1b6aac358f7",
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "publishedAt": "2026-08-24T19:03:06.000Z",
-      "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 93 # Comments: 50",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "4c66a2e60143",
-      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://textlog.cc/post/2059",
-      "publishedAt": "2026-08-24T18:45:43.000Z",
-      "summary": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 51 # Comments: 23",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "42b5c011c8e3",
-      "title": "Anger, Anxiety and Agency",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-      "publishedAt": "2026-08-24T18:37:24.000Z",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 98 # Comments: 107",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "411eb0bc65d9",
-      "title": "16 人团队 14 个印度裔：谷歌新员工遭抱团排挤，工作 5 周后辞职",
+      "id": "cd0d5ce1e9d2",
+      "title": "银河航天实现中国商业航天企业首次面向东南亚整星出口",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/821.htm",
-      "publishedAt": "2026-08-25T01:31:32.000Z",
-      "summary": "IT之家 8 月 25 日消息，白人工程师 FormalOver6 在匿名职场社区 Blind 上发帖称，他加入谷歌（Google）公司后，由于团队沟通障碍、工作分配不均及功劳归属争议， 工作 5 周后就决定辞职。 该网友指出他入职谷歌公司后，所在团队共有 16 人，其中 14 人为印度裔（他和主管为白人），而团队成员经常使用该工程师无法理解的语言交流，让其感到被排斥。 日常工作中，部分同事会使用英语开会，但在私下交流和部分工作沟通中，",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "98d15903e35c",
-      "title": "SKhynix 淘宝旗舰店终止经营，已下架所有海力士存储产品",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/819.htm",
-      "publishedAt": "2026-08-25T01:30:06.000Z",
-      "summary": "IT之家 8 月 25 日消息，有消费者日前发帖称，淘宝天猫店铺“SKhynix 旗舰店”突然宣告终止经营，担忧所购内存条无法享受售后质保。 “SKhynix 旗舰店”主页公示， 该店铺拟于 2026 年 9 月 9 日自主终止经营，已下架所有产品 。目前已无法从淘宝平台直接搜索到该店铺。 IT之家查询获悉，该店铺公示的运营企业“天津海利士科技有限公司”成立于 2020 年 7 月，位于天津市武清区汉沽港镇，注册资本 100 万元人民币",
+      "link": "https://www.ithome.com/0/993/946.htm",
+      "publishedAt": "2026-08-25T04:01:53.000Z",
+      "summary": "IT之家 8 月 25 日消息，北京时间 2026 年 8 月 25 日 11 时 21 分， 长征六号丙遥一运载火箭在太原卫星发射中心发射升空 ，将中科卫星 14 星、中科卫星 15 星、银河航天灵知 09 泰国立方星等 7 颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。其中， 中科卫星 14 星、中科卫星 15 星、银河航天灵知 09 泰国立方星由商业航天公司银河航天研制 。 银河航天灵知 09 泰国立方星（GISTDA Cub",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
       ],
       "tags": [
-        "政策"
+        "教育"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "fffe2322f77b",
-      "title": "小鹏第二代 VLA 首次模型重大升级：响应速度提升 3 倍，G9L 车型全球首发",
+      "id": "b08c8b7358fb",
+      "title": "版本间隔 4 周 → 2 周：微软加速 WebView2 Runtime 更迭，和 Edge 浏览器同步更新",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/945.htm",
+      "publishedAt": "2026-08-25T03:49:38.000Z",
+      "summary": "IT之家 8 月 25 日消息，微软昨日（8 月 24 日）发布博文，宣布自 Microsoft Edge 152 版本（计划 8 月 27 日发布）开始，WebView2 Runtime 将跟随 Edge 浏览器的更新节奏， 从现有的 4 周一次缩短到每隔 2 周一次。 WebView2 Runtime 是微软推出的网页渲染底层运行库，可视为连接“本地客户端软件”和“现代网页技术”的桥梁。它允许开发者将 HTML、CSS 和 Java",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "dabf71af2d84",
+      "title": "LinkedIn“看起来像是 AI 垃圾”按钮收效显著，相关内容浏览量下降四成",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/815.htm",
-      "publishedAt": "2026-08-25T01:15:44.000Z",
-      "summary": "IT之家 8 月 25 日消息，小鹏汽车今日宣布，小鹏物理 AI 分享暨第二代 VLA 全新版本体验日将于 8 月 27 日 15:00 举行。 小鹏第二代 VLA 首次模型重大升级， 小鹏第二代 VLA 630 版更进一步 ，智能辅助驾驶体验再次跃升： 端侧最大模型 —— 端侧模型参数量提高 3.5 倍，行业主流 VLA 模型的 15 倍； 博弈更稳 —— 端到端响应速度提升 300%，安全博弈、减速操作平稳丝滑。 IT之家从小鹏汽车",
+      "link": "https://www.ithome.com/0/993/873.htm",
+      "publishedAt": "2026-08-25T03:08:50.000Z",
+      "summary": "IT之家 8 月 25 日消息，LinkedIn 表示，AI 劣质帖子的浏览量已不如从前，同时，被用户怀疑发布此类内容的人也将开始收到相关反馈。 LinkedIn 首席产品官 Hari Srinivasan 表示，与几周前相比，目前该职业社交平台认定为 AI“垃圾内容”的帖子，整体浏览量已经下降了 40%。 “尽管我们已经取得了一些进展，但我们知道还有很多工作要做，以确保 LinkedIn 始终是一个能够让你找到真实的人和真实观点的地方",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "自动化",
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "584d0599329d",
+      "title": "机器人接管最后一站，亚马逊计划打造完全自动化配送站",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/870.htm",
+      "publishedAt": "2026-08-25T03:02:54.000Z",
+      "summary": "IT之家 8 月 25 日消息，亚马逊正在开发新一代高度自动化仓库，利用人工智能和机器人技术处理包裹，将物流自动化延伸到配送前的最后一个环节。 根据 Business Insider 查阅的一份上月内部规划文件，这项内部代号为“Project Tetromino”的计划旨在打造“完全自动化”的配送站。配送站是物流流程中的最后一个设施，从履约中心接收已经打包的商品，然后进行分拣和暂存，最后交由司机配送给客户。 文件显示，亚马逊计划在 20",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "画出触发器、数据、决策和输出四段流程",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "自动化",
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "9b6cd7ea9e8f",
+      "title": "小米智能门锁 5C 首销：直插式 C 级锁芯，首发价 659 元",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/869.htm",
+      "publishedAt": "2026-08-25T03:01:22.000Z",
+      "summary": "IT之家 8 月 25 日消息，小米智能门锁 5C 现已在京东开启首销，新品到手价 659 元。 京东 小米智能门锁 5C 659 元 直达链接 小米智能门锁 5C 提供多种开锁方式，包含 AI 指纹、固定密码、周期 / 一次性密码、机械钥匙、米家 App 蓝牙、小米手机 / 手表 / 手环 NFC、NFC 门卡。 安全方面，这款门锁将离合内置锁体，配合直插式 C 级锁芯贯穿锁体结构，可有效防止外力拆卸前面板后直接开锁，同时还可抵御暴力",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -363,6 +373,71 @@
       ],
       "tags": [
         "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "2e248d2da910",
+      "title": "英特尔介绍 Crescent Island 加速卡：面向 AI 推理，额定 350W、最高 480GB 内存",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/866.htm",
+      "publishedAt": "2026-08-25T02:56:29.000Z",
+      "summary": "IT之家 8 月 25 日消息，科技媒体 videocardz 昨日（8 月 24 日）发布博文，报道称在 Hot Chips 2026 活动中，英特尔详细介绍了 Crescent Island GPU，采用 Xe3P 架构，主要面向 AI 推理和智能体 AI 工作负载。 Crescent Island 采用风冷设计，额定功耗为 350W，使用 PCIe Gen5 x16 接口。该 GPU 配备 32 个 Xe 核心和 32MB 统一 ",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "17d1c1d13a39",
+      "title": "字节跳动发布“豆包工作”，与飞书深度打通",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/865.htm",
+      "publishedAt": "2026-08-25T02:47:43.000Z",
+      "summary": "IT之家 8 月 25 日消息，字节跳动今日正式发布“ 豆包工作 ”。作为豆包面向生产力场景推出的全新 Agent 产品与品牌，豆包工作能围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流程。 豆包工作还与飞书深度打通 ，让 Agent 基于企业上下文更准确地完成工作。 目前， 豆包工作电脑版已可通过官网下载 ，用户也可在最新豆包电脑版中直接使用。即日起下载登录或升级，便可免费领取 30 天订阅权益。 IT之家从字节官方介绍获悉，针",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "Agent",
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "2c47d65881c2",
+      "title": "中消协发布消费提示：使用人工智能服务需谨防误导",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/856.htm",
+      "publishedAt": "2026-08-25T02:34:13.000Z",
+      "summary": "IT之家 8 月 25 日消息，中国消费者协会今天发布人工智能服务消费提示，提醒广大消费者理性认识通用生成式人工智能的信息辅助和参考属性，对涉及价格费用、合同条款、售后服务、法律责任等重要消费信息，不宜仅依据人工智能生成内容作出决定，应通过经营者官方渠道、合同文本、监管部门及其他权威渠道进行核实确认。 IT之家附全文如下： 目前，以大语言模型为核心的生成式人工智能技术正加速融入消费生活各类场景。人工智能在提升消费便利和服务效率的同时，因",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "政策"
       ],
       "trust": 58,
       "opportunity": 67,
@@ -385,113 +460,6 @@
       "tags": [
         "AI",
         "视频"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "ad83b94b6e7d",
-      "title": "微软 AI 智能体系统 Aion 曝光：以 Copilot 为核心、重塑桌面体验",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/798.htm",
-      "publishedAt": "2026-08-25T00:20:52.000Z",
-      "summary": "IT之家 8 月 25 日消息，科技媒体 Windows Latest 昨日（8 月 24 日）发布博文，从 BetaWiki Discord 频道挖掘出更多线索，指出微软 Project Aion 主要面向企业用户，定位为没有开始菜单的 AI 系统。 IT之家曾于今年 7 月报道，微软曾于 2024 年启动开发 Project Aion 系统项目，内部名为 CopilotOS，围绕着 Copilot AI 构建，描述为用户表达、娱乐、",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "7cc568b15f7b",
-      "title": "马斯克：SpaceX 计划明年第四季度发射搭载英伟达芯片的 AI 卫星",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/796.htm",
-      "publishedAt": "2026-08-25T00:01:53.000Z",
-      "summary": "IT之家 8 月 25 日消息，当地时间 8 月 24 日，马斯克在社交平台表示，SpaceX 首批搭载英伟达芯片的 AI 卫星将于明年第四季度首次发射，并于 2028 年实现大规模部署。 马斯克称，SpaceX 与英伟达合作，设计了一套针对太空环境优化的 Vera Rubin NVL72 系统。他表示，每个基于卫星的轨道数据中心都会比传统计算机机架更加简单、便宜、高密度且轻量化。 IT之家注意到，这一加速后的时间表显示，SpaceX ",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "71292ab96d97",
-      "title": "IT早报 0825：2026 胡润中国品牌榜发布；成都减灾所就预警偏差致歉；小米明确二手手机等产品不属三包范围；小米玄戒 O3、O100、D100 三款自研芯片发布...",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/792.htm",
-      "publishedAt": "2026-08-24T23:49:08.000Z",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 25 日星期二，今天的重要科技资讯有： 1. 2026 胡润中国品牌榜发布：苹果蝉联第一，抖音与微信并列，华为重返前十，AIGC 品牌首次入榜 胡润研究院发布《2026 胡润中国品牌榜》，苹果蝉联第一，AIGC 行业首次独立入榜，华为重返总榜前十，本文带来完整榜单信息。>> 查看详情 2. 首报震级 7.7 级，成都高新减灾研究所就宜宾长宁 4.7 级地震预警偏差致歉 成都高新减灾",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "机器人",
-        "政策"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "0007af9c01fa",
-      "title": "苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/790.htm",
-      "publishedAt": "2026-08-24T23:36:00.000Z",
-      "summary": "IT之家 8 月 25 日消息，消息源 Yogesh Brar 发文，展示了苹果 20 周年版 iPhone 新渲染图。 相应图片显示，20 周年版 iPhone 正面采用四曲面屏设计，匹配单打孔摄像头，手机背面也采用了曲面设计。此外，图片还显示该机采用后置水平双摄设计，整体风格有点类似网传的 iPhone Air 2。 IT之家注意到，此前消息显示苹果 20 周年版 iPhone 无边四曲面使用 2D 直屏 + 玻璃盖板工艺，利用玻璃",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "55d009df33db",
-      "title": "研究团队调查发现超七成英语生物医学论文已使用 AI 辅助写作，呼吁业界建立完善监管机制",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/781.htm",
-      "publishedAt": "2026-08-24T23:14:40.000Z",
-      "summary": "IT之家 8 月 25 日消息，据外媒 phys 报道，近期 Lena Holzwarth 带头的研究团队分析了来自 PubMed Central 平台的 119 万余篇英文生物医学论文，发现生成式 AI 正迅速融入学术论文写作。 研究人员通过分析论文中的“AI 高频用词”（例“delves”“exacerbating”和“invaluable”等）并建立数学模型估算论文中的 AI 使用比例， 其中 2025 年约 77% 的英语生物医",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
       ],
       "trust": 58,
       "opportunity": 67,
@@ -540,34 +508,130 @@
       "priority": 67
     },
     {
-      "id": "416a5a0e45cf",
-      "title": "曝车灯上市公司星宇股份羞辱式劝退应届生：硕士被安排打螺丝，300 人被迫离职",
+      "id": "151501c01b8b",
+      "title": "Arm 成立 36 年来首颗自研芯片：AGI CPU 细节披露，1000 亿晶体管、支持 6TB 内存",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/911.htm",
+      "publishedAt": "2026-08-25T03:31:46.000Z",
+      "summary": "Arm 在 Hot Chips 2026 披露首颗自研 AGI CPU，基于 Neoverse V3，136核，1000亿晶体管，支持6TB内存，面向智能体AI。",
+      "actionSteps": [
+        "关注Arm官方后续发布",
+        "评估该芯片对现有AI工作负载的适用性",
+        "跟踪相关云服务商采用计划"
+      ],
+      "tags": [
+        "Arm",
+        "AI芯片",
+        "AGI",
+        "硬件"
+      ],
+      "trust": 3,
+      "opportunity": 6,
+      "priority": 4,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "Arm 进入自研芯片领域可能改变AI硬件格局，对云计算和AI开发者意味着更多选择，可能降低AI计算成本。",
+        "riskNotes": "报道来自IT之家转述Wccftech，非官方一手信息，具体性能指标需以Arm官方发布为准。"
+      }
+    },
+    {
+      "id": "cb16f1079758",
+      "title": "雅迪控股 2026 财年上半年归母净利润 12.01 亿元，同比下降 27.2%",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/825.htm",
-      "publishedAt": "2026-08-25T01:47:31.000Z",
-      "summary": "星宇股份被曝羞辱式劝退应届生，入职仅一个月即被要求打螺丝，约300人被迫离职，引发对招聘承诺和劳动权益的争议。",
+      "link": "https://www.ithome.com/0/993/947.htm",
+      "publishedAt": "2026-08-25T04:03:37.000Z",
+      "summary": "雅迪控股2026财年上半年营收182.36亿元，同比降5%；归母净利润12.01亿元，同比降27.2%；经营现金流降65.6%。",
       "actionSteps": [
-        "求职时核实岗位实际内容",
-        "保留招聘承诺证据",
-        "遭遇不公时寻求劳动仲裁"
+        "查阅雅迪半年报全文",
+        "分析行业竞争格局变化",
+        "关注后续季度业绩指引"
       ],
       "tags": [
-        "劳动权益",
-        "应届生",
-        "星宇股份"
+        "雅迪",
+        "财报",
+        "电动两轮车",
+        "业绩"
       ],
-      "trust": 2,
-      "opportunity": 0,
+      "trust": 5,
+      "opportunity": 2,
       "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T01:53:39.808Z",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对应届生求职者，需警惕招聘承诺与实际工作不符；对企业，不当用工损害声誉，可能面临法律风险。",
-        "riskNotes": "报道基于单方录音，未获公司回应；具体人数和细节待核实，需关注后续调查。"
+        "whyItMatters": "对投资者，雅迪业绩下滑反映电动两轮车市场竞争加剧或需求疲软；对消费者，可能影响产品价格和售后；对行业，龙头业绩不佳可能预示行业调整。",
+        "riskNotes": "数据来自公司半年报，但未提供具体原因，需结合行业报告分析。"
+      }
+    },
+    {
+      "id": "c9a5dc0485de",
+      "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://news.ycombinator.com/item?id=49428842",
+      "publishedAt": "2026-08-25T03:46:01.000Z",
+      "summary": "Hacker News 用户寻求大于20英寸的低功耗电子纸触摸屏，用于日历项目，目前仅有10分和2条评论，说明该需求小众但存在市场空白。",
+      "actionSteps": [
+        "调研现有大尺寸电子纸屏供应商",
+        "评估低功耗触摸屏技术方案",
+        "关注相关众筹或新品发布动态"
+      ],
+      "tags": [
+        "电子纸",
+        "触摸屏",
+        "低功耗",
+        "硬件"
+      ],
+      "trust": 2,
+      "opportunity": 5,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对开发者和硬件爱好者而言，大尺寸电子纸触摸屏的稀缺可能带来定制化产品机会；对普通用户，未来可能出现更节能的智能家居显示设备。",
+        "riskNotes": "信息来源为论坛帖子，非官方数据，具体产品可用性和性能未经验证。"
+      }
+    },
+    {
+      "id": "f905a1beebe0",
+      "title": "Thomson Reuters Launches Its Own Frontier Model",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+      "publishedAt": "2026-08-25T02:11:39.000Z",
+      "summary": "汤森路透利用其数据资产推出自研前沿模型，旨在提供专业领域AI服务，具体细节未披露。",
+      "actionSteps": [
+        "关注汤森路透官方模型发布详情",
+        "评估其与通用模型的差异",
+        "探索在专业工作流中的应用可能"
+      ],
+      "tags": [
+        "AI模型",
+        "专业领域",
+        "汤森路透"
+      ],
+      "trust": 4,
+      "opportunity": 5,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对法律、金融等专业领域用户，可能获得更精准的AI工具；对AI行业，垂直领域模型竞争加剧。",
+        "riskNotes": "来源为官方新闻稿，但模型能力、应用场景和实际效果未公开，需进一步验证。"
       }
     },
     {
@@ -757,66 +821,191 @@
       }
     },
     {
-      "id": "e590114c4d3c",
-      "title": "全球最大生活指南百科 WikiHow 指控 OpenAI 爬取超 1.1 万篇教程文章训练 AI",
+      "id": "aafafc9b2750",
+      "title": "微软 CEO 纳德拉示警：企业要掌控 Token 资本，使用 AI 不能押注单一模型",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/824.htm",
-      "publishedAt": "2026-08-25T01:45:26.000Z",
-      "summary": "WikiHow起诉OpenAI未经许可抓取超1.1万篇教程文章训练AI，侵犯至少1200项版权，案件在曼哈顿联邦法院审理。",
+      "link": "https://www.ithome.com/0/993/955.htm",
+      "publishedAt": "2026-08-25T04:51:07.000Z",
+      "summary": "微软CEO纳德拉警告企业勿依赖单一AI模型，以免将知识和思考能力外包给模型提供商，失去独立生存能力。",
       "actionSteps": [
-        "关注案件进展，了解AI版权法规变化",
-        "检查所用AI工具的数据来源合规性",
-        "若为内容创作者，评估自身内容被AI使用的风险"
-      ],
-      "tags": [
-        "AI版权",
-        "诉讼",
-        "OpenAI",
-        "内容创作"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T01:53:39.808Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "此案可能影响AI公司使用网络内容的合法性，进而影响AI产品功能与内容创作者权益，普通用户或面临AI服务调整。",
-        "riskNotes": "信息来自IT之家转述路透社，非官方一手来源，诉讼细节和结果未证实，需关注法院文件。"
-      }
-    },
-    {
-      "id": "09b4b3bfba20",
-      "title": "高盛合伙人警告：华尔街普及 AI 或削弱金融从业者思考能力",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/816.htm",
-      "publishedAt": "2026-08-25T01:18:35.000Z",
-      "summary": "高盛合伙人警告AI普及可能削弱金融从业者思考能力，担心过度依赖AI导致认知能力萎缩，影响第一性原理思考。",
-      "actionSteps": [
-        "培养独立分析能力",
-        "合理使用AI工具辅助决策",
-        "参与行业讨论制定使用准则"
+        "评估当前AI供应商依赖程度",
+        "制定多模型策略，分散风险",
+        "建立内部数据治理和AI使用规范"
       ],
       "tags": [
         "AI",
-        "金融",
-        "认知能力"
+        "企业战略",
+        "数据主权"
       ],
       "trust": 3,
-      "opportunity": 0,
+      "opportunity": 2,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T01:53:39.808Z",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对金融从业者，需平衡AI使用与独立思考；对行业，需建立AI辅助决策的规范，防止能力退化。",
-        "riskNotes": "观点来自个人警告，非实证研究；AI影响程度需更多数据支持。"
+        "whyItMatters": "企业采用AI时需考虑数据主权和模型依赖风险，避免被单一供应商锁定，影响长期竞争力。",
+        "riskNotes": "报道基于CNN播客，非微软官方声明，具体细节需核实。"
+      }
+    },
+    {
+      "id": "4865f7b618f5",
+      "title": "中国 AI 为什么追得这么快？美媒找到一批关键人物",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/954.htm",
+      "publishedAt": "2026-08-25T04:46:15.000Z",
+      "summary": "华尔街日报报道中国AI快速发展归因于清华等高校人才网络、开源技术、人才回流和算力效率，代表人物包括唐杰、杨植麟、梁文锋。",
+      "actionSteps": [
+        "关注中国AI人才和开源动态",
+        "评估AI技术发展对行业的影响",
+        "跟踪相关企业和技术进展"
+      ],
+      "tags": [
+        "AI",
+        "中国",
+        "人才"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "中国AI产业竞争力提升，可能影响全球AI格局，对相关从业者和投资者有参考意义。",
+        "riskNotes": "报道基于采访，观点可能片面，需结合其他来源综合判断。"
+      }
+    },
+    {
+      "id": "f4f32ed624b4",
+      "title": "首条横跨京冀城市轨道有望年底开通，北京轨道交通 22 号线（红庙 — 平谷）开启空载试运行",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/952.htm",
+      "publishedAt": "2026-08-25T04:23:50.000Z",
+      "summary": "北京轨道交通22号线（红庙-平谷）开启空载试运行，计划年底开通，成为首条横跨京冀的城市轨道线路。",
+      "actionSteps": [
+        "关注沿线站点周边房产动态",
+        "评估通勤时间变化对生活工作的影响",
+        "留意官方发布的正式开通信息"
+      ],
+      "tags": [
+        "交通",
+        "京津冀",
+        "城市轨道"
+      ],
+      "trust": 4,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "京津冀通勤便利性提升，沿线房产和商业可能受益，但需关注具体站点和运营时间。",
+        "riskNotes": "信息来自央视新闻，但开通时间仍可能调整，具体站点和票价未公布。"
+      }
+    },
+    {
+      "id": "05a234899ebc",
+      "title": "工人大罢工后现代汽车与工会达成初步协议：月薪涨 10 万韩元并发放 4 个月工资奖金",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/951.htm",
+      "publishedAt": "2026-08-25T04:19:04.000Z",
+      "summary": "现代汽车与工会达成初步协议，月薪涨10万韩元并发放4个月工资奖金，结束十年来首次罢工。",
+      "actionSteps": [
+        "关注现代汽车后续协议批准情况",
+        "评估对汽车价格和供应链的潜在影响",
+        "投资者可关注相关股票动态"
+      ],
+      "tags": [
+        "汽车",
+        "劳资",
+        "韩国"
+      ],
+      "trust": 4,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "汽车行业劳资关系变化可能影响生产成本和供应链，对消费者和投资者有间接影响。",
+        "riskNotes": "协议为初步，最终批准和细节待确认，韩元汇率波动影响实际价值。"
+      }
+    },
+    {
+      "id": "2d3883e75a57",
+      "title": "索尼 Xperia 10 VIII 手机细节：屏幕亮度提升 50%，保留 3.5mm 端口，6 年安全更新",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/948.htm",
+      "publishedAt": "2026-08-25T04:09:29.000Z",
+      "summary": "索尼发布Xperia 10 VIII手机，6.1英寸120Hz屏，亮度提升50%，保留3.5mm耳机孔，提供6年安全更新。",
+      "actionSteps": [
+        "对比同价位竞品参数",
+        "关注实际评测和用户反馈",
+        "评估是否适合自身需求"
+      ],
+      "tags": [
+        "索尼",
+        "手机",
+        "Xperia",
+        "更新"
+      ],
+      "trust": 4,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对手机用户，该机型提供更亮屏幕和长期安全更新，适合注重耐用性和影音体验的用户；对行业，索尼坚持耳机孔和长更新周期可能影响其他厂商。",
+        "riskNotes": "信息来自IT之家，基于索尼官方发布会，但具体市场表现和实际体验需后续评测。"
+      }
+    },
+    {
+      "id": "b3436e89814e",
+      "title": "古尔曼：苹果 AirPods 5 耳机下月发布，提供普通版和主动降噪版",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/993/905.htm",
+      "publishedAt": "2026-08-25T03:27:25.000Z",
+      "summary": "据彭博社古尔曼报道，苹果可能下月发布AirPods 5，提供普通版和主动降噪版，带摄像头版本预计明年推出。",
+      "actionSteps": [
+        "关注苹果官方发布会邀请",
+        "等待正式发布后对比评测",
+        "评估现有耳机升级必要性"
+      ],
+      "tags": [
+        "苹果",
+        "AirPods",
+        "耳机",
+        "发布"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对消费者，AirPods 5可能带来新功能和选择；对苹果生态用户，升级耳机需考虑兼容性；对行业，苹果动向影响TWS市场。",
+        "riskNotes": "信息来自彭博社记者，非官方确认，发布时间和功能存在不确定性。"
       }
     },
     {
@@ -1101,129 +1290,65 @@
       }
     },
     {
-      "id": "e754c7e10fad",
-      "title": "比亚迪 × 荣耀达成深度手车互联合作，地址流转一拖即达、音乐无缝流转",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/828.htm",
-      "publishedAt": "2026-08-25T01:53:14.000Z",
-      "summary": "比亚迪与荣耀宣布深度手车互联合作，实现地址流转、音乐无缝流转等功能，需DiLink100及以上平台。",
-      "actionSteps": [
-        "比亚迪车主检查车型是否支持DiLink100",
-        "关注官方更新，了解功能上线时间",
-        "体验互联功能，反馈问题"
-      ],
-      "tags": [
-        "智能汽车",
-        "手车互联",
-        "比亚迪",
-        "荣耀"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T01:53:39.808Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "提升车机与手机互联体验，方便车主使用导航和音乐，可能推动智能汽车生态发展。",
-        "riskNotes": "信息来自IT之家，官方公告未直接核实，功能细节和适用车型需确认。"
-      }
-    },
-    {
-      "id": "2a570ecb638b",
-      "title": "华硕破晓迷你主机新增“i5-13500H + 16G + 512G”版本，3999 元",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/823.htm",
-      "publishedAt": "2026-08-25T01:37:55.000Z",
-      "summary": "华硕破晓迷你主机新增i5-13500H+16G+512G版本，售价3999元，部分地区国补后3229元，主打性价比。",
-      "actionSteps": [
-        "比较其他品牌同配置产品",
-        "关注官方渠道促销活动",
-        "确认国补资格和条件"
-      ],
-      "tags": [
-        "华硕",
-        "迷你主机",
-        "性价比"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T01:53:39.808Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对消费者，提供更多选择，价格有竞争力；对行业，反映迷你主机市场细分趋势。",
-        "riskNotes": "价格和配置来自新闻，实际购买需以官方为准；国补政策可能变动。"
-      }
-    },
-    {
-      "id": "15c840ca6c33",
-      "title": "微软员工自报 AI 使用量：各部门差异悬殊，与薪资、晋升无明显关联",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/822.htm",
-      "publishedAt": "2026-08-25T01:36:33.000Z",
-      "summary": "微软内部员工自报AI使用量，数据显示各部门差异大，且与薪资晋升无直接关联。公司提供工具追踪AI使用和支出，反映AI应用在内部的不均衡。",
-      "actionSteps": [
-        "关注AI技能的实际应用效果",
-        "评估自身AI使用与职业发展的关联",
-        "参考行业报告了解AI应用趋势"
-      ],
-      "tags": [
-        "AI",
-        "职场",
-        "微软"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T01:53:39.808Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对普通员工而言，AI使用量可能与绩效脱钩，需关注实际技能提升而非表面使用；对企业，需制定更合理的AI应用评估标准。",
-        "riskNotes": "数据来自内部电子表格，非官方统计，样本可能偏差；未提及具体部门差异和统计方法，需谨慎解读。"
-      }
-    },
-    {
-      "id": "ebd73f32a665",
-      "title": "What languages are agent skills written in?",
+      "id": "4c433491c755",
+      "title": "Headlong: A Microharness for Persistent Agents",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://plicara.ai/research/agent-skill-languages/",
-      "publishedAt": "2026-08-25T00:52:27.000Z",
-      "summary": "Hacker News讨论AI代理技能编写语言，链接至研究文章，探讨不同语言在代理开发中的适用性。",
+      "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "publishedAt": "2026-08-25T03:54:19.000Z",
+      "summary": "Headlong是一个用于持久化代理的微测试工具，在Hacker News上引发讨论，获得12分和3条评论。",
       "actionSteps": [
-        "访问链接阅读研究详情",
-        "开发者评估不同语言在代理项目中的优劣",
-        "关注社区讨论，获取实践反馈"
+        "查看原始文章和评论了解详情",
+        "评估该工具与自身项目的契合度",
+        "在测试环境中试用并反馈"
       ],
       "tags": [
-        "AI代理",
-        "编程语言",
-        "开发",
-        "技术趋势"
+        "AI",
+        "开发工具",
+        "代理"
       ],
-      "trust": 1,
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对AI代理开发者而言，该工具可能提供测试和调试的新方法，但尚处早期，需评估其适用性。",
+        "riskNotes": "来源为Hacker News，信息有限，工具成熟度和社区反馈需进一步验证。"
+      }
+    },
+    {
+      "id": "f5f2b0613174",
+      "title": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/112442",
+      "publishedAt": "2026-08-25T03:13:35.000Z",
+      "summary": "ArkFlow应用满足信用卡卡面收集爱好，将信用卡视为收藏品，提供卡面墙功能。",
+      "actionSteps": [
+        "了解ArkFlow的功能和隐私政策",
+        "评估是否满足收藏需求",
+        "注意保护信用卡信息，避免泄露"
+      ],
+      "tags": [
+        "应用",
+        "信用卡",
+        "收藏"
+      ],
+      "trust": 2,
       "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T01:53:39.808Z",
+        "analyzedAt": "2026-08-25T04:55:06.233Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI代理开发是新兴领域，语言选择影响开发效率和性能，对开发者有实际指导意义。",
-        "riskNotes": "来源为Hacker News讨论，非官方研究，内容需进一步核实。"
+        "whyItMatters": "对信用卡收藏爱好者提供新工具，但需注意金融信息安全，避免敏感数据泄露。",
+        "riskNotes": "来源为少数派，应用功能和安全性未经验证，需谨慎使用。"
       }
     },
     {
@@ -1543,37 +1668,6 @@
       }
     },
     {
-      "id": "ae5a64e520e1",
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113693",
-      "publishedAt": "2026-08-21T10:08:59.000Z",
-      "summary": "少数派推荐近期值得一看的10部作品，包括《复仇者联盟5》新预告等。",
-      "actionSteps": [
-        "查看推荐列表",
-        "根据兴趣选择观看",
-        "关注上映时间"
-      ],
-      "tags": [
-        "影视推荐",
-        "娱乐",
-        "文化"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-21T13:12:13.982Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "提供文化娱乐消费指南，帮助用户选择影视作品。",
-        "riskNotes": "内容为主观推荐，无客观数据，需个人判断。"
-      }
-    },
-    {
       "id": "02c37866e6d6",
       "title": "Mother tongue",
       "category": "industry",
@@ -1602,38 +1696,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "语言多样性关乎文化认同，可能引发对濒危语言的关注。",
         "riskNotes": "摘要为故事片段，未提供具体数据或论点，需阅读全文。"
-      }
-    },
-    {
-      "id": "3033e70df8e5",
-      "title": "59.9-89.9 元，金士顿推出 USB3.2 Gen 1“荷气生柴”U 盘",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/993/826.htm",
-      "publishedAt": "2026-08-25T01:52:34.000Z",
-      "summary": "金士顿推出USB3.2 Gen 1“荷气生柴”U盘，64GB售价59.9元，128GB售价89.9元，带3D立体印刷柴犬造型。",
-      "actionSteps": [
-        "对比其他U盘性能和价格",
-        "根据需求选择容量和款式",
-        "购买后测试实际读写速度"
-      ],
-      "tags": [
-        "U盘",
-        "金士顿",
-        "存储",
-        "新品"
-      ],
-      "trust": 2,
-      "opportunity": 0,
-      "priority": 0,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-25T01:53:39.808Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "为消费者提供个性化存储选择，价格适中，适合日常使用，但速度一般。",
-        "riskNotes": "信息来自IT之家，产品参数和价格以官方为准，实际性能需测试。"
       }
     },
     {
