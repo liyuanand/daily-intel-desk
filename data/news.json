@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T09:03:31.939Z",
+  "generatedAt": "2026-08-26T13:18:02.689Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 28
+    "reused": 23
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,14 +194,35 @@
       "priority": 89
     },
     {
-      "id": "cc574d6ca9bf",
-      "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+      "id": "4a4eb0f76b05",
+      "title": "Bill Gates: The turbulent AI era is here",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "publishedAt": "2026-08-26T05:09:07.000Z",
-      "summary": "Article URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm Comments URL: https://news.ycombinator.com/item?id=49444232 Points: 33 # Comments: 10",
+      "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "publishedAt": "2026-08-26T12:47:47.000Z",
+      "summary": "Article URL: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49448137 Points: 23 # Comments: 11",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "33e4f9150db2",
+      "title": "X sends in the lawyers to shut down open source project",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548",
+      "publishedAt": "2026-08-26T12:25:45.000Z",
+      "summary": "Article URL: https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548 Comments URL: https://news.ycombinator.com/item?id=49447772 Points: 38 # Comments: ",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -213,14 +234,14 @@
       "priority": 79
     },
     {
-      "id": "788dfb2539c6",
-      "title": "When str.lower() is a security vulnerability in Python",
+      "id": "3e878f080c0d",
+      "title": "Omarchy development practices lead to predictable security issues",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "publishedAt": "2026-08-25T20:49:03.000Z",
-      "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 118 # Comments: 48",
+      "link": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "publishedAt": "2026-08-26T12:17:43.000Z",
+      "summary": "Article URL: https://blog.happyfellow.dev/merchants-of-insecurity/ Comments URL: https://news.ycombinator.com/item?id=49447682 Points: 185 # Comments: 210",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -232,14 +253,35 @@
       "priority": 79
     },
     {
-      "id": "285e4c858631",
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "id": "82debd04a7d6",
+      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "publishedAt": "2026-08-25T19:38:24.000Z",
-      "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 148 # Comments: 88",
+      "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "publishedAt": "2026-08-26T12:11:19.000Z",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda Comments URL: https://news.ycombinator.com/item?id=49447600 Points: 38 # Comments: 4",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "a6fd1f85145d",
+      "title": "Proliferate (YC S25) Is Hiring",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
+      "publishedAt": "2026-08-26T12:00:07.000Z",
+      "summary": "Article URL: https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer Comments URL: https://news.ycombinator.com/item?id=49447480 Points: 0 # Comments: 0",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -251,139 +293,196 @@
       "priority": 79
     },
     {
-      "id": "a0152d1454c0",
-      "title": "苹果 Mac mini M6 政府补贴 + 教育优惠 5269 元起，较 M4 老款上浮小千元",
+      "id": "49bdf2ee614b",
+      "title": "Beyond Recall and the Illusion of Competence",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+      "publishedAt": "2026-08-26T10:07:02.000Z",
+      "summary": "Article URL: https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html Comments URL: https://news.ycombinator.com/item?id=49446442 Points: 40 # Comments: 13",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "745f8246bc21",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "publishedAt": "2026-08-26T10:04:55.000Z",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 223 # Comments: 91",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "d31e9fc4d3ea",
+      "title": "奇瑞风云 T7 正式上市：全系 600km 续航，抢先置换价 9.49 万-11.59 万元",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/642.htm",
-      "publishedAt": "2026-08-26T08:58:11.000Z",
-      "summary": "苹果昨日正式发布全新 Mac mini 便携式主机 ，搭载全新 M6 芯片与此前已经推出的 M5 Pro 芯片，6999 元起售。 叠加国补后实付 5949.2 元，再叠教育优惠后仅需 5269.2 元，今日京东自营正式开启预约，明日 9 点（2026-08-27 09:00）正式开抢： 京东 苹果 Mac mini M6 还有教育优惠版可选 国补后 5949.2 元起 直达链接 京东 苹果 Mac mini M5 Pro 还有教育优惠",
+      "link": "https://www.ithome.com/0/994/747.htm",
+      "publishedAt": "2026-08-26T13:02:42.000Z",
+      "summary": "IT之家 8 月 26 日消息，奇瑞风云 T7 今天（26 日）正式上市，新车定位全球品质纯电 SUV，搭载犀牛电池，标配续航 600km。 IT之家汇总新车主要信息如下： 600km 悦享版：上市指导价 9.79 万元，抢先置换价 9.49 万元 600km 舒享版：上市指导价 10.89 万元，抢先置换价 10.59 万元 600km 智享版：上市指导价 11.89 万元，抢先置换价 11.59 万元 外观方面，风云 T7 采用风云",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "新能源"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "fce23b41aa0b",
+      "title": "国内首套拥有完全自主知识产权的 EMA 工业化装置成功建成",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/746.htm",
+      "publishedAt": "2026-08-26T12:59:15.000Z",
+      "summary": "IT之家 8 月 26 日消息，中化国际昨日宣布，8 月 24 日，中化国际 EMA（乙烯-马来酸酐共聚物）项目装置全线贯通，首批合格产品顺利下线。这是 国内首套拥有完全自主知识产权的 EMA 工业化装置 ，打破该产品核心生产技术长期由海外企业主导的局面，成功填补国内空白。 IT之家注：EMA 是一种新型高活性多功能助剂，兼具反应相容性优异、界面增容效果突出、产品纯净度高、绿色环保等特性。作为改性领域关键助剂，EMA 可广泛用于工程塑料",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "eacdca527b55",
+      "title": "比亚迪何志奇：汉字车标、中国结尾灯、中文按键这套审美正在被更多人看见",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/745.htm",
+      "publishedAt": "2026-08-26T12:58:35.000Z",
+      "summary": "IT之家 8 月 26 日消息，比亚迪股份有限公司执行副总裁何志奇今日发文，谈及了“汽车外观辨识度高重要吗”这一话题。他表示，这两年新车越来越多，但设计越来越像 —— 溜背、贯穿灯、无边界格栅， 挡住车标分不清谁是谁，也不知道谁是正宗 。 他称，比亚迪走了另一条路。五个品牌，五套原创设计语言。王朝的龙颜、海洋的美学、方程豹的“生命金属”、腾势的优雅之势、仰望的时空之门。各有各的根，没有一套是抄的。 汉字车标、中国结尾灯、中文按键 —— ",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "ee4bcd3b4ea8",
+      "title": "佳明 Fenix 9 Pro 智能手表预售：全钛金属表身、全新地图引擎，8680 元起",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/739.htm",
+      "publishedAt": "2026-08-26T12:44:42.000Z",
+      "summary": "IT之家 8 月 26 日消息，佳明昨日发布了 Fenix 9 系列智能手表，今晚 Fenix 9 Pro 智能手表开始预售， 售价 8680 元起 。 京东 佳明（GARMIN）Fenix 9 Pro 旗舰橙-47mm 8680 元 直达链接 佳明 Fenix 9 Pro 智能手表采用全钛金属表身，提供 43mm、47mm 和 51mm 三种表径尺寸；有 AMOLED 炫彩版和 MIP 太阳能版可选：AMOLED 显示屏亮度最高可达 ",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "22f8e05485ce",
+      "title": "格力电器 2026 年上半年营收 893.98 亿元同比下降 8.15%，归母净利润 132.78 亿元下降 7.87%",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/738.htm",
+      "publishedAt": "2026-08-26T12:43:10.000Z",
+      "summary": "IT之家 8 月 26 日消息，格力电器今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）报告： 营业总收入 ：893.98 亿元，同比下降 8.15% 归母净利润 ：132.78 亿元，同比下降 7.87% 扣非净利润 ：127.07 亿元，同比下降 8.89% 经营现金流 ：188.09 亿元，同比下降 33.6% 加权平均净资产收益率 ：8.68% 基本每股收益 ：2.38 元，同比下降 8.46% 稀释每",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "3c0471ead259",
+      "title": "直指 L5 自动驾驶？智己 LS6 无方向盘版本测试车内饰曝光，网友调侃以前还有“半个方向盘”",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/736.htm",
+      "publishedAt": "2026-08-26T12:41:50.000Z",
+      "summary": "IT之家 8 月 26 日消息，上汽智己品牌一款测试车的内饰已在各大平台曝光，车型已被网友认出是智己 LS6。令人感到意外的是， 这款车的主驾位置直接取消了方向盘，或直指 L5 自动驾驶 。 参考IT之家此前报道， 目前在售的新一代智己 LS6 车型于去年 9 月上市 ， 纯电版上市权益价 19.79 万元起、增程版上市权益价 20.29 万元起 。 在售的新一代智己 LS6 定位超级大五座智能 SUV，首搭智己“恒星”超级增程，综合续",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "自动化"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "9d96d791a992",
+      "title": "智谱确认 Ox Alpha AI 模型为 GLM 系列新版本，将发布权重",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/697.htm",
+      "publishedAt": "2026-08-26T10:23:42.000Z",
+      "summary": "IT之家 8 月 26 日消息，据彭博社报道，智谱证实了外界猜测， 确认 Ox Alpha 模型正是其 GLM 系列的新版本 ，并表示将于今晚正式发布该模型的权重。 据IT之家此前报道，全球最大 AI 聚合平台 OpenRouter 于 8 月 20 日 上线匿名 AI 模型 Ox Alpha ，在预览期间免费使用。该模型上线后调用量迅速攀升，短时间内冲至该平台榜首，并刷新单日模型用量纪录。 终端编程智能体 OpenCode 也通过其免",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
       ],
       "tags": [
         "AI",
-        "视频",
-        "教育"
+        "视频"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "1d456cdac058",
-      "title": "飞牛四盘位万兆 NAS EVO4 PRO 开售：锐龙 7 H 255，售价 4599 元起",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/641.htm",
-      "publishedAt": "2026-08-26T08:55:39.000Z",
-      "summary": "IT之家 8 月 26 日消息，飞牛四盘位万兆 NAS EVO4 PRO 今日开售， 售价 4599 元起 ： 16GB DDR5 + 128GB 系统盘：4599 元 32GB DDR5 + 128GB 系统盘：5899 元 这款新品搭载 AMD Ryzen 7 H 255 处理器（8 核心 16 线程），支持 45W 稳定性能释放；搭载双通道内存插槽，最高可拓展至 128GB；配备 10Gbps + 2.5Gbps 双网口 。 该机",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "e63693c8a79e",
-      "title": "宝马为减少实体按键辩护：年轻人更习惯新的交互方式",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/640.htm",
-      "publishedAt": "2026-08-26T08:55:20.000Z",
-      "summary": "IT之家 8 月 26 日消息，当地时间 25 日，据外媒 Car&Driver 报道，宝马澳大利亚 CEO 维克拉姆 · 帕瓦认为，新车实体按键减少并非为了降低成本或提高利润，而是 年轻消费者越来越习惯新的交互方式 。“语音和触控的使用越来越普遍，这可能跟代际差异有关。很多 45 岁及以下的消费者接受这些技术的速度更快， 也更习惯使用语音和触控 。” 帕瓦还认为，年轻消费者希望科技产品能够 更快完成操作 。“他们希望事情能马上完成，而",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "01b7b012d9e9",
-      "title": "光伏企业通威股份 2026 年上半年归母净亏损 51.19 亿元，同比扩大 3.31%",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/627.htm",
-      "publishedAt": "2026-08-26T08:52:57.000Z",
-      "summary": "IT之家 8 月 26 日消息，通威股份今日发布 2026 年上半年（2026 年 1 月～2026 年 6 月）报告： 营业总收入 ：343.57 亿元，同比下降 15.19% 归母净利润 ：-51.19 亿元，同比下降 3.31% 扣非净利润 ：-52.83 亿元，同比下降 5.05% 经营现金流 ：1.09 亿元，同比增长 105.59% 加权平均净资产收益率 ：-14.1% 基本每股收益 ：-1.1371 元，同比下降 3.31",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "d794af5237db",
-      "title": "百度完成双重上市关键一步：股东会批准全部决议案",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/639.htm",
-      "publishedAt": "2026-08-26T08:52:24.000Z",
-      "summary": "IT之家 8 月 26 日消息，百度集团今日在北京百度大厦召开股东特别大会。根据公司公告，当日提呈的所有决议案均获股东批准通过。这意味着百度由港交所第二上市自愿转换为双重主要上市的关键前置审批程序已完成。 IT之家此前报道，此次转换始于 2026 年 7 月 16 日，百度董事会正式授权管理层推进相关事宜。7 月 22 日，港交所确认收悉百度的转换申请。8 月 18 日，百度 CFO 何海建在财报电话会上表示，公司正为转换后纳入南向港股",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "289659617df4",
-      "title": "知乎 2026 财年半年报归母亏损 4592.6 万元，同比由盈转亏",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/635.htm",
-      "publishedAt": "2026-08-26T08:50:43.000Z",
-      "summary": "IT之家 8 月 26 日消息，知乎今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告： 营业总收入 ：13.42 亿元，同比下降 7.2% 毛利润 ：7.82 亿元，同比下降 13.07% 毛利率 ：58.3%，同比下降 3.9 个百分点 归母净利润 ：-4592.6 万元，同比由盈转亏 经营现金流 ：-1.18 亿元，同比亏损收窄 28.03% 基本每股收",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI",
-        "Agent"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "1fbee6b160c8",
-      "title": "九成美企高管称过去三年 AI 未影响公司就业情况，且“完全未影响”生产力",
+      "id": "cf2fec766fc2",
+      "title": "玄戒 O3、M6/M5 Ultra 芯片相继发布，Arm 发文祝贺小米、苹果",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/560.htm",
-      "publishedAt": "2026-08-26T07:27:58.000Z",
-      "summary": "IT之家 8 月 26 日消息，现如今，AI 一直被包装成提高生产力的利器，理论上可以帮助企业降本增效。而据外媒 Futurism 当地时间 25 日报道，实际情况却相去甚远。越来越多分析发现，AI 对生产率的提升非常有限。 美国国家经济研究局最近调查企业高管后发现， 超过 90% 的受访者承认，过去三年 AI“没有影响本公司的就业情况” ；约 89% 的受访者还表示，AI“完全没有影响生产力”。 然而，企业仍在继续裁员。未参与这项研究",
+      "link": "https://www.ithome.com/0/994/694.htm",
+      "publishedAt": "2026-08-26T10:18:23.000Z",
+      "summary": "IT之家 8 月 26 日消息，近日，小米玄戒 O3、苹果 M6、M5 Ultra 等芯片相继发布，Arm 通过官方 X 账号为两家公司送上了祝贺。 Arm 在祝贺小米的帖子中表示，配备 SME2 加速的 Arm CPU 和即将推出的 Mali GPU，推动小米最新旗舰 SoC 在下一代设备中 提升 AI、计算和图形处理能力 。 Arm 在祝贺苹果的帖子中则表示，新款 M6 和 M5 Ultra 芯片基于 Arm 架构，代表了 AI 计",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -397,14 +496,14 @@
       "priority": 70
     },
     {
-      "id": "ce61f995ee1c",
-      "title": "Artificial Analysis 公布苹果 iPhone 17 Pro 跑 8GB 以内本地 AI 性能排名",
+      "id": "a8489fb0b6cd",
+      "title": "华尔街高度关注英伟达第二财季业绩，盼其能继续引领 AI 板块",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/550.htm",
-      "publishedAt": "2026-08-26T07:12:50.000Z",
-      "summary": "IT之家 8 月 26 日消息，Artificial Analysis 于 8 月 24 日发布博文，宣布携手 Liquid AI，发布面向手机端的 AI 跑分基准， 重点关注 AI 模型在苹果 iPhone 17 Pro 上的表现。 其中 Artificial Analysis 负责智能水平测试系统，Liquid AI 负责推理性能测试系统，双方选用 5 项基准测试： BFCL（Berkeley 函数调用排行榜） IFBench（指令",
+      "link": "https://www.ithome.com/0/994/668.htm",
+      "publishedAt": "2026-08-26T09:34:35.000Z",
+      "summary": "IT之家 8 月 26 日消息，英伟达将在当地时间周三（26 日）压轴公布第二财季业绩，为本轮科技公司财报季收官。市场对这份财报的期待很高，压力同样不小。 作为 AI 热潮中最受关注的芯片公司，英伟达的业绩表现长期 影响整个 AI 板块的市场情绪 。过去几个季度，即使公司盈利持续超过预期，只要超出的幅度没有华尔街想象中那么大，投资者依然会选择抛售。 摩根大通数据显示，英伟达过去四次发布财报后，即使业绩均超出预期，此后 30 天内股价平均",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -418,77 +517,14 @@
       "priority": 70
     },
     {
-      "id": "eda18c0e8781",
-      "title": "AMD 将为 Versal RF 自适应 SoC 导入 UCIe 1.1 互连支持",
+      "id": "e95dd6bb32c4",
+      "title": "华为投标埃及政府 AI 数据中心项目：拟出口至少 1408 颗昇腾 950 芯片并提议 12 个月完成基建",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/549.htm",
-      "publishedAt": "2026-08-26T07:11:51.000Z",
-      "summary": "IT之家 8 月 26 日消息，AMD 官方当地时间 25 日宣布将为 Versal RF 自适应 SoC 导入 UCIe 1.1 芯粒互连规范支持。这也是首批支持 UCIe 1.1 的 Versal 自适应 SoC。 Versal RF 自适应 SoC 集成了高分辨率射频数据转换器、DSP、AI 引擎、可编程逻辑，提供高达 80 TOPS 的异构 DSP 计算能力。其具备 4 个 UCIe-SP（标准封装）接口、2 个 UCIe-AP",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "0aa7c5d4c4f7",
-      "title": "海盗船推出 iCUE LINK TITAN II 系列处理器 AIO 液冷，水泵风扇双升级",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/542.htm",
-      "publishedAt": "2026-08-26T06:50:46.000Z",
-      "summary": "IT之家 8 月 26 日消息，CORSAIR（海盗船）美国加州当地时间 25 日宣布推出水泵与风扇均得到升级的 iCUE LINK TITAN II 系列处理器 AIO 液冷散热器，可选 LCD 和 RGB 版本。 ▲ iCUE LINK TITAN II RX LCD iCUE LINK TITAN II 换装三相电机搭配闭式叶轮的 FlowDrive 2 高性能水泵，效率更高、流量更大、运行更静音；预装的 iCUE LINK RX",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "d1b87349d243",
-      "title": "英飞凌宣布收购印度数据中心电源管理技术企业 C2i Semiconductors",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/534.htm",
-      "publishedAt": "2026-08-26T06:23:08.000Z",
-      "summary": "IT之家 8 月 26 日消息，Infineon（英飞凌）当地时间 24 日宣布将收购总部位于印度班加罗尔的 C2i Semiconductors。这笔交易预计将于 2026Q3 完成。 C2i Semiconductors 专注于为 AI 数据中心应用提供软件定义多相控制器与智能功率级服务 。IT之家注意到，其此前获得了 Intel（英特尔）首席执行官、半导体产业知名投资人陈立武的资金支持，陈立武也是该企业的顾问。 软件定义电源解决方",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "1f70022be481",
-      "title": "299 美元：高通 Arduino VENTUNO Q 边缘 AI 平台开放预购",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/519.htm",
-      "publishedAt": "2026-08-26T06:09:10.000Z",
-      "summary": "IT之家 8 月 26 日消息，Qualcomm（高通）子公司 Arduino 意大利当地时间昨日宣布，其边缘 AI 平台 VENTUNO Q 现已开放预购，定价 299 美元 （IT之家注：现汇率约合 2,014 元人民币） 。 Arduino VENTUNO Q 核心是高通 Dragonwing（跃龙）IQ-8275 处理器 ， 同时配备意法半导体 STM32H5 实时 MCU 作为“第二大脑” 。 其三维 160×100×25.8",
+      "link": "https://www.ithome.com/0/994/658.htm",
+      "publishedAt": "2026-08-26T09:24:11.000Z",
+      "summary": "IT之家 8 月 26 日消息，据彭博社今日报道，华为技术有限公司已向埃及政府 AI 数据中心项目提交投标方案。 根据彭博社获取到的相关文件及知情人士透露，华为向埃及政府提交的方案包括 1408 颗昇腾 950 系列芯片，用于 AI 训练；另外 600 颗芯片（可选昇腾 950 系列或昇腾 910B）用于建设两套 AI 推理集群。 投标文件显示，华为提出了一个为期 12 个月在当地建设基础设施的计划。此次项目如果最终落地，将使华为进入埃",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -524,127 +560,67 @@
       "priority": 67
     },
     {
-      "id": "e6e932d2daa8",
-      "title": "抽成 30%，消息称月之暗面正就 Kimi K3 AI 模型与微软、亚马逊、谷歌开展收入分成谈判",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/602.htm",
-      "publishedAt": "2026-08-26T08:12:40.000Z",
-      "summary": "月之暗面与微软、亚马逊、谷歌洽谈Kimi K3模型营收分成，抽成30%，或成中美AI合作首例。",
-      "actionSteps": [
-        "关注谈判进展",
-        "评估AI模型托管市场",
-        "考虑自身AI服务定价策略"
-      ],
-      "tags": [
-        "AI",
-        "商业合作",
-        "月之暗面"
-      ],
-      "trust": 3,
-      "opportunity": 4,
-      "priority": 3,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T09:03:31.938Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "影响AI行业格局，可能带来新的商业模式，对开发者和企业有参考价值。",
-        "riskNotes": "消息来自路透社，但未官方确认，需关注后续。"
-      }
-    },
-    {
-      "id": "ddcad5607ef0",
-      "title": "OpenAI ChatGPT 云端浏览器新增登录功能：账号密码不保存，但 Cookie 会持续到会话过期",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/581.htm",
-      "publishedAt": "2026-08-26T07:56:27.000Z",
-      "summary": "OpenAI为ChatGPT云端浏览器新增登录功能，支持输入凭据执行任务，但密码不保存，Cookie持续到会话结束。",
-      "actionSteps": [
-        "了解功能使用条件",
-        "评估个人隐私风险",
-        "企业探索自动化流程应用"
-      ],
-      "tags": [
-        "OpenAI",
-        "AI代理",
-        "隐私安全"
-      ],
-      "trust": 3,
-      "opportunity": 3,
-      "priority": 3,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T09:03:31.938Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "提升AI代理自动化能力，但涉及凭据处理，用户需关注隐私安全，企业可探索自动化应用。",
-        "riskNotes": "功能细节来自IT之家，官方文档可能更新，需验证安全性及隐私政策。"
-      }
-    },
-    {
-      "id": "3b769cef7f81",
-      "title": "Cloudflare 称 AI 智能体已占 60% 互联网流量，同比激增 1700%",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/571.htm",
-      "publishedAt": "2026-08-26T07:41:18.000Z",
-      "summary": "Cloudflare高管称AI智能体流量占互联网总流量60%，同比激增1700%，反映AI代理快速增长。",
-      "actionSteps": [
-        "关注Cloudflare官方数据发布",
-        "企业评估网络策略应对AI流量",
-        "加强安全防护识别恶意代理"
-      ],
-      "tags": [
-        "AI流量",
-        "Cloudflare",
-        "互联网"
-      ],
-      "trust": 3,
-      "opportunity": 3,
-      "priority": 3,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T09:03:31.938Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI流量激增影响网络基础设施和内容分发，企业需优化应对，同时警惕恶意AI流量。",
-        "riskNotes": "数据来自Cloudflare高管演讲，具体统计口径未明确，需参考官方报告。"
-      }
-    },
-    {
-      "id": "89969ef5c7b6",
-      "title": "Disrupting a new covert influence campaign from Russia",
+      "id": "3966433b8e10",
+      "title": "AWS Acquires DuckDB",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
-      "publishedAt": "2026-08-26T07:31:31.000Z",
-      "summary": "OpenAI披露破坏俄罗斯新隐蔽影响力行动，利用AI生成内容干预舆论，已采取遏制措施。",
+      "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "publishedAt": "2026-08-26T12:59:26.000Z",
+      "summary": "AWS宣布收购DuckDB，DuckDB是一个流行的开源分析型数据库，此次收购可能影响数据库市场格局。",
       "actionSteps": [
-        "关注OpenAI官方报告了解详情",
-        "提高对AI生成内容的辨识能力",
-        "企业评估自身平台被滥用的风险"
+        "关注AWS官方公告",
+        "评估对现有数据库策略的影响",
+        "考虑替代方案"
       ],
       "tags": [
-        "AI安全",
-        "信息战",
-        "OpenAI"
+        "AWS",
+        "DuckDB",
+        "收购",
+        "数据库"
       ],
-      "trust": 4,
-      "opportunity": 2,
+      "trust": 2,
+      "opportunity": 3,
       "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T09:03:31.938Z",
+        "analyzedAt": "2026-08-26T13:18:02.689Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "显示AI被滥用于信息战，提醒公众警惕AI生成虚假信息，企业需加强内容审核与风险防范。",
-        "riskNotes": "信息来源为OpenAI官方声明，但具体细节和影响范围未独立验证，需关注后续调查。"
+        "whyItMatters": "AWS收购DuckDB可能影响云数据库服务选择，对数据从业者和企业技术架构有潜在影响。",
+        "riskNotes": "来源为Hacker News，非官方公告，需以AWS官方声明为准；收购细节未披露。"
+      }
+    },
+    {
+      "id": "017f8ed8b7c4",
+      "title": "商汤 2026 年上半年首次盈利：归母净利润 6.07 亿元同比扭亏转盈",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/744.htm",
+      "publishedAt": "2026-08-26T12:55:12.000Z",
+      "summary": "商汤科技发布2026年上半年财报，营收29.11亿元，同比增长23.4%，归母净利润6.07亿元，同比扭亏为盈，毛利率41.4%，但经营现金流为负。",
+      "actionSteps": [
+        "查阅商汤官方财报核实数据",
+        "分析盈利来源是否可持续",
+        "关注后续季度现金流表现"
+      ],
+      "tags": [
+        "商汤",
+        "财报",
+        "AI",
+        "盈利"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-26T13:18:02.688Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "商汤作为AI龙头企业首次盈利，可能提振市场对AI行业的信心，但现金流为负需关注其盈利质量。",
+        "riskNotes": "数据来自IT之家，非官方一手来源，需以商汤官方财报为准；盈利可能包含非经常性损益。"
       }
     },
     {
@@ -834,54 +810,23 @@
       }
     },
     {
-      "id": "e83ce8e6a06e",
-      "title": "微星 Katana 15 HX C14 游戏本上市：至高 14900HX + 5070，170W 性能释放",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/643.htm",
-      "publishedAt": "2026-08-26T08:59:03.000Z",
-      "summary": "微星发布Katana 15 HX C14游戏本，可选i9-14900HX和RTX 5070，170W性能释放，主打性价比。",
-      "actionSteps": [
-        "对比其他品牌同配置产品",
-        "关注评测和用户反馈",
-        "根据需求决定是否购买"
-      ],
-      "tags": [
-        "游戏本",
-        "微星",
-        "硬件"
-      ],
-      "trust": 4,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T09:03:31.938Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "新游戏本上市为消费者提供更多选择，性能提升可能影响游戏体验和购买决策。",
-        "riskNotes": "参数来自官方发布，实际性能需评测验证，价格和供应情况未提及。"
-      }
-    },
-    {
-      "id": "05aa57b51803",
-      "title": "The End of Programming",
+      "id": "b6e71c13696b",
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://pauldix.com/the-end-of-programming",
-      "publishedAt": "2026-08-26T08:37:59.000Z",
-      "summary": "文章讨论编程终结的可能性，认为AI将改变编程方式。",
+      "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "publishedAt": "2026-08-26T12:52:12.000Z",
+      "summary": "Qwen3.8-Flash-Next 发布，宣称新架构实现极致成本效率，引发开发者关注。",
       "actionSteps": [
-        "学习AI辅助开发工具",
-        "关注编程趋势",
-        "提升抽象问题解决能力"
+        "访问官方博客了解架构细节",
+        "对比现有模型的成本与性能",
+        "评估是否适合自身业务场景"
       ],
       "tags": [
-        "编程",
-        "AI",
-        "未来工作"
+        "AI模型",
+        "成本效率",
+        "技术架构"
       ],
       "trust": 2,
       "opportunity": 3,
@@ -889,30 +834,126 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T09:03:31.938Z",
+        "analyzedAt": "2026-08-26T13:18:02.689Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "程序员需关注技能转型，企业需调整技术战略。",
-        "riskNotes": "观点性文章，缺乏实证，需谨慎对待。"
+        "whyItMatters": "对开发者和企业而言，更高效的模型可降低 AI 应用成本，可能影响技术选型。",
+        "riskNotes": "信息来自 Hacker News 标题，未提供官方技术细节或基准测试，需核实。"
       }
     },
     {
-      "id": "1f806040d6e5",
-      "title": "研究发现婴儿语言学习能力远胜 AI 聊天机器人，学习效率也大幅领先",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/612.htm",
-      "publishedAt": "2026-08-26T08:29:50.000Z",
-      "summary": "MIT科技评论报道，婴儿语言学习能力远超AI聊天机器人，学习效率也大幅领先，AI要达到人类水平仍很远。",
+      "id": "e94dfc725bd7",
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "publishedAt": "2026-08-26T12:10:00.000Z",
+      "summary": "MIT科技评论发布儿童科技使用特刊，并报道比尔·盖茨对AI的担忧，内容涉及科技对儿童的影响及AI风险。",
       "actionSteps": [
-        "查阅MIT科技评论原文了解研究细节",
-        "评估AI在自身业务中的适用边界",
-        "关注后续研究进展"
+        "阅读原文了解具体内容",
+        "评估AI风险对家庭的影响",
+        "关注儿童科技使用指南"
       ],
       "tags": [
         "AI",
-        "语言学习",
-        "人类智能"
+        "儿童",
+        "科技",
+        "风险"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-26T13:18:02.689Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "科技对儿童的影响和AI风险是家长和教育者关注焦点，可能影响家庭科技产品使用决策。",
+        "riskNotes": "摘要不完整，具体内容需阅读原文；盖茨观点为个人意见，非官方政策。"
+      }
+    },
+    {
+      "id": "ad819fa6cf04",
+      "title": "2026 中国电信研究院 AITMark 奖项出炉，华为小艺获 AI 手机智能体综合评分第一",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/706.htm",
+      "publishedAt": "2026-08-26T10:44:52.000Z",
+      "summary": "2026 中国电信研究院 AITMark 奖项公布，华为小艺获 AI 手机智能体综合评分第一。",
+      "actionSteps": [
+        "查阅完整评测报告",
+        "对比其他品牌 AI 功能",
+        "根据需求选择手机"
+      ],
+      "tags": [
+        "AI手机",
+        "评测",
+        "华为"
+      ],
+      "trust": 3,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-26T13:18:02.689Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "第三方评测结果影响消费者选择，对手机 AI 功能有指导意义。",
+        "riskNotes": "评测来源为中国电信研究院，但具体评测标准未公开，需谨慎参考。"
+      }
+    },
+    {
+      "id": "f53aafc869b1",
+      "title": "Raised on AI",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "publishedAt": "2026-08-26T09:00:00.000Z",
+      "summary": "MIT科技评论文章探讨在AI时代成长的孩子，作者反思自己为孩子创建数字足迹的行为，讨论AI对儿童隐私和成长的影响。",
+      "actionSteps": [
+        "阅读全文了解观点",
+        "反思自身数字行为",
+        "关注儿童隐私保护"
+      ],
+      "tags": [
+        "AI",
+        "儿童",
+        "隐私",
+        "成长"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-26T13:18:02.689Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "文章引发对儿童数字隐私和AI影响的思考，对家长和教育者有参考价值。",
+        "riskNotes": "内容为个人观点，非研究结论；需结合更多资料全面了解。"
+      }
+    },
+    {
+      "id": "0630053a6331",
+      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/68227",
+      "publishedAt": "2026-08-26T08:25:44.000Z",
+      "summary": "少数派发布开学季教育优惠指南，汇总各类软件和服务的教育折扣，帮助学生节省开支。",
+      "actionSteps": [
+        "查看原文获取优惠列表",
+        "核实优惠资格和有效期",
+        "按需申请教育优惠"
+      ],
+      "tags": [
+        "教育优惠",
+        "学生",
+        "省钱",
+        "软件"
       ],
       "trust": 3,
       "opportunity": 2,
@@ -920,10 +961,10 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T09:03:31.938Z",
+        "analyzedAt": "2026-08-26T13:18:02.689Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "提醒公众对AI能力保持理性预期，避免过度依赖AI进行关键决策；对教育领域，人类学习优势仍明显。",
-        "riskNotes": "报道基于MIT科技评论，但未提供具体实验数据，需进一步核实研究细节。"
+        "whyItMatters": "教育优惠可降低学生购买软件和服务的成本，对预算有限的学生群体有实际帮助。",
+        "riskNotes": "优惠信息可能随时间变化，需核实具体条款和适用条件。"
       }
     },
     {
@@ -986,196 +1027,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "游戏行业动态影响玩家消费决策，重制版可能带动硬件升级需求，相关企业可关注市场机会。",
         "riskNotes": "消息来自媒体汇总，具体发售日期和平台未确认，需以官方公告为准。"
-      }
-    },
-    {
-      "id": "c47f658bbbc8",
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-      "publishedAt": "2026-08-26T05:49:20.000Z",
-      "summary": "调查显示超半数美国成年人缺乏基本统计理解能力，可能影响决策和风险认知。",
-      "actionSteps": [
-        "阅读原始研究报告",
-        "提升自身统计素养",
-        "企业设计易懂的数据产品"
-      ],
-      "tags": [
-        "统计素养",
-        "教育",
-        "数据"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T09:03:31.938Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "统计素养不足影响个人对数据信息的判断，企业可提供教育服务或简化数据呈现。",
-        "riskNotes": "调查来源为宾州州立大学，样本和方法未详述，需查看原始研究。"
-      }
-    },
-    {
-      "id": "489929a14700",
-      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://arxiv.org/abs/2607.21503",
-      "publishedAt": "2026-08-26T02:35:25.000Z",
-      "summary": "arXiv论文探讨智能体上下文管理，将记忆与成本视为架构问题，提出优化方案。",
-      "actionSteps": [
-        "阅读论文全文以了解具体方法",
-        "评估该方法在自身项目中的适用性",
-        "关注后续讨论和引用"
-      ],
-      "tags": [
-        "AI",
-        "智能体",
-        "上下文管理",
-        "成本优化"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T04:57:12.283Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对AI开发者而言，智能体上下文管理直接影响成本与性能，该研究可能提供新思路。",
-        "riskNotes": "论文摘要未提供具体方法，需阅读原文验证；arXiv预印本未经同行评审。"
-      }
-    },
-    {
-      "id": "089a88c7a5ae",
-      "title": "Queryable Executables",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "publishedAt": "2026-08-26T00:20:49.000Z",
-      "summary": "Hacker News 上讨论“可查询可执行文件”概念，可能指将可执行文件元数据或行为以可查询方式暴露，便于审计和调试。",
-      "actionSteps": [
-        "访问原文链接了解具体技术方案",
-        "评估该技术对自身开发流程的适用性",
-        "关注社区讨论获取实践反馈"
-      ],
-      "tags": [
-        "开发者工具",
-        "可执行文件",
-        "调试",
-        "审计"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T01:59:48.994Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对开发者而言，可查询可执行文件可能简化调试和审计流程，提升软件透明度和可维护性。",
-        "riskNotes": "仅基于标题和摘要，缺乏具体技术细节，需查看原文验证。"
-      }
-    },
-    {
-      "id": "22dba9e77261",
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/runetes/maiao",
-      "publishedAt": "2026-08-25T22:40:07.000Z",
-      "summary": "Maiao 是一个开源工具，为 GitHub、GitLab、Gitea 等平台提供 Gerrit 风格的代码审查工作流。",
-      "actionSteps": [
-        "访问 GitHub 仓库了解功能和安装方法",
-        "在测试环境试用评估效果",
-        "关注项目更新和社区反馈"
-      ],
-      "tags": [
-        "代码审查",
-        "开源工具",
-        "开发流程",
-        "Gerrit"
-      ],
-      "trust": 3,
-      "opportunity": 4,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T01:59:48.994Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对团队代码审查流程有改进潜力，可能提升审查效率和代码质量。",
-        "riskNotes": "项目处于早期，需验证其稳定性和社区支持。"
-      }
-    },
-    {
-      "id": "c21d61ec22c3",
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/swimmingbrain/texbrain",
-      "publishedAt": "2026-08-25T22:08:50.000Z",
-      "summary": "TeXbrain是浏览器内通过WASM运行pdfTeX的LaTeX编辑器，支持git同步，免费开源。",
-      "actionSteps": [
-        "试用TeXbrain并测试git同步",
-        "对比Overleaf功能差异",
-        "关注项目更新和社区反馈"
-      ],
-      "tags": [
-        "LaTeX",
-        "WASM",
-        "开源",
-        "编辑器"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T04:57:12.283Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "为LaTeX用户提供免费git同步方案，替代Overleaf付费功能，可能吸引开发者。",
-        "riskNotes": "项目为Show HN，可能处于早期阶段；需测试稳定性和功能完整性。"
-      }
-    },
-    {
-      "id": "33f6df669717",
-      "title": "AgeLab research inspires an A I startup",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-      "publishedAt": "2026-08-25T21:00:00.000Z",
-      "summary": "MIT AgeLab研究激发AI初创公司，关注老年人护理技术，创始人意外开启新事业。",
-      "actionSteps": [
-        "研究AgeLab相关技术方向",
-        "关注老年护理AI市场动态",
-        "探索产学研合作可能"
-      ],
-      "tags": [
-        "AI养老",
-        "初创公司",
-        "老龄化"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T04:57:12.283Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "老龄化社会催生AI+养老需求，研究机构成果可转化为商业机会。",
-        "riskNotes": "具体技术细节和商业模式未披露，需进一步调研。"
       }
     },
     {
@@ -1397,23 +1248,54 @@
       }
     },
     {
-      "id": "6ea37dcb9325",
-      "title": "微信鸿蒙版 App 灰度全新相机页面：看齐 iOS 端，支持按住滑动选择精确焦段",
+      "id": "b97f4746d557",
+      "title": "天文学家首次精确测定已知最大星系 IC 1101 边界：直径 170 万光年，宽度相当于 17 个银河系并排排列",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/994/644.htm",
-      "publishedAt": "2026-08-26T08:59:39.000Z",
-      "summary": "微信鸿蒙版相机界面灰度更新，新增焦段和微距按钮，支持滑动选择焦段，与iOS端看齐。",
+      "link": "https://www.ithome.com/0/994/748.htm",
+      "publishedAt": "2026-08-26T13:03:57.000Z",
+      "summary": "天文学家首次精确测定最大星系 IC 1101 边界，直径 170 万光年。",
       "actionSteps": [
-        "更新微信鸿蒙版体验新功能",
-        "关注官方更新日志",
-        "反馈使用问题"
+        "关注后续学术论文",
+        "了解观测技术",
+        "思考对宇宙学的影响"
       ],
       "tags": [
-        "微信",
-        "鸿蒙",
-        "相机"
+        "天文",
+        "星系",
+        "科学发现"
+      ],
+      "trust": 4,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-26T13:18:02.689Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "科学发现拓展人类认知，对天文研究有重要意义。",
+        "riskNotes": "来源为新华社报道，数据来自国际团队，但需进一步核实。"
+      }
+    },
+    {
+      "id": "cec3de8a12dc",
+      "title": "A curmudgeon tries a language server",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+      "publishedAt": "2026-08-26T12:48:37.000Z",
+      "summary": "开发者尝试语言服务器，分享使用体验，可能涉及工具效率。",
+      "actionSteps": [
+        "阅读原文了解具体工具",
+        "评估是否适合自身开发环境",
+        "尝试配置并测试效果"
+      ],
+      "tags": [
+        "开发工具",
+        "语言服务器",
+        "效率"
       ],
       "trust": 2,
       "opportunity": 2,
@@ -1421,10 +1303,104 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T09:03:31.938Z",
+        "analyzedAt": "2026-08-26T13:18:02.689Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "提升鸿蒙用户体验，反映微信对鸿蒙生态的重视。",
-        "riskNotes": "信息来自博主分享，非官方公告，需验证。"
+        "whyItMatters": "语言服务器可提升开发效率，对程序员有实际参考价值。",
+        "riskNotes": "来源为个人博客，观点主观，需结合自身环境验证。"
+      }
+    },
+    {
+      "id": "f30a2d0f6ef5",
+      "title": "乌龟海岸推出 Vulcan II XP 键盘：全配列，机械轴，热插拔",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/733.htm",
+      "publishedAt": "2026-08-26T12:37:03.000Z",
+      "summary": "乌龟海岸发布Vulcan II XP机械键盘，全尺寸设计，配备TITAN HS轴，支持热插拔和RGB背光，面向游戏玩家。",
+      "actionSteps": [
+        "关注官方发布详情",
+        "比较同类产品",
+        "根据需求决定是否购买"
+      ],
+      "tags": [
+        "键盘",
+        "外设",
+        "游戏",
+        "新品"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-26T13:18:02.688Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "新键盘为游戏玩家提供更多选择，热插拔和轴体兼容性增加可玩性。",
+        "riskNotes": "产品信息来自IT之家，需以官方发布为准；价格和上市时间未提及。"
+      }
+    },
+    {
+      "id": "8690999a5223",
+      "title": "猪猪侠首部 AIGC 科幻冒险动画《猪猪侠之失控纪元》定档 8 月 28 日芒果 TV 独播",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/994/731.htm",
+      "publishedAt": "2026-08-26T12:25:07.000Z",
+      "summary": "猪猪侠首部 AIGC 科幻动画定档 8 月 28 日芒果 TV 独播，聚焦 AI 议题。",
+      "actionSteps": [
+        "关注播出后市场反响",
+        "分析 AIGC 在动画制作中的应用",
+        "评估对传统动画制作的影响"
+      ],
+      "tags": [
+        "AIGC",
+        "动画",
+        "IP"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-26T13:18:02.688Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "AIGC 内容进入主流 IP，可能推动动画制作模式变革，对内容产业有示范效应。",
+        "riskNotes": "来源为 IT 之家，官方微博信息，但 AIGC 具体应用程度未明。"
+      }
+    },
+    {
+      "id": "9fbcf87c86fa",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "publishedAt": "2026-08-26T09:00:00.000Z",
+      "summary": "MIT 文章探讨 AI 模型在智力测试中的表现，并邀请读者挑战。",
+      "actionSteps": [
+        "阅读原文了解测试细节",
+        "尝试测试自身推理能力",
+        "关注 AI 推理能力进展"
+      ],
+      "tags": [
+        "AI推理",
+        "智力测试",
+        "评测"
+      ],
+      "trust": 3,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-08-26T13:18:02.689Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "反映 AI 推理能力的边界，对评估模型能力有参考价值。",
+        "riskNotes": "文章内容未提供具体测试结果，需阅读原文。"
       }
     },
     {
@@ -1552,70 +1528,6 @@
       }
     },
     {
-      "id": "d2d41646cdd3",
-      "title": "Launching youth entrepreneurship",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
-      "publishedAt": "2026-08-25T21:00:00.000Z",
-      "summary": "MIT 科技评论报道青年创业项目，讲述 Laurie Stach 的创业经历，强调年轻人解决世界问题的雄心。",
-      "actionSteps": [
-        "阅读全文了解项目详情",
-        "关注 MIT 相关创业资源",
-        "评估自身创业想法与青年创业生态的契合度"
-      ],
-      "tags": [
-        "青年创业",
-        "MIT",
-        "创业故事",
-        "创新"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T01:59:48.994Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对青年创业者有激励作用，可能提供创业资源和思路。",
-        "riskNotes": "报道为人物故事，具体项目细节和成效需进一步了解。"
-      }
-    },
-    {
-      "id": "b46256018d4f",
-      "title": "A new stamp on cyberfraud prevention",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "publishedAt": "2026-08-25T21:00:00.000Z",
-      "summary": "MIT 科技评论报道 Rupert Young 的网络安全职业故事，从集邮开始建立数据库，最终投身网络欺诈预防。",
-      "actionSteps": [
-        "阅读全文了解其职业经历",
-        "关注网络欺诈预防领域动态",
-        "评估自身技能与网络安全领域的匹配度"
-      ],
-      "tags": [
-        "网络安全",
-        "职业故事",
-        "MIT",
-        "欺诈预防"
-      ],
-      "trust": 3,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-26T01:59:48.994Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "展示网络安全领域职业路径，可能启发相关从业者。",
-        "riskNotes": "人物故事，具体技术或产品细节有限。"
-      }
-    },
-    {
       "id": "ca0195f41a4d",
       "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
       "category": "knowledge",
@@ -1706,37 +1618,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "帮助用户发现实用软件，提升工作效率和生活品质。",
         "riskNotes": "推荐内容基于编辑主观，可能不适合所有人；需自行试用验证。"
-      }
-    },
-    {
-      "id": "58e69183b126",
-      "title": "Windows On ARM 原生应用少？你可以试试这些改造方法",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/prime/story/create-your-own-windows-apps",
-      "publishedAt": "2026-08-24T08:28:26.000Z",
-      "summary": "少数派文章介绍Windows on ARM原生应用少的改造方法，帮助用户解决应用兼容性问题。",
-      "actionSteps": [
-        "订阅或阅读全文",
-        "根据指南尝试改造",
-        "备份数据以防风险"
-      ],
-      "tags": [
-        "Windows",
-        "ARM",
-        "应用兼容"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-24T13:14:15.754Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "帮助ARM设备用户提升使用体验，了解替代方案。",
-        "riskNotes": "文章为会员内容，具体方法未展示；改造可能涉及技术风险。"
       }
     },
     {
