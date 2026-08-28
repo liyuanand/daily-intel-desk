@@ -8,12 +8,14 @@ const state = {
   search: "",
   sort: "priority",
   savedOnly: false,
+  starredOnly: false,
   aiOnly: false,
   visible: 8,
   saved: new Set(readStore("daily-intel:saved", [])),
   read: new Set(readStore("daily-intel:read", [])),
   actions: new Set(readStore("daily-intel:actions", []))
 };
+state.starred = new Set(readStore("daily-intel:starred", []));
 
 const elements = {
   feed: $("#news-feed"),
@@ -71,9 +73,12 @@ function filteredItems() {
   return state.items
     .filter(item => state.category === "all" || item.category === state.category)
     .filter(item => !state.savedOnly || state.saved.has(item.id))
+    .filter(item => !state.starredOnly || state.starred.has(item.id))
     .filter(item => !state.aiOnly || item.aiAnalysis)
     .filter(item => !search || [item.title, item.summary, item.source, ...(item.tags || [])].join(" ").toLowerCase().includes(search))
     .sort((a, b) => {
+      const starredDelta = Number(state.starred.has(b.id)) - Number(state.starred.has(a.id));
+      if (starredDelta) return starredDelta;
       if (state.sort === "latest") return new Date(b.publishedAt) - new Date(a.publishedAt);
       if (state.sort === "opportunity") return b.opportunity - a.opportunity;
       if (state.sort === "trust") return b.trust - a.trust;
@@ -83,6 +88,7 @@ function filteredItems() {
 
 function itemCard(item) {
   const saved = state.saved.has(item.id);
+  const starred = state.starred.has(item.id);
   const read = state.read.has(item.id);
   const tags = (item.tags || []).map(tag => `<span class="tag">#${escapeHtml(tag)}</span>`).join("");
   return `
@@ -102,7 +108,10 @@ function itemCard(item) {
           <div class="tags">${tags}</div>
         </div>
       </div>
-      <button class="save-icon${saved ? " saved" : ""}" type="button" aria-label="${saved ? "取消收藏" : "收藏"}"><i data-lucide="bookmark"></i></button>
+      <div class="card-actions">
+        <button class="star-icon${starred ? " starred" : ""}" type="button" aria-label="${starred ? "取消星标" : "标记星标"}"><i data-lucide="star"></i></button>
+        <button class="save-icon${saved ? " saved" : ""}" type="button" aria-label="${saved ? "取消收藏" : "收藏"}"><i data-lucide="bookmark"></i></button>
+      </div>
     </article>`;
 }
 
@@ -111,12 +120,16 @@ function renderFeed() {
   const visibleItems = items.slice(0, state.visible);
   const categoryLabel = state.category === "all" ? "情报流" : state.categories[state.category];
   const feedLabel = state.savedOnly ? "我的收藏" : categoryLabel;
-  elements.feedTitle.textContent = state.aiOnly ? `${feedLabel} · AI 分析` : feedLabel;
+  const labels = [state.starredOnly ? "星标优先" : "", state.aiOnly ? "AI 分析" : ""].filter(Boolean);
+  elements.feedTitle.textContent = labels.length ? `${feedLabel} · ${labels.join(" · ")}` : feedLabel;
   elements.resultCount.textContent = `${items.length} 条`;
   elements.feed.innerHTML = visibleItems.length ? visibleItems.map(itemCard).join("") : `
     <div class="empty-state"><i data-lucide="search-x"></i><h3>没有找到匹配资讯</h3><p>${state.aiOnly ? "该分类暂时没有 DeepSeek 分析内容。" : "试试更换关键词或分类。"}</p></div>`;
   elements.loadMore.hidden = state.visible >= items.length;
   $("#saved-count").textContent = state.saved.size;
+  $("#star-count").textContent = state.starred.size;
+  $("#star-filter").classList.toggle("active", state.starredOnly);
+  $("#star-filter").setAttribute("aria-pressed", String(state.starredOnly));
   renderIcons();
 }
 
@@ -170,11 +183,19 @@ function renderSummary(data) {
 function setCategory(category) {
   state.category = category;
   state.savedOnly = false;
+  state.starredOnly = false;
   state.visible = 8;
   $("#saved-filter").classList.remove("active");
   $$('.nav-item[data-category], .chip[data-category]').forEach(button => button.classList.toggle("active", button.dataset.category === category));
   document.body.classList.remove("menu-open");
   $("#menu-button").setAttribute("aria-expanded", "false");
+  renderFeed();
+}
+
+function toggleStarred(id) {
+  state.starred.has(id) ? state.starred.delete(id) : state.starred.add(id);
+  writeStore("daily-intel:starred", state.starred);
+  showToast(state.starred.has(id) ? "已标记星标，已置顶" : "已取消星标");
   renderFeed();
 }
 
@@ -259,7 +280,8 @@ $("#filter-chips").addEventListener("click", event => {
 elements.feed.addEventListener("click", event => {
   const card = event.target.closest(".news-card");
   if (!card) return;
-  if (event.target.closest(".save-icon")) toggleSaved(card.dataset.id);
+  if (event.target.closest(".star-icon")) toggleStarred(card.dataset.id);
+  else if (event.target.closest(".save-icon")) toggleSaved(card.dataset.id);
   else if (event.target.closest(".open-detail")) openDetail(card.dataset.id);
 });
 
@@ -278,9 +300,20 @@ elements.loadMore.addEventListener("click", () => { state.visible += 8; renderFe
 $("#saved-filter").addEventListener("click", () => {
   state.savedOnly = !state.savedOnly;
   state.category = "all";
+  state.starredOnly = false;
   state.visible = 8;
   $("#saved-filter").classList.toggle("active", state.savedOnly);
   $$('.nav-item[data-category], .chip[data-category]').forEach(button => button.classList.toggle("active", !state.savedOnly && button.dataset.category === "all"));
+  renderFeed();
+});
+
+$("#star-filter").addEventListener("click", () => {
+  state.starredOnly = !state.starredOnly;
+  state.savedOnly = false;
+  state.category = "all";
+  state.visible = 8;
+  $("#saved-filter").classList.remove("active");
+  $$('.nav-item[data-category], .chip[data-category]').forEach(button => button.classList.toggle("active", !state.starredOnly && button.dataset.category === "all"));
   renderFeed();
 });
 
