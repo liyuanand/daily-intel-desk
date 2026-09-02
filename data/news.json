@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T13:31:01.749Z",
+  "generatedAt": "2026-09-02T04:36:56.550Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 24
+    "reused": 22
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,14 +194,14 @@
       "priority": 89
     },
     {
-      "id": "ab514fb2d1d5",
-      "title": "44% on ARC-AGI-1 in 67 cents",
+      "id": "a0aed382f458",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://mvakde.github.io/blog/44-on-arc-1/",
-      "publishedAt": "2026-09-01T09:52:45.000Z",
-      "summary": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 143 # Comments: 37",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "publishedAt": "2026-09-01T23:17:43.000Z",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=49529621 Points: 84 # Comments: 21",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -213,14 +213,14 @@
       "priority": 79
     },
     {
-      "id": "402db59a5fb2",
-      "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+      "id": "f8c8dfe48a15",
+      "title": "My local model setup on an M4 Pro Mac Mini",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
-      "publishedAt": "2026-09-01T09:46:39.000Z",
-      "summary": "Article URL: https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ Comments URL: https://news.ycombinator.com/item?id=49519902 Points: 46 # Comments: 42",
+      "link": "https://lws.io/blog/my-local-model-setup/",
+      "publishedAt": "2026-09-01T22:30:52.000Z",
+      "summary": "Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 108 # Comments: 53",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -232,14 +232,77 @@
       "priority": 79
     },
     {
-      "id": "458ded419cdf",
-      "title": "CollectWise (YC F24) Is Hiring",
+      "id": "2c36d495ed3f",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
-      "publishedAt": "2026-09-01T07:01:49.000Z",
-      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer Comments URL: https://news.ycombinator.com/item?id=49518877 Points: 0 # Comments: 0",
+      "link": "https://masteranza.github.io/weedout/",
+      "publishedAt": "2026-09-01T22:06:57.000Z",
+      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” f",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "先做 15 秒分镜，分别验证画面、口播和字幕",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "41a465efd66e",
+      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://hnmatchmaker.com/",
+      "publishedAt": "2026-09-01T20:53:35.000Z",
+      "summary": "Hi! Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\". So I had abacus.ai whip one up. The methodology is pre",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "feb4ad91491b",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://openai.com/index/path-to-astra/",
+      "publishedAt": "2026-09-01T20:20:41.000Z",
+      "summary": "Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 108 # Comments: 49",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "4060d5fb1d26",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "publishedAt": "2026-09-01T20:07:57.000Z",
+      "summary": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 303 # Comments: 137",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -251,14 +314,14 @@
       "priority": 79
     },
     {
-      "id": "b03e2b0176b5",
-      "title": "GPU World",
+      "id": "6447115f078d",
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.gpuworld.org/",
-      "publishedAt": "2026-09-01T03:16:36.000Z",
-      "summary": "Article URL: https://www.gpuworld.org/ Comments URL: https://news.ycombinator.com/item?id=49517584 Points: 301 # Comments: 172",
+      "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "publishedAt": "2026-09-01T19:55:47.000Z",
+      "summary": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 100 # Comments: 49",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -270,131 +333,157 @@
       "priority": 79
     },
     {
-      "id": "02e3f36427f0",
-      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/fregacmols/RotaryCell",
-      "publishedAt": "2026-09-01T02:29:23.000Z",
-      "summary": "Article URL: https://github.com/fregacmols/RotaryCell Comments URL: https://news.ycombinator.com/item?id=49517297 Points: 101 # Comments: 18",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "1026b305b21a",
-      "title": "联想集团发布首款“沙特制造”笔记本电脑",
+      "id": "422cf21fcbce",
+      "title": "育碧收紧《荣耀战魂》游戏多人模式，9 月 10 日起 Linux 玩家无法开黑",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/159.htm",
-      "publishedAt": "2026-09-01T13:26:39.000Z",
-      "summary": "IT之家 9 月 1 日消息，联想集团 (Lenovo) 当地时间今日在沙特阿拉伯首都利雅得举行的 LEAP 2026 科技与信息技术展览会上 发布了其首款“沙特制造”笔记本电脑 。 IT之家了解到，这台笔记本电脑是 联想集团沙特智能制造基地首批下线的产品之一 。 该基地是 联想集团全球首个能够生产完整产品组合的基地 ，产品涵盖服务器、笔记本电脑、台式机、智能手机， 预计于 2026 年末启动部分产品量产 。 联想集团高级副总裁兼中东、",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "27e0a23feb1c",
-      "title": "蔚来汽车曲玉：预计下半年单车成本将继续上涨 2000-3000 元",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/158.htm",
-      "publishedAt": "2026-09-01T13:25:17.000Z",
-      "summary": "IT之家 9 月 1 日消息，今晚蔚来发布了 2026 年二季度财报。二季度总营收 321.4 亿元，同比增长 69.1%。综合毛利率 18.4%，同比增长 8.4 个百分点。2026 年三季度交付指引 10.80 万辆至 11.10 万辆，同比增长 24.0% 至 27.5%。营收指引 332.9 亿元至 340.5 亿元，同比增长 52.7% 至 56.2%。 据财联社报道，蔚来汽车首席财务官曲玉在公司半年报业绩会上表示，今年成本端",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "9d9a6c3dedf1",
-      "title": "路虎全新车型揽胜 GT 路试谍照曝光：家族最新成员，融合轿车、SUV 特征",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/157.htm",
-      "publishedAt": "2026-09-01T13:22:10.000Z",
-      "summary": "IT之家 9 月 1 日消息，捷豹路虎即将为揽胜家族增加第五款车型 —— 揽胜 GT，外观将融合轿车与传统 SUV 的设计特点。外媒 Carscoops 于当地时间 8 月 31 日公布了一批实车图，新车目前正在纽博格林赛道展开测试。 今年上半年，多辆覆盖严密伪装的 GT 原型车曾陆续现身。早期消息一度认为，新车会接替现款揽胜星脉。捷豹路虎 7 月澄清了 GT 的定位：揽胜产品阵容中的新增成员，并不会取代现有车型。 揽胜 GT 保留了不",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "8d7bbcf1069c",
-      "title": "兆易创新：2027 年 DRAM 供应紧张局面不会明显缓解",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/156.htm",
-      "publishedAt": "2026-09-01T13:14:34.000Z",
-      "summary": "IT之家 9 月 1 日消息，据证券时报报道，在半年报业绩会上，兆易创新副董事长、总经理何卫分析，DRAM 产品方面，公司预计在下半年还会延续上涨的态势，价格会转为温和上行。展望 2027 年，DRAM 行业增量产能释放相对有限，DRAM 供应的紧张局面不会明显缓解，行业景气周期相对较长，产品价格会是高位震荡态势。SLC NAND Flash 产品方面，公司认为景气周期会比较长，至少会延续 2027 年全年。 兆易创新 2026 年上半",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "fbab6795c03b",
-      "title": "追觅回应放弃整车量产：汽车业务并入产业研究院，未来主要聚焦通用技术探索研究",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/154.htm",
-      "publishedAt": "2026-09-01T13:02:46.000Z",
-      "summary": "IT之家 9 月 1 日消息，据每日经济新闻今天（1 日）报道，针对追觅科技造车项目终止的传闻，追觅科技相关人士表示，追觅汽车业务已经放弃量产计划，只做相应技术储备。“汽车相关业务将 并入公司产业研究院管理 ，未来主要聚焦通用技术的探索与研究，持续做好相关技术产投研落地。” 此前据中国经济网报道，追觅造车在一波接一波的高调造势后急转直下， 日前已经决定关闭造车业务，并将造车主体“星空计划”相关公司注销 。 报道称，一年时间，追觅造车从无",
+      "link": "https://www.ithome.com/0/997/387.htm",
+      "publishedAt": "2026-09-02T04:31:02.000Z",
+      "summary": "IT之家 9 月 2 日消息，育碧昨日（9 月 1 日）发布公告，表示由于反作弊系统无法在 Linux / SteamOS 平台上有效运作， 将于 9 月 10 日开始在其平台上封禁《荣耀战魂》（For Honor）多人模式。 对于 Linux 和 Steam Deck 等玩家而言，意味着在 9 月 10 日之后无法“开黑”了。“开黑”是游戏圈常用语，意思是几个认识的人组队一起打游戏，并且能方便地语音或当面交流战术。 IT之家查询公开资",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
       ],
       "tags": [
-        "AI",
-        "机器人"
+        "AI"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "01ae27a75b4e",
-      "title": "群创公布 Chip Last 型 FOPLP 先进封装平台，预计 2027H2 量产",
+      "id": "fc16e9d7c9e4",
+      "title": "小米智能插座 4 发布：升级 Wi-Fi 6 远程控制无需网关，众筹 49 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/997/385.htm",
+      "publishedAt": "2026-09-02T04:25:09.000Z",
+      "summary": "IT之家 9 月 2 日消息，小米昨日推出了全新一代的小米智能插座 4 新品，厂商建议零售价 59 元，众筹价 49 元，将于 9 月 9 日下周三开启众筹（IT之家附小米有品官方购买地址： 点此购买 ）。 小米智能插座 4 尺寸为 52×41×57.6mm，相比上一代主要是升级了 Wi-Fi 6 远程连接（IT之家注：仅支持 2.4GHz 频段）支持以及新国标插脚，适配各种插排，电量统计图 + 功率统计图，显示年 / 月 / 周 / ",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "a5d8504c3a3a",
+      "title": "星宇股份董事长周晓萍回应劝退应届生事件：公司深刻反省并真诚道歉，将以制度和流程切实保障劳动者合法权益",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/997/384.htm",
+      "publishedAt": "2026-09-02T04:24:22.000Z",
+      "summary": "IT之家 9 月 2 日消息，常州星宇车灯股份有限公司（简称“星宇股份”）今日上午举行 2026 年半年度业绩说明会，星宇股份董事长兼总经理周晓萍就最近网络热议的“劝退应届生事件”进行了回应。 周晓萍表示，公司高度关注近期舆情，已就事件的真实情况公开发布致歉信并正在政府部门的指导下妥善落实相关措施。 公司对披露真实情况的媒体监督表示衷心感谢，公司深刻反省并真诚道歉 。同时，公司对部分媒体的不实报道也已通过网信和网安部门进行投诉和举报，维",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "9d07ae1df881",
+      "title": "三星最强平板 Galaxy Tab S12 Ultra 跑分曝光：单核较前代高 21%、多核高 16%",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/997/380.htm",
+      "publishedAt": "2026-09-02T04:12:25.000Z",
+      "summary": "IT之家 9 月 2 日消息，科技媒体 sammyfans 昨日（9 月 1 日）发布博文，报道称三星最强平板 Galaxy Tab S12 Ultra（型号 SM-X940）现身 GeekBench 跑分库， 7.0.0 版本单核成绩为 2760 分，多核成绩为 9291 分。 根据跑分页面显示的规格，三星 Galaxy Tab S12 Ultra 平板配备联发科天玑 9500 芯片，CPU 主频可达 4.21GHz，作为对比三星 G",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "政策"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "b82b3738ef9c",
+      "title": "降低打字干扰：微软 Word / Outlook 已默认禁用文本预测功能",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/997/357.htm",
+      "publishedAt": "2026-09-02T04:03:23.000Z",
+      "summary": "IT之家 9 月 2 日消息，微软昨日（9 月 1 日）发布博文，宣布在 Word 和 Outlook 应用中， 已默认禁用文本预测（text predictions）功能。 微软在博文中指出，基于相关调查，部分用户认为该功能干扰到日常输入体验，且倾向于自行完成输入，因此决定默认禁用该功能。对该功能有需求的用户，依然可以在设置中启用。 IT之家援引博文介绍，本次调整覆盖网页版、手机版以及桌面版，并开始在以下版本中推送上述变化： Word",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "527c2b7fa37b",
+      "title": "协作表格有“历史记录”：微软 Excel 用 AI 梳理变化，明晰谁改的、改了什么",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/144.htm",
-      "publishedAt": "2026-09-01T12:32:50.000Z",
-      "summary": "IT之家 9 月 1 日消息，群创光电 (InnoLux) 今日首次对外发布 Chip Last 型 FOPLP（扇出型面板级封装）。 该技术平台预计于 2027 年下半年投入量产 ，积极切入 AI / HPC 次世代先进封装供应链。 ▲ 技术组合 群创此前已推出了 FOPLP 家族的 Chip First 和 TGV 技术，此次的 Chip Last 技术平台瞄准“高密度异质整合”，结合多层 RDL（重布线层）与嵌入式核心两大架构。 ",
+      "link": "https://www.ithome.com/0/997/267.htm",
+      "publishedAt": "2026-09-02T03:06:39.000Z",
+      "summary": "IT之家 9 月 2 日消息，科技媒体 NeoWin 昨日（9 月 1 日）发布博文，报道称微软面向多人协作工作簿追溯修改， 为 Excel 推出 Change History（变更历史）功能。 IT之家附上相关演示视频如下： 在官方博文中，微软指出 Excel 工作簿常因数据更新、需求变化和多人同步编辑而持续变化。时间拉长后，团队往往难以快速确认某项数据何时被修改、由谁修改，以及该改动是否影响其他计算结果。 微软因此引入 Change",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "78e50f868aeb",
+      "title": "中国人民大学率先在高校开办“家长学堂”：探索 AI 时代高校家校社协同育人模式",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/997/260.htm",
+      "publishedAt": "2026-09-02T02:45:41.000Z",
+      "summary": "IT之家 9 月 2 日消息，中国人民大学 8 月 21 日宣布率先在高校开办“ 家长学堂 ”，探索 AI 时代高校家校社协同育人模式。活动以线上线下相结合形式举办，7,000 余名新生家长在线收看全程直播。 教育部思想政治工作司副司长丁红星表示， 以人工智能为代表的新技术正塑造着青年的价值观念，思政教育和家庭沟通方式亟待更新 。中国人民大学依托学科优势启动“家长学堂”建设、探索人工智能时代高校家校社协同育人模式，恰逢其时。希望各方以此",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "教育"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "dcb17ce5ea02",
+      "title": "手机 AI 谁更强，OPPO 联合多所高校推出端侧 AI 记忆评测基准 MobileMem",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/997/251.htm",
+      "publishedAt": "2026-09-02T02:21:53.000Z",
+      "summary": "IT之家 9 月 2 日消息，OPPO 首席产品官、一加创始人刘作虎今日发文，OPPO 联合 OpenKG，以及浙江大学、同济大学、东南大学等高校团队， 推出了端侧 AI 记忆评测基准 MobileMem 。 刘作虎表示： 过去两年，AI 手机主要在解决“能不能聊”的问题。到今天，基座模型的能力已经足够强，聊天已经不是困难。但能聊，不等于真正懂你，更不等于能主动帮你做事。 我一直认为，AI 手机下一阶段的关键，是从“你问一句、它答一句”",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -408,60 +497,14 @@
       "priority": 70
     },
     {
-      "id": "e9ffee0b9f21",
-      "title": "罗永浩吐槽新能源车企 AI 大模型“垃圾”，试了数十辆车无一家接入完整版 Top 大模型",
+      "id": "b986e33c1a87",
+      "title": "ASML：High NA EUV 累计曝光超 135 万片晶圆，10 台客户系统投运",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/133.htm",
-      "publishedAt": "2026-09-01T11:50:49.000Z",
-      "summary": "IT之家 9 月 1 日消息，罗永浩今日于微博发文，就各大新能源车企的 AI 大模型发表个人看法。 罗永浩首先发问：“请教一下，目前中国新能源车企，到底哪一家是接入了完整的、满血的、最优秀的 AI 大模型的？比如豆包、千问、Kimi 这类的中国 Top 模型。我是指对话问答部分，不是指控制汽车的部分（我知道这部分你们会拿安全来做借口）。” 罗永浩透露， 他试了好几十辆车后发现 ， 居然没有一家接了完整版的 Top 大模型 。他认为车企们",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "新能源"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "2ff4d54171ce",
-      "title": "研究显示：保险理赔员成为美国最反感 AI 的职业群体",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/131.htm",
-      "publishedAt": "2026-09-01T11:50:00.000Z",
-      "summary": "IT之家 9 月 1 日消息，据 WIRED 报道，在求职与职场评价平台 Glassdoor 上，有一类人对人工智能的厌恶程度远超其他群体。 “把 AI 推到要求人类不再使用自己的思想和大脑，这实在令人反感。”一条具有代表性的评价写道。另一条则表示：“别再把 AI 强加给所有人。”还有人直接批评：“这家公司使用的 AI 应用全都是垃圾。” 令人意外的是，留下这些评价的并不是记者或教师，而是保险理赔员。 Glassdoor 最近的一项研究",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "视频",
-        "自动化",
-        "机器人"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "efd177c76421",
-      "title": "3899 元戴森旗下内置摄像头的智能电动牙刷 CameraJet 国行开启预约：AI 识别牙缝自动喷射漱口水",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/128.htm",
-      "publishedAt": "2026-09-01T11:40:27.000Z",
-      "summary": "IT之家 9 月 1 日消息，戴森旗下 内置摄像头的智能电动牙刷 CameraJet 国行现已在京东开启预约，该产品结合可视摄像技术与冲刷功能，通过声波振动与水流喷射相结合的方式，提供日常的口腔清洁方案。 其国行定价为 3899 元 ，9 月 6 日发售。 京东 戴森 CameraJet 牙刷 3899 元 直达链接 该产品提供晨曦粉和静海蓝两种配色。设备上半部配有一个透明的反重力胶囊水箱，能够储存漱口水以实现自动喷射。其最大的特色是搭",
+      "link": "https://www.ithome.com/0/997/244.htm",
+      "publishedAt": "2026-09-02T01:59:21.000Z",
+      "summary": "IT之家 9 月 2 日消息，ASML High NA EUV 产品管理资深副总裁 Greet Storms 在昨日举行的 SEMICON Taiwan 2026 国际半导体展 IC 论坛上分享了这一半导体图案化技术迈向大规模量产的最新进展。 ASML 表示，其 High NA EUV 机台已 累计实现了超 135 万片晶圆的曝光 ； 已有 4 个客户的 10 台 High NA EUV 设备投入运行 ，此外还有 3 台光刻机处于发货安",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -475,35 +518,36 @@
       "priority": 70
     },
     {
-      "id": "f91fc004cd85",
-      "title": "适马三款 Aizu Prime 大画幅电影镜头亮相，11 月登场",
+      "id": "6ee6489031e8",
+      "title": "三星剧透 Galaxy Z8 系列折叠手机“追星”功能，演唱会让 AI 自动跟拍爱豆",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/122.htm",
-      "publishedAt": "2026-09-01T11:24:03.000Z",
-      "summary": "IT之家 9 月 1 日消息，适马官方今天公布三款 Aizu Prime 大画幅电影镜头，其中包含 21mm T1.3 LF、100mm T1.3 LF 和 125mm T1.3 LF，2026 年 11 月正式推出。 据介绍， Aizu Prime 系列镜头所有焦段均采用 T1.3 大光圈 ，实现统一的浅景深与焦外表现，为影像带来更加自然的空间感与层次感。 IT之家注意到，该系列镜头在色彩平衡、反差及眩光特性等方面保持高度一致，并通过",
+      "link": "https://www.ithome.com/0/997/243.htm",
+      "publishedAt": "2026-09-02T01:55:19.000Z",
+      "summary": "IT之家 9 月 2 日消息，三星昨日（9 月 1 日）发布博文，宣布面向 Galaxy Z Fold8 等系列折叠手机、Galaxy S26 FE 手机， 推出 My FanCam 功能，解决多人视频后期剪辑的操作问题。 IT之家援引博文介绍，该功能主要面向多人表演、舞台活动等视频，可通过一次点击识别并追踪指定人物，自动重新裁切画面，让目标尽量保持在中心位置。用户可输出 16:9、9:16 和 1:1 共 3 种比例的视频。 三星官方",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
         "记录成本、耗时和可复用模板"
       ],
       "tags": [
-        "AI"
+        "AI",
+        "视频"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "182c06b94a91",
-      "title": "全球首款 AI 智能体手机：努比亚 NaviX Ultra 本月上市，已获入网许可证、内置豆包手机助手",
+      "id": "6645511dc2c6",
+      "title": "编程能力追赶 OpenAI 与 Anthropic：谷歌 Gemini 3.8 Flash 最快当地时间周三上线，内部代号“Skimaki”",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/105.htm",
-      "publishedAt": "2026-09-01T10:39:29.000Z",
-      "summary": "IT之家 9 月 1 日消息，努比亚官方今天宣布，全 球首款 AI 智能体手机 NaviX Ultra 正式获得入网许可证 ， 9 月即将上市 。 据IT之家了解，这款手机将搭载豆包手机助手。 结合晚点 LatePost 此前爆料 ，该机调整了与阿里、腾讯等各家超级应用的合作方式， 将不会在用户授权后读取屏幕 ，模拟点击、像人一样操作应用（所谓 GUI 技术）。 只有这些应用自行提供 MCP 服务，开放部分数据、允许操控，豆包手机才能接",
+      "link": "https://www.ithome.com/0/997/242.htm",
+      "publishedAt": "2026-09-02T01:54:22.000Z",
+      "summary": "IT之家 9 月 2 日消息，据《华尔街日报》当地时间 9 月 1 日报道，谷歌即将发布一款编程能力大幅升级的新模型 Gemini 3.8 Flash，内部代号为“Skimaki”。该模型最早可能于当地时间周三上线。 在谷歌内部编程工具 Jetski 的对比测试中，工程师对 Gemini 3.8 Flash 的偏好程度超过了 Anthropic 的 Opus 模型。内部测试结果显示，Gemini 3.8 Flash 在编程方面显著缩小了",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -555,69 +599,133 @@
         "AI"
       ],
       "trust": 58,
-      "opportunity": 67,
-      "priority": 70
+      "opportunity": 65,
+      "priority": 67
     },
     {
-      "id": "66443930e452",
-      "title": "安全公司曝光黑客组织 Aurora 内部信息：利用 Cursor AI 制定攻击计划、使用 Zig 语言开发勒索软件",
+      "id": "c48eed8c8555",
+      "title": "网信办通报“清朗 · 整治 AI 应用乱象”典型案例：涉 AI 魔改经典、换脸假冒等，豆包、元宝、千问、文心一言严格限制违规内容输出",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/155.htm",
-      "publishedAt": "2026-09-01T13:14:16.000Z",
-      "summary": "安全公司CloudSEK披露黑客组织Aurora利用AI编程助手Cursor规划攻击，使用Zig语言开发勒索软件，并因服务器配置错误被研究人员渗透获取内部信息。",
+      "link": "https://www.ithome.com/0/997/363.htm",
+      "publishedAt": "2026-09-02T04:05:06.000Z",
+      "summary": "中央网信办通报“清朗·整治AI应用乱象”第二阶段成果，清理违规信息561万余条，查处账号4.9万余个，处置违规网站应用2400余个，豆包、元宝、千问、文心一言等严格限制违规内容。",
       "actionSteps": [
-        "评估企业AI工具使用政策，防止滥用",
-        "加强服务器安全配置，避免配置错误",
-        "关注勒索软件新趋势，更新防御策略"
+        "关注网信办官方通报原文",
+        "AI应用开发者自查合规性",
+        "用户避免使用违规AI工具"
       ],
       "tags": [
-        "AI安全",
-        "勒索软件",
-        "黑客组织"
+        "AI监管",
+        "清朗行动",
+        "合规"
       ],
       "trust": 3,
-      "opportunity": 2,
+      "opportunity": 1,
       "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T13:31:01.749Z",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "显示AI工具可能被恶意利用，企业需加强AI使用监控与安全防护；勒索软件技术演进可能增加防御难度。",
-        "riskNotes": "报告来源为单一安全公司，未获独立验证；具体攻击细节和影响范围需进一步核实。"
+        "whyItMatters": "AI应用监管加强，企业需合规运营，用户需注意内容合法性，违规行为将受打击。",
+        "riskNotes": "信息来自IT之家，官方通报原文需在网信办官网核实，具体案例细节未完全披露。"
       }
     },
     {
-      "id": "507d9d771647",
-      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-      "publishedAt": "2026-09-01T12:53:51.000Z",
-      "summary": "电子前沿基金会（EFF）呼吁法院不要因AI炒作而改写版权法，强调现有法律框架应适应AI发展，避免过度限制。",
+      "id": "62982407c547",
+      "title": "智谱 AI 入驻天猫开设官方旗舰店，大模型套餐可直接网购，个人版月付 118 元起",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/997/340.htm",
+      "publishedAt": "2026-09-02T03:57:30.000Z",
+      "summary": "智谱AI入驻天猫开设官方旗舰店，销售GLM Coding Plan订阅套餐，个人版月付118元起，支持ZCode、Claude Code等20余款Agent。",
       "actionSteps": [
-        "关注AI版权相关法律案例",
-        "评估自身AI产品版权风险",
-        "参与公共政策讨论或咨询法律专家"
+        "访问天猫智谱旗舰店查看具体套餐和价格",
+        "对比其他AI编程工具的性价比",
+        "考虑试用个人版Lite套餐评估效果"
       ],
       "tags": [
-        "AI版权",
-        "法律",
-        "EFF"
+        "智谱AI",
+        "大模型",
+        "订阅服务",
+        "电商"
       ],
-      "trust": 4,
-      "opportunity": 2,
+      "trust": 3,
+      "opportunity": 4,
       "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T13:31:01.749Z",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "版权法调整将影响AI训练数据使用、内容生成合法性，对AI企业和创作者均有重大影响。",
-        "riskNotes": "EFF立场不代表法律裁决，实际司法走向不确定。"
+        "whyItMatters": "大模型订阅服务进入电商渠道，降低购买门槛，可能推动AI工具普及，对开发者和企业有实际影响。",
+        "riskNotes": "信息来自IT之家，未核实官方公告，价格和套餐细节需确认。"
+      }
+    },
+    {
+      "id": "9d99e54f6d69",
+      "title": "阿里千问 Qwen3.8-Max-0902 版本模型发布，拿下前端编程总榜冠军",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/997/270.htm",
+      "publishedAt": "2026-09-02T03:11:18.000Z",
+      "summary": "阿里千问发布Qwen3.8-Max 0902版本，在CodeArena前端编程总榜夺冠，得分1691，提升22分，强化编程和办公能力。",
+      "actionSteps": [
+        "访问CodeArena查看榜单详情",
+        "测试Qwen3.8-Max的编程能力",
+        "关注后续更新和实际应用案例"
+      ],
+      "tags": [
+        "阿里千问",
+        "大模型",
+        "编程",
+        "CodeArena"
+      ],
+      "trust": 3,
+      "opportunity": 4,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "国产大模型在编程领域取得领先，可能影响开发者工具选择，对AI编程市场有冲击。",
+        "riskNotes": "信息来自IT之家，未核实官方数据，榜单权威性需确认。"
+      }
+    },
+    {
+      "id": "60ba7f98b3e8",
+      "title": "The efficient frontier of LLM inference",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "publishedAt": "2026-09-01T23:48:05.000Z",
+      "summary": "Hacker News 文章《LLM推理的高效前沿》，讨论大语言模型推理效率的优化，有68个点赞和13条评论。",
+      "actionSteps": [
+        "阅读原文学习推理优化技术",
+        "评估这些技术对自身项目的适用性",
+        "关注评论区讨论获取实践案例"
+      ],
+      "tags": [
+        "LLM",
+        "推理效率",
+        "技术优化"
+      ],
+      "trust": 2,
+      "opportunity": 4,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "LLM推理效率直接影响AI应用成本和速度，对企业和开发者有实际意义。",
+        "riskNotes": "仅基于标题和摘要，未阅读原文，技术细节需进一步了解。"
       }
     },
     {
@@ -807,23 +915,55 @@
       }
     },
     {
-      "id": "631638b71eb1",
-      "title": "中科曙光预热全球首款 64 线程移动工作站：16GB 显存、16.9mm 厚度",
+      "id": "d9dde23a924a",
+      "title": "小米米家夜灯 4 发布：8 个月长续航，单只 59 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/997/388.htm",
+      "publishedAt": "2026-09-02T04:32:58.000Z",
+      "summary": "小米米家夜灯4发布，升级24GHz雷达，120°广角，3米内识别人体动作，众筹价59元，9月9日开启众筹。",
+      "actionSteps": [
+        "关注9月9日众筹活动，评估购买需求",
+        "对比同类夜灯产品的性能和价格",
+        "查看用户评测了解实际效果"
+      ],
+      "tags": [
+        "小米",
+        "智能家居",
+        "夜灯",
+        "众筹"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "智能家居产品价格亲民，功能升级，可能提升用户体验，对智能家居市场有影响。",
+        "riskNotes": "信息来自IT之家，众筹价格和功能需以官方为准。"
+      }
+    },
+    {
+      "id": "f4f55f13aef1",
+      "title": "谷歌 AI 图片设计工具 Pics 上线，Docs / Slides 办公套件可直接调用修图",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/153.htm",
-      "publishedAt": "2026-09-01T12:59:35.000Z",
-      "summary": "中科曙光预热全球首款64线程移动工作站，厚度16.9mm，配备16GB显存，本地运行35B MoE模型速度达50 Tokens/s，AI推理速度号称业界主流3-5倍。",
+      "link": "https://www.ithome.com/0/997/263.htm",
+      "publishedAt": "2026-09-02T02:53:44.000Z",
+      "summary": "谷歌正式上线AI图像设计工具Google Pics，支持网页版及Docs/Slides内直接调用，用于制作邀请函、海报等视觉内容。",
       "actionSteps": [
-        "关注产品发布详情与评测",
-        "评估自身工作负载是否受益",
-        "比较同类产品性能与价格"
+        "访问pics.new体验网页版",
+        "在Google Docs/Slides中尝试调用该工具",
+        "关注谷歌官方公告确认功能细节"
       ],
       "tags": [
-        "移动工作站",
-        "AI硬件",
-        "中科曙光"
+        "谷歌",
+        "AI设计",
+        "办公效率"
       ],
       "trust": 2,
       "opportunity": 3,
@@ -831,74 +971,104 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T13:31:01.749Z",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "高性能移动工作站可提升本地AI处理能力，对专业人士和AI开发者有吸引力。",
-        "riskNotes": "性能数据为厂商预热宣传，需实测验证；具体价格和上市时间未公布。"
+        "whyItMatters": "普通用户可免费或低成本制作专业视觉内容，企业可提升办公效率，设计门槛降低。",
+        "riskNotes": "信息来自IT之家，非官方一手来源，具体功能、可用地区及收费模式需在谷歌官方页面核实。"
       }
     },
     {
-      "id": "62ca92953bd8",
-      "title": "豆包、清华大学一起“开课”，《AI 赋能学术研究：人机互动的知识生产》课程开放报名",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/148.htm",
-      "publishedAt": "2026-09-01T12:48:23.000Z",
-      "summary": "清华大学与豆包合作开设AI赋能学术研究课程，面向全校学生，覆盖研究全流程。",
+      "id": "6f443a0a8f07",
+      "title": "True Rate of Unemployment",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.lisep.org/tru",
+      "publishedAt": "2026-09-02T02:21:10.000Z",
+      "summary": "Hacker News 讨论文章《真实失业率》，链接至 lisep.org，关注失业率统计的真实性，有53个点赞和6条评论。",
       "actionSteps": [
-        "清华学生关注报名方式",
-        "非清华学生可寻找类似公开课",
-        "学习AI辅助研究的基本方法"
+        "点击链接阅读原文，评估数据来源和统计方法",
+        "对比官方失业率数据，分析差异原因",
+        "关注评论区的观点，获取多元视角"
       ],
       "tags": [
-        "AI",
-        "教育",
-        "清华",
-        "学术"
+        "失业率",
+        "经济数据",
+        "统计口径"
       ],
-      "trust": 4,
+      "trust": 2,
       "opportunity": 3,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T13:31:01.749Z",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "AI工具在学术中的应用日益重要，课程提供系统学习机会。",
-        "riskNotes": "仅面向清华学生，非公开课程，具体内容需进一步了解。"
+        "whyItMatters": "失业率数据影响公众对经济形势的判断和投资决策，若统计口径有偏差，可能导致对就业市场的误读。",
+        "riskNotes": "仅基于标题和摘要，未核实文章内容及数据来源，需谨慎对待。"
       }
     },
     {
-      "id": "863f41b4805d",
-      "title": "美国 AI 数据中心现大量“幽灵用电需求”，多州出手整治",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/147.htm",
-      "publishedAt": "2026-09-01T12:40:19.000Z",
-      "summary": "美国数据中心申请大量用电但部分为虚假需求，多州开始整治，得州暂停新接入。",
+      "id": "8364b8112f99",
+      "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/114093",
+      "publishedAt": "2026-09-01T23:58:40.000Z",
+      "summary": "少数派早报：英伟达发布DLSS 5，戴森推出智能电动牙刷CameraJet，索尼发布ULT Tower派对音箱，Starman Optical收购GoPro等。",
       "actionSteps": [
-        "关注相关州政策动态",
-        "评估对AI产业影响",
-        "关注电力市场变化"
+        "查看原文获取产品详细参数和价格",
+        "关注英伟达DLSS 5对游戏显卡市场的影响",
+        "评估戴森智能牙刷的差异化竞争力"
       ],
       "tags": [
-        "AI",
-        "数据中心",
-        "电力",
-        "监管"
+        "科技新品",
+        "英伟达",
+        "戴森",
+        "收购"
       ],
       "trust": 3,
-      "opportunity": 2,
+      "opportunity": 3,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T13:31:01.749Z",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "影响AI数据中心建设，可能推高电价或导致电力短缺。",
-        "riskNotes": "报道基于路透社，但具体数据需核实，政策变化需跟踪。"
+        "whyItMatters": "科技新品和收购动态反映行业趋势，影响消费者选择和投资方向。",
+        "riskNotes": "摘要信息简略，未提供具体细节，需进一步查证。"
+      }
+    },
+    {
+      "id": "03e31a33b4c3",
+      "title": "Making the AI-powered case for legacy modernization",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "publishedAt": "2026-09-01T14:00:00.000Z",
+      "summary": "文章讨论利用AI推动遗留系统现代化，解决成本、复杂性和风险问题。",
+      "actionSteps": [
+        "阅读全文了解AI在遗留系统现代化中的应用",
+        "评估自身企业系统是否适合AI辅助升级",
+        "关注相关技术趋势和案例"
+      ],
+      "tags": [
+        "AI",
+        "遗留系统",
+        "现代化"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "企业可借助AI降低系统升级成本，提升竞争力，IT从业者需关注技能转型。",
+        "riskNotes": "来源为MIT科技评论，非官方数据，具体案例和效果需进一步验证。"
       }
     },
     {
@@ -993,69 +1163,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "官翻产品价格更低，适合学生和毕业生节省开支。",
         "riskNotes": "具体渠道和价格未列出，需查看原文确认。"
-      }
-    },
-    {
-      "id": "9365ceb51a81",
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "publishedAt": "2026-08-28T09:00:00.000Z",
-      "summary": "MIT技术评论介绍如何注册虚拟电厂，并帮助读者判断是否应该参与，涉及恒温器、电动汽车、家用电池等设备。",
-      "actionSteps": [
-        "了解本地虚拟电厂项目及参与条件",
-        "评估自家设备是否兼容并计算潜在收益",
-        "咨询能源公司或专业人士，确认合同细节"
-      ],
-      "tags": [
-        "虚拟电厂",
-        "能源",
-        "家庭用电",
-        "政策"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-28T11:25:29.824Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对普通家庭，参与虚拟电厂可能带来电费优惠或补贴，但也需考虑设备兼容性和隐私风险。",
-        "riskNotes": "文章为科普性质，具体政策因地区而异，需核实当地能源公司条款。"
-      }
-    },
-    {
-      "id": "f46d1240a12b",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "publishedAt": "2026-08-27T19:48:13.000Z",
-      "summary": "初创公司Generation Lab声称开发出能使血液年轻的注射药物，并邀请作者体验，但文章未提供具体科学证据。",
-      "actionSteps": [
-        "查阅该公司的官方研究资料",
-        "咨询医学专家意见",
-        "警惕未经证实的抗衰老疗法"
-      ],
-      "tags": [
-        "抗衰老",
-        "生物科技",
-        "风险"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-27T22:17:12.962Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "若属实，可能影响抗衰老领域，但需警惕夸大宣传和未经验证的治疗方法，普通人应谨慎对待。",
-        "riskNotes": "来源为MIT科技评论，但内容为宣传性质，缺乏临床试验数据，需独立验证。"
       }
     },
     {
@@ -1277,99 +1384,96 @@
       }
     },
     {
-      "id": "bcdcade2cfb3",
-      "title": "vivo TWS 5 Pro 耳机 Wi-Fi 无损传输功能现已支持 X300 Ultra、iQOO 15 等手机",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/997/160.htm",
-      "publishedAt": "2026-09-01T13:28:06.000Z",
-      "summary": "vivo TWS 5 Pro耳机Wi-Fi无损传输功能扩展支持多款手机，提升音质体验。",
+      "id": "4cce6faaea2a",
+      "title": "WebFPGA",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://webfpga.io/",
+      "publishedAt": "2026-09-02T03:54:58.000Z",
+      "summary": "WebFPGA是一个在浏览器中运行FPGA的项目，在Hacker News上获得关注，有13个点赞和3条评论。",
       "actionSteps": [
-        "确认手机型号是否支持",
-        "更新耳机和手机固件",
-        "体验无损音质效果"
+        "访问webfpga.io了解项目详情",
+        "查看Hacker News评论获取社区反馈",
+        "评估是否适合个人学习或教学使用"
       ],
       "tags": [
-        "vivo",
-        "耳机",
-        "无损",
-        "Wi-Fi"
+        "FPGA",
+        "浏览器",
+        "硬件设计"
       ],
-      "trust": 4,
+      "trust": 1,
+      "opportunity": 3,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "可能降低FPGA学习门槛，让更多人接触硬件设计，对教育、创客领域有潜在价值。",
+        "riskNotes": "信息仅来自Hacker News标题，项目细节、成熟度及可用性未验证。"
+      }
+    },
+    {
+      "id": "58622b11b759",
+      "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113581",
+      "publishedAt": "2026-09-02T03:00:00.000Z",
+      "summary": "少数派发起Sonos Play便携智能音响众测招募，强调智能音响从固定设备变为移动声音系统的趋势。",
+      "actionSteps": [
+        "查看少数派众测招募详情",
+        "如有兴趣，按规则申请参与",
+        "关注Sonos官方产品信息"
+      ],
+      "tags": [
+        "智能音响",
+        "众测",
+        "音乐"
+      ],
+      "trust": 2,
       "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T13:31:01.749Z",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对vivo用户是利好，无损音质提升听感，但需特定手机支持。",
-        "riskNotes": "功能支持范围有限，非所有手机可用，需确认设备兼容性。"
+        "whyItMatters": "对音乐爱好者是体验新产品的机会，也反映智能家居便携化趋势。",
+        "riskNotes": "众测信息来自少数派，具体招募条件、产品规格需以官方为准。"
       }
     },
     {
-      "id": "b32ca162cf30",
-      "title": "Tim Cook Sold Out Steve Jobs",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/",
-      "publishedAt": "2026-09-01T12:12:30.000Z",
-      "summary": "文章批评蒂姆·库克背离乔布斯理念，引发热议。观点主观，需结合多方信息判断。",
+      "id": "3db7c00379ad",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "publishedAt": "2026-09-01T19:10:36.000Z",
+      "summary": "非营利组织Fermi Explorer Mission宣布计划在2029年底前发射航天器前往最近的恒星系统，AI在其中规划星际旅程。",
       "actionSteps": [
-        "阅读原文了解具体论点",
-        "对比苹果近年产品策略",
-        "关注官方回应或可靠报道"
+        "关注Fermi Explorer Mission官方发布",
+        "阅读MIT科技评论全文了解AI具体作用",
+        "评估相关技术对自身行业的潜在影响"
       ],
       "tags": [
-        "苹果",
-        "库克",
-        "乔布斯",
-        "争议"
+        "AI",
+        "航天",
+        "星际旅行"
       ],
       "trust": 2,
-      "opportunity": 1,
+      "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T13:31:01.749Z",
+        "analyzedAt": "2026-09-02T04:36:56.550Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "苹果产品策略变化影响消费者选择，但文章观点需谨慎对待。",
-        "riskNotes": "来源为个人博客，非官方一手信息，观点可能偏颇。"
-      }
-    },
-    {
-      "id": "cb2a71b21583",
-      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
-      "publishedAt": "2026-09-01T10:11:02.000Z",
-      "summary": "AnkiDroid因Google Play政策无法使用Open Collective捐赠链接，引发开源社区讨论。",
-      "actionSteps": [
-        "查看GitHub issue了解详情",
-        "关注AnkiDroid官方公告",
-        "考虑通过其他方式支持项目"
-      ],
-      "tags": [
-        "开源",
-        "捐赠",
-        "Google Play",
-        "AnkiDroid"
-      ],
-      "trust": 3,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T13:31:01.749Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "影响开源项目捐赠渠道，可能影响项目发展。",
-        "riskNotes": "具体政策细节未明，需查看GitHub issue。"
+        "whyItMatters": "展示AI在极端复杂任务中的应用潜力，可能推动航天技术发展，但普通公众短期影响有限。",
+        "riskNotes": "来源为MIT科技评论，非官方一手信息，任务可行性、资金及技术细节未验证。"
       }
     },
     {
@@ -1404,37 +1508,6 @@
       }
     },
     {
-      "id": "9873a12fbbcf",
-      "title": "Restroom Archive",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://restroomarchive.com",
-      "publishedAt": "2026-09-01T03:23:48.000Z",
-      "summary": "Restroom Archive网站出现在Hacker News，可能是一个有趣的项目或资源。",
-      "actionSteps": [
-        "访问网站了解内容",
-        "评估其价值",
-        "分享给感兴趣的人"
-      ],
-      "tags": [
-        "网站",
-        "资源",
-        "探索"
-      ],
-      "trust": 1,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T05:11:23.336Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "可能提供独特信息或服务，值得探索。",
-        "riskNotes": "内容未知，需访问网站验证。"
-      }
-    },
-    {
       "id": "f9cdc4fc2b0e",
       "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
       "category": "knowledge",
@@ -1464,38 +1537,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "展示高管个人关系如何影响企业合作，对商业策略和职业网络建设有启示。",
         "riskNotes": "内容来自少数派，可能包含主观解读，需交叉验证事实。"
-      }
-    },
-    {
-      "id": "810b752f868b",
-      "title": "Fastpotify",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://fastpotify.rocks/",
-      "publishedAt": "2026-09-01T02:52:14.000Z",
-      "summary": "Fastpotify是一个新工具，可能提供Spotify相关功能，但具体用途和效果不明。",
-      "actionSteps": [
-        "访问网站了解具体功能",
-        "查看用户评论和评分",
-        "测试其安全性和实用性"
-      ],
-      "tags": [
-        "Spotify",
-        "工具",
-        "音乐",
-        "新服务"
-      ],
-      "trust": 1,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T05:11:23.336Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "若为音乐流媒体增强工具，可能提升用户体验，对音乐爱好者有吸引力。",
-        "riskNotes": "来源为Hacker News，链接未验证，功能描述缺失，需谨慎评估。"
       }
     },
     {
@@ -1589,68 +1630,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "提供实用生活技能，适合家庭制作，提升生活质量。",
         "riskNotes": "配方未验证，需自行尝试。"
-      }
-    },
-    {
-      "id": "9162c3dcbc71",
-      "title": "屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/114027",
-      "publishedAt": "2026-08-31T06:57:03.000Z",
-      "summary": "明基十年探索屏幕与桌面照明，强调光在提升视觉体验和健康方面的作用。",
-      "actionSteps": [
-        "了解明基照明产品线",
-        "对比其他品牌照明方案",
-        "根据自身需求评估购买价值"
-      ],
-      "tags": [
-        "明基",
-        "照明",
-        "屏幕",
-        "健康"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-01T05:11:23.336Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对办公和家庭用户，照明设计影响眼睛健康和生产力，明基产品可能提供解决方案。",
-        "riskNotes": "内容来自少数派，可能为品牌宣传，需独立验证产品效果。"
-      }
-    },
-    {
-      "id": "2080192d8093",
-      "title": "全球仅剩三位数的物种，科学家却连一个准数都数不出来",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113827",
-      "publishedAt": "2026-08-31T02:53:32.000Z",
-      "summary": "勺嘴鹬全球仅剩三位数，科学家难以准确计数，反映濒危物种保护困境。",
-      "actionSteps": [
-        "关注权威保护组织报告",
-        "参与或支持保护项目",
-        "传播保护意识"
-      ],
-      "tags": [
-        "环保",
-        "濒危物种"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-08-31T05:37:55.187Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "唤起公众对生物多样性保护的关注，可能影响环保政策和公益行动。",
-        "riskNotes": "来源为少数派，具体数据未提供官方出处，需核实。"
       }
     },
     {
