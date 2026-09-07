@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:44:08.459Z",
+  "generatedAt": "2026-09-07T14:16:02.866Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 26
+    "reused": 24
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,14 +194,35 @@
       "priority": 89
     },
     {
-      "id": "8bb7f24fe47b",
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "id": "ae7c39039ddb",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://github.com/Staatsgeheim/MathKernel",
-      "publishedAt": "2026-09-07T00:21:01.000Z",
-      "summary": "Article URL: https://github.com/Staatsgeheim/MathKernel Comments URL: https://news.ycombinator.com/item?id=49592366 Points: 20 # Comments: 5",
+      "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "publishedAt": "2026-09-07T11:46:37.000Z",
+      "summary": "Article URL: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532 Comments URL: https://news.ycombinator.com/item?id=49597189 Points: 111",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "5788240768d4",
+      "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://news.ycombinator.com/item?id=49596976",
+      "publishedAt": "2026-09-07T11:22:40.000Z",
+      "summary": "They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this wi",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -213,14 +234,14 @@
       "priority": 79
     },
     {
-      "id": "b8daa0a9e9fb",
-      "title": "Making a Python interpreter in 1024 bytes",
+      "id": "3658c9b18d2a",
+      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://austinhenley.com/blog/python1024.html",
-      "publishedAt": "2026-09-06T23:14:08.000Z",
-      "summary": "Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 142 # Comments: 56",
+      "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+      "publishedAt": "2026-09-07T11:01:06.000Z",
+      "summary": "Article URL: https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/ Comments URL: https://news.ycombinator.com/item?id=49596797 Points: 42 # Comme",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -232,14 +253,14 @@
       "priority": 79
     },
     {
-      "id": "57d24d8512d9",
-      "title": "Signing TLS handshakes inside a TPM",
+      "id": "ee2e8c2d4416",
+      "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://bschaatsbergen.com/posts/go-tpm-tls/",
-      "publishedAt": "2026-09-06T21:05:21.000Z",
-      "summary": "Article URL: https://bschaatsbergen.com/posts/go-tpm-tls/ Comments URL: https://news.ycombinator.com/item?id=49590946 Points: 8 # Comments: 3",
+      "link": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "publishedAt": "2026-09-07T10:41:29.000Z",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/ Comments URL: https://news.ycombinator.com/item?id=49596629 Points: 98 # Comments: 75",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -251,14 +272,56 @@
       "priority": 79
     },
     {
-      "id": "6837118d1bcf",
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "id": "64868ada1cab",
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://github.com/marsbos/mador",
-      "publishedAt": "2026-09-06T20:45:13.000Z",
-      "summary": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 81 # Comments: 22",
+      "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "publishedAt": "2026-09-07T10:38:32.000Z",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 16 # Comments: 5",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "83f4f3c5ed4e",
+      "title": "Impedance Matching (2017)",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.edge.org/response-detail/27238",
+      "publishedAt": "2026-09-07T09:52:26.000Z",
+      "summary": "Article URL: https://www.edge.org/response-detail/27238 Comments URL: https://news.ycombinator.com/item?id=49596274 Points: 44 # Comments: 16",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "b13979a44cfb",
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+      "publishedAt": "2026-09-07T09:33:39.000Z",
+      "summary": "Article URL: https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/ Comments URL: https://news.ycombinator.com/item?id=49596119 Points: 174 # Comments: 114",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -270,71 +333,14 @@
       "priority": 79
     },
     {
-      "id": "da78c093b571",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "publishedAt": "2026-09-06T20:32:38.000Z",
-      "summary": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 184 # Comments: 101",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "babce5dcfe3d",
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://arxiv.org/abs/2505.12540",
-      "publishedAt": "2026-09-06T20:31:20.000Z",
-      "summary": "Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 59 # Comments: 19",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "d240cb834695",
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "publishedAt": "2026-09-06T20:24:00.000Z",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 228 # Comments: 166",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "00dde110945d",
-      "title": "拳头官方确认《英雄联盟》MMO 游戏并未取消，仍在开发",
+      "id": "aa87f0d6a19e",
+      "title": "2025 年国际邀请赛冠军 Team Falcons 宣布退出《Dota 2》领域",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/205.htm",
-      "publishedAt": "2026-09-07T03:57:21.000Z",
-      "summary": "IT之家 9 月 7 日消息，据游戏媒体 IGN 今天昨天报道，拳头游戏（Riot）联合创始人 Mark Merrill 近日确认，《英雄联盟》MMO 游戏项目仍在开发，并未取消。 Mark Merrill 表示，拳头内部有时候开玩笑地将该作称为“圣杯”，视为自身前进动力。“这就是我们真正努力培养的心态，而且要在如此大的规模下做到这点非常难。”他继续说道，“但我认为我们做得还不错，未来无比光明。” 拳头最近宣布，由于玩家数量不足，《英雄",
+      "link": "https://www.ithome.com/0/999/479.htm",
+      "publishedAt": "2026-09-07T13:56:06.000Z",
+      "summary": "IT之家 9 月 7 日消息，沙特阿拉伯电子竞技组织 Team Falcons 当地时间本月 6 日宣布退出《Dota 2》领域 。Team Falcons《Dota 2》战队曾在去年赢得国际邀请赛冠军，今年则收获国际邀请赛第 7~8 名。 Team Falcons 表示，此举是因为其“全球战略重心正转向拓展那些能为组织带来更强战略契合度及长期运营可持续性的生态系统”。 完整公告译文如下： 在 Team Falcons，我们的目标是在全",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -346,14 +352,14 @@
       "priority": 70
     },
     {
-      "id": "75acaa10b63c",
-      "title": "鸿蒙智行智界 R7 焕新款实车外观曝光：新增侧向高位摄像头、换用半隐藏式门把手等",
+      "id": "803efde5e582",
+      "title": "广汽集团：2026 年 1‑8 月累计销量突破 100 万辆，自主品牌同比增长 31.44%",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/203.htm",
-      "publishedAt": "2026-09-07T03:51:09.000Z",
-      "summary": "IT之家 9 月 7 日消息，博主 @未来的学习笔记 今日曝光了鸿蒙智行智界 R7 焕新款的「钛空银」实车外观。 据介绍， 鸿蒙智行智界 R7 焕新款外观不同的地方主要是在尾箱和侧向高位摄像头 ，特点是外观更运动。博主表示，内饰更家用，找对方向了。博主分享的图片显示， 新车还换用了半隐藏式门把手 。 据IT之家此前报道，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东 9 月 4 日宣布， 全新智界 R7 本月开启预订 。",
+      "link": "https://www.ithome.com/0/999/477.htm",
+      "publishedAt": "2026-09-07T13:47:52.000Z",
+      "summary": "IT之家 9 月 7 日消息，广汽集团今日宣布， 2026 年 1‑8 月累计销量突破 100 万辆 ，达 101.26 万辆。 据介绍，1-8 月， 广汽自主品牌累计销量超 46.15 万辆，同比增长 31.44% ，连续 6 个月保持双位数增长；8 月单月达 61,378 辆，同比增 20.43%，销量占比进一步提升至 48.49%。 8 月，广汽自主品牌出口近 2.7 万辆，同比增长 177%；1-8 月累计出口 17.2 万辆，",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -365,14 +371,52 @@
       "priority": 70
     },
     {
-      "id": "3e4afb88f972",
-      "title": "全球首款 AI 智能体手机：努比亚 NaviX Ultra 开启预约，下周三登场",
+      "id": "51c005c441b4",
+      "title": "小米汽车无忧服务包上新：增程版 2399 元 / 年，增程系统免费保养",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/999/472.htm",
+      "publishedAt": "2026-09-07T13:36:18.000Z",
+      "summary": "IT之家 9 月 7 日消息，小米汽车无忧服务包上新，可选标准版、Pro 版、增程版，IT之家整理如下： 标准版 1299 元 / 年 免费更换受损玻璃：车窗玻璃受损，免费更换 1 块 (不含车顶玻璃 / 天幕)，至高价值 5000 元 免费喷漆服务：2 个标准面，至高价值 2000 元 免费维保取 / 送车服务：取或送，至多 8 次，至高价值 800 元 免费上门补胎：不限次数，7*24 小时服务 (指定城市可享)，单次价值 180 ",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "47ceab149307",
+      "title": "小米澎程 N90 Max 探索版 1:18 合金车模发布，799 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/999/469.htm",
+      "publishedAt": "2026-09-07T13:29:08.000Z",
+      "summary": "IT之家 9 月 7 日消息，小米澎程 N90 Max 探索版 1:18 合金车模今日正式发布，内含合金车模、露营套装摆件， 售价 799 元 ，可在小米汽车 App 商城购买。 在今晚的小米秋季旗舰新品发布会上， 小米澎程 N90 Max 探索版正式发布 ，采用大五座布局，售价 29.99 万元起。 该车的一大特色就是 自带原生电动升降顶 ，还有地暖系统、一键快速成床等，方便移动办公、户外摄影、露营旅行等。IT之家附官方亮点一图汇总如",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "989d0c99224b",
+      "title": "vivo X500 系列手机全球首发蓝图光御 900 传感器，CIPA 7.0 防抖、AI 摄影助手",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/147.htm",
-      "publishedAt": "2026-09-07T02:34:17.000Z",
-      "summary": "IT之家 9 月 7 日消息，努比亚今天宣布，全球首款 AI 智能体手机 NaviX Ultra 现已在京东开启预约， 新品将在下周三（9 月 16 日）登场 。 京东 努比亚 NaviX Ultra 智能体手机 豆包手机二代 未公布 立即预约 据IT之家此前报道，努比亚 NaviX Ultra 由中兴通讯与字节跳动联合研发，搭载豆包手机助手，被称为“豆包手机二代”。 结合晚点 LatePost 爆料 ，该机调整了与阿里、腾讯等各家超级",
+      "link": "https://www.ithome.com/0/999/452.htm",
+      "publishedAt": "2026-09-07T12:16:29.000Z",
+      "summary": "IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中，vivo 官方公布了 X500 系列手机的影像配置。 vivo X500 系列将 首发主摄和潜望长焦 CIPA 7.0 防抖等级 ，全新升级 2 亿长焦画质。 vivo X500 Pro Max 支持了 Ultra 同款 400mm 增距镜 ，搭配 CIPA 7.0 防抖等级、三星 HP0 长焦镜头，更好适配远处风景、演唱会拍摄场景；RAW 域生成式重建技术，端侧模型保",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -386,14 +430,36 @@
       "priority": 70
     },
     {
-      "id": "d3079fa317c9",
-      "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 定档 9 月 16 日发布",
+      "id": "e006d31705de",
+      "title": "一天烧 7000 美元！OpenAI 研究员疯狂用 AI 写代码",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/140.htm",
-      "publishedAt": "2026-09-07T02:18:46.000Z",
-      "summary": "IT之家 9 月 7 日消息，努比亚手机官方今日宣布，全球首款 AI 智能体手机 —— 努比亚 NaviX Ultra 定档 9 月 16 日 14:00 发布 。 据IT之家此前报道，努比亚 NaviX Ultra 由中兴通讯与字节跳动联合研发，搭载豆包手机助手，被称为“豆包手机二代”。 结合晚点 LatePost 爆料 ，该机调整了与阿里、腾讯等各家超级应用的合作方式，将不会在用户授权后读取屏幕，模拟点击、像人一样操作应用（所谓 G",
+      "link": "https://www.ithome.com/0/999/447.htm",
+      "publishedAt": "2026-09-07T11:58:08.000Z",
+      "summary": "IT之家 9 月 7 日消息，OpenAI 首次披露了旗下研究人员在 AI 编程智能体上的使用规模和成本。 这家 AI 公司当地时间上周日发布博客文章称，在 OpenAI 的研究人员中，使用 AI 编程智能体最频繁的一批用户，如今每天消耗的词元（Token）价值已经超过 7,000 美元 （IT之家注：现汇率约合 47,036 元人民币） 。Token 是 AI 模型读取和生成文本时使用的基本单位。 OpenAI 表示，在过去一年中，这",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "自动化"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "b5f9997fb46d",
+      "title": "全球首款 6nm 3D 晶圆级堆叠先进封装，小米玄戒 O100 实现 330TPS 超高端侧推理速度",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/999/436.htm",
+      "publishedAt": "2026-09-07T11:19:36.000Z",
+      "summary": "IT之家 9 月 7 日消息，在今天的小米秋季旗舰新品发布会上，小米创办人、董事长兼 CEO 雷军发布了玄戒 O100 芯片。 据介绍，玄戒 O100 是 1.22TB/s 高带宽 AI 加速芯片， 全球首款 6nm 3D 晶圆级堆叠先进封装 ，辅以先进混合键合工艺，键合间距逼近物理极限。 IT之家从发布会现场了解到，这款芯片拥有 16 倍于传统手机内存带宽， 实现 330TPS 超高端侧推理速度 。",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -407,14 +473,35 @@
       "priority": 70
     },
     {
-      "id": "b1a3f9f27c36",
-      "title": "iRobot 发布子母式清洁机器人 Roomba Duo",
+      "id": "6cb9b5c2305b",
+      "title": "vivo 蓝图影像战略升级，将落地全新 AI 摄影助手",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/131.htm",
-      "publishedAt": "2026-09-07T02:03:23.000Z",
-      "summary": "IT之家 9 月 7 日消息，iRobot 美国当地时间本月 4 日宣布在 IFA 2026 上发布子母式清洁机器人 Roomba Duo。这一产品 由扫拖双功能主机和紧凑式副机构成 ，两部分可实时通信并利用 AI 协调完成清洁任务。 Roomba Duo 主体负责清洁开放式地面，配备直径 60mm 的 PowerSpin Max 滚筒拖把，可提供 46N 下压力；副机 Roomba Plus 575 Combo Robot 高度仅 8",
+      "link": "https://www.ithome.com/0/999/434.htm",
+      "publishedAt": "2026-09-07T11:16:42.000Z",
+      "summary": "IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中， vivo 蓝图影像战略全新升级 ，蓝图影像升级为技术与文化融合的影像品牌。 vivo 官方晒出了影像研发方面的合作伙伴，包括索尼、蔡司、联发科、豪威、三星、骁龙等。 IT之家从活动现场获悉，vivo 表示未来将推动影像与 AI 智能深度融合， 将落地全新升级的 AI 摄影助手 ，不只是场景化应用 AI，而是实现 AI 在影像领域的主动服务。",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "69d57140e27a",
+      "title": "宇树科技：全球首次实现世界模型实时驱动全自主人形机器人格斗",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/999/432.htm",
+      "publishedAt": "2026-09-07T11:14:11.000Z",
+      "summary": "IT之家 9 月 7 日消息，宇树科技今日宣布， 全球首次 实现世界模型实时驱动全自主人形机器人格斗。官方一同公布了全自主人形机器人格斗的 实拍画面 。 官方表示，UnifoLM-X2-1.0 突破世界-动作大模型瞬时规划、决策和动态交互执行等瓶颈，实现高动态、强交互、实时实现对未来预测和规划， 实现人形机器人全自主搏击 。验证了世界模型驱动的人形机器人大规模落地部署的基础可行性。 延伸阅读 在此次“全球首次”之前，宇树科技人形机器人已",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -429,42 +516,22 @@
       "priority": 70
     },
     {
-      "id": "f42958d10750",
-      "title": "鸿蒙智行“新锐智慧 SUV”问界 M6 上市累计交付突破 5 万台，售价 22.98 万元起",
+      "id": "9e276ed25890",
+      "title": "京东 JoyAI App 推出首个能实时视频购物的 AI 数字人",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/094.htm",
-      "publishedAt": "2026-09-07T01:43:15.000Z",
-      "summary": "IT之家 9 月 7 日消息，AITO 汽车官方微博今日宣布， 鸿蒙智行“新锐智慧 SUV”问界 M6 上市累计交付突破 5 万台 ，售价 22.98 万元起。 据IT之家此前报道，在今日的享界 G9 及鸿蒙智行新品发布会上，问界 M6 发布了两个增程新版本，售价 23.98 万元起。 Max 四驱版：23.98 万元 Max+ 长续航版：25.98 万元 鸿蒙智行问界 M6 发布于今年 4 月 22 日，定位“新锐智慧 SUV”，标配",
+      "link": "https://www.ithome.com/0/999/415.htm",
+      "publishedAt": "2026-09-07T10:46:50.000Z",
+      "summary": "IT之家 9 月 7 日消息，京东 JoyAI App 推出首个能实时视频购物的 AI 数字人，可实现“看见就能买，开口就下单”。用户上传一张图片，即可自定义数字人的形象、人设、音色、交互场景，生成专属 AI 数字人。 IT之家附官方详细介绍如下： 视频通话里， “万能博士”陪你边逛边买 市面上多数 AI 购物仍停留在“识图后跳转页面”或“对话推送商品链接”的模式，用户需要在多个 App 之间来回切换。JoyAI 依托“万能博士”数字人",
       "actionSteps": [
         "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
+        "先做 15 秒分镜，分别验证画面、口播和字幕",
         "记录成本、耗时和可复用模板"
       ],
       "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "16e094cded3c",
-      "title": "美国一比特币矿场泄漏 1136 万升水致学校、政府停课停业，2023 年就被叫停却运营至今",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/089.htm",
-      "publishedAt": "2026-09-07T01:27:33.000Z",
-      "summary": "IT之家 9 月 7 日消息，据科技媒体 Tom's Hardware 昨天报道，美国俄克拉荷马州埃尔里诺一比特币挖矿数据中心（俗称矿场）上周发生漏水事故，导致市内多所学校、企业和市政府办公时被迫停止营业。 据报道，该数据中心由 Athlon Blockchain LLC 持有， 事发后泄漏 300 万加仑（IT之家注：约 1136 万升）水 。埃尔里诺此前已发现该数据中心存在多项消防违规问题，此前签发的建筑许可证和电气许可证早已过期，",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
+        "AI",
+        "视频"
       ],
       "trust": 58,
       "opportunity": 67,
@@ -491,6 +558,37 @@
       "trust": 58,
       "opportunity": 67,
       "priority": 70
+    },
+    {
+      "id": "65a47b519e92",
+      "title": "消息称三星进入人形机器人赛道，计划在明年 CES 2027 首秀",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/999/466.htm",
+      "publishedAt": "2026-09-07T13:21:04.000Z",
+      "summary": "三星电子加快人形机器人研发，计划在2027年CES展示原型机，商业化进程或提前。",
+      "actionSteps": [
+        "关注三星官方公告",
+        "评估人形机器人对行业影响",
+        "探索相关技术应用场景"
+      ],
+      "tags": [
+        "人形机器人",
+        "三星",
+        "AI"
+      ],
+      "trust": 2,
+      "opportunity": 4,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-07T14:16:02.865Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "人形机器人商业化将影响制造业、服务业就业结构，企业需关注技术替代风险与投资机会。",
+        "riskNotes": "消息来自韩媒，未经官方证实，原型机展示不等于量产。"
+      }
     },
     {
       "id": "a82843d5ebf1",
@@ -679,55 +777,148 @@
       }
     },
     {
-      "id": "40cd9e36fc0e",
-      "title": "任天堂回应 Switch 2 游戏机大规模 Ban 机事件：系统临时故障",
+      "id": "e05cf7107ee9",
+      "title": "小米汽车推出智能生态套装：含智能表盘 2、智能车载便携充放电枪等，首销 2499 元",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/210.htm",
-      "publishedAt": "2026-09-07T04:22:13.000Z",
-      "summary": "任天堂Switch 2遭遇大规模Ban机，官方回应称是系统临时故障，并非针对玩家。",
+      "link": "https://www.ithome.com/0/999/480.htm",
+      "publishedAt": "2026-09-07T13:57:25.000Z",
+      "summary": "小米汽车推出智能生态套装，含智能表盘等配件，首销价2499元，适配全系车型。",
       "actionSteps": [
-        "关注任天堂官方公告确认故障修复情况",
-        "若受影响，联系任天堂客服寻求帮助",
-        "保持系统更新以获取修复"
+        "查看官方商城详情",
+        "对比第三方配件性价比",
+        "按需购买避免冲动消费"
       ],
       "tags": [
-        "任天堂",
-        "Switch 2",
-        "系统故障",
-        "游戏"
+        "小米汽车",
+        "智能配件",
+        "生态链"
       ],
-      "trust": 2,
-      "opportunity": 0,
+      "trust": 3,
+      "opportunity": 2,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
+        "analyzedAt": "2026-09-07T14:16:02.865Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "影响Switch 2玩家体验，可能引发对任天堂系统稳定性的担忧，但官方已澄清。",
-        "riskNotes": "来源为IT之家，非官方一手发布；官方回应细节需核实。"
+        "whyItMatters": "对小米车主提供增值配件选择，反映车企生态链竞争，消费者可关注性价比。",
+        "riskNotes": "价格与配置来自新闻，具体以官方为准。"
       }
     },
     {
-      "id": "f4812d55b526",
-      "title": "Omdia：预计 2026 下半年中国面板厂商将占全球汽车显示屏出货量的 65%",
-      "category": "industry",
+      "id": "a252d2412f36",
+      "title": "消息称字节正开发实时空间视频生成 AI 模型：张一鸣亲自督导，最快下个月发布",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/209.htm",
-      "publishedAt": "2026-09-07T04:12:53.000Z",
-      "summary": "Omdia预测2026下半年中国面板厂商占全球车载显示屏出货量65.2%，份额持续增长。",
+      "link": "https://www.ithome.com/0/999/478.htm",
+      "publishedAt": "2026-09-07T13:51:53.000Z",
+      "summary": "字节跳动正开发实时空间视频生成AI模型，张一鸣亲自督导，最快下月发布。基于Seedance构建，面向直播等场景。",
       "actionSteps": [
-        "查阅Omdia完整报告",
-        "关注车载显示产业链相关公司",
-        "评估对汽车行业的影响"
+        "关注字节官方发布动态",
+        "评估现有视频工具替代风险",
+        "探索实时视频生成在业务中的应用"
       ],
       "tags": [
-        "车载显示",
-        "面板",
-        "市场份额"
+        "字节跳动",
+        "AI视频",
+        "实时生成",
+        "张一鸣"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-07T14:16:02.865Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "若发布，将推动视频生成技术实时化，影响直播、短视频等内容生产行业，可能改变创作者工具和用户体验。",
+        "riskNotes": "消息来自彭博社，非官方确认，发布时间可能变动。技术细节和实际效果未知。"
+      }
+    },
+    {
+      "id": "20b0fa2328fe",
+      "title": "vivo 最强影像旗舰 X500 系列手机官宣 9 月 21 日发布",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/999/462.htm",
+      "publishedAt": "2026-09-07T13:05:50.000Z",
+      "summary": "vivo宣布X500系列手机将于9月21日发布，主打影像升级，首发蓝图光御900传感器。",
+      "actionSteps": [
+        "关注发布会直播",
+        "对比竞品影像能力",
+        "根据需求决定是否购买"
+      ],
+      "tags": [
+        "vivo",
+        "手机",
+        "影像"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-07T14:16:02.865Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "手机影像技术迭代影响消费者选择，摄影爱好者可关注新机性能。",
+        "riskNotes": "参数来自新闻，实际体验需评测。"
+      }
+    },
+    {
+      "id": "cd7a736bd89e",
+      "title": "De-Brainrot Vacations",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "publishedAt": "2026-09-07T13:00:48.000Z",
+      "summary": "一位开发者分享如何利用假期进行“去脑腐化”，通过深度阅读、减少碎片信息来恢复专注力，引发热议。",
+      "actionSteps": [
+        "阅读原文了解具体做法",
+        "评估自身信息消费习惯",
+        "尝试规划一次数字排毒假期"
+      ],
+      "tags": [
+        "数字健康",
+        "专注力",
+        "生活方式"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-07T14:16:02.865Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "在信息过载时代，普通人可通过类似方法提升专注力与生活质量，企业可借鉴其理念设计员工福利或培训。",
+        "riskNotes": "仅基于标题和摘要，具体方法未验证，效果因人而异。"
+      }
+    },
+    {
+      "id": "d8a34bc7cc4f",
+      "title": "Splash-free urinals for global sustainability and accessibility",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+      "publishedAt": "2026-09-07T12:58:57.000Z",
+      "summary": "学术研究提出无溅水小便池设计，旨在提升卫生与可持续性，引发讨论。",
+      "actionSteps": [
+        "阅读研究摘要",
+        "评估现有设施改进空间",
+        "关注相关产品商业化"
+      ],
+      "tags": [
+        "卫生设施",
+        "可持续",
+        "创新"
       ],
       "trust": 3,
       "opportunity": 3,
@@ -735,104 +926,10 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
+        "analyzedAt": "2026-09-07T14:16:02.866Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "中国面板厂商主导车载显示市场，可能影响汽车供应链和消费者选择，相关企业或受益。",
-        "riskNotes": "数据来自Omdia报告，但报告细节未提供，预测可能变化。"
-      }
-    },
-    {
-      "id": "d2f745a201b7",
-      "title": "曝 iQOO 16 手机本月登场：综合堆料规格 Pro Max 级，首进 9 月旗舰大乱斗",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/208.htm",
-      "publishedAt": "2026-09-07T04:07:57.000Z",
-      "summary": "博主爆料iQOO 16将于9月登场，配置Pro Max级，包括骁龙8EE6、2K+165Hz屏等。",
-      "actionSteps": [
-        "关注iQOO官方公告",
-        "核实配置信息",
-        "评估与竞品对比"
-      ],
-      "tags": [
-        "智能手机",
-        "iQOO",
-        "新品"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "iQOO新机发布可能影响智能手机市场竞争，消费者可关注新选择。",
-        "riskNotes": "信息来自博主爆料，非官方，配置和发布时间需验证。"
-      }
-    },
-    {
-      "id": "ef7b4b107aad",
-      "title": "科大讯飞星火 X2.5 模型正式发布：293B-A30B MoE，全国产平台训练",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/204.htm",
-      "publishedAt": "2026-09-07T03:56:28.000Z",
-      "summary": "科大讯飞发布星火X2.5模型，基于全国产平台训练，采用MoE架构，参数293B-A30B，支持256K上下文，覆盖200余种语言，已在讯飞星辰MaaS平台上线，输入价格1.6元/百万词。",
-      "actionSteps": [
-        "访问讯飞星辰MaaS平台核实模型详情和定价",
-        "对比其他国产大模型的性能和价格",
-        "评估该模型在自身业务场景的适用性"
-      ],
-      "tags": [
-        "AI模型",
-        "国产替代",
-        "大模型",
-        "定价"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "国产大模型在参数规模和全栈自主训练上取得进展，可能降低企业对海外AI服务的依赖，并影响国内AI服务定价。",
-        "riskNotes": "来源为IT之家，非官方一手发布；具体性能需第三方评测验证；定价可能仅为输入价格，输出价格未提及。"
-      }
-    },
-    {
-      "id": "598b174cdcfd",
-      "title": "消息称 LPDDR6 量产初期产能较紧张，小米 18 Fold 中折叠手机会用长鑫 + 海力士保供应",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/173.htm",
-      "publishedAt": "2026-09-07T03:33:57.000Z",
-      "summary": "博主称LPDDR6量产初期产能紧张，小米18 Fold将采用长鑫和海力士双供应，新机9月7日发布。",
-      "actionSteps": [
-        "关注小米发布会官方信息",
-        "核实LPDDR6供应链动态",
-        "评估对相关投资或购买决策的影响"
-      ],
-      "tags": [
-        "半导体",
-        "小米",
-        "供应链"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "LPDDR6内存供应紧张可能影响相关设备价格和供应，小米新机发布或引发消费电子市场关注。",
-        "riskNotes": "信息来自博主爆料，非官方确认，产能和供应细节需验证。"
+        "whyItMatters": "公共卫生设施改进可减少水资源浪费与清洁成本，对公共设施管理者和环保企业有参考价值。",
+        "riskNotes": "研究结论需经同行评议，实际应用效果待验证。"
       }
     },
     {
@@ -896,37 +993,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "软件优惠可降低个人或企业采购成本，提升工作效率。",
         "riskNotes": "具体优惠幅度和产品列表未详细列出，需查看原文确认。"
-      }
-    },
-    {
-      "id": "f16d17e35fb2",
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "publishedAt": "2026-09-03T09:30:32.000Z",
-      "summary": "MIT科技评论探讨企业扩展代理式AI试点，强调代理协作、系统连接及安全运营的挑战。",
-      "actionSteps": [
-        "评估企业AI代理需求",
-        "研究安全框架",
-        "规划试点扩展"
-      ],
-      "tags": [
-        "企业AI",
-        "代理",
-        "扩展"
-      ],
-      "trust": 4,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-03T12:50:18.118Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "为企业部署AI代理提供战略参考，影响技术投资和运营效率，对IT决策者重要。",
-        "riskNotes": "文章可能基于行业趋势，未提供具体案例数据，需结合企业实际评估。"
       }
     },
     {
@@ -1117,180 +1183,87 @@
       }
     },
     {
-      "id": "dc762d2da425",
-      "title": "小米澎程 N90 Max 升顶帐篷款官宣亮相，有望今晚发布会上登场",
+      "id": "edaae4309435",
+      "title": "联发科技带来曦力 G99+ 移动平台，支持 5500Mbps LPDDR5X 内存",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/213.htm",
-      "publishedAt": "2026-09-07T04:32:30.000Z",
-      "summary": "小米汽车预热今晚发布会，首次公开澎程N90 Max升顶帐篷款，雷军微博展示防雨体验，暗示该配置具备防雨属性。",
+      "link": "https://www.ithome.com/0/999/481.htm",
+      "publishedAt": "2026-09-07T14:13:37.000Z",
+      "summary": "联发科发布曦力G99+移动平台，支持5500Mbps LPDDR5X内存，但仍是4G芯片，面向成本敏感市场。",
       "actionSteps": [
-        "关注今晚小米发布会获取官方信息",
-        "评估升顶帐篷款对露营市场的潜在影响",
-        "若感兴趣，等待官方公布价格和预订信息"
+        "关注搭载该芯片的手机发布",
+        "评估性能提升",
+        "考虑是否适合低端市场"
       ],
       "tags": [
-        "小米汽车",
-        "露营",
-        "新车发布",
-        "户外"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "小米汽车产品线扩展至露营场景，可能带动相关户外装备需求，对消费者和户外产业有影响。",
-        "riskNotes": "来源为IT之家，非官方一手发布；具体配置和价格未公布，需关注发布会。"
-      }
-    },
-    {
-      "id": "55371795d316",
-      "title": "百度 2026 小度新品发布会定档 9 月 8 日，将发布智能屏、闺蜜机、音箱等新品",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/197.htm",
-      "publishedAt": "2026-09-07T03:43:06.000Z",
-      "summary": "小度宣布9月8日14:00举行新品发布会，将发布搭载超能小度智能体的闺蜜机、智能屏、摄像机等硬件新品。",
-      "actionSteps": [
-        "关注9月8日发布会获取官方信息",
-        "评估新品对智能家居生态的影响",
-        "若感兴趣，等待发布后购买或体验"
-      ],
-      "tags": [
-        "百度",
-        "小度",
-        "智能家居",
-        "新品发布"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "百度AI硬件产品更新，可能影响智能家居市场，对消费者和智能设备行业有影响。",
-        "riskNotes": "来源为IT之家，非官方一手发布；具体产品规格和价格未公布。"
-      }
-    },
-    {
-      "id": "45f14d4fedcb",
-      "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "publishedAt": "2026-09-07T03:29:51.000Z",
-      "summary": "互联网档案馆（Archive.org）九月发起捐赠匹配活动，定期捐款将获得3倍匹配，以维持服务器运行。",
-      "actionSteps": [
-        "访问archive.org了解捐赠详情",
-        "考虑是否进行定期捐赠以支持数字资源保存",
-        "关注活动截止日期和匹配条件"
-      ],
-      "tags": [
-        "互联网档案馆",
-        "捐赠",
-        "数字资源",
-        "非营利"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "互联网档案馆是重要的数字资源库，其运营依赖捐赠，对依赖其资源的用户有影响。",
-        "riskNotes": "来源为Hacker News，非官方一手发布；具体匹配规则和截止日期需查看原链接。"
-      }
-    },
-    {
-      "id": "5d775c1986bd",
-      "title": "Mother convicted of: her 5 yo walks short way to pond alone in Virginia",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/",
-      "publishedAt": "2026-09-07T03:06:33.000Z",
-      "summary": "美国弗吉尼亚州一位母亲因5岁孩子独自走到池塘而被定罪，引发关于儿童独立与监护责任的争议。",
-      "actionSteps": [
-        "查阅华盛顿邮报原文了解案件详情",
-        "咨询法律专家关于监护责任的法律标准",
-        "评估自身育儿方式与法律风险"
-      ],
-      "tags": [
-        "法律",
-        "儿童安全",
-        "监护责任"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "此案反映社会对儿童安全的严格标准，可能影响家长对儿童独立活动的判断，以及相关法律责任的界定。",
-        "riskNotes": "新闻摘要来自Hacker News，原始报道为华盛顿邮报，但具体法律细节和判决依据未提供，需核实原文。"
-      }
-    },
-    {
-      "id": "9b92962e5063",
-      "title": "《以撒的结合》作者新作《喵喵的结合》简体中文翻译正式上线，游戏主机版本明日发售",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/0/999/150.htm",
-      "publishedAt": "2026-09-07T02:48:06.000Z",
-      "summary": "《以撒的结合》作者新作《喵喵的结合》上线简体中文，主机版明日发售。",
-      "actionSteps": [
-        "关注游戏发售后的评价",
-        "了解游戏平台和价格",
-        "评估对游戏行业的影响"
-      ],
-      "tags": [
-        "游戏",
-        "独立游戏",
-        "主机"
+        "联发科",
+        "芯片",
+        "4G",
+        "LPDDR5X"
       ],
       "trust": 3,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-07T14:16:02.865Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "内存升级可能提升入门手机性能，但4G限制影响市场定位。",
+        "riskNotes": "官方公布，但具体设备采用情况未知。"
+      }
+    },
+    {
+      "id": "063795654ece",
+      "title": "驰为 UniBox AI495 Pro 迷你主机亮相，X 型金属框架设计",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/0/999/473.htm",
+      "publishedAt": "2026-09-07T13:37:24.000Z",
+      "summary": "驰为在IFA 2026发布UniBox AI495 Pro迷你主机，采用X型金属框架，搭载AMD锐龙AI Max+处理器，支持3个M.2 SSD。",
+      "actionSteps": [
+        "关注驰为官方发布",
+        "对比同类产品",
+        "评估购买价值"
+      ],
+      "tags": [
+        "驰为",
+        "迷你主机",
+        "AMD",
+        "IFA2026"
+      ],
+      "trust": 2,
       "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
+        "analyzedAt": "2026-09-07T14:16:02.865Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "热门游戏新作发售，对游戏玩家和主机市场有影响，可能带动相关销售。",
-        "riskNotes": "信息来自IT之家，游戏评价和销量未知，需关注市场反应。"
+        "whyItMatters": "迷你主机性能提升，适合AI工作站和紧凑型计算需求，可能影响PC市场。",
+        "riskNotes": "具体配置和价格未公布，需等待官方信息。"
       }
     },
     {
-      "id": "18262d9da40c",
-      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+      "id": "f640cbd417db",
+      "title": "bzip3",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://gettogether.dev",
-      "publishedAt": "2026-09-07T01:41:11.000Z",
-      "summary": "Show HN展示新社交网络GET Together，强调无需POST即可发帖，概念新颖。",
+      "link": "https://github.com/iczelia/bzip3",
+      "publishedAt": "2026-09-07T13:35:13.000Z",
+      "summary": "Hacker News讨论bzip3压缩工具，获得23分和2条评论。",
       "actionSteps": [
-        "访问gettogether.dev了解功能",
-        "对比现有社交平台",
-        "评估潜在用户需求"
+        "访问GitHub了解bzip3特性",
+        "测试压缩率和速度",
+        "评估是否集成到工作流"
       ],
       "tags": [
-        "社交网络",
-        "创新"
+        "压缩",
+        "开源",
+        "bzip3"
       ],
       "trust": 1,
       "opportunity": 2,
@@ -1298,10 +1271,104 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-07T04:44:08.458Z",
+        "analyzedAt": "2026-09-07T14:16:02.865Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "社交网络创新可能改变用户互动方式，但实际价值需验证。",
-        "riskNotes": "仅标题和链接，无具体功能描述，需访问网站评估。"
+        "whyItMatters": "压缩工具改进可提升存储和传输效率，对开发者和企业有实际价值。",
+        "riskNotes": "仅标题和链接，无具体内容，需查看GitHub和评论。"
+      }
+    },
+    {
+      "id": "77fe4c24eb6d",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "publishedAt": "2026-09-07T12:10:00.000Z",
+      "summary": "MIT技术评论报道地下氢勘探热潮，以及更多OpenAI代理的失控行为。",
+      "actionSteps": [
+        "查阅原文获取详细信息",
+        "关注氢能勘探技术进展",
+        "评估AI代理安全风险"
+      ],
+      "tags": [
+        "地下氢",
+        "AI安全",
+        "能源",
+        "OpenAI"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-07T14:16:02.865Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "地下氢可能成为清洁能源新来源，影响能源行业；AI代理失控引发安全担忧，需关注监管。",
+        "riskNotes": "报道内容摘要有限，具体勘探进展和AI代理事件细节未明。"
+      }
+    },
+    {
+      "id": "2c624ff6e091",
+      "title": "派评｜近期值得关注的 App",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/114288",
+      "publishedAt": "2026-09-07T10:08:44.000Z",
+      "summary": "少数派推荐近期值得关注的App，提供实用软件介绍。",
+      "actionSteps": [
+        "阅读原文查看推荐列表",
+        "试用感兴趣的App",
+        "分享给需要的朋友"
+      ],
+      "tags": [
+        "App推荐",
+        "效率",
+        "软件"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-07T14:16:02.866Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "帮助用户发现高效工具，提升生产力和生活质量。",
+        "riskNotes": "具体App列表未知，需查看全文。"
+      }
+    },
+    {
+      "id": "23571613582e",
+      "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/113877",
+      "publishedAt": "2026-09-07T07:00:00.000Z",
+      "summary": "赛车入门指南解释为何慢车能指挥快车，涉及赛道规则与策略，帮助新手理解赛车运动。",
+      "actionSteps": [
+        "阅读全文学习赛车规则",
+        "关注相关赛事验证知识",
+        "分享给同好交流"
+      ],
+      "tags": [
+        "赛车",
+        "知识",
+        "运动"
+      ],
+      "trust": 3,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-07T14:16:02.866Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对赛车爱好者或从业者提供基础知识，可提升观赛或参与体验。",
+        "riskNotes": "内容为知识分享，具体规则需以官方为准。"
       }
     },
     {
@@ -1493,37 +1560,6 @@
       }
     },
     {
-      "id": "a9f33eb89c42",
-      "title": "新玩意 251｜少数派的编辑们最近买了啥？",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/114154",
-      "publishedAt": "2026-09-03T10:18:06.000Z",
-      "summary": "少数派编辑分享近期购买的新奇产品，本期包括洗手间置物架等，提供使用体验。",
-      "actionSteps": [
-        "阅读全文了解产品详情",
-        "根据需求评估是否购买",
-        "参考其他用户评价"
-      ],
-      "tags": [
-        "消费",
-        "产品评测",
-        "生活"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-03T12:50:18.118Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "为消费者提供产品参考，帮助发现实用好物。",
-        "riskNotes": "内容为主观体验，产品信息可能不完整，需自行核实。"
-      }
-    },
-    {
       "id": "7789285eeb96",
       "title": "Agriculture relies on fossil fuels. It’s costing us.",
       "category": "industry",
@@ -1552,37 +1588,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对农民、食品行业和环保政策有直接影响，提示农业可持续性挑战。",
         "riskNotes": "摘要简短，具体数据和论证需阅读原文。"
-      }
-    },
-    {
-      "id": "fbdb9867f4e2",
-      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/113998",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "summary": "少数派发布无印良品头戴式蓝牙降噪耳机评测，作者经一季度使用分享体验，涉及音质、降噪及设计。",
-      "actionSteps": [
-        "阅读完整评测",
-        "对比其他专业评测",
-        "根据需求决定是否购买"
-      ],
-      "tags": [
-        "消费电子",
-        "评测",
-        "耳机"
-      ],
-      "trust": 3,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-03T12:50:18.118Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "为消费者提供真实使用参考，帮助决策是否购买该产品，尤其对关注性价比和品牌跨界数码的群体。",
-        "riskNotes": "评测为主观体验，可能受个体差异影响，未提供客观测试数据。"
       }
     },
     {
