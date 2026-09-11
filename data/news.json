@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:55:57.500Z",
+  "generatedAt": "2026-09-11T04:43:03.616Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 20
+    "reused": 22
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,73 +194,14 @@
       "priority": 89
     },
     {
-      "id": "f7a7b851305f",
-      "title": "Can the US battery market untangle from China?",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "publishedAt": "2026-09-10T10:00:00.000Z",
-      "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from int",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 82,
-      "opportunity": 67,
-      "priority": 80
-    },
-    {
-      "id": "f36e5a2fc4c6",
-      "title": "God told them to sell crypto. Their investors lost everything.",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
-      "publishedAt": "2026-09-10T09:00:00.000Z",
-      "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 82,
-      "opportunity": 67,
-      "priority": 80
-    },
-    {
-      "id": "39fc94f7b050",
-      "title": "Healthcare AI’s next test is integration",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-      "publishedAt": "2026-09-10T08:58:01.000Z",
-      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinic",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 82,
-      "opportunity": 67,
-      "priority": 80
-    },
-    {
-      "id": "146075fce9e1",
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "id": "6bbeb126525f",
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-      "publishedAt": "2026-09-10T09:04:14.000Z",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683 Comments URL: https://news.ycombinator.com/item?id=49640646 Points: 154 # Comments: 67",
+      "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "publishedAt": "2026-09-11T00:42:41.000Z",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o Comments URL: https://news.ycombinator.com/item?id=49652105 Points: 138 # Comments: 101",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -272,14 +213,33 @@
       "priority": 79
     },
     {
-      "id": "c599ab837d38",
-      "title": "DeepSeek v4.1 Flash",
+      "id": "066aba3e9572",
+      "title": "YuE2 · Frontier Music with Symbolic Planning",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "publishedAt": "2026-09-10T06:11:05.000Z",
-      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash Comments URL: https://news.ycombinator.com/item?id=49639090 Points: 549 # Comments: 295",
+      "link": "https://map-yue2.github.io/",
+      "publishedAt": "2026-09-11T00:33:26.000Z",
+      "summary": "Article URL: https://map-yue2.github.io/ Comments URL: https://news.ycombinator.com/item?id=49652028 Points: 68 # Comments: 55",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "9da9989ecc0c",
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://system76.com/workstations/thelio-mira-ai",
+      "publishedAt": "2026-09-10T23:10:06.000Z",
+      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 65 # Comments: 39",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -293,14 +253,14 @@
       "priority": 79
     },
     {
-      "id": "d59e00a72362",
-      "title": "All grown-ups were once children, but only few of them remember it",
+      "id": "14a9ade9c7b7",
+      "title": "Nine coding harnesses vs. your laptop",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://mathstodon.xyz/@tao/117244102901892965",
-      "publishedAt": "2026-09-10T04:04:38.000Z",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/117244102901892965 Comments URL: https://news.ycombinator.com/item?id=49638280 Points: 222 # Comments: 163",
+      "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "publishedAt": "2026-09-10T22:54:01.000Z",
+      "summary": "Article URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74 Comments URL: https://news.ycombinator.com/item?id=49651221 Points: 9 # Comments: 0",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -312,14 +272,14 @@
       "priority": 79
     },
     {
-      "id": "7a49a5e9191c",
-      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "id": "0257ffb485e2",
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "publishedAt": "2026-09-09T23:49:29.000Z",
-      "summary": "Article URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/ Comments URL: https://news.ycombinator.com/item?id=49636283 Points: 351 # Comments: 223",
+      "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "publishedAt": "2026-09-10T21:30:55.000Z",
+      "summary": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx Comments URL: https://news.ycombinator.com/item?id=49650418 Points: 78 # Comments: 125",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -331,17 +291,17 @@
       "priority": 79
     },
     {
-      "id": "da868ab08df1",
-      "title": "iPhone Duo",
+      "id": "13371281df95",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.apple.com/iphone-duo/",
-      "publishedAt": "2026-09-09T18:15:43.000Z",
-      "summary": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 1259 # Comments: 2209",
+      "link": "https://merybenavente.me/blog/proof-of-capture",
+      "publishedAt": "2026-09-10T19:44:15.000Z",
+      "summary": "Article URL: https://merybenavente.me/blog/proof-of-capture Comments URL: https://news.ycombinator.com/item?id=49649222 Points: 81 # Comments: 51",
       "actionSteps": [
         "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
+        "固定主体、风格、镜头和负面词做 3 组对照",
         "先访谈 5 位潜在客户，再决定是否投入"
       ],
       "tags": [],
@@ -350,20 +310,21 @@
       "priority": 79
     },
     {
-      "id": "e78d3057741d",
-      "title": "R 星与被解雇《GTA 6》开发者劳动争议案进入最终听证阶段，员工庭前举牌抗议",
+      "id": "196a5e53db26",
+      "title": "微信鸿蒙版 App 获 8.0.21.42 正式版升级，修复了一些已知问题",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/994.htm",
-      "publishedAt": "2026-09-10T12:49:22.000Z",
-      "summary": "IT之家 9 月 10 日消息，据外媒 Eurogamer 今天（10 日）晚间报道，R 星（Rockstar Games）与 31 名遭解雇的《GTA 6》开发人员之间的劳动争议案，在苏格兰进入最终听证阶段。 开庭之际，去年 10 月被毫不客气地赶出办公室的员工举行集会，以激昂的演讲表达诉求。 社交媒体上的图片和视频显示，集会者来到举行听证的格拉斯哥法庭中心外，举起英国独立工人工会（IWGB）的横幅和自制标语牌。其中，“ 什么最恶心？",
+      "link": "https://www.ithome.com/1/001/216.htm",
+      "publishedAt": "2026-09-11T04:02:14.000Z",
+      "summary": "IT之家 9 月 11 日消息，微信鸿蒙版 App 正式版今日更新到 8.0.21.42（8394026）。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。 IT之家附网友 @伤心萨摩耶 和 @MeoW 整理的 8.0.21 版本和 8.0.20 已发现的灰度测试内容（不绑定版本号，灰度测试与账号有关）： 1.私聊设置打开免打扰之后支持折叠聊天； 2.通讯录-公众号 / 服务号列表左滑新增“不再关注”； 3.视频号等界面点击分",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
       ],
       "tags": [
+        "AI",
         "视频"
       ],
       "trust": 58,
@@ -371,14 +332,14 @@
       "priority": 70
     },
     {
-      "id": "c70aa95c428d",
-      "title": "应对 GPS 干扰，美国陆军 1126 万美元采购非 GPS 车载导航技术",
+      "id": "e8fe533d53d8",
+      "title": "索尼 SIE 恐怖游戏《直到黎明 2》开启预购，PSN 港服 278 港币起",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/993.htm",
-      "publishedAt": "2026-09-10T12:46:47.000Z",
-      "summary": "IT之家 9 月 10 日消息，总部位于奥斯汀的初创公司 Tern 已赢得美国陆军的一份合同，后者将部署该公司研发的低成本 GPS 替代导航技术。 这份价值 1,126 万美元 （IT之家注：现汇率约合 7,572.9 万元人民币） 的合同，将让美国陆军在作战车辆上搭载 Tern 的导航系统。这家初创公司没有透露这项被其称为“战场版谷歌地图”技术的具体部署规模。 当前 GPS 信号遭干扰的情况越来越多，中东、俄乌上空都是高发区域，美军正",
+      "link": "https://www.ithome.com/1/001/204.htm",
+      "publishedAt": "2026-09-11T03:56:16.000Z",
+      "summary": "IT之家 9 月 11 日消息，索尼 SIE 旗下恐怖游戏《直到黎明 2》将于 2027 年 1 月 28 日登陆 PS5。目前本作已在 PS 商店中开启预购，标准版售价 278 港币 （IT之家注：现汇率约合 238.5 元人民币） ，豪华版 328 港币 （现汇率约合 281.4 元人民币） ，IT之家附游戏港服商店地址（ 点此访问 ）。 预购游戏可获得特典“Dr. Hill-《直到黎明》经典服装和摇头公仔游戏内收藏品”和“Dr. ",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -390,35 +351,14 @@
       "priority": 70
     },
     {
-      "id": "ae2509064325",
-      "title": "上汽 MG 07 上市 20 天大定锁单突破 4.2 万台，限时补贴价 10.59 万元起",
+      "id": "ed5f15beb91d",
+      "title": "育碧经典游戏《孤岛惊魂 3》及血龙 DLC 将于明年春季登陆任天堂 Switch 2 平台",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/992.htm",
-      "publishedAt": "2026-09-10T12:42:06.000Z",
-      "summary": "IT之家 9 月 10 日消息，上汽名爵 MG 07 上市 20 天大定超过 4.2 万台，限时补贴价 10.59 万元起。该车于 8 月 21 日成都车展上市， 1 分 57 秒大定破万 ，远超去年 MG4 万纪录（39 分 37 秒）。 IT之家整理限时权益价如下： 混动 245 舒享版 10.59 万元 混动 245 激光雷达版 11.59 万元 纯电 650 舒享版 11.39 万元 纯电 610 激光雷达版 12.39 万元 ",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "0e028bdb3072",
-      "title": "滨口直树谈《最终幻想 7：启示录》实体版争议：为保证画质只能采用单盘 + 联网下载方案",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/991.htm",
-      "publishedAt": "2026-09-10T12:38:27.000Z",
-      "summary": "IT之家 9 月 10 日消息，《最终幻想 7：启示录》导演滨口直树解释了为何这款游戏的 PS5 和 Xbox 实体光盘版，仍需要下载内容才能游玩。 本月早些时候有消息披露，PS5 与 Xbox Series X 平台的《最终幻想 7：启示录》实体版仅包含一张光盘，且玩家必须联网下载游戏其余部分才能游玩。《最终幻想 7》重制三部曲的前两部 ——《重制版》和《重生》，都采用双光盘形式：一张用于安装，一张用于游戏。而 Switch 2 玩家",
+      "link": "https://www.ithome.com/1/001/189.htm",
+      "publishedAt": "2026-09-11T03:52:43.000Z",
+      "summary": "IT之家 9 月 11 日消息，育碧宣布旗下游戏《孤岛惊魂 3 经典版》及 DLC《孤岛惊魂 3：血龙》将于明年（2027 年）春季登陆任天堂 Switch 2 平台。 《孤岛惊魂 3》最初 2012 年 11 月 29 日发行，游戏舞台发生在印度洋和太平洋相交的一个热带岛屿。在度假期间发生事故后，主角杰森 · 布洛迪（Jason Brody）必须从以瓦阿斯 · 蒙特格罗（Vaas Montenegro）为首的海盗手中拯救他被绑架的朋友",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -430,35 +370,14 @@
       "priority": 70
     },
     {
-      "id": "43933e345d83",
-      "title": "沃尔沃将在瑞典建设 70MW/260MWh 储能园区，为该国最大同类设施之一",
+      "id": "52e0fc07a07e",
+      "title": "“蓝月”钓鱼攻击披露：串联谷歌 Chrome 浏览器漏洞，钓鱼 Win10/Win11 用户",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/989.htm",
-      "publishedAt": "2026-09-10T12:34:49.000Z",
-      "summary": "IT之家 9 月 10 日消息，Volvo（沃尔沃）今日宣布将在其瑞典 Mariestad 在建电池生产基地附近建设一座能源园区， 初期部署 70MW/260MWh 储能电池 。 此处将成为 全瑞典最大的能源园区之一 ，也将成为创新能源解决方案测试平台。 Mariestad 能源园区将采用沃尔沃能源的电池储能系统， 预计 2027 年投入运营 。其存储的电能可在外部需要时回流到电网，增强当地能源系统的稳定性与韧性。 该项目还将为沃尔沃及",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "新能源"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "039c46f37911",
-      "title": "比亚迪方程豹豹 8 第七次 OTA 开启推送，DiLink 智能座舱 UI 焕新",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/988.htm",
-      "publishedAt": "2026-09-10T12:31:20.000Z",
-      "summary": "IT之家 9 月 10 日消息，今日，比亚迪方程豹豹 8 第七次 OTA 开启推送，涵盖豹 8 全系车型，包括无人机版、闪充版等。 IT之家整理新增功能如下： 豹 8 大五座版、豹 8 六七座版 (含无人机版) DiLink 智能座舱 UI 全面焕新，视觉交互全新体验，重构页面布局。 提升操作效率，灵动动效打造流畅自然交互，座舱屏幕随时光变幻，带来更智能、更高级的座舱伴行交互体验。 新增智联车载台功能，支持车辆间一键即时通讯，紧急情况下",
+      "link": "https://www.ithome.com/1/001/183.htm",
+      "publishedAt": "2026-09-11T03:51:00.000Z",
+      "summary": "IT之家 9 月 11 日消息，科技媒体 bleepingcomputer 昨日（9 月 10 日）发布博文，报道称有证据表明多家黑客组织利用“蓝月”（BlueMoon）漏洞利用工具包， 钓鱼 Windows 10、Windows 11 用户，从而执行远程代码窃取信息等。 根据网络安全公司 Proofpoint 披露的细节，自 8 月 28 日观察到 JungleBamboo（又名 APT31、Violet Typhoon）组织已开始利",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -470,96 +389,14 @@
       "priority": 70
     },
     {
-      "id": "1bbcd90c4e65",
-      "title": "理想汽车将参加 2026 巴黎车展，i6 以“Li 6”之名首次面向欧洲公众展示",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/987.htm",
-      "publishedAt": "2026-09-10T12:27:29.000Z",
-      "summary": "IT之家 9 月 10 日消息，理想汽车今天（10 日）晚间宣布，在 9 月 7 日至 13 日举行的荷兰 2026 年索尔海姆杯高尔夫赛事期间，理想汽车将作为官方合作伙伴，为球员及 VIP 贵宾提供官方礼宾用车服务。 这是理想汽车正式启动进军欧洲的第一步。随后，理想汽车还将于 2026 年 10 月 在巴黎车展完成欧洲车展首秀，向欧洲公众首次展示理想 i6（IT之家注：海外命名为 Li 6），届时理想汽车将公布全球产品阵容及欧洲业务计",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "4d18a9d3d0ab",
-      "title": "梁其伟详解《影之刃零》游戏：四种难度可选、一周目可白金",
+      "id": "2e5e1a53b0c6",
+      "title": "让机器狗替你买东西：支付宝宣布首推“AI 付 · 具身智能”，网友戏称“狗腿付”",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/957.htm",
-      "publishedAt": "2026-09-10T10:30:38.000Z",
-      "summary": "IT之家 9 月 10 日消息，灵游坊首席执行官梁其伟今日在B站发文，详解《影之刃零》游戏的难度、武器等机制。 IT之家了解到，《影之刃零》将有“入阵者”“破局者”“逆天者”和“六十六天”四种难度可选， 难度逐级递增 。 其中，“入阵者”可以让任何没有动作游戏经验的玩家轻松游玩，体验剧情，探索地图，并仍然能够享受到战斗的乐趣。开发团队已经将敌人 AI 和动画设计成“复杂的简单难度”，敌人将玩家包围时， 玩家将与他们触发如武侠片一样精彩的",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "fdbe9cd09c4d",
-      "title": "DeepMind 工程师反驳“谷歌搞不出前沿模型”：Gemini 3.8 Cyber 已在多项测试中优于 Mythos",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/954.htm",
-      "publishedAt": "2026-09-10T10:12:09.000Z",
-      "summary": "IT之家 9 月 10 日消息，AI 研究员伊森 · 莫利克（ Ethan Mollick ）今日在 X 平台发文称，谷歌已不再拥有前沿模型，这代表着谷歌将错失数学领域，以及网络安全领域。 谷歌 DeepMind 工程师洛根 · 基尔帕特里克（ Logan Kilpatrick ）对此反驳称， Gemini 3.8 Cyber 在许多网络安全测试、实际应用能力已经超过 Anthropic 的 Mythos 。谷歌内部的 Chrome、W",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "5bbf6ab66c91",
-      "title": "ADI 计划以 13.5 亿美元收购智能 MCU 企业 Alif，扩展物理 AI 布局",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/943.htm",
-      "publishedAt": "2026-09-10T10:02:53.000Z",
-      "summary": "IT之家 9 月 10 日消息，模拟芯片大厂 Analog Devices（ADI，亚德诺）美国当地时间本月 9 日宣布，已就以 13.5 亿美元 （现汇率约合 90.79 亿元人民币） 现金收购智能 MCU 企业 Alif Semiconductor 达成最终协议。 这笔交易已得到双方董事会的批准。ADI 可能支付最高 2 亿美元 （现汇率约合 13.45 亿元人民币） 的额外或有对价。该交易预计将于 2026 年底前完成。 IT之家",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "e4971ca09226",
-      "title": "因模型入侵 Hugging Face，OpenAI 面临美国参议院调查",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/938.htm",
-      "publishedAt": "2026-09-10T09:57:36.000Z",
-      "summary": "IT之家 9 月 10 日消息，据路透社报道，美国参议院一个由共和党主导、负责灾害管理监督的小组委员会，正就 OpenAI 如何应对 7 月 Hugging Face 遭入侵事件展开调查。 当地时间 9 月 9 日，共和党参议员乔希 · 霍利致信 OpenAI CEO 萨姆 · 奥尔特曼，称此次调查针对的是事件中“ 新出现的、令人不安的证据 ”，并批评 OpenAI 发现 AI 出现失控行为后仍决定继续测试，做法“鲁莽”。 信中指责 O",
+      "link": "https://www.ithome.com/1/001/145.htm",
+      "publishedAt": "2026-09-11T03:16:51.000Z",
+      "summary": "IT之家 9 月 11 日消息，支付宝今日宣布和高德动量合作， 首次把 AI 支付能力用在具身机器上 ，产品名称为“AI 付 · 具身智能”，网友戏称为“狗腿付”。 高德动量机器狗“途途”可以遵照指令， 帮忙跑腿，并完成支付 ，真正实现帮主人“打酱油”的任务，整个过程都在主人的授权范围内。 支付宝官方介绍称，“AI 付”应用蚂蚁集团自主打造的 APASS 商业信任基础设施。基于 KYA（Know Your Agent）理念，APASS ",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -567,21 +404,63 @@
       ],
       "tags": [
         "AI",
-        "政策"
+        "Agent"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "996b8f66b617",
-      "title": "蚂蚁集团 CEO 韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建设",
+      "id": "bded5600d4d3",
+      "title": "龙芯中科胡伟武：9A1000 显卡预计明年上半年开售，第六代高性能 CPU 核已开展研发",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/917.htm",
-      "publishedAt": "2026-09-10T09:29:22.000Z",
-      "summary": "9 月 10 日中午消息，2026 Inclusion· 外滩大会主论坛举行圆桌论坛一“当 Agent 成为交易主体”。蚂蚁集团 CEO 韩歆毅与万事达卡首席产品官 Jorn Lambert、OPPO 高级副总裁兼首席产品官刘作虎、阿里巴巴集团首席科学家周靖人围绕智能体进入消费、交易和支付场景后的产业变化展开讨论。 韩歆毅在圆桌上表示，过去半年与商家的交流中，感受到商家侧对 AI 时代新增长机会的需求非常强烈。许多商家希望参与智能体经济",
+      "link": "https://www.ithome.com/1/001/140.htm",
+      "publishedAt": "2026-09-11T02:57:18.000Z",
+      "summary": "IT之家 9 月 11 日消息，龙芯中科今日举行 2026 年半年度业绩说明会，龙芯中科董事长、总经理胡伟武透露， 9A1000 显卡预计明年上半年开售 ，具体价格主要取决于显存（LPDDR4）价格。 胡伟武表示，9A1000 卡既是显卡又是 AI 加速卡。作为显卡，在对自主性要求较高的特定市场竞争力较强，在开放市场对标 RX 550，取决于能不能完成 Windows 的适配。作为 AI 加速卡，可以满足大多数具身智能应用的需求。 现在",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "9e127fc0be0a",
+      "title": "Flowtica Verso AI 随身记设备发布：配 259PPI 无背光 LCD 面板、支持磁吸功能",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/001/139.htm",
+      "publishedAt": "2026-09-11T02:49:47.000Z",
+      "summary": "IT之家 9 月 11 日消息，制造商 Flowtica 宣布推出一款名为 Verso AI 随身记设备，其最大的特性是配备了一块无背光 LCD 面板（并非黑白墨水屏），但目前官方暂未公布该机具体价格和上市时间。 该机厚度仅 6.5 毫米，内置一块 259PPI 无背光 LCD 面板，机身还设有独立按键，用户可以随时手动录制语音备忘录。机身具备磁吸功能，可通过 MagSafe 吸附在手机背面，在配对手机后可在来电时自动开始录音。 该产品",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "cbe405e730ce",
+      "title": "葡萄牙非营利组织 D3 提起欧洲首例社交媒体成瘾性设计集体诉讼",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/001/138.htm",
+      "publishedAt": "2026-09-11T02:49:18.000Z",
+      "summary": "IT之家 9 月 11 日消息，葡萄牙非营利组织 Defesa dos Direitos Digitais （意为“数字权利捍卫”，简称为 D3） 当地时间昨日宣布，已在今年早些时候 针对 Facebook、Instagram、TikTok、YouTube 四大平台提起欧洲首例社交媒体成瘾性设计集体诉讼 。 图源：Pexels D3 表示，社交媒体平台掌握了海量个人信息，并基于这些资源 构建了无限滚动、自动播放、个性化算法推荐等培养用户",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -589,22 +468,64 @@
       ],
       "tags": [
         "AI",
-        "Agent",
-        "政策"
+        "教育"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "99c990f4475e",
-      "title": "英伟达与 Palantir 达成合作，将主权 AI 引入关键供应链",
+      "id": "8d4e9f8bb7ad",
+      "title": "“国产 GPU 四小龙”之一燧原科技今日科创板上市，股价最高涨超 200%",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/899.htm",
-      "publishedAt": "2026-09-10T09:11:38.000Z",
-      "summary": "IT之家 9 月 10 日消息，Palantir 与英伟达今日宣布达成合作，将主权 AI 技术落地于关键供应链领域，合作率先从英伟达自身的生产运营场景启动。 据IT之家了解，此次部署将打造一套 AI 技术栈，把英伟达 Nemotron 开源模型接入 Palantir Foundry 平台及人工智能平台（AIP），并以 Palantir 本体框架为底层支撑。这套技术栈旨在实现前所未有的供应链可视化能力，识别产能瓶颈，持续沉淀运营专业经验，",
+      "link": "https://www.ithome.com/1/001/132.htm",
+      "publishedAt": "2026-09-11T02:34:04.000Z",
+      "summary": "IT之家 9 月 11 日消息，“国产 GPU 四小龙”之一燧原科技今日（9 月 11 日）正式在上海证券交易所科创板上市， 开盘股价最高涨到 460 元 / 股，涨幅超 220% 。 截至IT之家发文，燧原科技股价涨超 190%，总市值 1,777 亿元。 燧原科技创立于 2018 年 3 月，与摩尔线程、沐曦股份和壁仞科技合称为“国产 GPU 四小龙”。成立近 8 年来，燧原科技自研迭代了四代架构 5 款云端 AI 芯片，构建了 A",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "3ab59a0e5dcf",
+      "title": "8.8 元买 5000 积分？央视曝光 AI 中转站低价灰产，小心你的代码被截留倒卖",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/001/129.htm",
+      "publishedAt": "2026-09-11T02:24:59.000Z",
+      "summary": "IT之家 9 月 11 日消息，二手交易平台出现大量低价 AI 工具积分，8.8 元可买官方售价 250 元的 5000 积分，9.9 元可买 1 万积分，号称“源头充值”“内部渠道”。 据央视今日报道，低价积分实为第三方 API 中转站篡改本地配置，用户文档、代码、会议纪要存在被截留、倒卖风险。 按官方价格，腾讯 WorkBuddy 1000 积分加量包售价 50 元，5000 积分售价 250 元。二手平台卖家头像和商品图多复刻官方",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "bcda126f7fd7",
+      "title": "派早报：商务部回应美国 AI 蒸馏指控",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/114439",
+      "publishedAt": "2026-09-10T22:58:54.000Z",
+      "summary": "商务部回应美国 AI 蒸馏指控 谷歌声称为了合规将「降级」欧盟搜索服务 Apple 智能将有用量限制 OpenAI 将与三星合作开发芯片 小岛秀夫新游戏被索尼取消，转由微软发行 DeepSeek V4.1 发布 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -635,8 +556,8 @@
         "AI"
       ],
       "trust": 58,
-      "opportunity": 67,
-      "priority": 70
+      "opportunity": 65,
+      "priority": 67
     },
     {
       "id": "e71a4115fe03",
@@ -656,8 +577,8 @@
         "AI"
       ],
       "trust": 58,
-      "opportunity": 67,
-      "priority": 70
+      "opportunity": 65,
+      "priority": 67
     },
     {
       "id": "bd0657d2bfec",
@@ -689,102 +610,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "AI算力扩张正把电网稳定性变成瓶颈。数据中心密集区的企业可能面临限电、电价上涨或并网延迟；依赖云服务的普通用户也可能遭遇服务中断。",
         "riskNotes": "摘要仅截取开头，未给出完整事件细节、数据来源与解决方案；3吉瓦等数字需核对原文与电网运营商披露。该文为媒体分析而非官方事故报告。"
-      }
-    },
-    {
-      "id": "97343e34ac3e",
-      "title": "849 元支持主动降噪：苹果 AirPods 5 耳机江苏、吉林可享政府补贴",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/961.htm",
-      "publishedAt": "2026-09-10T10:57:48.000Z",
-      "summary": "苹果推出AirPods 5，支持主动降噪，国行999元起。京东自营预售，收货地址为江苏、吉林可享政府补贴，实付849.15元起。",
-      "actionSteps": [
-        "在京东自营页面确认国补适用条件、名额与活动期限",
-        "对比AirPods 4及同价位竞品的降噪与续航参数",
-        "若符合补贴条件，下单前核对收货地址与实付金额"
-      ],
-      "tags": [
-        "苹果",
-        "AirPods",
-        "政府补贴",
-        "消费电子"
-      ],
-      "trust": 70,
-      "opportunity": 60,
-      "priority": 55,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-10T12:55:57.499Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对消费者是换机与省钱机会，国补可降低实际支出；对渠道和竞品则意味着中端降噪耳机市场竞争加剧。",
-        "riskNotes": "补贴仅限江苏、吉林两地且以收货地址为准，具体额度、名额与截止时间需以京东页面和当地政府公告为准；999元与849元价格需核实是否含其他优惠。"
-      }
-    },
-    {
-      "id": "98a1772379a4",
-      "title": "知情人士回应“月之暗面拟赴香港、上海双重上市”：消息不实",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/973.htm",
-      "publishedAt": "2026-09-10T11:32:52.000Z",
-      "summary": "有报道称月之暗面拟赴香港、上海双重上市，知情人士对《科创板日报》称消息不实。此前南华早报援引知情人士称其考虑两地上市融资。",
-      "actionSteps": [
-        "以港交所、上交所披露及月之暗面官方声明为唯一确认渠道",
-        "区分传闻与已披露融资轮次，避免据匿名消息做投资判断",
-        "持续跟踪南华早报与科创板日报后续报道是否更新"
-      ],
-      "tags": [
-        "月之暗面",
-        "IPO传闻",
-        "大模型",
-        "未证实"
-      ],
-      "trust": 35,
-      "opportunity": 40,
-      "priority": 45,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-10T12:55:57.499Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "头部大模型公司上市动向牵动AI融资环境与估值预期。消息反复会加剧市场波动，影响投资者、供应商及求职者对行业资金面的判断。",
-        "riskNotes": "官方否认与媒体爆料相互矛盾，双方均依赖匿名知情人士，无公司正式公告或监管披露。上市计划属重大未定事项，需以官方文件为准。"
-      }
-    },
-    {
-      "id": "8b391dea9d70",
-      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://honestlyranked.com/guides/streaming-price-increases/",
-      "publishedAt": "2026-09-10T10:13:59.000Z",
-      "summary": "Hacker News热帖称，同样九项流媒体订阅2021年至今每年多花702美元，反映流媒体持续涨价。帖子获184点、167条评论。",
-      "actionSteps": [
-        "列出自己当前订阅清单与月费，计算年度总支出",
-        "对比各平台官方定价页，核实涨价幅度与生效时间",
-        "考虑轮换订阅、家庭共享或年付方案以降低支出"
-      ],
-      "tags": [
-        "流媒体",
-        "订阅涨价",
-        "消费支出",
-        "个人理财"
-      ],
-      "trust": 45,
-      "opportunity": 50,
-      "priority": 45,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-10T12:55:57.499Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "订阅涨价直接推高家庭娱乐支出，也反映流媒体行业盈利压力。消费者可据此重新评估订阅组合，企业可关注用户流失与捆绑策略。",
-        "riskNotes": "数据来自个人网站honestlyranked.com，非官方统计，702美元为特定九项服务组合的测算，未说明具体服务、地区与税费口径，需自行复核。"
       }
     },
     {
@@ -851,38 +676,6 @@
       }
     },
     {
-      "id": "7177faf66368",
-      "title": "PlayStation cancels Kojima's PHYSINT, Xbox steps in",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://twitter.com/hideo_kojima_en/status/2097877506401681753",
-      "publishedAt": "2026-09-10T10:35:09.000Z",
-      "summary": "Hacker News转载称PlayStation取消小岛秀夫的PHYSINT项目，Xbox接手。原始信息仅指向一条推特链接和论坛讨论，缺乏官方确认。",
-      "actionSteps": [
-        "等待索尼、微软或小岛工作室的官方公告核实",
-        "查证原始推特账号与发布时间，确认是否为本人发布",
-        "若关注游戏股或供应链，暂缓据此调整仓位，先观察后续报道"
-      ],
-      "tags": [
-        "游戏主机",
-        "并购传闻",
-        "小岛秀夫",
-        "未证实"
-      ],
-      "trust": 20,
-      "opportunity": 30,
-      "priority": 25,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-10T12:55:57.499Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "若属实，将影响主机独占格局与相关工作室、发行商及玩家预期；对游戏行业从业者和投资者是重要信号。",
-        "riskNotes": "来源为论坛聚合，正文仅为链接，无索尼、微软或小岛工作室官方声明。标题所述取消与接手均未经证实，存在传闻风险，不应据此决策。"
-      }
-    },
-    {
       "id": "e2f74d7d3084",
       "title": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
       "category": "policy",
@@ -912,6 +705,69 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "若落实，中小企业应收账款回收环境可能改善，现金流压力缓解；大型企业及平台需关注付款账期合规要求。",
         "riskNotes": "来源为中国政府网，属官方一手渠道，可信度较高；但摘要未提供文号、具体条款、账期上限、惩戒措施等关键内容，不得据此推断具体权益，须查阅原文附件确认。"
+      }
+    },
+    {
+      "id": "4c9048202655",
+      "title": "中国软件协会吕卫锋回应“AI 替代程序员”：高度重视，支持从业人员向高附加值岗位转型",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/001/220.htm",
+      "publishedAt": "2026-09-11T04:37:58.000Z",
+      "summary": "工信部发布会回应“AI替代程序员”，中国软件行业协会吕卫锋称高度重视，指出单纯编码执行能力权重下降，支持从业人员向高附加值岗位转型。",
+      "actionSteps": [
+        "查阅工信部官网《“人工智能+软件”专项行动实施方案》原文核实政策细节",
+        "评估自身岗位中可被AI替代的编码任务占比",
+        "规划向需求分析、系统设计等高附加值方向补充技能"
+      ],
+      "tags": [
+        "AI替代",
+        "程序员",
+        "政策",
+        "职业转型"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-11T04:43:03.615Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对软件从业者而言，入门级编码岗位竞争可能加剧，需求理解、架构设计等高附加值能力更受重视，职业规划需提前调整。",
+        "riskNotes": "信息源自IT之家转述的发布会内容，非工信部官方原文；具体实施方案条款、配套培训与转型支持政策未披露，需以官方文件为准。"
+      }
+    },
+    {
+      "id": "f448492578b5",
+      "title": "Windows Server 2025 等用户反馈微软 9 月更新导致远程桌面服务故障",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/001/217.htm",
+      "publishedAt": "2026-09-11T04:02:51.000Z",
+      "summary": "部分Windows Server用户反馈安装微软9月累积更新后远程桌面服务出现故障，据报主要影响Windows Server 2019和2022等版本。",
+      "actionSteps": [
+        "核对微软官方已知问题列表确认补丁编号",
+        "在测试环境验证更新对远程桌面服务的影响",
+        "对生产服务器暂缓部署并制定回滚预案"
+      ],
+      "tags": [
+        "Windows Server",
+        "远程桌面",
+        "补丁故障"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-11T04:43:03.616Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "依赖远程桌面的企业IT运维可能面临连接中断，影响远程办公与服务器管理，需评估是否推迟更新。",
+        "riskNotes": "信息源自社区用户反馈经媒体转述，非微软官方确认；受影响版本、补丁编号和故障范围需以微软官方公告核实。"
       }
     },
     {
@@ -1101,35 +957,98 @@
       }
     },
     {
-      "id": "abf8dd690b4a",
-      "title": "NASA 与 IBM 联合发布开源月球研究基础大模型，可识别月表冰区与撞击坑",
+      "id": "5aacbd9f7b95",
+      "title": "奥尔特曼称 OpenAI 考虑放缓前沿 AI 开发，希望其他公司也能跟进",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/986.htm",
-      "publishedAt": "2026-09-10T12:23:46.000Z",
-      "summary": "NASA与IBM联合发布开源月球研究基础大模型，可识别月表冰区与撞击坑，服务于阿尔忒弥斯后续任务的科研工作。",
+      "link": "https://www.ithome.com/1/001/219.htm",
+      "publishedAt": "2026-09-11T04:23:21.000Z",
+      "summary": "据彭博社报道，OpenAI CEO奥尔特曼在全员会上称公司可能放缓前沿AI开发节奏，并希望其他AI实验室协同跟进，但部分公司或不同意。",
       "actionSteps": [
-        "访问NASA或IBM官方渠道确认模型发布与开源许可",
-        "评估该模型在遥感图像识别场景的可迁移性",
-        "关注后续阿尔忒弥斯任务的公开数据集"
+        "关注OpenAI及其他AI实验室的官方声明与发布节奏",
+        "评估自身AI相关投资或业务对模型迭代速度的依赖",
+        "持续跟踪监管与行业自律动向"
       ],
       "tags": [
-        "NASA",
-        "IBM",
-        "开源模型",
-        "月球科研"
+        "OpenAI",
+        "前沿AI",
+        "开发节奏",
+        "行业"
       ],
-      "trust": 3,
-      "opportunity": 3,
+      "trust": 2,
+      "opportunity": 2,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-10T12:55:57.499Z",
+        "analyzedAt": "2026-09-11T04:43:03.615Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "开源月球科研模型降低行星科学研究门槛，科研机构与AI团队可基于此开发遥感识别、资源勘探类应用。",
-        "riskNotes": "信息源自IT之家转述，非NASA或IBM官方发布稿；模型名称、参数规模、开源协议、精度指标均未在摘要中给出，需以官方渠道核实。"
+        "whyItMatters": "若头部AI公司放缓开发，可能影响AI产品迭代速度、算力需求与相关投资节奏，从业者与投资者需关注行业竞争格局变化。",
+        "riskNotes": "消息源自彭博社援引知情人士，非OpenAI官方声明；放缓是否落地、范围与时间均不确定，需以官方公告为准。"
+      }
+    },
+    {
+      "id": "18f7ef7c7a4a",
+      "title": "机械革命 2026 款翼龙 15 Air 笔记本 R7 H 449 版本发售：搭 24G + 1T + RTX5060 售 13999 元（国补后 9999 元）",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/001/215.htm",
+      "publishedAt": "2026-09-11T03:59:02.000Z",
+      "summary": "机械革命2026款翼龙15 Air新增锐龙7 H 449版在京东发售，配24G内存、1T固态与RTX5060 Laptop显卡，定价13999元，首销优惠后11499元，部分地区国补后低至9999元。",
+      "actionSteps": [
+        "到京东商品页核对当前售价与首销优惠是否仍有效",
+        "查询所在地国补政策确认是否适用及补贴额度",
+        "对比同价位其他RTX5060机型再决定是否下单"
+      ],
+      "tags": [
+        "笔记本",
+        "RTX5060",
+        "国补",
+        "消费电子"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-11T04:43:03.616Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对想换游戏本或移动工作站的人，这是万元级RTX5060机型的价格参考；国补存在地区差异，实际到手价需按所在地政策核实。",
+        "riskNotes": "信息来自IT之家转述，非厂商官方公告；国补金额、适用地区和期限未在材料中明确，需以当地官方渠道为准；未核实实际性能与散热表现。"
+      }
+    },
+    {
+      "id": "f1a0814edd28",
+      "title": "微软 VS Code 1.137 发布：为宠物征名、按小时 / 日 / 周调度 AI 智能体任务",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/001/147.htm",
+      "publishedAt": "2026-09-11T03:26:54.000Z",
+      "summary": "微软发布VS Code 1.137，聚焦AI智能体能力，新增Automations按小时/日/周调度任务、Voice Mode语音模式、快速聊天等5项功能，其中3项仍处实验或预览阶段。",
+      "actionSteps": [
+        "升级前查看官方Release Notes确认功能状态",
+        "在非生产环境试用Automations调度功能",
+        "对预览功能保留回退方案"
+      ],
+      "tags": [
+        "VS Code",
+        "AI智能体",
+        "开发工具"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-11T04:43:03.616Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对开发者，任务调度和语音交互可减少重复操作；但预览功能稳定性有限，不宜直接用于生产关键流程。",
+        "riskNotes": "信息来自IT之家转述微软公告，非官方发布页原文；实验/预览功能可能变更或下线，具体行为需以官方文档为准。"
       }
     },
     {
@@ -1165,24 +1084,24 @@
       }
     },
     {
-      "id": "7dc03e9a3ed7",
-      "title": "德军正评估 30 款 AI 工具，计划 2027 年起用于加快战场决策",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/000/981.htm",
-      "publishedAt": "2026-09-10T12:07:19.000Z",
-      "summary": "德军正评估30款AI工具用于加快战场决策，网络司令部司令称2027年二季度出原型、2028年全面投入使用，背景是俄乌战争中无人机与卫星产生海量数据。",
+      "id": "f7a7b851305f",
+      "title": "Can the US battery market untangle from China?",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "publishedAt": "2026-09-10T10:00:00.000Z",
+      "summary": "美媒报道美国储能市场快速增长并创纪录，电池有助于电网稳定、提升可靠性并减排，但文章探讨其能否与中国供应链脱钩。",
       "actionSteps": [
-        "检索德国国防部及网络司令部官方公告核实项目名称与预算",
-        "梳理公开的欧洲防务AI供应商与招标信息",
-        "持续跟踪原型系统时间表是否被官方确认"
+        "梳理自身业务对美国电池市场的收入敞口",
+        "跟踪美国储能相关补贴与本土化采购政策动向",
+        "评估东南亚等第三地产能布局的可行性"
       ],
       "tags": [
-        "国防AI",
-        "德国",
-        "战场决策",
-        "采购"
+        "电池",
+        "储能",
+        "供应链",
+        "中美"
       ],
       "trust": 2,
       "opportunity": 2,
@@ -1190,74 +1109,72 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-10T12:55:57.499Z",
+        "analyzedAt": "2026-09-11T04:43:03.616Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "国防AI采购方向明确，相关企业可关注军事决策辅助、数据融合类需求；普通人则需关注军用AI扩散带来的地缘与伦理讨论。",
-        "riskNotes": "信息源自德媒《商报》转述军方官员采访，非德国国防部官方公告；30款工具名单、预算、承包商均未披露，2027-2028时间表为官员个人乐观预期，需以官方文件复核。"
+        "whyItMatters": "储能与电池产业链企业需关注美国本土化政策与供应链转移趋势，可能影响出口订单、海外布局与竞争格局。",
+        "riskNotes": "仅为媒体分析文章，未提供具体脱钩政策条款、时间表或数据；中美电池供应链实际依赖程度需查阅权威行业报告核实。"
       }
     },
     {
-      "id": "63747f746ad2",
-      "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
-      "publishedAt": "2026-09-10T10:36:00.000Z",
-      "summary": "TechRadar文章称Apple Watch的Siri Recaps功能使其持续监听用户日常，苹果可能面临类似Meta智能眼镜那样的隐私反弹。",
+      "id": "f36e5a2fc4c6",
+      "title": "God told them to sell crypto. Their investors lost everything.",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "publishedAt": "2026-09-10T09:00:00.000Z",
+      "summary": "MIT Technology Review与Type Investigations合作调查报道，一名宗教人士以“上帝指示”为由推销加密货币，导致投资者血本无归。",
       "actionSteps": [
-        "查阅苹果官方隐私政策中关于Siri与手表录音的条款",
-        "在设备设置中检查并关闭非必要语音采集权限",
-        "关注后续监管机构或集体诉讼动向"
+        "对承诺高回报且带情感或信仰话术的投资保持警惕",
+        "通过监管机构官网核查相关主体资质与风险提示",
+        "分散投资并避免投入无法承受损失的资金"
       ],
       "tags": [
-        "隐私",
-        "Apple Watch",
-        "语音数据",
-        "合规"
+        "加密货币",
+        "投资骗局",
+        "风险警示"
       ],
-      "trust": 2,
+      "trust": 3,
       "opportunity": 1,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-10T12:55:57.499Z",
+        "analyzedAt": "2026-09-11T04:43:03.616Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "智能穿戴持续采集语音数据，用户隐私与数据合规风险上升；企业若涉及员工佩戴设备需关注数据边界。",
-        "riskNotes": "来源为Hacker News转载的TechRadar评论文章，属媒体观点而非苹果官方说明；监听范围、数据存储与处理方式未经官方证实，需以苹果隐私政策为准。"
+        "whyItMatters": "提醒普通投资者警惕以信仰、情感或权威话术包装的加密投资项目，此类骗局常利用信任关系造成重大财产损失。",
+        "riskNotes": "为媒体调查报道，涉及具体个案；未提供涉案金额、司法进展等完整数据，投资风险判断需结合监管警示与官方信息。"
       }
     },
     {
-      "id": "e9a051c2a824",
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://hugovergnes.github.io/little-lm-3-8b/",
-      "publishedAt": "2026-09-10T02:04:11.000Z",
-      "summary": "一篇技术文章称以998美元将3.8B参数大模型训练至0.384 CORE指标，发布在个人博客并登上Hacker News，评论数较少。",
+      "id": "39fc94f7b050",
+      "title": "Healthcare AI’s next test is integration",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "publishedAt": "2026-09-10T08:58:01.000Z",
+      "summary": "MIT Technology Review发文指出，大型AI公司进入医疗领域加速了行业技术基础，但医疗AI下一阶段的考验在于与临床系统的整合落地。",
       "actionSteps": [
-        "阅读原文核对训练配置与评测方法",
-        "在自有小规模任务上复现关键结论",
-        "对比其他低成本训练方案的公开基准"
+        "查找原文确认其引用的具体整合案例与数据",
+        "评估自身机构现有系统对AI工具的接口兼容性",
+        "关注医疗数据合规要求后再推进试点"
       ],
       "tags": [
-        "大模型",
-        "低成本训练",
-        "开源",
-        "开发者"
+        "医疗AI",
+        "系统整合",
+        "行业趋势"
       ],
-      "trust": 1,
-      "opportunity": 3,
+      "trust": 2,
+      "opportunity": 2,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-10T04:45:00.650Z",
+        "analyzedAt": "2026-09-11T04:43:03.616Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若方法可复现，意味着小团队低成本训练小模型的门槛进一步降低，对做垂直应用、边缘部署的开发者有参考价值。",
-        "riskNotes": "仅标题与链接，未核实CORE指标定义、基准与训练细节；998美元成本口径不明，个人博客非同行评审来源，结论需复现验证。"
+        "whyItMatters": "对医疗机构和医疗IT企业，AI工具能否嵌入现有临床工作流决定其实际价值；对患者，整合程度影响诊疗效率与数据安全。",
+        "riskNotes": "仅有标题和摘要片段，正文论证、数据来源和具体案例未提供；属媒体观点文章而非官方政策或临床指南，不能作为合规依据。"
       }
     },
     {
@@ -1448,6 +1365,133 @@
       }
     },
     {
+      "id": "6ce52bde9544",
+      "title": "Exercise intensity is associated with cardiometabolic health",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+      "publishedAt": "2026-09-11T03:48:10.000Z",
+      "summary": "一项发表于Cell Reports Medicine的研究显示，运动强度与心脏代谢健康存在关联，该内容在Hacker News引发讨论。",
+      "actionSteps": [
+        "查阅Cell Reports Medicine论文原文确认研究设计与结论",
+        "结合自身健康状况评估适宜的运动强度",
+        "必要时咨询医生或专业教练制定运动方案"
+      ],
+      "tags": [
+        "运动",
+        "心脏代谢",
+        "健康",
+        "研究"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-11T04:43:03.616Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对关注健康的普通人，提示运动强度可能是影响心脏代谢指标的因素，可作为制定锻炼计划的参考方向。",
+        "riskNotes": "仅有标题与链接，未提供研究样本量、人群、因果性等关键信息；观察性关联不等于因果，具体结论需阅读论文原文核实。"
+      }
+    },
+    {
+      "id": "0a4249c49402",
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "publishedAt": "2026-09-11T01:00:56.000Z",
+      "summary": "有报道称一名墨西哥学生发明声波灭火器，利用声波在数秒内扑灭火源，该内容在Hacker News上引发关注。",
+      "actionSteps": [
+        "查找该发明的原始技术资料或学术验证",
+        "评估声波灭火在自身场景中的适用性与局限",
+        "关注消防领域权威机构对类似技术的评估"
+      ],
+      "tags": [
+        "声波灭火",
+        "消防",
+        "创新",
+        "技术"
+      ],
+      "trust": 1,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-11T04:43:03.616Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "若技术可行，声波灭火或为特定场景提供新型消防思路，对消防设备行业与创业者具有潜在探索价值。",
+        "riskNotes": "来源为自媒体式报道，缺乏同行评审、实验数据与规模化验证；技术成熟度与实用性存疑，需谨慎对待。"
+      }
+    },
+    {
+      "id": "ad1fbb2dd296",
+      "title": "Herdr Studio",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://powerfooI.github.io/herdr-studio/",
+      "publishedAt": "2026-09-11T00:54:36.000Z",
+      "summary": "Hacker News上出现名为Herdr Studio的项目链接，获得15点、7条评论，具体内容需访问原文了解。",
+      "actionSteps": [
+        "打开原文链接确认项目功能与定位",
+        "查看HN评论区了解实际使用反馈",
+        "若涉及部署，先在隔离环境测试"
+      ],
+      "tags": [
+        "开发者工具",
+        "开源",
+        "HN"
+      ],
+      "trust": 1,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-11T04:43:03.616Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对开发者可能是新工具或开源项目的线索，但当前信息不足以判断其用途与价值。",
+        "riskNotes": "仅有链接和互动数据，无摘要、无功能介绍，无法评估技术成熟度、许可证或安全性；不得据此推断任何收益。"
+      }
+    },
+    {
+      "id": "e5dfefa9e1c4",
+      "title": "Setting up OpenCode with Ollama and sbx on Mac",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://tensorsandtokens.com/posts/opencode-ollama/",
+      "publishedAt": "2026-09-11T00:45:26.000Z",
+      "summary": "Hacker News上出现一篇介绍在Mac上使用OpenCode搭配Ollama和sbx的教程文章，获得17点、11条评论。",
+      "actionSteps": [
+        "阅读原文确认所需Mac配置与依赖版本",
+        "在隔离环境按步骤测试OpenCode与Ollama联通",
+        "评估本地模型对硬件资源和数据隐私的影响"
+      ],
+      "tags": [
+        "本地大模型",
+        "Ollama",
+        "Mac",
+        "开发教程"
+      ],
+      "trust": 1,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-11T04:43:03.616Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对想在本地运行开源大模型的开发者，提供了Mac环境下工具链配置的参考路径，可降低本地AI开发门槛。",
+        "riskNotes": "仅有链接和互动数据，无正文内容；配置步骤、兼容性和安全性未经核实，本地部署涉及资源占用与数据风险。"
+      }
+    },
+    {
       "id": "6b3d94b705ca",
       "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
       "category": "knowledge",
@@ -1477,37 +1521,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "教师可用工具类应用提升备课与课间调度效率，属轻量效率工具，对教育从业者有直接使用价值。",
         "riskNotes": "内容为少数派应用推荐文，摘要极简，未提供功能细节、收费模式、数据安全说明；实际效果需自行试用验证。"
-      }
-    },
-    {
-      "id": "8c0d9de43541",
-      "title": "Show HN: What if the speed of light was 5 km/h?",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://rivendell.dmitrybrant.com/relativity/",
-      "publishedAt": "2026-09-10T01:58:00.000Z",
-      "summary": "开发者制作可视化项目，把光速缩小到5公里/小时，用日常物体直观展示相对论效应，发布在Hacker News。",
-      "actionSteps": [
-        "打开项目体验可视化效果",
-        "核对所用相对论公式与假设",
-        "评估是否适合引入课堂或科普内容"
-      ],
-      "tags": [
-        "科普",
-        "可视化",
-        "相对论"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-10T04:45:00.650Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对物理教学和科普创作者是现成的演示素材，可帮助非专业观众理解时间膨胀等抽象概念。",
-        "riskNotes": "仅为个人兴趣项目，未说明物理模型精度与简化假设，教学使用前需核对公式正确性。"
       }
     },
     {
@@ -1603,38 +1616,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对Apple用户和开发者理解系统优化有参考价值。",
         "riskNotes": "会员文章，内容未公开，细节未知。"
-      }
-    },
-    {
-      "id": "12dce3027b50",
-      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/114327",
-      "publishedAt": "2026-09-08T09:00:00.000Z",
-      "summary": "少数派社区速递介绍NuPhy全铝磁轴键盘及派友推荐的“反投喂”信息源，旨在分享优质社区内容，帮助用户摆脱算法推荐。",
-      "actionSteps": [
-        "查看原文了解推荐的具体信息源",
-        "尝试使用RSS等工具订阅感兴趣的内容",
-        "评估自身信息获取方式并调整"
-      ],
-      "tags": [
-        "信息源",
-        "算法",
-        "社区",
-        "工具"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-08T12:53:15.402Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "为追求信息自主权的用户提供工具和方法，减少算法依赖，提升信息获取质量，对内容消费者和创作者均有参考价值。",
-        "riskNotes": "具体产品体验和推荐效果未经验证，可能带有主观性，需用户自行判断。"
       }
     },
     {
