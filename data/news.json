@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T13:29:39.989Z",
+  "generatedAt": "2026-09-18T04:45:47.882Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 23
+    "reused": 24
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,33 +194,14 @@
       "priority": 89
     },
     {
-      "id": "3895fd4ae4c3",
-      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "id": "9b21b979aa58",
+      "title": "Code Scans",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://manticoresearch.com/blog/auto-chunking/",
-      "publishedAt": "2026-09-17T10:30:52.000Z",
-      "summary": "Article URL: https://manticoresearch.com/blog/auto-chunking/ Comments URL: https://news.ycombinator.com/item?id=49738766 Points: 33 # Comments: 4",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "96e95b323f03",
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "publishedAt": "2026-09-17T08:27:09.000Z",
-      "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 159 # Comments: 124",
+      "link": "https://devin.ai/blog/introducing-code-scans",
+      "publishedAt": "2026-09-18T03:00:40.000Z",
+      "summary": "Article URL: https://devin.ai/blog/introducing-code-scans Comments URL: https://news.ycombinator.com/item?id=49749744 Points: 8 # Comments: 1",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -234,71 +215,14 @@
       "priority": 79
     },
     {
-      "id": "96496462bc7a",
-      "title": "One Year of Sponsored Servo Development",
+      "id": "39b208522bb5",
+      "title": "Hacking OpenAI",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "publishedAt": "2026-09-17T08:13:54.000Z",
-      "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 184 # Comments: 83",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "7534ff610c3a",
-      "title": "CCC invites all model citizens to 40C3",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-      "publishedAt": "2026-09-17T08:03:54.000Z",
-      "summary": "Article URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/ Comments URL: https://news.ycombinator.com/item?id=49737787 Points: 75 # Comments: 8",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "6426decba2ef",
-      "title": "Cloudflare/Security-Audit-Skill",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/cloudflare/security-audit-skill",
-      "publishedAt": "2026-09-17T04:36:55.000Z",
-      "summary": "Article URL: https://github.com/cloudflare/security-audit-skill Comments URL: https://news.ycombinator.com/item?id=49736466 Points: 112 # Comments: 19",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "f7533cfa40f3",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://openspec.dev/",
-      "publishedAt": "2026-09-16T23:06:39.000Z",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 164 # Comments: 75",
+      "link": "https://www.hacktron.ai/blog/hacking-openai",
+      "publishedAt": "2026-09-18T02:47:24.000Z",
+      "summary": "Article URL: https://www.hacktron.ai/blog/hacking-openai Comments URL: https://news.ycombinator.com/item?id=49749656 Points: 100 # Comments: 31",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -312,94 +236,134 @@
       "priority": 79
     },
     {
-      "id": "5ce50f3de3a3",
-      "title": "华为智选车产品总监彭磊详解享界 V8 二排空间，新车全系标配电动招财猫座椅",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/833.htm",
-      "publishedAt": "2026-09-17T13:12:50.000Z",
-      "summary": "IT之家 9 月 17 日消息，鸿蒙智行今日公布享界 V8 车型的更多设计细节，包括超大侧滑门开度、二排座椅电动旋转等。 IT之家注意到，华为智选车产品总监（享界系列）彭磊今日发文，详细介绍了享界 V8 的二排空间。新车设计了 730mm 的超大侧滑门开度，且极其规整；340mm 超长 B 柱扶手 + 380mm 的超低地台高度， 宣称“不用钻，不用高抬腿，老人小孩也能轻松上下” 。 彭磊透露， 享界 V8 全系标配电动招财猫座椅 ，打",
+      "id": "82516777da54",
+      "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://byteshape.com/blogs/Qwen3.8-27B/",
+      "publishedAt": "2026-09-18T02:04:19.000Z",
+      "summary": "Article URL: https://byteshape.com/blogs/Qwen3.8-27B/ Comments URL: https://news.ycombinator.com/item?id=49749393 Points: 13 # Comments: 0",
       "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
       ],
       "tags": [],
       "trust": 58,
-      "opportunity": 67,
-      "priority": 70
+      "opportunity": 92,
+      "priority": 79
     },
     {
-      "id": "166f12f1d29c",
-      "title": "小鹏 G9L 正式上市：限时优惠价 23.18 万-29.98 万元，定位黄金大五座科技旗舰",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/832.htm",
-      "publishedAt": "2026-09-17T13:09:53.000Z",
-      "summary": "IT之家 9 月 17 日消息，小鹏 G9L 汽车今天（17 日）晚间正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择。 超级增程 1602 四驱 Ultra SE：25.98 万元，限时优惠价 24.98 万元 1602 四驱 Ultra 旗舰版：30.98 万元，限时优惠价 29.98 万元 纯电 702 Max：24.18 万元，限时优惠价 23.18 万元 660 四驱 Ultra SE：25.98 万元，限",
+      "id": "e74d5e729666",
+      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://askamonk.online",
+      "publishedAt": "2026-09-18T01:34:08.000Z",
+      "summary": "Article URL: https://askamonk.online Comments URL: https://news.ycombinator.com/item?id=49749171 Points: 17 # Comments: 7",
       "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "70f7c6e1bb77",
+      "title": "Telstra outage: The night a network decided the year was 2006",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+      "publishedAt": "2026-09-18T01:05:03.000Z",
+      "summary": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006 Comments URL: https://news.ycombinator.com/item?id=49748957 Points: 27 # Comments: 9",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "3195ca010f5c",
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "publishedAt": "2026-09-17T23:05:48.000Z",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash Comments URL: https://news.ycombinator.com/item?id=49747925 Points: 100 # Comments: 24",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
       ],
       "tags": [
         "AI"
       ],
       "trust": 58,
-      "opportunity": 67,
-      "priority": 70
+      "opportunity": 92,
+      "priority": 79
     },
     {
-      "id": "729af4072b66",
-      "title": "出于隐私安全考量，澳大利亚拟禁止在联邦办公场所使用智能眼镜",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/829.htm",
-      "publishedAt": "2026-09-17T13:02:49.000Z",
-      "summary": "IT之家 9 月 17 日消息，据彭博社报道，澳大利亚政府正在考虑禁止在联邦政府办公场所使用智能眼镜，理由是这类设备可能带来隐私和安全风险，尤其是用户可以在他人不知情的情况下进行录音、录像。 澳大利亚公共服务部长 Katy Gallagher 当地时间周四在一份声明中表示：“智能眼镜确实可能带来合理的隐私和安全问题，尤其是考虑到它们具备录制和采集信息的能力。我们需要为公务员制定明确且统一的使用规范。” 澳大利亚公共服务部门是该国最大的雇",
+      "id": "df8100882a1e",
+      "title": "How Uber Protects Against Retry Storms",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "publishedAt": "2026-09-17T21:14:32.000Z",
+      "summary": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/ Comments URL: https://news.ycombinator.com/item?id=49746628 Points: 70 # Comments: 30",
       "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "765a67e5a551",
-      "title": "《GTA 6》实体原声专辑公布：最高售价近 125 美元，超游戏终极版",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/826.htm",
-      "publishedAt": "2026-09-17T12:54:50.000Z",
-      "summary": "IT之家 9 月 17 日消息，Rockstar Games 最新公告确认，《GTA 6》将推出实体版原声专辑，其中最高规格版本售价接近 125 美元 （IT之家注：现汇率约合 840.3 元人民币）， 甚至高于售价 100 美元 （现汇率约合 672.2 元人民币） 的游戏的终极版。 《Grand Theft Auto 6: The Album》由 Rockstar Games 与 Atlantic Records 合作推出，共收录 ",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
       ],
       "tags": [
         "AI"
       ],
       "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "464df02c87db",
+      "title": "影视飓风 Tim 称苹果首款折叠屏手机 iPhone Duo 录视频烫到握不住，客服回应称单台测评片面",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/004/055.htm",
+      "publishedAt": "2026-09-18T04:02:16.000Z",
+      "summary": "IT之家 9 月 18 日消息，影视飓风创始人 Tim（潘天鸿）9 月 16 日晚发布了苹果首款折叠屏手机 iPhone Duo 的测评视频，称该机型在录制视频等高负载场景下发热严重，形容“烫到握不住，一边很凉一边可以煎鸡蛋”。 他在视频中表示，iPhone Duo 在日常使用时机身温度可控。但在苹果发布会现场持续录制约 3 分钟 4K 60 帧视频后，手机已烫到几乎无法握持。他称 iPhone Duo“是我测过最烫的手机之一”。 对于",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "先做 15 秒分镜，分别验证画面、口播和字幕",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "视频"
+      ],
+      "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "a2ceaebf25cb",
-      "title": "华为 Mate 80 系列手机获 HarmonyOS 7.0.0.107SP8 升级，优化相机、控制中心等使用体验",
+      "id": "17b89d401f27",
+      "title": "机械大师预热双舱弯玻海景房机箱 CR680，支持右侧透倒置模式",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/825.htm",
-      "publishedAt": "2026-09-17T12:47:38.000Z",
-      "summary": "IT之家 9 月 17 日消息，华为今日面向 Mate 80 系列手机率先开启了 HarmonyOS 7.0.0.107 SP8 升级，系统包大小约 0.97GB。据介绍，新版本优化了相机、控制中心等场景的使用体验。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家附华为 Mate 80 系列等机型此次更新内容如下： 显示 优化控制中心、文件管理等界面部分图标显示效果。 音频 优化部分场景音频使用体验。 相机",
+      "link": "https://www.ithome.com/1/004/054.htm",
+      "publishedAt": "2026-09-18T03:53:15.000Z",
+      "summary": "IT之家 9 月 18 日消息，方糖机械大师 (Mechanic Master) 今日宣布将于 2026 年 10 月推出 CROWN“皇冠”系列的首款机箱产品 CR680。 CR680 整体采用左右分舱 + 两片式曲面玻璃组的“海景房”侧透设计，外观干净利落， 拥有“皇冠造型”上下支撑 。其除标准左侧透模式外也 原生支持翻转倒置的右侧透模式 ，放置更为灵活。 该机箱顶部为透气格栅， 支持面板免工具快拆 ；兼容背插主板，可容纳 2 组 ",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -411,14 +375,54 @@
       "priority": 70
     },
     {
-      "id": "8f68069c0a84",
-      "title": "“紧急关闭”按钮真能阻止 AI 失控？“AI 教父”辛顿、Anthropic CEO 阿莫迪都不看好",
+      "id": "13b204fe223b",
+      "title": "张雪机车官宣 2026 中国摩博会“五车齐发”，首款巡航、ADV 摩托车将至",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/004/053.htm",
+      "publishedAt": "2026-09-18T03:40:51.000Z",
+      "summary": "IT之家 9 月 18 日消息，第二十四届中国国际摩托车博览会（简称 2026 中国摩博会）将于 2026 年 9 月 19 日-22 日在重庆国际博览中心举行，参展企业逾 1,000 家，展示规模和展商数均创历史新高。 张雪机车今日宣布，将在 2026 中国摩博会“五车齐发”， 推出 820X、600V、500F-2027、820RR-RS、820RR-RC 五款摩托车 。 网上已经流传出张雪 820X 摩托车的实车图， 这是一款 A",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "ce6cf3b6b28c",
+      "title": "让 Agent 读懂你的身体：数据获取篇",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+      "publishedAt": "2026-09-18T03:19:13.000Z",
+      "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "画出触发器、数据、决策和输出四段流程",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "cde6d0915e0e",
+      "title": "消息称特斯拉 AI5 芯片已在三星得州工厂试产，采用 2nm 工艺",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/820.htm",
-      "publishedAt": "2026-09-17T12:21:49.000Z",
-      "summary": "IT之家 9 月 17 日消息，如今，“AI 突然失控发动毁灭性网络攻击”的潜在情景正日益引起行业重视，如果按下“紧急关闭”开关让 AI 直接下线，问题看似就能得到解决。然而，多名 AI 行业领袖和研究人员认为，现实恐怕没这么简单。 据《商业内幕》今天（17 日）晚间报道，一些政策制定者寄予厚望的紧急关闭开关，未必能成为解决 AI 失控风险的万能手段。 被称为“AI 教父”的计算机科学家杰弗里 · 辛顿直言：“我认为这种办法 从长远来看",
+      "link": "https://www.ithome.com/1/003/999.htm",
+      "publishedAt": "2026-09-18T03:13:39.000Z",
+      "summary": "IT之家 9 月 18 日消息，据首尔经济日报报道，业内消息称三星电子已在美国得克萨斯州泰勒的代工厂开始原型生产，向特斯拉提供 AI5 芯片。 泰勒工厂原定于 11 月左右全面投产，但由于大型科技公司对 AI 芯片的需求激增，三星提前了原型产量以开始良率验证， 计划在今年年底完成大规模生产验证，并于明年全面供应 。 半导体行业消息人士 15 日表示，三星泰勒工厂最近开始采用 2nm 工艺生产晶圆， 进入 AI5 芯片的原型阶段 。工厂内",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -426,72 +430,6 @@
       ],
       "tags": [
         "AI",
-        "政策"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "a7d95d4b8b29",
-      "title": "丰田确认将于 2028 年推出氢燃料电池皮卡，续航约 400 公里",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/813.htm",
-      "publishedAt": "2026-09-17T12:08:06.000Z",
-      "summary": "IT之家 9 月 17 日消息，丰田旗下热门皮卡 Hilux 将于 2028 年推出氢燃料电池版本，该公司本周早些时候确认了这一消息。全新 Hilux FCEV 将成为欧洲市场首款量产销售的氢燃料电池中型皮卡，并将与纯电动版和轻度混合动力版 Hilux 一同销售。 这款量产氢燃料电池皮卡将采用与 Mirai 轿车类似的动力系统，加氢大约只需 5 分钟，明显快于 Hilux 纯电动版从 10% 充至 80% 所需的 30 分钟。此外，丰田",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "3ddd35c739ee",
-      "title": "为何很多常用 App 无法通过 GUI 进行操作？豆包手机助手回应",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/812.htm",
-      "publishedAt": "2026-09-17T12:03:55.000Z",
-      "summary": "IT之家 9 月 17 日消息，今日，豆包手机助手发布答网友问，表示手机助手目前支持系统应用、中兴应用、字节系应用及部分已接入的第三方应用，其他应用暂时无法进行 GUI 操作。 豆包手机助手称，其于 9 月 14 日推出了屏幕自动化操作声明协议，并启动了为期 30 天的规则公示。第三方应用可自主声明操作边界，明确允许或拒绝 AI 助手在其应用内进行屏幕自动化操作。公示期内（即 10 月 15 日前），未许可应用将无法进行自动化操作（含 ",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "自动化"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "7534bdb8ac79",
-      "title": "借助 GPT Astra，开发者实现在《我的世界》中原生运行《使命召唤：黑色行动 2》",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/809.htm",
-      "publishedAt": "2026-09-17T11:46:58.000Z",
-      "summary": "IT之家 9 月 17 日消息，一位热衷于人工智能和游戏开发的开发者近日展示了一个有趣的项目：经典射击游戏《使命召唤：黑色行动 2》（Call of Duty: Black Ops 2）的“Hijacked”地图如今可以原生运行在《我的世界》中。 IT之家注意到，Luckey Faraday 在 X（原 Twitter）发文介绍称，他们此前曾制作过一个基于浏览器运行的《黑色行动 2》移植版本。最初，他们将这套程序嵌入《我的世界》，让游戏",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "视频",
         "机器人"
       ],
       "trust": 58,
@@ -499,14 +437,58 @@
       "priority": 70
     },
     {
-      "id": "43bd8cd55706",
-      "title": "OpenAI 最新报告：企业员工用上 AI 后，逐渐开始处理本职范围外的任务",
+      "id": "bdadf2306a33",
+      "title": "AI 需求一浪叠一浪，美光高管称有意义的内存新增供应 2028 年才开始爬坡、存储行业何时恢复供需平衡仍难以确定",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/808.htm",
-      "publishedAt": "2026-09-17T11:43:03.000Z",
-      "summary": "IT之家 9 月 17 日消息，当地时间 16 日，OpenAI 发布的最新《工作前沿》报告显示，企业能否真正用好 AI，不只取决于员工有没有 AI 工具，也取决于 工作本身如何拆分和安排 。 员工借助 AI 处理本职范围之外的任务后，其中一些任务会逐渐进入日常工作流程。如果这些活动最终变成固定职责，即使职位名称没有变化， 实际工作内容也可能越来越宽 。 OpenAI 曾在首份《工作前沿》报告提出了“任务跨界”现象：员工借助 AI 处理",
+      "link": "https://www.ithome.com/1/003/994.htm",
+      "publishedAt": "2026-09-18T03:05:47.000Z",
+      "summary": "IT之家 9 月 18 日消息，当地时间 9 月 15 日，美光科技 CEO 高级顾问、前执行副总裁兼首席商务官苏米特 · 萨达纳（Sumit Sadana）出席 Six Five Summit 2026 半导体专题论坛，与分析师 Patrick Moorhead 就存储行业供需格局、商业模式变化及 AI 时代产能扩张难题展开对话。 萨达纳表示，当前内存短缺已覆盖所有市场领域，并非局限于个别高端产品。客户需求仍在向上修正，美光每年从客户",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "60d1d9f9eaed",
+      "title": "微软 Azure CTO 惊叹 AI 能力：30 分钟跨平台移植基础功能、2 天实现约 90% 功能",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/003/992.htm",
+      "publishedAt": "2026-09-18T03:02:05.000Z",
+      "summary": "IT之家 9 月 18 日消息，科技媒体 Windows Latest 昨日（9 月 17 日）发布博文，报道称微软 Azure 首席技术官马克 · 鲁西诺维奇（Mark Russinovich）在 AI 技术的帮助下， 仅用 2 天时间就成功将拥有 20 年历史的 Windows 工具移植到苹果 macOS 平台，并表示“我当时简直惊呆了”（I was flabbergasted）。 IT之家援引博文介绍，本次移植的 Windows ",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "e50ceb23b09f",
+      "title": "美国联邦法官驳回 OpenAI 请求，苹果无需公布与 SpaceXAI 和解协议",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/003/977.htm",
+      "publishedAt": "2026-09-18T02:47:21.000Z",
+      "summary": "IT之家 9 月 18 日消息，据外媒 POLITICO 报道，美国得克萨斯州联邦法院法官 Mark Pittman 当地时间昨日驳回了 OpenAI 的一项动议， Apple（苹果）无需公布与 SpaceXAI 达成的保密反垄断诉讼和解协议 。 法官在裁决中表示，尽管此前有公布保密和解协议的先例，但这种情况的前提是其包含与诉讼具体待决争议点相关的信息，而法院在闭门审查中认为 SpaceXAI 与苹果的和解协议中不存在 SpaceXAI",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -520,58 +502,56 @@
       "priority": 70
     },
     {
-      "id": "6ac000cdb860",
-      "title": "国际人工智能机构负责人：中国是 AI 领域领先国家，期待中国引领国际合作",
+      "id": "9f059c2a886b",
+      "title": "安克 AI 会议耳机开启预售：联合飞书打造、深度集成转写 / 翻译功能，1799 元",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/801.htm",
-      "publishedAt": "2026-09-17T11:28:50.000Z",
-      "summary": "IT之家 9 月 17 日消息，据新华社今天（17 日）晚间报道，第四届全球人工智能伦理论坛正在沙特阿拉伯首都利雅得举行，国际 AI 研究与伦理中心（ICAIRE）代理主任马吉德 · 阿里 · 谢赫里在会议期间表示， 中国是 AI 领域领先国家，期待中国在推动 AI 创新与监管相平衡等方面引领国际合作 。 谢赫里在接受新华社记者采访时说，全球对于 AI 治理的基本原则已形成一定共识，一些国家制定了本国的伦理规范、监管框架和指导原则，当前",
+      "link": "https://www.ithome.com/1/003/963.htm",
+      "publishedAt": "2026-09-18T02:37:57.000Z",
+      "summary": "IT之家 9 月 18 日消息，安克与飞书联合打造的“安克 AI 会议耳机”现已在京东开启预售， 定价为 1799 元 ，首发国补后低至 1376.23 元。 京东 安克 AI 会议耳机 1799 元 点此访问 该耳机主体采用轻盈贴耳的入耳式造型，满足长时间佩戴的舒适度需求。其配套的充电盒正面嵌有一块 1.78 英寸的触控屏幕，用户可以直接通过该屏幕随手掌控并调节设备各项功能，整体设计紧凑便携。 该耳机内置 Anker Thus AI ",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
         "记录成本、耗时和可复用模板"
       ],
       "tags": [
-        "AI",
-        "政策"
+        "AI"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "66eda1f8cee3",
-      "title": "数据中心建设持续面临民众阻力，硅谷最大城市圣何塞也不例外",
+      "id": "d05fd168e074",
+      "title": "微软承认 Microsoft Edge 浏览器 153 版本出现网页应用卡死问题，建议用户临时降级解决",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/793.htm",
-      "publishedAt": "2026-09-17T10:41:18.000Z",
-      "summary": "IT之家 9 月 17 日消息，据路透社今天（17 日）傍晚报道，硅谷最大城市圣何塞正面临一场围绕数据中心的争议。当地政府希望通过引入一批新项目，把圣何塞打造为 AI 基础设施中心，但居民和环保团体 纷纷组织起来反对这些计划 。 这场争议折射出美国各地政策制定者共同面对的难题：一方面，政商界普遍把 AI 产业视为维持经济竞争力的重要领域；另一方面，为 AI 提供算力的数据中心需要大量电力和水资源，还可能带来污染，公众对此越来越担忧。 这",
+      "link": "https://www.ithome.com/1/003/950.htm",
+      "publishedAt": "2026-09-18T02:25:53.000Z",
+      "summary": "IT之家 9 月 18 日消息，据外媒 Windows Central 报道，近期有不少用户吐槽微软 Edge 浏览器 153 版本出现网页应用卡死问题，导致浏览器窗口停止响应。目前微软已经承认相应问题，并建议受影响用户暂时回退至 Edge 152 版本。 外媒表示，对于依赖网页应用办公的用户而言，这一问题可能带来较大影响。Slack、Airtable 等服务都可以直接通过浏览器使用网页应用，而部分 Windows 平台服务甚至主要依赖",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
         "记录成本、耗时和可复用模板"
       ],
       "tags": [
-        "AI",
-        "政策"
+        "AI"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "480c77bc6d40",
-      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+      "id": "827ee1eed974",
+      "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
       "category": "ai",
       "source": "少数派",
       "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/114658",
-      "publishedAt": "2026-09-17T00:25:30.000Z",
-      "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。 查看全文",
+      "link": "https://sspai.com/post/114699",
+      "publishedAt": "2026-09-18T00:17:34.000Z",
+      "summary": "少数派的近期动态口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解八月买了什 ... 查看全文",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -649,34 +629,120 @@
       }
     },
     {
-      "id": "bff57b516eb2",
-      "title": "黄仁勋：英伟达明年芯片销量将是今年的两倍",
+      "id": "480c77bc6d40",
+      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+      "category": "ai",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/114658",
+      "publishedAt": "2026-09-17T00:25:30.000Z",
+      "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。 查看全文",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 65,
+      "priority": 67
+    },
+    {
+      "id": "259241798555",
+      "title": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/831.htm",
-      "publishedAt": "2026-09-17T13:08:04.000Z",
-      "summary": "黄仁勋称英伟达2027年芯片销量预计约为2026年两倍，并强调AI安全至关重要。",
+      "link": "https://www.ithome.com/1/004/049.htm",
+      "publishedAt": "2026-09-18T03:34:25.000Z",
+      "summary": "阿里上线Qwen3.8-Omni-Flash全模态模型，可处理文本、图像、音频、视频，支持1M上下文，百万Token图文音视频输入0.8元。",
       "actionSteps": [
-        "关注英伟达后续财报与官方指引，验证该预测",
-        "评估自身AI算力采购或云成本的中期规划",
-        "跟踪AI监管与安全合规要求变化，提前准备应对"
+        "在千问平台核实定价与上下文限制",
+        "用自有业务数据做小规模效果对比测试",
+        "评估多模态场景的合规与数据安全要求"
       ],
       "tags": [
-        "英伟达",
-        "AI算力",
-        "芯片"
+        "Qwen",
+        "全模态模型",
+        "阿里",
+        "API定价"
       ],
-      "trust": 50,
+      "trust": 60,
+      "opportunity": 70,
+      "priority": 60,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "更低的多模态调用成本可能降低企业做音视频理解、内容审核和智能客服的门槛，开发者可评估替换现有模型方案。",
+        "riskNotes": "价格与评测数据来自IT之家转述阿里官方，需在千问平台核实实际计费规则、限速与能力边界；30项评测细节未公开。"
+      }
+    },
+    {
+      "id": "eb7a22d82edd",
+      "title": "苹果详解 Safari 27 浏览器升级：解决阅读“乱跳”，修复 844 个问题",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/004/056.htm",
+      "publishedAt": "2026-09-18T04:12:53.000Z",
+      "summary": "苹果更新WebKit博文，介绍Safari 27新增MCP协议支持，可让Claude Code等AI工具控制浏览器、读取DOM，并修复844个问题。",
+      "actionSteps": [
+        "查阅苹果WebKit官方博文核实MCP支持细节",
+        "评估现有网页自动化流程是否可迁移至该能力",
+        "关注浏览器权限与数据安全风险并制定应对"
+      ],
+      "tags": [
+        "Safari",
+        "MCP",
+        "浏览器自动化",
+        "开发者"
+      ],
+      "trust": 60,
       "opportunity": 55,
       "priority": 50,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-17T13:29:39.988Z",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若预测成立，AI算力需求仍处扩张期，相关产业链、云服务与AI应用成本可能受影响。",
-        "riskNotes": "为企业高管公开表态，非官方财报指引；销量翻倍为前瞻性预测，存在不确定性，需以英伟达财报为准。"
+        "whyItMatters": "浏览器向AI工具开放控制能力，可能改变网页自动化、数据抓取和前端测试方式，开发者与做自动化业务的企业需关注兼容与安全边界。",
+        "riskNotes": "信息源自IT之家转述苹果WebKit博文，非官方原文；MCP具体权限范围、安全机制、是否默认开启均未说明，需查证苹果官方文档。"
+      }
+    },
+    {
+      "id": "880cdf379d6f",
+      "title": "赛力斯副总裁康波：问界将择机进入轿车、MPV 及其他有竞争力的产品市场",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/004/060.htm",
+      "publishedAt": "2026-09-18T04:36:45.000Z",
+      "summary": "赛力斯副总裁康波回应问界规划，称将择机进入轿车、MPV及其他有竞争力市场，并强调持续经营好现有M5至M9大单品。",
+      "actionSteps": [
+        "跟踪赛力斯官方公告与新车发布节奏",
+        "评估目标细分市场竞争格局与自身定位",
+        "关注鸿蒙智行合作模式变化对渠道的影响"
+      ],
+      "tags": [
+        "问界",
+        "赛力斯",
+        "新能源汽车",
+        "产品规划"
+      ],
+      "trust": 55,
+      "opportunity": 45,
+      "priority": 45,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "问界若扩展轿车与MPV，将加剧相关细分市场竞争，影响消费者购车选择、经销商布局及供应链企业的订单预期。",
+        "riskNotes": "内容为高管公开表态，属意向性表述，无具体时间表、车型或产能数据；来源为IT之家转述，需以赛力斯官方公告为准。"
       }
     },
     {
@@ -711,6 +777,68 @@
       }
     },
     {
+      "id": "96a659ef0435",
+      "title": "微软解释为何点击 Win11 关机操作并不等同于彻底关机",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/004/059.htm",
+      "publishedAt": "2026-09-18T04:35:50.000Z",
+      "summary": "媒体挖掘微软支持文档指出，Win11启用快速启动后点击关机并非彻底关机，系统内核会话未完全结束，属混合关机机制。",
+      "actionSteps": [
+        "查阅微软官方快速启动支持文档",
+        "按需调整电源设置或执行完全关机",
+        "在企业镜像与运维流程中说明该差异"
+      ],
+      "tags": [
+        "Windows 11",
+        "快速启动",
+        "系统维护"
+      ],
+      "trust": 55,
+      "opportunity": 25,
+      "priority": 35,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "影响普通用户对关机耗电、系统更新生效和故障排查的理解，企业IT在部署与维护时需注意该机制带来的行为差异。",
+        "riskNotes": "信息经Windows Latest转述微软支持文档，非直接引用原文；不同硬件与设置下表现可能不同，需查证微软官方文档。"
+      }
+    },
+    {
+      "id": "92da7fae00b8",
+      "title": "How to Write with an LLM",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "publishedAt": "2026-09-17T21:48:38.000Z",
+      "summary": "Hacker News热帖推荐一篇关于如何用大语言模型写作的文章，获得63点、56条评论，讨论LLM辅助写作方法。",
+      "actionSteps": [
+        "阅读原文并提炼可复用写作方法",
+        "在小范围写作任务中试用并对比效果",
+        "关注评论区对局限与风险的讨论"
+      ],
+      "tags": [
+        "LLM写作",
+        "内容创作",
+        "效率工具"
+      ],
+      "trust": 40,
+      "opportunity": 50,
+      "priority": 35,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对内容创作者、营销和知识工作者有参考价值，可了解LLM写作的实用技巧与社区争议，提升日常文本生产效率。",
+        "riskNotes": "仅有标题与链接，无正文摘要；文章观点与方法未经核实，社区评论不代表权威结论，需自行阅读原文判断适用性。"
+      }
+    },
+    {
       "id": "b525b0b8e06d",
       "title": "Meet the innovators under 35 shaping climate tech",
       "category": "industry",
@@ -742,127 +870,34 @@
       }
     },
     {
-      "id": "befb38f3c833",
-      "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
+      "id": "242e54aa5864",
+      "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
       "category": "knowledge",
       "source": "少数派",
       "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/114565",
-      "publishedAt": "2026-09-15T07:00:00.000Z",
-      "summary": "少数派体验iOS 27后整理值得关注的新功能与特性，帮助用户了解新版系统变化。",
+      "link": "https://sspai.com/post/114670",
+      "publishedAt": "2026-09-18T03:30:00.000Z",
+      "summary": "少数派文章细数watchOS 27新变化，包括动态应用网格、智能叠放等功能，面向Apple Watch用户介绍值得了解的更新。",
       "actionSteps": [
-        "对照苹果官方更新说明核实关键功能",
-        "列出与自身常用App相关的适配点",
-        "升级前备份并观察首批用户反馈"
+        "核对苹果官方watchOS更新说明",
+        "评估新功能对自身使用习惯的实际价值",
+        "关注常用App的兼容与适配情况"
       ],
       "tags": [
-        "iOS",
-        "系统更新",
-        "用户体验"
+        "watchOS",
+        "Apple Watch",
+        "系统更新"
       ],
-      "trust": 60,
+      "trust": 50,
       "opportunity": 30,
-      "priority": 35,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-15T13:35:02.166Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "普通用户可据此判断是否值得升级、哪些新功能能提升日常效率；开发者可关注系统变化对应用适配的影响。",
-        "riskNotes": "属媒体体验稿而非苹果官方发布说明，功能细节与正式版可能存在差异，需以官方文档为准。"
-      }
-    },
-    {
-      "id": "b331a636c10b",
-      "title": "华为 MatePad Mini 平板获鸿蒙 HarmonyOS 7.0.0.107 更新，新增直连供电功能",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/835.htm",
-      "publishedAt": "2026-09-17T13:26:58.000Z",
-      "summary": "华为MatePad Mini获鸿蒙HarmonyOS 7.0.0.107更新，新增直连供电功能以降低设备发热。",
-      "actionSteps": [
-        "在设备设置中检查是否有该版本更新推送",
-        "升级前备份数据并确保电量充足",
-        "升级后实测直连供电功能，确认发热与续航变化"
-      ],
-      "tags": [
-        "华为",
-        "鸿蒙",
-        "平板更新"
-      ],
-      "trust": 55,
-      "opportunity": 25,
       "priority": 30,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-17T13:29:39.988Z",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对已购用户，直连供电可在游戏等高负载场景减少发热，属体验优化；对行业是鸿蒙生态持续迭代的信号。",
-        "riskNotes": "来源为科技媒体转述，非华为官方公告；更新包大小、功能生效条件等细节需以官方更新说明为准。"
-      }
-    },
-    {
-      "id": "4ce39b37f4f0",
-      "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://flat.social",
-      "publishedAt": "2026-09-17T12:57:09.000Z",
-      "summary": "开发者在Hacker News展示flat.social，一款基于3D空间的多人在线会议应用，面向远程团队与社群。",
-      "actionSteps": [
-        "访问flat.social官网或演示，实测其空间会议体验",
-        "对比现有远程会议工具，评估是否适合团队场景",
-        "若考虑采用，先小范围试点并关注数据隐私与账号安全条款"
-      ],
-      "tags": [
-        "远程协作",
-        "3D会议",
-        "效率工具"
-      ],
-      "trust": 40,
-      "opportunity": 50,
-      "priority": 30,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-17T13:29:39.989Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "远程协作工具持续细分，空间化会议可能改善团队互动体验，中小团队可低成本试用此类新工具。",
-        "riskNotes": "仅为开发者自述的产品发布帖，无第三方评测、用户规模或商业模式数据，功能与稳定性未经核实。"
-      }
-    },
-    {
-      "id": "96721dd73996",
-      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://news.ycombinator.com/item?id=49738879",
-      "publishedAt": "2026-09-17T10:44:49.000Z",
-      "summary": "Neovim网站比特币捐赠地址自2023年起收到约10枚比特币、价值约80万美元，至今未被动用。",
-      "actionSteps": [
-        "查阅Neovim官方渠道，确认该捐赠地址与资金状态",
-        "若为捐赠者，优先选择项目公开透明的捐赠渠道",
-        "关注开源项目资金治理与披露机制，作为支持决策参考"
-      ],
-      "tags": [
-        "开源",
-        "加密货币",
-        "捐赠"
-      ],
-      "trust": 35,
-      "opportunity": 30,
-      "priority": 25,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-17T13:29:39.989Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "反映开源项目接受加密货币捐赠后的资金管理问题，也提示捐赠者关注资金是否被有效使用。",
-        "riskNotes": "信息来自Hacker News用户观察，非Neovim官方声明；金额按当时币价估算，私钥是否可访问、资金归属均未证实。"
+        "whyItMatters": "帮助Apple Watch用户了解系统更新带来的交互与功能变化，判断是否值得升级，也影响配件与应用开发者的适配方向。",
+        "riskNotes": "来源为少数派媒体文章，非苹果官方发布；功能名称与细节可能随正式版调整，需以苹果官方更新说明为准。"
       }
     },
     {
@@ -925,37 +960,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对产品经理与普通用户是产品设计反思素材：理解功能取舍、迁移成本与用户情感如何影响产品成败，不构成直接商业机会。",
         "riskNotes": "属个人体验与怀旧评论，非行业数据或官方信息；文中对旧版Edge的评价带有主观性，不能代表整体用户或市场结论。"
-      }
-    },
-    {
-      "id": "a8aae5f6cb33",
-      "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/114613",
-      "publishedAt": "2026-09-15T09:00:00.000Z",
-      "summary": "少数派社区速递第158期，推荐便宜耐造的副厂手柄及大学宿舍实用装备，属消费内容聚合。",
-      "actionSteps": [
-        "查看原文获取具体产品型号",
-        "在电商平台比价并查看真实评价",
-        "结合自身需求判断是否购买"
-      ],
-      "tags": [
-        "消费",
-        "外设",
-        "社区"
-      ],
-      "trust": 45,
-      "opportunity": 25,
-      "priority": 20,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-15T13:35:02.166Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "为学生与预算用户提供性价比外设参考，但推荐主观性强，需自行比价验证。",
-        "riskNotes": "内容为社区投稿聚合，非专业评测，产品耐用性与质量缺乏系统数据支撑。"
       }
     },
     {
@@ -1177,23 +1181,24 @@
       }
     },
     {
-      "id": "f2342e818dee",
-      "title": "9 月 23 日见：全新吉利银河 E5 官宣搭载全栈 800V 高压平台，峰值 6C 超充倍率",
-      "category": "ai",
+      "id": "6a0ed81caad7",
+      "title": "赛力斯康波回应“问界品牌专属专营”是否影响“含华量”：问界将有华为最新、最好、最实用的技术、产品以及供应保障",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/834.htm",
-      "publishedAt": "2026-09-17T13:16:44.000Z",
-      "summary": "吉利银河宣布全新E5将于9月23日亮相，搭载全栈800V高压平台、峰值6C超充倍率、激光雷达及千里浩瀚辅助驾驶H5方案，同日发布新一代AI智充技术。",
+      "link": "https://www.ithome.com/1/004/058.htm",
+      "publishedAt": "2026-09-18T04:30:19.000Z",
+      "summary": "赛力斯副总裁康波回应问界品牌专属专营，称问界仍将获得华为最新、最好、最实用的技术、产品与供应保障。",
       "actionSteps": [
-        "关注9月23日发布会获取完整参数和价格",
-        "核对工信部申报信息验证配置",
-        "对比同价位车型的充电和智驾方案"
+        "查阅鸿蒙智行与问界 9 月 15 日官方说明原文",
+        "关注华为方面是否发布对应口径",
+        "购车前向门店确认售后与渠道归属"
       ],
       "tags": [
-        "新能源汽车",
-        "超充",
-        "智能驾驶"
+        "问界",
+        "赛力斯",
+        "华为",
+        "渠道调整"
       ],
       "trust": 3,
       "opportunity": 2,
@@ -1201,72 +1206,106 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-17T13:29:39.988Z",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对关注新能源车的消费者，800V平台和6C超充意味着充电速度可能显著提升，激光雷达和智驾方案影响购车决策，可关注发布会实际参数。",
-        "riskNotes": "信息来自厂商官微和媒体转述，具体续航、价格、智驾实际能力及6C超充的配套条件尚未公布，需以发布会和工信部申报信息为准。"
+        "whyItMatters": "问界合作模式调整关系到车主售后、渠道与保值率，也影响关注华为汽车生态的消费者与供应链企业的判断。",
+        "riskNotes": "内容为赛力斯高管单方回应，属企业表态而非华为官方联合声明；专属专营的具体权责、渠道划分与执行细则未披露。"
       }
     },
     {
-      "id": "18250720ae8f",
-      "title": "OPPO 创始人陈明永谈 AI 焦虑：行业过度强调提效工具属性，其实没理解 AI 的本质",
+      "id": "52c350a1148a",
+      "title": "12306 客服回应国庆高铁票涨价：日常票价有折扣，节假日有浮动是正常的",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/004/057.htm",
+      "publishedAt": "2026-09-18T04:23:06.000Z",
+      "summary": "网友反映国庆期间部分高铁票价上涨，12306 客服回应称日常票价有折扣、节假日浮动属正常。",
+      "actionSteps": [
+        "在 12306 官方渠道查询目标车次实际票价",
+        "对比临近日期与不同车次价格择低出行",
+        "关注铁路部门关于票价浮动的官方说明"
+      ],
+      "tags": [
+        "高铁",
+        "票价",
+        "国庆出行",
+        "12306"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "直接影响国庆出行成本，旅客需提前比价与规划；也反映高铁票价市场化浮动机制对预算的影响。",
+        "riskNotes": "客服回应为媒体转述，非铁路部门正式公告；具体浮动规则、上限与适用车次未明确，个别车次涨价不代表全线普涨。"
+      }
+    },
+    {
+      "id": "a9e71ddf962d",
+      "title": "讯飞 AI 录音卡上架：支持 10 种外语翻译、30 小时续航，999 元",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/003/814.htm",
-      "publishedAt": "2026-09-17T12:08:42.000Z",
-      "summary": "OPPO创始人陈明永在内部谈话中表示，行业过度强调AI的提效工具属性，认为AI本质是释放生产力与创造力，而非替代人，应思考AI能否解决过去解决不了的难题。",
+      "link": "https://www.ithome.com/1/004/040.htm",
+      "publishedAt": "2026-09-18T03:31:49.000Z",
+      "summary": "科大讯飞在京东上架 AI 录音卡，定价 999 元，主打会议记录，支持 10 种外语翻译与 30 小时续航。",
       "actionSteps": [
-        "梳理自身业务中AI可解决的历史难题清单",
-        "评估现有AI项目是否过度聚焦提效而忽视创新",
-        "关注OPPO后续官方AI战略发布以验证方向"
+        "在京东商品页核对官方参数与售后条款",
+        "查看第三方实测的转写与翻译准确率",
+        "对比同类录音笔与手机自带转写功能的性价比"
       ],
       "tags": [
-        "AI战略",
-        "企业观点",
-        "生产力"
+        "科大讯飞",
+        "AI硬件",
+        "会议记录",
+        "翻译"
       ],
-      "trust": 2,
-      "opportunity": 2,
+      "trust": 3,
+      "opportunity": 3,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-17T13:29:39.988Z",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对企业和个人而言，这提示AI应用不应只盯着降本增效，更值得关注产品创新和创造力释放，可能影响企业AI投入方向和岗位规划思路。",
-        "riskNotes": "内容源自内部谈话经媒体转述，非官方正式战略文件，具体落地举措和投入方向未披露，需以OPPO官方后续表态为准。"
+        "whyItMatters": "面向会议记录与跨语言沟通的轻量硬件，对经常开会、做纪要或涉外沟通的职场人有直接使用价值，999 元属中端定价。",
+        "riskNotes": "信息来自 IT 之家转述电商上架页，翻译准确率、录音转写质量、续航实测均未验证；未提及数据存储与隐私合规细节。"
       }
     },
     {
-      "id": "1990b508cd2f",
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://ryan.science/blog/keys-not-included",
-      "publishedAt": "2026-09-17T03:03:23.000Z",
-      "summary": "有技术文章探讨如何恢复美国驾照条码的签名密钥，属安全研究范畴，HN 讨论热度中等。",
+      "id": "abe05d438b54",
+      "title": "荣耀发布行业解决方案品牌荣耀天工，多款硬件亮相",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/004/037.htm",
+      "publishedAt": "2026-09-18T03:30:38.000Z",
+      "summary": "荣耀在 2026 全球开发者大会发布行业解决方案品牌荣耀天工，覆盖软硬件，含 AI 工作站、商用笔记本与智能体平台等。",
       "actionSteps": [
-        "阅读原文确认涉及的具体州与条码标准",
-        "评估自身业务是否依赖同类条码核验",
-        "关注是否有官方安全公告或漏洞披露"
+        "访问荣耀天工官网核对产品清单与参数",
+        "向荣耀渠道询价并索取试用方案",
+        "对比其他厂商同类企业级 AI 方案"
       ],
       "tags": [
-        "信息安全",
-        "身份验证",
-        "驾照条码"
+        "荣耀",
+        "企业级AI",
+        "工作站",
+        "解决方案"
       ],
-      "trust": 2,
-      "opportunity": 2,
+      "trust": 3,
+      "opportunity": 3,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-17T04:55:15.644Z",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "驾照条码若签名可被伪造，可能影响身份核验场景；对从事安全、身份验证或合规业务的企业有参考价值。",
-        "riskNotes": "仅凭标题与链接无法确认技术细节、是否涉及真实密钥泄露或法律风险，需阅读原文并核实是否已通报相关机构。"
+        "whyItMatters": "面向企业级市场的软硬件方案，可能影响企业采购 AI 工作站、商用终端与智能体平台的选型。",
+        "riskNotes": "信息来自 IT 之家对发布会的转述，产品规格、价格、交付时间与客户案例均未在摘要中给出；需以荣耀官方渠道为准。"
       }
     },
     {
@@ -1427,23 +1466,24 @@
       }
     },
     {
-      "id": "22ab75e09cce",
-      "title": "My AI agent gets his own calendar",
+      "id": "b38892ce5b71",
+      "title": "Waymo in Singapore",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/",
-      "publishedAt": "2026-09-17T13:00:38.000Z",
-      "summary": "Hacker News上一位作者分享为个人AI agent配置独立日历的实践文章，探讨让AI代理管理日程的思路。",
+      "link": "https://waymo.com/waymo-in-singapore/",
+      "publishedAt": "2026-09-18T03:49:24.000Z",
+      "summary": "Hacker News 出现指向 Waymo 官网新加坡页面的链接，标题为 Waymo in Singapore，但摘要未含任何官方公告细节。",
       "actionSteps": [
-        "阅读原文了解其日历集成实现方式",
-        "评估自身日程管理场景是否适合引入AI代理",
-        "注意权限与隐私风险后再做小范围试验"
+        "打开 Waymo 官网新加坡页面核实是否为一手公告",
+        "检索新加坡陆路交通管理局是否有对应批准文件",
+        "在官方确认前不据此调整出行或投资决策"
       ],
       "tags": [
-        "AI代理",
-        "效率工具",
-        "个人实践"
+        "自动驾驶",
+        "Waymo",
+        "新加坡",
+        "待核实"
       ],
       "trust": 1,
       "opportunity": 2,
@@ -1451,10 +1491,42 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-09-17T13:29:39.989Z",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对开发者和效率工具爱好者有启发，展示个人AI代理从对话走向实际任务管理的可能路径，可借鉴用于个人或小团队自动化。",
-        "riskNotes": "来源为个人博客和论坛帖子，非成熟产品或商业方案，热度较低（6分0评论），实际效果和安全性未经广泛验证。"
+        "whyItMatters": "若 Waymo 真在新加坡落地，将影响当地出行、网约车与自动驾驶就业；但目前仅一条链接，对普通人和企业暂无实际可行动影响。",
+        "riskNotes": "仅有标题与链接，无官方新闻稿、监管批准或运营时间表；Waymo 官网页面内容未核实，不能据此判断已商业化运营。"
+      }
+    },
+    {
+      "id": "a8f3ae56fe11",
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://linguisticdiscovery.com/posts/pre-greek/",
+      "publishedAt": "2026-09-18T03:04:38.000Z",
+      "summary": "Hacker News 分享一篇关于前希腊语的文章，称其为隐藏于古希腊语中的失落语言，属语言学话题。",
+      "actionSteps": [
+        "阅读原文了解其论证方法与证据",
+        "对照专业语言学文献核实结论",
+        "将其作为兴趣阅读而非决策依据"
+      ],
+      "tags": [
+        "语言学",
+        "古希腊语",
+        "学术",
+        "兴趣"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-09-18T04:45:47.882Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对语言、历史研究者与爱好者有知识价值，但与商业、政策或日常决策基本无关。",
+        "riskNotes": "来源为个人博客文章，非同行评议研究；前希腊语属学术假说范畴，具体结论需以专业文献为准。"
       }
     },
     {
@@ -1641,38 +1713,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对iPad用户了解系统更新方向有参考价值，影响使用体验与是否升级的决策。",
         "riskNotes": "属媒体整理，非苹果官方发布说明；具体功能、机型支持与发布时间需以苹果官方为准。"
-      }
-    },
-    {
-      "id": "3b4352196451",
-      "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/114638",
-      "publishedAt": "2026-09-16T00:39:40.000Z",
-      "summary": "派早报汇总：Steam Frame 开启预购、WPS 多端支持 Markdown，华为与问界调整鸿蒙智行合作模式等。",
-      "actionSteps": [
-        "查阅 WPS 官方说明确认 Markdown 支持范围",
-        "关注华为与问界官方合作公告",
-        "评估对现有办公与采购流程的影响"
-      ],
-      "tags": [
-        "WPS",
-        "Steam",
-        "鸿蒙智行",
-        "早报"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-16T04:51:17.975Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "涉及办公软件格式兼容与智能汽车合作模式变化，对使用 WPS 的用户和关注鸿蒙生态的企业有参考价值。",
-        "riskNotes": "早报为二手汇总，具体预购价格、合作模式细节需以厂商官方公告为准。"
       }
     }
   ]
