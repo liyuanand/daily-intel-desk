@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T05:20:41.224Z",
+  "generatedAt": "2026-10-03T13:24:12.157Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 24
+    "reused": 27
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,14 +194,14 @@
       "priority": 89
     },
     {
-      "id": "b9ebee1a8d85",
-      "title": "Where Is the Planet",
+      "id": "bf41612daaa7",
+      "title": "GitHub's new dashboard experience now the default",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "http://whereistheplanet.com",
-      "publishedAt": "2026-10-03T00:26:19.000Z",
-      "summary": "Article URL: http://whereistheplanet.com Comments URL: https://news.ycombinator.com/item?id=49940233 Points: 20 # Comments: 1",
+      "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "publishedAt": "2026-10-03T09:59:01.000Z",
+      "summary": "Article URL: https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/ Comments URL: https://news.ycombinator.com/item?id=49942818 Points: 44 # Comments: 55",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -213,14 +213,14 @@
       "priority": 79
     },
     {
-      "id": "d75c3bd95bfc",
-      "title": "Things that apparently cause cancer",
+      "id": "40c51d505599",
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-      "publishedAt": "2026-10-03T00:23:11.000Z",
-      "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer Comments URL: https://news.ycombinator.com/item?id=49940219 Points: 142 # Comments: 55",
+      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "publishedAt": "2026-10-03T09:36:04.000Z",
+      "summary": "Article URL: https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/ Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 20 # Comments: 1",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -232,21 +232,20 @@
       "priority": 79
     },
     {
-      "id": "e35138269f8b",
-      "title": "Show HN: Made an open-source Lego AI generator",
+      "id": "115c53d07cd9",
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://github.com/anteloc/ldraw-nova",
-      "publishedAt": "2026-10-02T20:00:15.000Z",
-      "summary": "Hi there :-) New on HN, first time posting. Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language. This LDraw is literally an \"assembly\" language, a low",
+      "link": "https://offrun.dev/",
+      "publishedAt": "2026-10-03T08:40:17.000Z",
+      "summary": "Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left. Comments URL: https://news.ycombinator.com/item?id=49942434 Points: 18 # Comments: 6",
       "actionSteps": [
         "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
+        "画出触发器、数据、决策和输出四段流程",
         "先访谈 5 位潜在客户，再决定是否投入"
       ],
       "tags": [
-        "AI",
         "Agent"
       ],
       "trust": 58,
@@ -254,54 +253,14 @@
       "priority": 79
     },
     {
-      "id": "daaf020a11e6",
-      "title": "Updates to Full Disk Access in macOS",
+      "id": "bb63587cc0f2",
+      "title": "An Update on Orion for Linux and Windows",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://developer.apple.com/news/?id=p6zjojqw",
-      "publishedAt": "2026-10-02T19:37:01.000Z",
-      "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw Comments URL: https://news.ycombinator.com/item?id=49937631 Points: 162 # Comments: 96",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "001fe0e44261",
-      "title": "Muse Gadgets",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://gadgets.muse.ai",
-      "publishedAt": "2026-10-02T19:26:54.000Z",
-      "summary": "Article URL: https://gadgets.muse.ai Comments URL: https://news.ycombinator.com/item?id=49937504 Points: 168 # Comments: 76",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "e8d957fb2b0c",
-      "title": "Apple Pass Designer",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://developer.apple.com/pass-designer/",
-      "publishedAt": "2026-10-02T19:06:56.000Z",
-      "summary": "Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 372 # Comments: 232",
+      "link": "https://blog.kagi.com/update-orion-linux-windows",
+      "publishedAt": "2026-10-03T04:53:57.000Z",
+      "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows Comments URL: https://news.ycombinator.com/item?id=49941447 Points: 97 # Comments: 45",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -377,14 +336,14 @@
       }
     },
     {
-      "id": "2d207e0dfeaf",
-      "title": "日本厂商推出华为 WATCH FIT 5 智能手表《超辉夜姬！》动画电影版：定制表带、表盘等，3.96 万日元",
+      "id": "92152376ab17",
+      "title": "小米 Vision GT 十月入驻，GT 系列游戏将首次推出电车驾驶教学",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/428.htm",
-      "publishedAt": "2026-10-03T04:30:55.000Z",
-      "summary": "IT之家 10 月 3 日消息，当地时间 9 月 29 日，日本腕表与动漫周边企划商 U-ENI 贸易宣布，旗下专注于角色联名的品牌“GARRACK”正式推出以动画电影《超辉夜姬！》（超时空辉夜姬）中的辉夜、酒寄彩叶及月见八千代为设计灵感的智能手表，基于 华为 WATCH FIT 5 定制 。 相关产品定于 10 月 2 日开启预订，并于 10 月 23 日正式发售，其中定制款手表售价均为 3.96 万日元 （IT之家注：现汇率约合 1",
+      "link": "https://www.ithome.com/1/009/537.htm",
+      "publishedAt": "2026-10-03T12:26:40.000Z",
+      "summary": "IT之家 10 月 3 日消息，小米汽车今日发文称，GT World Series 新加坡站，小米汽车欧洲研发中心设计负责人 Jean 与 GT 系列制作人山内一典共同宣布：GT 将首次推出电车驾驶教学。 IT之家注意到，小米汽车今日早些时候宣布，Xiaomi Vision GT（Vision Gran Turismo）10 月即将正式入驻 Gran Turismo 7（跑车浪漫旅 7 / GT 赛车 7）， 成为游戏史上的首台中国 V",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -396,67 +355,71 @@
       "priority": 70
     },
     {
-      "id": "7027a11a0eb1",
-      "title": "曝美国陆军着手组建自主系统司令部，推动机器人进入技术未来战争",
+      "id": "3506963f885b",
+      "title": "泰坦军团推出“P326MV Ultra”31.5 英寸 4K 200Hz / FHD 400Hz 双模显示器：XDR 亮度 2200 尼特 + 双扬，3888 元（国补后 3499.2 元）",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/427.htm",
-      "publishedAt": "2026-10-03T04:19:34.000Z",
-      "summary": "IT之家 10 月 3 日消息，据美媒 Axios 获得的一份备忘录，美国陆军着手组建新的自主系统司令部，同时任命专门负责采购的官员，加快智能装备采购和列装。 这些部署由代理陆军部长亚当 · 特尔下达。就在当地时间 1 日，美国国防部长皮特 · 赫格塞思公布了 Meridian 和 Agincourt 两个项目， 重点都是推动机器人技术进入未来战争 。 这份题为《陆军自主化举措》的备忘录提出多项要求： 组建陆军未来与自主系统司令部。 至",
+      "link": "https://www.ithome.com/1/009/536.htm",
+      "publishedAt": "2026-10-03T12:16:42.000Z",
+      "summary": "IT之家 10 月 3 日消息，泰坦军团现已在京东上架一款型号为“P326MV Ultra”的 31.5 英寸显示器，该机主打 4K 200Hz / 1080P 400Hz 双模 QD-Mini LED， 定价为 4410 元，首发价 3888 元 ，部分地区国补后低至 3499.2 元，10 月 8 日首销。 京东 泰坦军团 P326MV Ultra 显示器 3888 元 直达链接 该机配备的 2304 分区 QD-Mini LED ",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
       ],
-      "tags": [
-        "机器人"
-      ],
+      "tags": [],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "baa9e640b335",
-      "title": "韩国五大商业银行首次同时被黑客攻击，其中三家发生客户信息泄露",
-      "category": "ai",
+      "id": "17c668acfbad",
+      "title": "前索尼高管吉田修平谈《GTA 6》超高热度：未来再有此关注度，可能得《GTA 7》或等中国厂商出手",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/420.htm",
-      "publishedAt": "2026-10-03T03:30:27.000Z",
-      "summary": "韩国五大商业银行首次同时遭疑似AI驱动黑客攻击，其中三家发生客户信息泄露，涉及姓名电话等。",
+      "link": "https://www.ithome.com/1/009/535.htm",
+      "publishedAt": "2026-10-03T12:07:27.000Z",
+      "summary": "IT之家 10 月 3 日消息，近日，前索尼互动娱乐全球工作室总裁吉田修平在接受媒体 The Verge 采访时谈到了《GTA 6》所带来的巨大关注度。 当被问及未来是否可能还会有其他作品能达到类似的热度与影响力时，他认为，或许还得等到《GTA 7》，不过未来中国厂商可能也会参与到这场竞争中。他表示，《GTA 6》之后可能还会有十几年的空白期，所以中国厂商或许会带来类似的作品。他强调道：“ 任何人都不应该低估中国游戏厂商的实力 。” 《",
       "actionSteps": [
-        "若持有相关银行账户，立即修改密码并开启双重验证",
-        "警惕冒充银行的钓鱼短信与电话",
-        "关注银行官方公告与监管机构通报"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
-      "tags": [
-        "网络安全",
-        "金融",
-        "数据泄露",
-        "AI攻击"
-      ],
-      "trust": 65,
-      "opportunity": 20,
-      "priority": 70,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-03T05:20:41.224Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对个人与企业，银行信息泄露可能引发诈骗、身份盗用风险，凸显AI攻击对金融系统的现实威胁。",
-        "riskNotes": "消息源自韩联社及韩国金融部门，细节有限；受影响人数、攻击手法与AI关联性需以官方通报为准。"
-      }
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
     },
     {
-      "id": "b21c4fb4be89",
-      "title": "消息称亚马逊考虑剥离并回租 80 亿美元英伟达 Grace Blackwell AI 芯片",
+      "id": "021dcc943f33",
+      "title": "航嘉推出重火力 AX1000P 三叉戟白金全模组电源：7 年质保，759 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/009/534.htm",
+      "publishedAt": "2026-10-03T12:03:26.000Z",
+      "summary": "IT之家 10 月 3 日消息，航嘉现已在京东上架重火力 AX1000P 三叉戟白金全模组电源，提供 7 年质保， 定价为 759 元 。 京东 航嘉重火力 AX1000P 氮化镓白金电源 759 元 直达链接 该电源采用黑色方正壳体，顶部设有条形散热格栅与品牌标识，侧面印有规格铭牌。随附压纹工艺的黑色蟒纹线。 该电源符合英特尔 ATX 3.1 规范，在 230V 典型负载下转换效率达 94%。原生配备 PCIe 5.1 12V-2x6",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "162b94ceac00",
+      "title": "LG 电子将在美国新建 AI 数据中心冷水机组工厂，韩国本土同步扩产",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/407.htm",
-      "publishedAt": "2026-10-03T02:27:10.000Z",
-      "summary": "IT之家 10 月 3 日消息，《金融时报》昨日报道称，Amazon（亚马逊）正寻求将价值约 80 亿美元 （IT之家注：现汇率约合 537.15 亿元人民币） 的 NVIDIA（英伟达） Grace Blackwell AI 芯片剥离至一家特殊目的实体 (SPV)，并从该 SPV 回租这些芯片。 消息人士透露，这笔拟议交易涉及的芯片分布在美国五个州的十余个数据中心。新设立的 SPV 预计将获得投资级信用评级，后续将 通过出售股份与发行",
+      "link": "https://www.ithome.com/1/009/505.htm",
+      "publishedAt": "2026-10-03T08:35:32.000Z",
+      "summary": "IT之家 10 月 3 日消息，LG 电子当地时间本月 1 日宣布，计划在美国建设其全球第三座人工智能数据中心 (AIDC) 冷水机组工厂，并提升其韩国平泽、昌原 2 座工厂的产能， 相关投资合计 1,500 亿韩元 （现汇率约合 7.44 亿元人民币） 。 LG 电子的美国新厂位于弗吉尼亚州温莎市，占地面积 170,000 平方米，建筑面积 30,000 平方米，将用于生产空冷式 AIDC 冷水机组，预计将于 2027H2 投产。这一",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -470,14 +433,14 @@
       "priority": 70
     },
     {
-      "id": "f5acd28b4bc9",
-      "title": "谷歌 Viewer 登场：定位 Googlebook 首个全能媒体编辑应用",
+      "id": "d5f6ba6a7805",
+      "title": "明基推出 AK900ST / AK800ST 投影仪，面向室内高尔夫运动",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/401.htm",
-      "publishedAt": "2026-10-03T02:01:56.000Z",
-      "summary": "IT之家 10 月 3 日消息，科技媒体 Android Authority 昨日（10 月 2 日）发布博文，报道称 Viewer 应用已上架谷歌 Play 应用商店， 定位适用于 Googlebook 的综合媒体编辑工具。 功能方面，Viewer 应用目前仅适用于 Googlebook，首次启动后会展示欢迎界面，并提供“启用 AI 及时建议”选项。AI 可识别内容中的日期，弹出添加至 Google 日历的建议，也能提供基于 Goog",
+      "link": "https://www.ithome.com/1/009/498.htm",
+      "publishedAt": "2026-10-03T08:02:31.000Z",
+      "summary": "IT之家 10 月 3 日消息，明基 (BenQ) 美国加州当地时间 1 日宣布推出 2 款面向室内高尔夫运动的投影仪设备，即 AK900ST 和 AK800ST。 这两款产品支持 4K UHD 分辨率、亮度可达 6000 ANSI 流明，色域覆盖 97% Rec.709， 能忠实再现真实高尔夫球场的细微细节和色彩变化 。 AK900ST 和 AK800ST 支持高尔夫模式 2.0，搭载基于帧的 AI 视频处理技术， 专门针对这项运动优",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -492,77 +455,14 @@
       "priority": 70
     },
     {
-      "id": "cd700441f50e",
-      "title": "OpenAI 披露：澳大利亚又一政府机构遭失控智能体入侵",
+      "id": "2a3e02123d9b",
+      "title": "AI 数字人面试官引发求职者“恐怖谷效应”吐槽，相关话题冲上热搜",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/390.htm",
-      "publishedAt": "2026-10-03T00:57:10.000Z",
-      "summary": "IT之家 10 月 3 日消息，据澳大利亚广播公司当地时间 10 月 2 日报道，澳大利亚新南威尔士州政府网站遭到了失控的 OpenAI 智能体侵入。 当地政府与 OpenAI 双方均证实，在此次发生于今年 6 月的事件中，并没有任何公众信息被读取。不过，官方直到本周才收到正式通报。 OpenAI 发言人在声明中称：“在察觉到这一异常活动后…… 我们立即组织了紧急的内部技术与法律审查，旨在结合当时正在推进的具体研究项目，彻查该行为的根本",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "58e04f1d4052",
-      "title": "特朗普提出将“AI”改称“SI”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/389.htm",
-      "publishedAt": "2026-10-03T00:32:30.000Z",
-      "summary": "IT之家 10 月 3 日消息，据英国 BBC 当地时间 1 日报道，斯洛文尼亚国家域名注册机构 Register.si 称，美国总统唐纳德 · 特朗普推动将人工智能（AI）改称“超级智能（SI）”，或是带动该国域名注册量“前所未有”地激增的原因。 特朗普希望用“超级智能”的缩写 SI 取代 AI，而斯洛文尼亚的域名后缀 恰好是.si 。 Register.si 发言人克拉拉 · 赫尔曼称， 9 月共有 44000 个.si 域名完成注",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "082777bc800c",
-      "title": "微软 CEO 纳德拉重申 Copilot AI 定位：面向工作的新操作系统",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/386.htm",
-      "publishedAt": "2026-10-03T00:10:19.000Z",
-      "summary": "IT之家 10 月 3 日消息，科技媒体 Windows Latest 今天（10 月 3 日）发布博文，报道称微软首席执行官萨蒂亚 · 纳德拉（Satya Nadella）再次将 Copilot 称为“面向工作的新操作系统”， 而该应用实质上是 Windows 11 上的一款部分基于 Chromium 内核的网页应用。 IT之家曾于 9 月 26 日报道，在微软发布 Copilot“超级应用”后，公司首席执行官纳德拉表示： “正在将 ",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "c5e6c2f79d9e",
-      "title": "OpenAI 内部动荡加剧之际，又一名安全负责人戴维 · 罗宾逊离职",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/385.htm",
-      "publishedAt": "2026-10-03T00:08:55.000Z",
-      "summary": "IT之家 10 月 3 日消息，据《商业内幕》报道，当地时间 2 日，OpenAI 一名发言人证实，OpenAI 安全系统团队负责人之一戴维 · 罗宾逊已离职。 罗宾逊于上周离开公司，OpenAI 安全团队再度出现人事变动。罗宾逊此前还负责过公司的 政策规划工作 ，主要涉及“安全透明度”，包括参与编写和发布系统卡，向外界介绍公司模型的信息。 罗宾逊离职之际，OpenAI 的安全措施和安全团队人员配置受到外界密切关注。据IT之家此前报道，",
+      "link": "https://www.ithome.com/1/009/495.htm",
+      "publishedAt": "2026-10-03T07:52:38.000Z",
+      "summary": "IT之家 10 月 3 日消息，#AI 面试恐怖谷#话题今天（10 月 3 日）冲上热搜，近期秋招中大量企业启用 AI 数字人面试官， 其僵硬神态与微表情全景监控让面试沦为冰冷的算法打分，引发求职者集体吐槽“恐怖谷效应”。 IT之家发稿前，该话题在热搜榜上排名第 25 位，相关热度值为 186,858。在今年 7 月“AI 脸恐怖谷效应”也曾冲上微博热搜，当时主要涉及 AI 短剧场景。 “恐怖谷效应”（Uncanny Valley Ef",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -570,7 +470,30 @@
       ],
       "tags": [
         "AI",
-        "政策"
+        "视频",
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "5049b2b5bb59",
+      "title": "爱彼迎 Airbnb 民宿房东利用 AI 图片勒索房客要求其支付维修费，后者利用水印检测器成功识破",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/009/473.htm",
+      "publishedAt": "2026-10-03T07:05:08.000Z",
+      "summary": "综合外媒 PC Gamer 报道，近期一名用户 FurinaDeFontaine 在 Reddit 平台发文，称自己使用爱彼迎 Airbnb 订民宿退房后，房主用 AI 生成了一张所谓的“马桶漏水”照片，试图向其勒索 1,700 美元 （IT之家注：现汇率约合 11,414 元人民币） “维修费”。 据 FurinaDeFontaine 介绍，涉事房东据称隶属澳大利亚当地规模较大的一家民宿运营公司，在自己退房后，房东随即向其发送了所谓的",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "视频"
       ],
       "trust": 58,
       "opportunity": 67,
@@ -768,70 +691,6 @@
       "priority": 59
     },
     {
-      "id": "d136ca2521d8",
-      "title": "蔚来充电服务突破 1 亿次，86.67% 充电电量服务于非蔚来公司品牌用户",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/433.htm",
-      "publishedAt": "2026-10-03T04:57:43.000Z",
-      "summary": "蔚来宣布充电服务突破1亿次，86.67%电量服务非蔚来品牌用户，全国建成9522座充换电站。",
-      "actionSteps": [
-        "通过蔚来App或地图核实所在城市站点分布",
-        "对比其他运营商充电价格与功率",
-        "关注跨品牌充电兼容性与结算方式"
-      ],
-      "tags": [
-        "充电网络",
-        "新能源",
-        "蔚来",
-        "基础设施"
-      ],
-      "trust": 70,
-      "opportunity": 55,
-      "priority": 55,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-03T05:20:41.224Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对新能源车主，第三方品牌可用的充电网络扩张意味着跨品牌补能便利性提升，利好假期出行。",
-        "riskNotes": "数据来自蔚来官方单方发布，未经第三方审计；充换电站数量与利用率、地区分布未披露，需核实实际可用性。"
-      }
-    },
-    {
-      "id": "6ef270b7868b",
-      "title": "“电动牧马人”Jeep Recon 搭载 94 度电池，外媒实测续航却不到 260 公里",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/426.htm",
-      "publishedAt": "2026-10-03T04:01:05.000Z",
-      "summary": "外媒实测Jeep Recon纯电SUV续航不足260公里，远低于其94度电池与670马力宣传定位，起售价约6.7万美元。",
-      "actionSteps": [
-        "查阅Jeep官方公布的Recon续航与能效参数",
-        "对比多家媒体实测条件与结果",
-        "购车前要求经销商提供真实工况续航说明"
-      ],
-      "tags": [
-        "电动车",
-        "续航",
-        "Jeep",
-        "消费决策"
-      ],
-      "trust": 55,
-      "opportunity": 30,
-      "priority": 50,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-03T05:20:41.224Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对考虑购买高价电动越野车的消费者，实际续航与宣传差距可能影响日常使用和保值预期。",
-        "riskNotes": "数据来自外媒electrek实测，非Jeep官方续航标准；测试条件、路况、温度未在摘要中说明，需核对官方EPA/WLTP数据。"
-      }
-    },
-    {
       "id": "8e23ff79fb35",
       "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
       "category": "industry",
@@ -860,70 +719,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "该技术若成熟，可能应用于医疗康复、人机交互等领域，但也引发隐私与伦理担忧，值得关注。",
         "riskNotes": "报道未提供研究论文细节与可复现性，需查阅原始研究；技术尚处早期，商业化前景不明。"
-      }
-    },
-    {
-      "id": "d963be107fd9",
-      "title": "微软向老用户抛橄榄枝：Win10/Win11 新版 Outlook 可换装经典版样式",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/432.htm",
-      "publishedAt": "2026-10-03T04:53:46.000Z",
-      "summary": "微软为新版Outlook推出经典版样式主题，复刻Outlook Classic界面，推动Win10/Win11用户迁移。",
-      "actionSteps": [
-        "检查当前Outlook版本与可用主题设置",
-        "在测试环境试用新版Outlook兼容性",
-        "关注微软官方更新日志确认功能上线"
-      ],
-      "tags": [
-        "微软",
-        "Outlook",
-        "办公软件",
-        "用户迁移"
-      ],
-      "trust": 55,
-      "opportunity": 35,
-      "priority": 40,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-03T05:20:41.224Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对依赖经典Outlook操作习惯的企业用户，界面回归可降低迁移学习成本，影响办公效率。",
-        "riskNotes": "信息来自科技媒体Windows Latest，非微软官方公告；主题功能范围、推送时间与地区差异需核实。"
-      }
-    },
-    {
-      "id": "22398acfb540",
-      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-      "publishedAt": "2026-10-03T01:09:01.000Z",
-      "summary": "美国NTSB发布Prime Air 767货机跑道冲出事件的初步调查报告PDF，HN社区有讨论。",
-      "actionSteps": [
-        "下载并阅读NTSB初步报告原文",
-        "关注后续最终调查报告发布",
-        "评估对航空货运与配送行业的安全启示"
-      ],
-      "tags": [
-        "航空安全",
-        "NTSB",
-        "物流",
-        "事故调查"
-      ],
-      "trust": 75,
-      "opportunity": 25,
-      "priority": 35,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-03T05:20:41.224Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对航空物流与无人机配送关注者，事故初调可反映货运航空安全与Prime Air运营风险。",
-        "riskNotes": "仅为初步报告，结论未定；PDF内容未在摘要中呈现，具体原因、责任方需待最终报告确认。"
       }
     },
     {
@@ -956,37 +751,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "关注健康监测与可穿戴设备的消费者可参考选购；企业可观察智能手表功能趋势与生态联动。",
         "riskNotes": "内容为媒体体验文，非苹果官方规格；续航、传感器精度等需以官方参数和第三方实测复核。"
-      }
-    },
-    {
-      "id": "f3b9cc0a958b",
-      "title": "派评 | 近期值得关注的 App",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/115094",
-      "publishedAt": "2026-09-28T09:45:02.000Z",
-      "summary": "少数派派评栏目汇总近期值得关注的App，内容偏向实用正版软件推荐，正文需查看全文获取具体清单。",
-      "actionSteps": [
-        "打开原文获取具体App清单",
-        "对感兴趣的App查看应用商店评分与隐私政策",
-        "先试用免费版再决定是否付费订阅"
-      ],
-      "tags": [
-        "App推荐",
-        "效率工具",
-        "软件"
-      ],
-      "trust": 50,
-      "opportunity": 40,
-      "priority": 30,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-09-28T16:46:01.020Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "普通用户可借此发现提升效率或生活体验的工具，但需自行甄别是否适合自身需求。",
-        "riskNotes": "摘要未列出具体App名称与评测细节，无法核实推荐质量；属媒体主观推荐，非官方评测。"
       }
     },
     {
@@ -1211,35 +975,67 @@
       }
     },
     {
-      "id": "833807e98862",
-      "title": "10 月 9 日起，未订阅用户仅能使用谷歌 Gemini Flash-Lite 模型",
-      "category": "ai",
+      "id": "ba8a7b77c8a2",
+      "title": "充电桩扫码充电暗藏“弹窗投保”陷阱，消费者莫名被扣款",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/431.htm",
-      "publishedAt": "2026-10-03T04:53:16.000Z",
-      "summary": "据IT之家转述，谷歌Gemini帮助中心显示自2026年10月9日起，免费个人用户默认仅能用Flash-Lite模型，不再默认提供完整Flash与Pro访问，AI Plus方案也不再含Pro。",
+      "link": "https://www.ithome.com/1/009/540.htm",
+      "publishedAt": "2026-10-03T13:12:04.000Z",
+      "summary": "央视报道充电桩扫码充电出现弹窗投保陷阱，页面伪装成广告诱导填写银行卡和手机号，消费者莫名被扣款办理保险。",
       "actionSteps": [
-        "访问谷歌Gemini官方帮助中心核对最新模型与订阅权限说明",
-        "测试当前常用任务在Flash-Lite下的效果差异并记录",
-        "评估付费档位或替代模型的成本与迁移方案"
+        "扫码后核对是否为充电运营商官方小程序再操作",
+        "发现异常扣款立即联系银行与保险机构申请退款",
+        "向12315或市场监管部门投诉并保留截图证据"
       ],
       "tags": [
-        "Gemini",
-        "订阅政策",
-        "AI工具",
-        "成本"
+        "充电桩",
+        "消费陷阱",
+        "个人信息",
+        "保险扣款"
       ],
-      "trust": 2,
+      "trust": 3,
       "opportunity": 1,
       "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-10-03T05:20:41.223Z",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "依赖Gemini免费版做写作、编程、客服的个人和小团队，输出质量与可用功能可能下降，需重新评估是否付费或改用替代模型。",
-        "riskNotes": "消息为IT之家转述帮助中心内容，非谷歌官方公告原文；具体生效日期、各订阅档位权限与地区差异需以谷歌官方页面核实。"
+        "whyItMatters": "电动车车主扫码充电时可能被诱导投保并扣款，涉及个人信息与资金安全，需警惕非官方小程序页面。",
+        "riskNotes": "报道为央视新闻转述，未披露涉事平台与保险机构名称，具体扣款机制与责任归属需以监管调查结果为准。"
+      }
+    },
+    {
+      "id": "4443c90a0e58",
+      "title": "AI 自动识别后厨违规行为，浙江 19.5 万家外卖商家接入系统",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/009/527.htm",
+      "publishedAt": "2026-10-03T10:36:12.000Z",
+      "summary": "浙江推行互联网+明厨亮灶，后厨视频实时公开，已有19.5万家外卖商家接入，AI自动识别违规行为，萧山开展集群执法检查216家门店。",
+      "actionSteps": [
+        "核验浙江省电子商务条例及市场监管部门官方文件原文",
+        "评估自有门店后厨监控与视频上传的合规改造清单",
+        "建立违规预警后的自查与申诉流程"
+      ],
+      "tags": [
+        "外卖监管",
+        "明厨亮灶",
+        "AI识别",
+        "合规"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "外卖商家需承担后厨监控与合规成本，违规被AI抓拍风险上升；消费者可实时查看后厨，食品安全透明度提高。",
+        "riskNotes": "摘要来自媒体转述，未提供浙江省官方原文或AI识别准确率、误判申诉机制等细节，19.5万商家数据需以官方发布为准。"
       }
     },
     {
@@ -1337,24 +1133,23 @@
       }
     },
     {
-      "id": "f19f3ba01850",
-      "title": "重塑智能眼镜光学方案：TDK 展示全球首款超构光学镜 DRP 显示屏",
+      "id": "524329a577fa",
+      "title": "华为 Mate 90 Pro Max 旗舰机首个版本更新内容曝光，实装四卡三待、3D 动态照片等功能",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/434.htm",
-      "publishedAt": "2026-10-03T05:11:04.000Z",
-      "summary": "TDK发布公告展示全球首款采用超构光学镜的直接视网膜投影智能眼镜显示屏，IT之家援引预测称2030年全球智能眼镜出货量将达8300万台。",
+      "link": "https://www.ithome.com/1/009/539.htm",
+      "publishedAt": "2026-10-03T13:08:18.000Z",
+      "summary": "IT之家曝光华为Mate 90 Pro Max首个系统更新，包体约745MB，新增四卡三待、3D动态照片等功能。",
       "actionSteps": [
-        "查阅TDK官方公告确认技术参数与商用时间表",
-        "核对8300万台预测的原始报告口径",
-        "评估该光学路线对现有AR供应链的潜在影响"
+        "在手机设置中检查官方更新日志确认功能",
+        "评估四卡三待对自身多号使用场景的实际价值",
+        "关注运营商对该机型多卡能力的支持情况"
       ],
       "tags": [
-        "智能眼镜",
-        "TDK",
-        "光学",
-        "AR"
+        "华为",
+        "智能手机",
+        "系统更新"
       ],
       "trust": 2,
       "opportunity": 2,
@@ -1362,31 +1157,93 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-10-03T05:20:41.224Z",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若技术成熟，智能眼镜显示方案或更轻薄省电，利好AR/VR硬件、光学元件与内容生态相关企业与从业者。",
-        "riskNotes": "出货量预测来自第三方研究机构转述，非官方统计；TDK展示属技术演示，量产时间、成本与良率均未披露。"
+        "whyItMatters": "对已购或计划购买该机型的用户，四卡三待对多号商务人群有实用价值；对配件与运营商业务可能带来适配需求。",
+        "riskNotes": "内容为媒体曝光的更新说明，非华为官方发布，功能细节与实际推送范围需以官方更新日志为准。"
       }
     },
     {
-      "id": "d89d2683f0f8",
-      "title": "OpenAI 自研 AI 芯片 Jalapeño ASIC 量产部署，因“务实”选择搭配 AMD Turin",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/009/430.htm",
-      "publishedAt": "2026-10-03T04:38:53.000Z",
-      "summary": "据IT之家转述Tom's Hardware，OpenAI已内部部署自研Jalapeño ASIC芯片，搭配1.5TB内存的AMD EPYC Turin主机，副总裁称选Turin出于务实考虑。",
+      "id": "a146e9b749b0",
+      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+      "publishedAt": "2026-10-03T12:02:10.000Z",
+      "summary": "YC W21孵化的Great Question在加拿大远程招聘AI全栈产品工程师，招聘信息发布于Y Combinator官网。",
       "actionSteps": [
-        "查找Tom's Hardware原文与OpenAI官方回应",
-        "跟踪该芯片对推理成本与云价格的后续影响",
-        "评估自身AI算力采购是否需关注多元供应商"
+        "打开官方招聘页确认岗位职责与技能要求",
+        "评估远程工作与加拿大时区、税务合规要求",
+        "准备AI全栈项目作品集后投递"
       ],
       "tags": [
-        "OpenAI",
-        "自研芯片",
-        "算力",
-        "AMD"
+        "招聘",
+        "远程工作",
+        "AI工程师",
+        "YC"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对具备AI全栈能力的工程师而言，这是一个可远程工作的海外岗位机会，适合关注加拿大远程职位的求职者。",
+        "riskNotes": "仅有一条招聘链接，未提供薪资、签证要求、团队规模等细节，需以官方招聘页和面试沟通为准。"
+      }
+    },
+    {
+      "id": "063047615a3d",
+      "title": "The Escalation of War in Ethiopia",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+      "publishedAt": "2026-10-03T11:54:24.000Z",
+      "summary": "非洲视角网站发文讨论埃塞俄比亚战争升级，在Hacker News获少量关注，无评论，信息量有限。",
+      "actionSteps": [
+        "查阅联合国、非盟及埃塞俄比亚官方通报核实冲突现状",
+        "评估自身在东非地区的供应链与人员暴露风险",
+        "关注后续权威媒体报道再决定是否调整业务安排"
+      ],
+      "tags": [
+        "地缘政治",
+        "东非",
+        "供应链风险"
+      ],
+      "trust": 1,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "若冲突持续升级，可能影响当地供应链、物流与在东非有业务的企业人员安全，但本条仅为评论文章，实际影响需以官方通报为准。",
+        "riskNotes": "来源为个人评论网站，非官方一手信息，无具体时间、地区与事件细节，无法核实冲突规模与真实性。"
+      }
+    },
+    {
+      "id": "9a14422b82b9",
+      "title": "Show HN: Germany's new sovereign AI model Kolibri",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://tej.as/blog/aleph-alpha-kolibri",
+      "publishedAt": "2026-10-03T10:43:51.000Z",
+      "summary": "Hacker News讨论德国主权AI模型Kolibri，指向Aleph Alpha相关博客，获38点关注，评论10条。",
+      "actionSteps": [
+        "阅读原始博客确认模型定位与开放程度",
+        "对比现有AI供应商在数据合规上的差异",
+        "若涉及欧洲业务，评估本地化AI方案的可行性"
+      ],
+      "tags": [
+        "主权AI",
+        "欧洲",
+        "数据合规"
       ],
       "trust": 2,
       "opportunity": 2,
@@ -1394,10 +1251,106 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-10-03T05:20:41.224Z",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "反映头部AI公司自研芯片与多元算力路线，长期可能影响AI推理成本与云服务价格，进而影响企业采购AI服务的成本结构。",
-        "riskNotes": "消息为二手转述，OpenAI未公开确认；芯片性能、部署规模、量产程度均无一手数据，需以官方或权威媒体核实。"
+        "whyItMatters": "欧洲主权AI推进可能影响企业AI供应商选择与数据合规策略，对关注数据本地化部署的机构有参考价值。",
+        "riskNotes": "仅为一篇博客与论坛讨论，未提供模型性能、许可与商用条款等关键信息，主权AI的实际能力需进一步验证。"
+      }
+    },
+    {
+      "id": "a2ee7c501f38",
+      "title": "AMD 出样 Versal AI Core XQRVC1902 自适应 SoC，满足 15 年太空任务要求",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/009/521.htm",
+      "publishedAt": "2026-10-03T09:53:20.000Z",
+      "summary": "AMD向航天客户交付Versal AI Core XQRVC1902自适应SoC早期样品，采用航天级无盖封装，满足15年太空任务可靠性要求。",
+      "actionSteps": [
+        "查阅AMD官方新闻稿确认样品与认证状态",
+        "评估该SoC与现有星载计算方案的功耗与算力对比",
+        "关注航天客户实测反馈后再规划选型"
+      ],
+      "tags": [
+        "AMD",
+        "航天芯片",
+        "自适应SoC",
+        "高可靠性"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对航天、卫星与高可靠性计算领域企业，该芯片提供在轨AI推理与自适应计算选项，可能影响未来星载电子选型。",
+        "riskNotes": "信息来自IT之家转述AMD公告，未提供具体性能参数、认证进度与量产时间，航天级认证细节需以AMD官方为准。"
+      }
+    },
+    {
+      "id": "4f1c0d85d613",
+      "title": "华为 HarmonyOS 7.0 小艺帮帮忙智能体功能调整，将不再支持后续新增的设备",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/009/516.htm",
+      "publishedAt": "2026-10-03T09:18:12.000Z",
+      "summary": "华为官网称因业务调整，HarmonyOS小艺帮帮忙智能体不再支持后续新增设备，原HarmonyOS 6.0支持设备仍可继续使用。",
+      "actionSteps": [
+        "登录华为官网或开发者社区核对公告原文",
+        "梳理现有业务是否依赖小艺帮帮忙智能体能力",
+        "为新增设备准备替代的自动化或应用操控方案"
+      ],
+      "tags": [
+        "华为",
+        "鸿蒙",
+        "智能体",
+        "产品调整"
+      ],
+      "trust": 3,
+      "opportunity": 1,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "已购设备用户短期不受影响，但计划购买新鸿蒙设备的用户需注意该功能可能缺失，依赖此智能体做应用操控的开发者需重新规划适配。",
+        "riskNotes": "信息来自IT之家转述华为官网，未见华为官方公告原文链接，具体停更范围与时间表需以官方说明为准。"
+      }
+    },
+    {
+      "id": "20a641895700",
+      "title": "亚马逊推出 Strands Decider 2B 开源决策模型，支持本地部署",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/009/509.htm",
+      "publishedAt": "2026-10-03T08:50:25.000Z",
+      "summary": "亚马逊Strands Agents团队开源Strands Decider 2B决策模型，基于Qwen3.5-2B，可在本地CPU/GPU运行。",
+      "actionSteps": [
+        "在GitHub与Hugging Face查看模型卡与开源许可",
+        "用自有业务数据做小规模效果测试",
+        "评估本地部署的硬件成本与运维投入"
+      ],
+      "tags": [
+        "开源模型",
+        "亚马逊",
+        "本地部署",
+        "决策AI"
+      ],
+      "trust": 3,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "小参数决策模型可本地部署，降低对云端API的依赖，适合对数据隐私敏感或需低成本自动决策的企业试点。",
+        "riskNotes": "信息来自IT之家转述，未验证模型实际决策准确率、许可条款与生产可用性，2B规模能力有限。"
       }
     },
     {
@@ -1523,6 +1476,101 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "提醒企业不要过度依赖LLM做高风险决策，需保留人工复核；影响AI产品定位与宣传合规表述。",
         "riskNotes": "仅为观点评论文章，非实证研究；'不推理'的界定存在学术争议，需结合具体论文与任务场景判断。"
+      }
+    },
+    {
+      "id": "348b78ec59a4",
+      "title": "联力上架刃界 EDGE Platinum V2 白金全模组电源：可选 1000/1200/1350W 版本、十年质保，979 元起",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/009/541.htm",
+      "publishedAt": "2026-10-03T13:21:32.000Z",
+      "summary": "联力在京东上架刃界EDGE Platinum V2白金全模组电源，提供1000W、1200W、1350W版本，979元起，十年质保。",
+      "actionSteps": [
+        "对比同功率段其他品牌电源的售价与质保政策",
+        "查阅第三方评测确认转换效率与纹波表现",
+        "按整机功耗预留余量后再决定是否采购"
+      ],
+      "tags": [
+        "电源",
+        "DIY硬件",
+        "联力",
+        "京东"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "DIY装机用户与小型工作室获得新电源选项，高功率版本适合高端显卡与多卡配置，价格与质保信息可供采购比价。",
+        "riskNotes": "信息来自IT之家转述京东上架页，未核实实际售价、质保条款细节与第三方评测数据，性能表现需以实测为准。"
+      }
+    },
+    {
+      "id": "6239449f74e6",
+      "title": "荣耀推出 HONOR Life 充气泵 Lite：具备照明功能、标称“42 秒充满一条自行车胎”，248 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/009/538.htm",
+      "publishedAt": "2026-10-03T12:32:44.000Z",
+      "summary": "荣耀在京东上架HONOR Life充气泵Lite，具备充气、胎压检测与照明功能，定价248元，标称42秒充满自行车胎。",
+      "actionSteps": [
+        "对比同类充气泵的价格与实测评价",
+        "确认是否支持所需气嘴与胎压范围",
+        "关注促销节点再决定购买时机"
+      ],
+      "tags": [
+        "荣耀",
+        "智能硬件",
+        "消费电子"
+      ],
+      "trust": 3,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对有车或骑行用户是低价便携工具选项，也反映手机厂商向生活周边品类扩张的趋势。",
+        "riskNotes": "参数与续航均为厂商标称，未经独立测试，实际充气速度与电池表现需以用户实测为准。"
+      }
+    },
+    {
+      "id": "3d90f3fadcb2",
+      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/114922",
+      "publishedAt": "2026-10-03T07:00:00.000Z",
+      "summary": "少数派发布CMF Clip Pro耳夹式无线耳机体验评测，讨论其设计与使用感受，并提及对CMF未来设计风格的疑问。",
+      "actionSteps": [
+        "阅读评测全文提取音质与续航结论",
+        "对比同价位耳夹式耳机的佩戴稳定性",
+        "到线下门店试戴后再决定购买"
+      ],
+      "tags": [
+        "耳机",
+        "评测",
+        "CMF",
+        "消费电子"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-03T13:24:12.157Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对耳夹式耳机感兴趣的消费者可参考实际体验，判断是否适合通勤、运动等场景下的佩戴需求。",
+        "riskNotes": "摘要极短，未包含音质、续航、延迟等关键评测数据，结论需阅读全文并交叉参考其他评测。"
       }
     },
     {
