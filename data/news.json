@@ -1,13 +1,18 @@
 {
-  "generatedAt": "2026-10-17T12:12:49.627Z",
-  "status": "ok",
-  "failedSources": [],
+  "generatedAt": "2026-10-17T15:40:47.436Z",
+  "status": "partial",
+  "failedSources": [
+    {
+      "name": "Hacker News",
+      "error": "fetch failed"
+    }
+  ],
   "ai": {
     "enabled": true,
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 28
+    "reused": 30
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,86 +199,6 @@
       "priority": 89
     },
     {
-      "id": "0913988ccbed",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://llmspeed.dev/",
-      "publishedAt": "2026-10-17T04:36:53.000Z",
-      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 103 # Comments: 40",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "d0a00342ca12",
-      "title": "FLUX 3 Image Klein",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://bfl.ai/blog/flux-3-image-klein",
-      "publishedAt": "2026-10-16T19:47:13.000Z",
-      "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 176 # Comments: 48",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "固定主体、风格、镜头和负面词做 3 组对照",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "9a7394432446",
-      "title": "How the Claude Code team does code review",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "publishedAt": "2026-10-16T19:04:47.000Z",
-      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 369 # Comments: 338",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "7f14563d8df6",
-      "title": "You could have invented transformers from memory",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://alexwang.ai/posts/associative-memory/",
-      "publishedAt": "2026-10-16T19:01:17.000Z",
-      "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 323 # Comments: 76",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
       "id": "c5711f5da21b",
       "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
       "category": "policy",
@@ -338,14 +263,14 @@
       }
     },
     {
-      "id": "e9d917a4aee7",
-      "title": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元",
+      "id": "4521f4cbc01c",
+      "title": "2026 WSBK 西班牙站首回合：张雪机车德比斯获第 10 位",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/385.htm",
-      "publishedAt": "2026-10-17T11:37:50.000Z",
-      "summary": "IT之家 10 月 17 日消息，波西米亚互动开发发行的知名生存游戏《DayZ》全新官方地图扩展《DayZ Badlands》现已登陆 Steam 平台，目前国区开启首发 10% 折扣，折后售价为 107.10 元，优惠截止至 10 月 29 日。该 DLC 需要拥有基础游戏《DayZ》才能畅玩，支持简体中文界面与字幕。 IT之家附游戏商品页（ https://store.steampowered.com/app/3816030/Day",
+      "link": "https://www.ithome.com/1/014/400.htm",
+      "publishedAt": "2026-10-17T13:32:15.000Z",
+      "summary": "IT之家 10 月 17 日消息，今晚，2026 世界超级摩托车锦标赛（WSBK）第十二站 WorldSSP 组别首场正赛在西班牙赫雷兹赛道举行。 中国摩托车制造商“张雪机车”的法国车手瓦伦丁 · 德比斯本场以第 10 名完赛，队友费德里科 · 卡里卡苏洛位列第 14 位。 本站是 2026 赛季收官战 。赛前，德比斯以总积分 291 分的成绩提前锁定本赛季车手年度总榜亚军。北京时间 10 月 18 日 20:00 将进行第二回合的较量",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -357,104 +282,20 @@
       "priority": 70
     },
     {
-      "id": "51e6df333576",
-      "title": "京东 10 月 20 日 20 点 11.11 再加码：厨房小电皆好价，海尔微波炉仅 178 元",
+      "id": "bb8c9bc15162",
+      "title": "华硕推出 ROG ZOOM 八类万兆电竞网线：1.5 米 299 元，3 米 399 元",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/384.htm",
-      "publishedAt": "2026-10-17T11:37:13.000Z",
-      "summary": "京东 10 月 20 日 20:00 将再次开启 11.11 高潮狂促，厨房小电目前已放出优惠前瞻信息： 点此查看 。 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 目前小家电会场已放出“5 折限时抢”与“无惧比价”两个好价专区： 部分好价单品 下单时选择“ 以旧换新 ” → 个护健康 / 厨房小电 → 电动牙刷 / 普通餐具， 不回收 。 京东 海尔 HW-M20J1W 微波炉 站外种草返 20 ",
+      "link": "https://www.ithome.com/1/014/399.htm",
+      "publishedAt": "2026-10-17T13:15:27.000Z",
+      "summary": "IT之家 10 月 17 日消息，除了 6999 元的 ROG 八爪鱼 8 路由器之外，华硕本周还推出了一款配套的 ROG ZOOM 八类万兆电竞网线，提供 1.5 米和 3 米两个版本，售价分别为 299 元和 399 元。 京东 ROG ZOOM CAT8 八类万兆电竞网线 / 3 米 纯铜网络连接线家用电脑宽带成品网线 / 华硕 ROG 路由器适配网线 399 元 直达链接 华硕表示，这款网线支持 40Gbps 传输带宽、 200",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
       ],
       "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "3babd77dcd54",
-      "title": "IT之家 11.11 严选好货：石头洗烘一体机 5999 → 1598 元，米家 216L 三门冰箱低至 628 元",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/378.htm",
-      "publishedAt": "2026-10-17T11:10:45.000Z",
-      "summary": "全网 11.11 狂促将现已开抢，数码家电、日用百货、服装鞋帽皆为年内好价。 京东 无门槛红包至高 26888 元 ，每天抽 3 次： 点此抽红包 。 淘宝 无门槛红包至高 26888 元 ，每天抽 1 次： 点此抽红包 。 IT之家 · 严选好货 数码类 京东 华为 FreeClip 2 耳夹耳机 国补限地区 1299 → 978 元 直达链接 京东 Apple AirPods 5 支持主动降噪 国补后 789.9 元期 直达链接 京",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "1ea63794e0cb",
-      "title": "开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/372.htm",
-      "publishedAt": "2026-10-17T10:45:59.000Z",
-      "summary": "IT之家 10 月 17 日消息，据外媒 Wccftech 报道，开发者 abhi245y 基于资深 AI 工程师 Mert Cobanov 的 PS5LM（ llama.cpp 移植项目），开发了原生 GPU 应用 PS5LM Plus，让经过破解的 PS5 主机能够在本地运行 Qwen3.8-27B 等大型语言模型。 IT之家获悉，PS5LM 的早期版本主要依靠 CPU 运行模型，执行 27B 参数模型时，平均每分钟只能生成约 1 ",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "2de162c4bd47",
-      "title": "中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/371.htm",
-      "publishedAt": "2026-10-17T10:39:55.000Z",
-      "summary": "10 月 17 日，在光华思想力论坛上，中国科学院院士、北京大学讲席教授鄂维南表示，人工智能本质上是“数学 + 计算机工程”，将大幅降低科研门槛，推动“科研平权化”。“未来民科是科研的主力”，他预测，通过开放实验室和云服务，“每一个有想法有能力的团队和个人都可以参与到科技创新当中去”。 鄂维南指出，企业真正做生产时缺乏原始创新，只能在管理、价格等方面竞争，“内卷的根本原因是创新能力不够”。他认为，高端工业软件、高端机床数控系统目前受制于",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "ed2f5c7d8bb8",
-      "title": "OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/370.htm",
-      "publishedAt": "2026-10-17T10:31:25.000Z",
-      "summary": "IT之家 10 月 17 日消息，OpenAI 今年 9 月公布了一份长达 166 页的纳维-斯托克斯方程（Navier–Stokes equations）相关证明，称其内部 AI 系统在约 88 小时内完成了对这一千禧年难题的求解。 不过，随着数学界进一步审查相关工作，研究人员开始对证明采用的方法、与已有研究的关系，以及大规模 AI 智能体究竟发挥了多大作用提出质疑。 数学家贡萨洛 · 曹-拉博拉（Gonzalo Cao-Labora",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
@@ -490,48 +331,6 @@
         "whyItMatters": "普通用户应意识到消音AirTag会削弱苹果防跟踪提醒，二手AirTag或改装件存在被滥用于跟踪的风险，购买与拾获时需警惕。",
         "riskNotes": "信息源自IT之家转述外媒，厂商公告原文未直接核验；下架时间、是否召回及退款政策不明，需查官方公告。"
       }
-    },
-    {
-      "id": "5630d7e197c6",
-      "title": "AI 撬动量子计算：Anthropic 称 Claude 设计的量子电路超越顶尖现有方案",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/317.htm",
-      "publishedAt": "2026-10-17T07:42:15.000Z",
-      "summary": "IT之家 10 月 17 日消息，Anthropic 于 10 月 16 日发布研究称， 其 AI 模型 Claude 在几乎无需人工干预的情况下，针对 8 类量子计算任务，设计出比已发表最优电路更高效的方案。 IT之家援引博文介绍，量子计算机依靠量子比特运行，但当前设备通常仅有数百到数千个量子比特，且对热量、振动等环境噪声极为敏感。量子比特和运行时间都是稀缺资源，因此让量子计算走向实用的关键，是减少电路所需的量子比特数和量子门数量。 ",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "6069323c1dbc",
-      "title": "Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/312.htm",
-      "publishedAt": "2026-10-17T07:28:03.000Z",
-      "summary": "IT之家 10 月 17 日消息，Anthropic 于当地时间 10 月 15 日宣布，自 2026 年 10 月 29 日起，Claude Haiku 4.5 将从 Free、Pro 和 Max 套餐的模型选择器中移除，覆盖网页端、桌面端和移动端的常规聊天，以及 Claude Cowork 和 Claude Design 功能。 在 10 月 29 日之前，用户仍可在模型选择器的“More models”选项中选用 Haiku 4.",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
     },
     {
       "id": "b9b4815a05ca",
@@ -735,67 +534,65 @@
       }
     },
     {
-      "id": "1fd6dd971a81",
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "publishedAt": "2026-10-17T08:37:46.000Z",
-      "summary": "Hacker News讨论显示DeepSeek v4.1 Flash 1017模型页面出现在OpenRouter，获232点、70条评论，属社区热度较高的新模型发布。",
-      "actionSteps": [
-        "访问OpenRouter模型页核对定价与上下文长度",
-        "用自有业务样本做基准测试对比现有模型",
-        "确认许可与数据合规后再决定是否接入"
-      ],
-      "tags": [
-        "DeepSeek",
-        "大模型",
-        "OpenRouter",
-        "开发者"
-      ],
-      "trust": 50,
-      "opportunity": 60,
-      "priority": 55,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-17T12:12:49.627Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "开发者和企业可低成本试用新模型评估推理与成本表现，但社区热度不代表性能承诺，需自行基准测试后再接入生产。",
-        "riskNotes": "仅有聚合页链接与讨论热度，缺少官方模型卡、定价与许可条款；模型版本命名与能力未经官方一手来源确认。"
-      }
-    },
-    {
-      "id": "655b2132d9e4",
-      "title": "阿维塔 T09 实车曝光，定位“50 万级科技新旗舰”",
-      "category": "industry",
+      "id": "2de162c4bd47",
+      "title": "中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/391.htm",
-      "publishedAt": "2026-10-17T12:08:50.000Z",
-      "summary": "阿维塔T09实车在社交平台曝光，已在第411批道路机动车辆申报中完成申报，为插电混动六座SUV，官方称50万级科技新旗舰。",
+      "link": "https://www.ithome.com/1/014/371.htm",
+      "publishedAt": "2026-10-17T10:39:55.000Z",
+      "summary": "中科院院士鄂维南称AI降低科研门槛，预测个人与团队将更多参与创新，并指企业原始创新不足是内卷根源。",
       "actionSteps": [
-        "查询第411批工信部申报公告核对动力与尺寸参数",
-        "关注阿维塔官方发布会获取售价与配置",
-        "到店试驾对比同价位竞品再决策"
+        "核实发言原文与论坛主办方记录",
+        "梳理自身业务可借助的公开AI科研工具",
+        "评估高端工业软件等受制环节的替代机会"
       ],
       "tags": [
-        "阿维塔",
-        "新能源车",
-        "插混SUV",
-        "新车申报"
+        "AI科研",
+        "创新政策",
+        "工业软件"
       ],
-      "trust": 60,
-      "opportunity": 45,
+      "trust": 45,
+      "opportunity": 55,
       "priority": 50,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-10-17T12:12:49.627Z",
+        "analyzedAt": "2026-10-17T15:40:47.435Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "关注高端新能源六座SUV的消费者可将其纳入比价清单，但50万级定位意味着购车与保险成本较高，需等正式售价与配置。",
-        "riskNotes": "实车图来自社交平台，价格与配置为官方宣传口径，申报信息不等于上市参数；智驾与电池细节未披露，需以工信部公告和发布会为准。"
+        "whyItMatters": "若科研工具与云服务持续开放，中小企业与个人可用更低成本做技术验证；但“民科成主力”属个人判断，短期难改变资源与评价体系。",
+        "riskNotes": "来源为论坛发言的媒体转述，非官方政策文件；无具体开放实验室、云服务或资金支持条款，属观点而非可执行政策。"
+      }
+    },
+    {
+      "id": "5630d7e197c6",
+      "title": "AI 撬动量子计算：Anthropic 称 Claude 设计的量子电路超越顶尖现有方案",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/014/317.htm",
+      "publishedAt": "2026-10-17T07:42:15.000Z",
+      "summary": "Anthropic称Claude在几乎无人工干预下为8类量子任务设计出优于已发表方案的电路，可减少量子比特与门数。",
+      "actionSteps": [
+        "查阅Anthropic原始研究与基准设定",
+        "关注独立团队复现结果",
+        "评估自身场景是否适用AI电路优化"
+      ],
+      "tags": [
+        "AI",
+        "量子计算",
+        "Anthropic"
+      ],
+      "trust": 45,
+      "opportunity": 60,
+      "priority": 50,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-17T15:40:47.436Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "若可复现，AI辅助量子电路设计有望降低研发试错成本；对量子计算与AI交叉领域团队具验证价值。",
+        "riskNotes": "为企业自发布研究，未经独立复现；比较基准、任务范围与“超越”定义需查原文，不宜视为行业定论。"
       }
     },
     {
@@ -831,6 +628,37 @@
       }
     },
     {
+      "id": "ed2f5c7d8bb8",
+      "title": "OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/014/370.htm",
+      "publishedAt": "2026-10-17T10:31:25.000Z",
+      "summary": "OpenAI称AI系统88小时证明纳维-斯托克斯方程，数学界质疑方法与智能体贡献，验证或需数年。",
+      "actionSteps": [
+        "等待同行评审或权威数学机构表态",
+        "内部评估AI科研工具时要求可复现证据",
+        "避免在对外宣传中引用未验证结论"
+      ],
+      "tags": [
+        "AI科研",
+        "OpenAI",
+        "学术验证"
+      ],
+      "trust": 35,
+      "opportunity": 30,
+      "priority": 45,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-17T15:40:47.435Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "提醒企业勿轻信AI“重大突破”宣传；AI在严谨科研中的可靠性仍需人工验证，采购与宣传应保留审慎。",
+        "riskNotes": "报道基于学界质疑，尚无同行评审结论；证明正确性与AI实际贡献均未确认，属争议阶段。"
+      }
+    },
+    {
       "id": "bdad458aadf3",
       "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
       "category": "industry",
@@ -863,35 +691,96 @@
       }
     },
     {
-      "id": "3c9f2094298b",
-      "title": "泰坦军团推出“G27W9S ULTRA”27 英寸显示器：2K 320Hz QD-OLED，3221 元（国补后 2898 元）",
+      "id": "e37d22dead67",
+      "title": "12.88 万元起，广汽埃安 Ray7 预售 2 小时订单达 6817 单",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/389.htm",
-      "publishedAt": "2026-10-17T11:55:25.000Z",
-      "summary": "泰坦军团G27W9S ULTRA 27英寸显示器在京东上架，2K 320Hz QD-OLED面板，定价3221元，部分地区国补后低至2898元。",
+      "link": "https://www.ithome.com/1/014/410.htm",
+      "publishedAt": "2026-10-17T15:01:05.000Z",
+      "summary": "广汽埃安Ray7开启预售，12.88万元起共5款车型，官方称预售2小时订单6817单。",
       "actionSteps": [
-        "在京东页面确认所在地区国补资格与到手价",
-        "查阅第三方评测核实亮度与烧屏表现",
-        "对比同价位竞品的保修年限与接口配置"
+        "核对官方配置表确认续航与智驾版本差异",
+        "比较同级竞品终端成交价再决定是否下订",
+        "关注首批交付口碑与订单转化率数据"
       ],
       "tags": [
-        "显示器",
-        "QD-OLED",
-        "电竞",
-        "国补"
+        "新能源汽车",
+        "广汽埃安",
+        "预售"
+      ],
+      "trust": 55,
+      "opportunity": 45,
+      "priority": 40,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-17T15:40:47.436Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "15万级纯电轿车竞争加剧，消费者多一个高配座舱选项；对供应链与同级车企构成价格与配置压力。",
+        "riskNotes": "订单数为厂商自报，缺乏第三方核验，可能存在可退订金口径；续航、智驾与交付时间摘要未披露，需查官方配置表。"
+      }
+    },
+    {
+      "id": "336945b539a3",
+      "title": "英伟达否认 RTX 5090 停产传闻，承认供应链产能受限",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/014/407.htm",
+      "publishedAt": "2026-10-17T14:33:46.000Z",
+      "summary": "英伟达副总裁Jeff Fisher否认RTX 5090停产传闻，称仍是核心产品将继续供货，但承认供应链产能受限。",
+      "actionSteps": [
+        "监测电商与渠道RTX 5090价格与库存变化",
+        "有采购需求者提前锁定订单避免涨价",
+        "关注英伟达财报电话会供应链表述"
+      ],
+      "tags": [
+        "英伟达",
+        "显卡",
+        "供应链"
       ],
       "trust": 60,
+      "opportunity": 30,
+      "priority": 40,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-17T15:40:47.436Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "高端显卡短期供应或偏紧，装机与AI工作站采购可能面临涨价或缺货；否认停产可缓解市场恐慌。",
+        "riskNotes": "官方仅口头回应，无供货量数据；产能受限程度与持续时间不明，停产传闻源头为社交媒体爆料，需持续观察渠道价格。"
+      }
+    },
+    {
+      "id": "95fe8189e015",
+      "title": "上汽荣威家越 07 纯电版完成申报：大五座布局，轴距达 2908 mm",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/014/406.htm",
+      "publishedAt": "2026-10-17T14:29:23.000Z",
+      "summary": "上汽荣威家越07纯电版完成工信部第412批申报，车长4900mm、轴距2908mm，定位大五座纯电SUV。",
+      "actionSteps": [
+        "跟踪后续工信部续航与电池申报信息",
+        "对比同轴距竞品价格区间",
+        "关注上汽官方上市节奏公告"
+      ],
+      "tags": [
+        "新能源汽车",
+        "上汽荣威",
+        "车型申报"
+      ],
+      "trust": 70,
       "opportunity": 40,
       "priority": 40,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-10-17T12:12:49.627Z",
+        "analyzedAt": "2026-10-17T15:40:47.436Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "电竞与高刷用户可关注该价位QD-OLED产品，但需确认国补资格、面板烧屏风险与售后政策后再下单。",
-        "riskNotes": "价格与国补信息来自电商页面转述，国补因地区与时间而异；峰值亮度与响应时间为厂商标称，需看第三方评测。"
+        "whyItMatters": "新车进入公告意味着距上市更近，关注该价位的家庭用户可多一个选择；供应链与经销商可提前评估备货与竞品压力。",
+        "riskNotes": "仅有申报尺寸与类别，续航、电池、价格、上市时间均未披露；申报不等于量产上市。"
       }
     },
     {
@@ -1022,6 +911,68 @@
       }
     },
     {
+      "id": "8d4e81eeb0eb",
+      "title": "奔驰全新纯电 C300L 申报图公布，最大功率 230kW / 轴距 3051mm",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/014/404.htm",
+      "publishedAt": "2026-10-17T13:56:46.000Z",
+      "summary": "奔驰全新纯电C300L完成工信部第412批申报，最大功率230kW、轴距3051mm，车长4977mm。",
+      "actionSteps": [
+        "跟踪后续公告中的电池与续航数据",
+        "对比同级豪华纯电轿车定价",
+        "关注奔驰官方发布节奏"
+      ],
+      "tags": [
+        "新能源汽车",
+        "奔驰",
+        "车型申报"
+      ],
+      "trust": 70,
+      "opportunity": 35,
+      "priority": 35,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-17T15:40:47.436Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "豪华品牌纯电轿车再添长轴距选项，关注豪华电动的消费者与经销商可留意后续定价与配置。",
+        "riskNotes": "仅申报尺寸与功率，续航、电池容量、售价与上市时间未公布；申报信息不代表最终量产配置。"
+      }
+    },
+    {
+      "id": "3babd77dcd54",
+      "title": "IT之家 11.11 严选好货：石头洗烘一体机 5999 → 1598 元，米家 216L 三门冰箱低至 628 元",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/014/378.htm",
+      "publishedAt": "2026-10-17T11:10:45.000Z",
+      "summary": "IT之家汇总11.11促销，石头洗烘一体机5999降至1598元，米家216L三门冰箱低至628元。",
+      "actionSteps": [
+        "在京东淘宝页面核实商品到手价与补贴条件",
+        "对比历史价格判断折扣真实性",
+        "确认售后与退换政策后再下单"
+      ],
+      "tags": [
+        "双11",
+        "家电",
+        "促销"
+      ],
+      "trust": 50,
+      "opportunity": 40,
+      "priority": 35,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-17T15:40:47.435Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "家电数码出现大幅折扣，刚需换新用户可省支出；但需甄别是否为限地区国补或限量秒杀价。",
+        "riskNotes": "促销价为媒体汇总，可能含地区补贴、限时券或历史低价对比，实际到手价需在平台页面复核；红包金额为最高值非普遍可得。"
+      }
+    },
+    {
       "id": "9452e947c800",
       "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
       "category": "knowledge",
@@ -1051,6 +1002,99 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "佩戴智能手表关注健康的用户可借此反思数据焦虑，避免把单次HRV读数当作诊断依据，影响睡眠与运动决策。",
         "riskNotes": "属观点类科普文章，非医学研究或临床指南；HRV个体差异大，具体健康判断应咨询医生，文中未提供数据来源。"
+      }
+    },
+    {
+      "id": "9faf2b30d6a9",
+      "title": "网易《逆水寒：新世界》首个大型资料片【苗疆蛊事】官宣，首次采用双线更新框架",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/014/409.htm",
+      "publishedAt": "2026-10-17T14:43:51.000Z",
+      "summary": "网易《逆水寒：新世界》首个大型资料片“苗疆蛊事”10月30日上线，首次采用双线更新框架。",
+      "actionSteps": [
+        "查看官方资料片公告确认更新内容与时间",
+        "关注上线后玩家社区口碑与服务器稳定性",
+        "投资者跟踪网易下季度游戏收入披露"
+      ],
+      "tags": [
+        "网易",
+        "游戏",
+        "资料片"
+      ],
+      "trust": 60,
+      "opportunity": 35,
+      "priority": 30,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-17T15:40:47.436Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对玩家意味着新地图与玩法内容；对网易是维持用户活跃与付费的关键版本，影响季度游戏流水表现。",
+        "riskNotes": "内容细节来自官方宣传口径，双线更新实际体验与付费设计需上线后验证；无流水或用户数据支撑。"
+      }
+    },
+    {
+      "id": "dc5e98ec2c46",
+      "title": "倍思推出 2026 新国标 45W 自带双线移动电源：2C+1A+1Lightning，20000mAh 电芯售 171 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/014/405.htm",
+      "publishedAt": "2026-10-17T14:20:45.000Z",
+      "summary": "倍思上架2026新国标45W自带双线移动电源，20000mAh，2C+1A+1Lightning，首发价171元。",
+      "actionSteps": [
+        "核对商品页快充协议与认证信息",
+        "比较同容量竞品价格与重量",
+        "查看首批用户实测评价"
+      ],
+      "tags": [
+        "消费电子",
+        "移动电源",
+        "新品"
+      ],
+      "trust": 60,
+      "opportunity": 35,
+      "priority": 30,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-17T15:40:47.436Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "自带多接口线缆减少出行携带，适合多设备用户；价格处于主流区间，可作为换购参考。",
+        "riskNotes": "信息来自电商上架页与媒体转述，实际容量、快充协议兼容性与新国标认证需以商品页和检测报告为准。"
+      }
+    },
+    {
+      "id": "1ea63794e0cb",
+      "title": "开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/014/372.htm",
+      "publishedAt": "2026-10-17T10:45:59.000Z",
+      "summary": "开发者基于破解PS5与llama.cpp移植项目，用GPU本地运行27B参数模型，速度约20.9 token/s。",
+      "actionSteps": [
+        "查阅PS5LM项目开源代码评估技术路径",
+        "在合规硬件上测试同类小模型推理速度",
+        "评估本地推理与云端API的成本差异"
+      ],
+      "tags": [
+        "本地AI",
+        "PS5",
+        "大模型"
+      ],
+      "trust": 40,
+      "opportunity": 45,
+      "priority": 30,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-17T15:40:47.435Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "显示消费级硬件本地跑大模型的可行性，对隐私敏感或低成本推理场景有参考价值，但依赖破解主机。",
+        "riskNotes": "属个人开发者案例，性能数据未独立复现；破解PS5涉及保修与法律风险，不适合企业直接采用。"
       }
     },
     {
@@ -1148,66 +1192,35 @@
       }
     },
     {
-      "id": "a0b921cc8931",
-      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.flexport.com/company/careers/",
-      "publishedAt": "2026-10-17T01:01:51.000Z",
-      "summary": "Hacker News发布物流公司Flexport在CEO办公室招聘Biz Ops负责人的职位链接，帖子热度为零、无评论。",
+      "id": "09b44f197979",
+      "title": "消息称三星正开发全新 Galaxy OS 系统，预计于 2028 年随 Galaxy S28 系列手机亮相",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/014/397.htm",
+      "publishedAt": "2026-10-17T12:47:29.000Z",
+      "summary": "消息源称三星正开发基于安卓的Galaxy OS，深度集成AI，预计2028年随S28亮相，与One UI并行开发。",
       "actionSteps": [
-        "访问Flexport官方招聘页确认岗位状态",
-        "核对岗位职责与自身经验匹配度",
-        "通过官方渠道投递并核实信息"
+        "关注三星官方开发者大会与新闻室是否确认Galaxy OS",
+        "跟踪One UI后续版本更新节奏判断并行开发迹象",
+        "对依赖三星生态的应用团队记录兼容性风险待观察"
       ],
       "tags": [
-        "招聘",
-        "物流科技",
-        "Flexport"
+        "三星",
+        "安卓",
+        "AI系统",
+        "传闻"
       ],
-      "trust": 40,
-      "opportunity": 25,
+      "trust": 25,
+      "opportunity": 20,
       "priority": 20,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-10-17T04:29:02.758Z",
+        "analyzedAt": "2026-10-17T15:40:47.435Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对求职者是一个具体岗位线索；对企业反映物流科技公司仍在扩充运营管理岗。",
-        "riskNotes": "仅为招聘页面链接，岗位职责、薪资与是否仍开放均未核实；HN零热度不代表职位真实性存疑但需自行确认。"
-      }
-    },
-    {
-      "id": "afb74fcc9a82",
-      "title": "Nine-Inch Snails",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "publishedAt": "2026-10-16T22:21:05.000Z",
-      "summary": "《大西洋月刊》报道佛罗里达州遭非洲大蜗牛入侵，HN讨论聚焦这种九英寸巨型蜗牛的生态与农业影响。",
-      "actionSteps": [
-        "查阅当地农业部门入侵物种通报",
-        "了解外来蜗牛检疫与防治措施",
-        "评估对本地农业和园艺的潜在影响"
-      ],
-      "tags": [
-        "入侵物种",
-        "生态",
-        "农业",
-        "公共卫生"
-      ],
-      "trust": 40,
-      "opportunity": 10,
-      "priority": 20,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-17T04:29:02.758Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对农业、生态检疫和外来物种防控有参考意义；普通读者可了解入侵物种对本地种植和公共卫生的潜在风险。",
-        "riskNotes": "仅为文章链接与社区讨论，缺少具体防控数据和官方检疫结论；入侵范围与经济损失需查阅农业部门通报。"
+        "whyItMatters": "若属实，安卓生态将出现新系统分支，开发者与三星用户需关注应用兼容与AI功能迁移；但距今两年多，短期无实际影响。",
+        "riskNotes": "仅单一社交媒体消息源，三星未官方确认；发布时间、命名与One UI关系均需以官方公告复核，不宜据此做采购或开发决策。"
       }
     },
     {
@@ -1239,37 +1252,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "为普通观众提供近期观影参考，属生活消费类内容，商业影响有限。",
         "riskNotes": "为媒体编辑推荐，含主观偏好；上映时间与地区信息需以官方发行方为准。"
-      }
-    },
-    {
-      "id": "8a2456bf6914",
-      "title": "Butlerian Jihad",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "publishedAt": "2026-10-17T02:21:08.000Z",
-      "summary": "Hacker News热帖链接至《沙丘》百科的'巴特勒圣战'词条，该虚构事件讲述人类对思维机器的反抗，引发技术反思讨论。",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "文化讨论",
-        "AI反思",
-        "社区情绪"
-      ],
-      "trust": 30,
-      "opportunity": 10,
-      "priority": 15,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-17T04:29:02.758Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "属文化讨论而非商业信息，对普通人无直接经济影响，但反映技术社区对AI依赖的警惕情绪。",
-        "riskNotes": "内容为虚构作品百科词条与论坛讨论，不构成任何政策、市场或投资依据；热度数据来自HN页面。"
       }
     },
     {
@@ -1462,38 +1444,6 @@
       }
     },
     {
-      "id": "fe66d36b69bf",
-      "title": "边建设边运营：“鹏城云脑 Ⅲ”10000P 国产算力上线试运行",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/387.htm",
-      "publishedAt": "2026-10-17T11:48:30.000Z",
-      "summary": "鹏城云脑 Ⅲ 10000P 国产算力上线试运行，采用华为昇腾 384 超节点架构，完全建成后达 16000P。",
-      "actionSteps": [
-        "查阅鹏城实验室或大会官方通稿确认算力口径",
-        "了解该算力是否对外商用及申请流程",
-        "评估昇腾生态工具链与现有模型的适配成本"
-      ],
-      "tags": [
-        "国产算力",
-        "昇腾",
-        "AI基础设施",
-        "政策"
-      ],
-      "trust": 3,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-17T12:12:49.627Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "国产算力供给增加，可能降低昇腾生态用户的训练与推理租用门槛，利好依赖国产芯片的 AI 企业与科研机构。",
-        "riskNotes": "消息源自 IT 之家转述世界算力网大会，未见鹏城实验室一手公告；10000P 的精度口径、对外开放租用方式与价格均未披露，需复核。"
-      }
-    },
-    {
       "id": "bb808bb95bc4",
       "title": "普联 TP-LINK 推出新款大道 BE6400 路由器 TL-7DR6460：四 2.5G 网口 + 双千兆网口，389 元",
       "category": "ai",
@@ -1526,70 +1476,6 @@
       }
     },
     {
-      "id": "9b13d6a721a0",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "publishedAt": "2026-10-17T08:21:25.000Z",
-      "summary": "Hacker News 热帖指向 Hugging Face 上 DeepSeek-V4.1-Flash-1017 模型页，220 分、85 条评论，但摘要未含模型参数、许可或评测数据。",
-      "actionSteps": [
-        "打开 Hugging Face 模型页核对发布方、许可证与模型卡",
-        "查看 HN 评论区对实测性能与部署成本的讨论",
-        "在隔离环境做小样本推理测试后再评估接入"
-      ],
-      "tags": [
-        "大模型",
-        "开源",
-        "DeepSeek",
-        "开发者"
-      ],
-      "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-17T12:12:49.627Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "若模型确已发布，开发者可评估其推理成本与本地部署可行性；企业需关注许可条款是否允许商用，避免直接接入生产。",
-        "riskNotes": "仅凭标题与链接，无法确认模型真实存在、版本号、权重开放程度、许可证与性能；Hacker News 热度不等于官方发布，需以 Hugging Face 官方页面和 DeepSeek 公告为准。"
-      }
-    },
-    {
-      "id": "58c4a925f685",
-      "title": "一加 Ace 7 系列手机外观首曝，搭载主动散热风扇",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/014/386.htm",
-      "publishedAt": "2026-10-17T11:48:10.000Z",
-      "summary": "一加 Ace 7 系列外观曝光，矩形相机模组内嵌主动散热风扇，预计含 Ace 7 与 Ace 7 Pro，已在电商开启预约。",
-      "actionSteps": [
-        "关注一加官方发布会确认散热方案细节",
-        "对比同价位机型在持续负载下的帧率表现",
-        "评估风扇结构对防尘防水等级的影响"
-      ],
-      "tags": [
-        "智能手机",
-        "一加",
-        "散热",
-        "新品"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-17T12:12:49.627Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "主动散热若落地，可能改善高性能手机长时间游戏时的降频问题，对重度手游用户有参考价值。",
-        "riskNotes": "外观与配置来自社交平台爆料和 IT 之家转述，非一加官方发布；风扇对厚度、重量、防水与噪音的影响未知，需等发布会确认。"
-      }
-    },
-    {
       "id": "0a7a0854144d",
       "title": "科大讯飞 AI 词典笔 X9 上架：内置 85 本词典、支持小初高 9 科知识查询，744 元",
       "category": "ai",
@@ -1619,38 +1505,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "面向学生家庭的硬件学习工具，国补可降低购机成本；家长可关注其离线能力与护眼屏配置。",
         "riskNotes": "价格、国补与功能均来自 IT 之家转述电商页面，国补资格因地区而异；翻译与学科查询实际效果需实测，不宜据宣传语判断。"
-      }
-    },
-    {
-      "id": "33d0e39045f0",
-      "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/CLoaKY233/siltop",
-      "publishedAt": "2026-10-17T07:01:07.000Z",
-      "summary": "开发者因 btop 无法显示苹果 M 系列芯片功耗、GPU 与单核频率，自建 siltop 监控工具并在 HN 展示。",
-      "actionSteps": [
-        "查看项目仓库确认开源许可与安装方式",
-        "在非生产 Mac 上试运行并核对读数",
-        "关注其是否依赖未公开系统接口带来的稳定性风险"
-      ],
-      "tags": [
-        "开发者工具",
-        "macOS",
-        "系统监控",
-        "开源"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-17T12:12:49.627Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "Mac 开发者可多一个查看芯片实时状态的轻量工具选项，便于排查性能与散热问题。",
-        "riskNotes": "仅为个人 Show HN 项目，成熟度、权限需求、数据准确性未经独立验证；是否开源、是否读取私有接口需核实。"
       }
     },
     {
