@@ -1,13 +1,18 @@
 {
-  "generatedAt": "2026-10-24T12:41:35.610Z",
-  "status": "ok",
-  "failedSources": [],
+  "generatedAt": "2026-10-25T04:43:48.097Z",
+  "status": "partial",
+  "failedSources": [
+    {
+      "name": "Hacker News",
+      "error": "fetch failed"
+    }
+  ],
   "ai": {
     "enabled": true,
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 26
+    "reused": 27
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,143 +199,6 @@
       "priority": 89
     },
     {
-      "id": "6252a2c19dbe",
-      "title": "I Don't Understand Quantum Physics (2018)",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "publishedAt": "2026-10-24T09:53:26.000Z",
-      "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 103 # Comments: 69",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "69696c78864a",
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "publishedAt": "2026-10-24T08:06:39.000Z",
-      "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 44 # Comments: 23",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "3c20f3ab5bf1",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "publishedAt": "2026-10-24T05:49:57.000Z",
-      "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 248 # Comments: 70",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "f244da1f1890",
-      "title": "OBS Studio 33",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "publishedAt": "2026-10-24T04:49:58.000Z",
-      "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 209 # Comments: 68",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "937563ab7080",
-      "title": "How close can pure functional programming get to C?",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://rtfeldman.com/fp-vs-c",
-      "publishedAt": "2026-10-24T03:43:54.000Z",
-      "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 146 # Comments: 25",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "2689b14cb18e",
-      "title": "How Block Blast harvests its players for ad money",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://ayoships.com/breakdowns/block-blast",
-      "publishedAt": "2026-10-24T02:43:43.000Z",
-      "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 60 # Comments: 26",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "4fd2cd80dc44",
-      "title": "Apple Security Research Device",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://security.apple.com/research-device/",
-      "publishedAt": "2026-10-24T02:36:38.000Z",
-      "summary": "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 89 # Comments: 38",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
       "id": "c5711f5da21b",
       "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
       "category": "policy",
@@ -395,73 +263,46 @@
       }
     },
     {
-      "id": "f0b45c3b9882",
-      "title": "中国信通院：截至 8 月，国内约 1500 万辆乘用车具备领航驾驶辅助（NOA）功能",
+      "id": "a248dac6a746",
+      "title": "保时捷在美召回 548 辆 911/718：存在掉轮风险，车主应立即停驶",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/494.htm",
-      "publishedAt": "2026-10-24T12:02:31.000Z",
-      "summary": "IT之家 10 月 24 日消息，据中国信通院，2026 世界智能网联汽车大会已于 10 月 21 日至 23 日在北京亦庄举办。在全体大会成果发布环节，工业和信息化部装备工业一司司长郭守刚介绍了国家车联网技术标准体系与 跨标委 合作机制，发布《国家车联网技术标准体系建设指南（2026 版）》（征求意见稿），并主持车联网标准跨标委合作协议签署仪式。 会上介绍，中国先后制定发布组合驾驶辅助系统、自动驾驶系统、自动紧急制动系统、整车信息安全",
+      "link": "https://www.ithome.com/1/017/577.htm",
+      "publishedAt": "2026-10-25T04:15:51.000Z",
+      "summary": "保时捷在美扩大召回548辆2024款911/718，因中央锁止装置缺陷存在掉轮风险，要求车主立即停驶。",
       "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "5f0c6cd984da",
-      "title": "比亚迪方程豹钛 9 车型 11 月 15 日后上市，SHARK 鲨鱼皮卡紧随其后",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/491.htm",
-      "publishedAt": "2026-10-24T11:53:21.000Z",
-      "summary": "IT之家 10 月 24 日消息，10 月 22 日，比亚迪集团-方程豹事业部总经理熊甜波公布新车的进度。 据其透露，方程豹钛 9 车型会在 11 月 15 日后正式上市。团队会提前备好现车，让用户提车不用长时间等待。同时展车、试驾车会在 10 月底陆续到。此外，SHARK 鲨鱼皮卡，在钛 9 发布之后，计划 11 月底 —12 月初上市同步交付。 方程豹钛 9 据此前官方介绍，钛 9 是方程豹品牌旗下钛系列的第三款车型，定位科技新奢旗",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "2a7c0291dd34",
-      "title": "Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/490.htm",
-      "publishedAt": "2026-10-24T11:39:49.000Z",
-      "summary": "IT之家 10 月 24 日消息，近日有用户反馈称 Anthropic 旗下 Claude 的升级支付页面出现了新的地区选项变化。 IT之家实测发现，中国大陆及港澳台地区已出现在付款页面中，支付入口也已支持绑定中国银联卡。 与此同时，社交平台和开发者社区有用户称，此前被永久封禁的 Claude 账号可以提交申诉，且已有个别用户反馈申诉成功。关于这一点，IT之家暂无法核实。 值得一提的是，Claude 支付页面出现中国地区选项，并不等于 ",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
+        "在NHTSA官网按VIN查询是否在召回范围",
+        "联系保时捷经销商预约检查与维修",
+        "购二手车前核查召回完成记录"
       ],
       "tags": [
-        "政策"
+        "保时捷",
+        "召回",
+        "行车安全",
+        "NHTSA"
       ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
+      "trust": 60,
+      "opportunity": 25,
+      "priority": 70,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-25T04:43:48.097Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "涉及行车安全，受影响车主应立即停驶并联系经销商；对二手车买家提示核查召回记录，进口车用户关注同类缺陷通报。",
+        "riskNotes": "信息经美媒与IT之家转述，具体车型清单与补救措施应以NHTSA或保时捷官方召回公告为准；中国市场是否涉及需另行核实。"
+      }
     },
     {
-      "id": "87c5d0bbf417",
-      "title": "北京警方打掉多个虚假“名画销售直播间”，诈骗团伙将成本仅几元的打印画包装成价值几十万元的名家真迹",
+      "id": "157e3b54c69e",
+      "title": "荣耀平板 MagicOS 11 升级亮点公布：支持 PC 桌面、液态玻璃、无边笔记等",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/401.htm",
-      "publishedAt": "2026-10-24T07:34:17.000Z",
-      "summary": "IT之家 10 月 24 日消息，据央视新闻报道，近期北京警方连续打掉多个诈骗团伙窝点，相应诈骗团伙在直播间将成本仅几元的打印画包装成价值几十万元的名家真迹，通过伪造身份合影，利用话术欺骗消费者购买赝品。 据报道，相应诈骗团伙主播冒充“拍卖行董事长”“博物馆馆长”，编造各种谎言吸引消费者，并利用 P 图、AI 生成等手段伪造与画家的合影、画展经历，悬挂虚假博物馆牌匾作为直播间背景，以销售赝品打印画。 在直播过程中， 诈骗团伙主播频繁强调",
+      "link": "https://www.ithome.com/1/017/550.htm",
+      "publishedAt": "2026-10-25T01:42:55.000Z",
+      "summary": "IT之家 10 月 25 日消息，荣耀产品维护与升级 @荣耀小芳哥 总结了 荣耀平板 MagicOS 11 的升级亮点 ，包括 UX 焕新、PC 桌面办公效率升级、极客中心 2.0、无边笔记、知识工坊个人 AI 知识工作台、学习空间等。 目前，荣耀 MagicPad 3 Pro 12.3、荣耀 MagicPad 3 Pro 已开启全网推送；MagicPad 3 12.5、MagicPad 3、MagicPad 2、荣耀平板 GT2 Pr",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -475,14 +316,58 @@
       "priority": 70
     },
     {
-      "id": "78016bd3b5a0",
-      "title": "父亲突发脑梗后儿子用豆包 AI 抢出救命时间，话题登顶微博热搜",
+      "id": "c404018a4d4e",
+      "title": "亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/394.htm",
-      "publishedAt": "2026-10-24T07:08:33.000Z",
-      "summary": "IT之家 10 月 24 日消息，今日一则“儿子用 AI 为父亲抢出救命时间”的话题在社交平台引发关注，并且一度登上微博热搜榜第一。 据青岛广播电视台《先锋新闻》等多个媒体报道，山东聊城 90 后小伙于建进的父亲在遛弯回家后突然出现双腿无力、吞咽不畅的症状。于建进没有选择“再观察看看”，而是把症状和父亲的“三高”病史一起发给了豆包。 豆包的回复没有停留在分诊建议层面。据于先生描述，AI 给出的第一句话就是“脑梗征兆，建议立即就医”。在他",
+      "link": "https://www.ithome.com/1/017/549.htm",
+      "publishedAt": "2026-10-25T01:37:07.000Z",
+      "summary": "IT之家 10 月 25 日消息，亚马逊首席执行官安迪・贾西（Andy Jassy）当地时间周五表示，受 AI 基础设施需求持续走高的推动，亚马逊云科技（AWS）的云计算容量到 2027 年基本已经售罄，还有大量长期算力订单锁定到 2028 年。 这期视频播客由安德森・霍洛维茨基金（Andreessen Horowitz）联合创始人本・霍洛维茨（Ben Horowitz）和普通合伙人埃里克・托伦伯格（Erik Torenberg）主持。",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "cf46a8aeba2f",
+      "title": "澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/542.htm",
+      "publishedAt": "2026-10-25T00:42:38.000Z",
+      "summary": "IT之家 10 月 25 日消息，澳大利亚国家男子足球队球星走在宽敞的中庭里，目光直视镜头，足球鞋踩在光洁的混凝土地面上，脚步声在四周回荡。突然间，他变出四个数字分身，各自散开，再出现在全球不同场景当中。 IT之家注意到，这段在社交平台传播的视频是人工智能生成的假画面，但视频的原型、现年 22 岁的足球运动员克里斯蒂安 · 沃尔帕托（Cristian Volpato）本人授权制作了这段内容，他也是最新一位将自己的 AI 肖像授权变现的职",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "519eecc31f28",
+      "title": "印度新股认购金额最高纪录诞生：Jio 获超 770 亿美元 IPO 认购申请",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/541.htm",
+      "publishedAt": "2026-10-25T00:37:46.000Z",
+      "summary": "IT之家 10 月 25 日消息，据路透社报道，当地时间 23 日，印度亿万富翁穆克什 · 安巴尼旗下的 Jio 获得了超过 770 亿美元 （IT之家注：现汇率约合 5,147.35 亿元人民币） 的 IPO 认购申请， 创下印度新股发行认购金额最高纪录 。 安巴尼时隔 20 年再次推动旗下企业上市，打破了其弟弟安尼尔旗下信实电力公司在 2008 年创下的纪录。 随着 AI 概念股受到越来越严格的审视，市场将 Jio 的上市视为检验投",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -612,6 +497,37 @@
       }
     },
     {
+      "id": "c3e85ac7153a",
+      "title": "为给数据中心腾出电网容量，谷歌付费让家庭、企业减少用电",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/561.htm",
+      "publishedAt": "2026-10-25T03:03:59.000Z",
+      "summary": "谷歌与Voltus协议在PJM电网建虚拟电厂，付费鼓励家庭企业错峰减用电，为数据中心腾出最多1070MW容量。",
+      "actionSteps": [
+        "查询PJM电网需求响应项目的参与资格与补偿规则",
+        "评估自身用电负荷是否具备错峰调节空间",
+        "关注本地数据中心扩张对电价的传导影响"
+      ],
+      "tags": [
+        "数据中心",
+        "虚拟电厂",
+        "电力需求响应"
+      ],
+      "trust": 55,
+      "opportunity": 60,
+      "priority": 60,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-25T04:43:48.097Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "数据中心用电挤占电网，可能推高局部电价并催生需求响应补贴；具备可调负荷的企业和家庭或可通过参与削峰获得补偿。",
+        "riskNotes": "报道引自纽约时报，谷歌与Voltus未公开合同全文，1070MW为上限值而非实际释放量，落地节奏与补偿标准需核实。"
+      }
+    },
+    {
       "id": "2175552da49d",
       "title": "国办关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
       "category": "policy",
@@ -644,24 +560,149 @@
       }
     },
     {
-      "id": "63630908d73b",
-      "title": "倍思为苹果 iPhone Duo 推出卡片磁吸 Air 移动电源：7.5W 无线 +25W 有线，5000mAh 售 374 元",
+      "id": "addbfb01551e",
+      "title": "AI 智能体闯进银行，美国大行开始准备“灾后预案”",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/492.htm",
-      "publishedAt": "2026-10-24T11:56:34.000Z",
-      "summary": "倍思上架卡片磁吸Air移动电源，适配iPhone Duo尺寸，5000mAh，7.5W无线+25W有线，券后374元，电芯过新国标认证并支持NFC查健康度。",
+      "link": "https://www.ithome.com/1/017/562.htm",
+      "publishedAt": "2026-10-25T03:06:09.000Z",
+      "summary": "美大型银行据报正为自主AI智能体引发金融操作风险制定灾后应急预案，担忧用户授权后智能体自主交易失控。",
       "actionSteps": [
-        "核对倍思官方或京东自营页面的适配机型与认证信息",
-        "对比同类磁吸电源的容量、厚度与价格",
-        "关注iPhone Duo上市后配件需求的实际反馈"
+        "核查美国主要银行与监管机构是否发布AI智能体相关官方指引",
+        "梳理自身产品若接入银行账户需满足的授权与审计要求",
+        "在合同中明确AI操作异常时的责任划分与止损机制"
       ],
       "tags": [
-        "移动电源",
-        "苹果配件",
-        "磁吸充电",
-        "消费电子"
+        "AI智能体",
+        "银行风控",
+        "金融合规"
+      ],
+      "trust": 45,
+      "opportunity": 40,
+      "priority": 55,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-25T04:43:48.097Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "若银行收紧AI智能体接入账户的权限或增加验证环节，个人用户使用AI代管财务的门槛与成本会上升；金融科技企业需提前适配银行风控要求。",
+        "riskNotes": "消息源自Axios经IT之家转述，非银行官方公告，具体预案内容、涉及银行名单与实施时间均未披露，需以监管与银行一手声明复核。"
+      }
+    },
+    {
+      "id": "c1c90875f513",
+      "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/557.htm",
+      "publishedAt": "2026-10-25T02:29:30.000Z",
+      "summary": "Block推出全双工语音模型Dessa，支持本地运行，可模拟笑声停顿哽咽等情绪，训练仅用一组英伟达GPU机架。",
+      "actionSteps": [
+        "查阅Block官方模型说明确认硬件与许可条件",
+        "在客服或陪伴场景做小规模语音体验对比测试",
+        "评估本地部署对数据合规的改善程度"
+      ],
+      "tags": [
+        "语音模型",
+        "本地AI",
+        "全双工"
+      ],
+      "trust": 50,
+      "opportunity": 65,
+      "priority": 55,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-25T04:43:48.097Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "本地运行降低语音AI的隐私与延迟顾虑，客服、陪伴、无障碍等场景的语音交互体验可能提升，中小开发者门槛下降。",
+        "riskNotes": "信息来自厂商介绍经媒体转述，缺乏第三方基准测试；本地运行硬件要求、授权条款与商用许可未明确。"
+      }
+    },
+    {
+      "id": "3f99806ac67d",
+      "title": "我国成功发射卫星互联网低轨 28 组卫星",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/566.htm",
+      "publishedAt": "2026-10-25T03:51:50.000Z",
+      "summary": "我国在海南商业航天发射场用长征八号甲火箭成功发射卫星互联网低轨28组卫星，卫星入轨。",
+      "actionSteps": [
+        "跟踪卫星互联网运营商后续组网与商用计划",
+        "评估偏远地区网络接入的替代方案可行性",
+        "关注商业航天供应链相关公开招标信息"
+      ],
+      "tags": [
+        "卫星互联网",
+        "商业航天",
+        "低轨卫星"
+      ],
+      "trust": 70,
+      "opportunity": 55,
+      "priority": 50,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-25T04:43:48.097Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "低轨卫星互联网组网推进，长期或改善偏远地区网络覆盖，并带动卫星制造、地面终端与商业发射产业链需求。",
+        "riskNotes": "消息源自央视经IT之家转载，属官方媒体口径但非任务方原始公告；组网进度、服务商用时间表未披露。"
+      }
+    },
+    {
+      "id": "4e774c8a9d56",
+      "title": "摆脱微软并不容易？丹麦政府因技术问题放弃“弃用 Office”计划",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/580.htm",
+      "publishedAt": "2026-10-25T04:35:21.000Z",
+      "summary": "丹麦弃用微软Office改开源软件的计划因技术问题放弃，反映政府级软件替代的现实难度。",
+      "actionSteps": [
+        "检索丹麦政府或相关部门的官方公告原文",
+        "在自有环境中做办公软件兼容性小范围试点",
+        "评估迁移总成本并制定分阶段替换方案"
+      ],
+      "tags": [
+        "开源软件",
+        "微软",
+        "政府IT",
+        "替代成本"
+      ],
+      "trust": 50,
+      "opportunity": 45,
+      "priority": 45,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-25T04:43:48.097Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对企业IT选型有参考价值：办公套件迁移涉及兼容性、培训与流程改造，成本常被低估；也提示国产或开源替代需分阶段验证。",
+        "riskNotes": "消息源自外媒Neowin经IT之家转述，非丹麦政府一手公告；具体技术障碍、预算与后续政策未披露，需查官方声明核实。"
+      }
+    },
+    {
+      "id": "03c3446dfd99",
+      "title": "卢伟冰再谈小米 18 Fold 手机折痕：采用新一代折叠架构，平均深度 ≤30μm",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/579.htm",
+      "publishedAt": "2026-10-25T04:31:26.000Z",
+      "summary": "卢伟冰称小米18 Fold采用新一代折叠架构，平均折痕深度不超过30μm，售价10999元起。",
+      "actionSteps": [
+        "到线下门店实机观察折痕与铰链手感",
+        "对比同价位竞品的折痕与保修政策",
+        "关注第三方评测的折痕测量方法"
+      ],
+      "tags": [
+        "小米",
+        "折叠屏",
+        "折痕",
+        "新机"
       ],
       "trust": 55,
       "opportunity": 50,
@@ -669,42 +710,10 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.609Z",
+        "analyzedAt": "2026-10-25T04:43:48.097Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对iPhone Duo用户，多了一个超薄磁吸充电选择；对配件厂商，说明围绕新机尺寸的差异化配件窗口正在打开。",
-        "riskNotes": "信息来自IT之家转述京东商品页，非倍思官方一手公告；iPhone Duo机型与尺寸适配需以苹果官方信息复核；7.5W无线与25W有线为标称值，实际功率受协议与温度影响；券后价具时效性。"
-      }
-    },
-    {
-      "id": "ddad7c4ed557",
-      "title": "消息称字节跳动 AI 短剧产品内部整合：小云雀并入即梦，仍保留独立入口",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/480.htm",
-      "publishedAt": "2026-10-24T10:59:27.000Z",
-      "summary": "据36氪报道，字节跳动将AI短剧平台小云雀并入即梦，保留独立入口，即梦已接入短剧能力，运营由陈欣然负责。",
-      "actionSteps": [
-        "关注即梦官方公告确认功能整合范围",
-        "测试即梦短剧生成能力的实际可用性",
-        "评估自身内容生产流程是否可迁移至该平台"
-      ],
-      "tags": [
-        "字节跳动",
-        "AI短剧",
-        "业务整合",
-        "内容创作"
-      ],
-      "trust": 45,
-      "opportunity": 50,
-      "priority": 45,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.609Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对AI内容创作者，工具整合可能带来更统一的创作流程；对短剧与AI视频赛道，头部厂商正收敛资源、集中投入。",
-        "riskNotes": "消息源为36氪转述，字节官方未确认，属未证实报道；整合细节、团队与入口安排需以官方为准；不涉及具体政策或收益数据。"
+        "whyItMatters": "折痕是折叠屏购机核心痛点，若数据属实可提升日常观感；但厂商自述指标需实机对比验证，高价机型更应线下体验。",
+        "riskNotes": "折痕数据为小米高管公开表态，属厂商自测口径，测量方法与条件未公开；发布与售价信息需以官方页面复核。"
       }
     },
     {
@@ -736,38 +745,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "企业若只比拼模型选型易同质化，投入工程化、数据管道与治理体系可能带来更持久的效率与成本优势。",
         "riskNotes": "仅为观点性文章摘要，正文数据与案例未提供；'竞争优势'属定性判断，无量化证据，需阅读原文核实论据。"
-      }
-    },
-    {
-      "id": "1eafce58af2d",
-      "title": "小米推出 24.5 英寸 REDMI 显示器 G25 2027：1080p 300Hz，799 元",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/498.htm",
-      "publishedAt": "2026-10-24T12:30:11.000Z",
-      "summary": "小米REDMI显示器G25 2027上架京东，24.5英寸1080p Fast IPS，原生300Hz、1ms GTG、HDR400，售价799元。",
-      "actionSteps": [
-        "以小米官方商城页面核实刷新率与面板参数",
-        "查看第三方实测的响应时间与拖影表现",
-        "对比同价位竞品的分辨率与刷新率组合"
-      ],
-      "tags": [
-        "显示器",
-        "电竞硬件",
-        "小米",
-        "价格竞争"
-      ],
-      "trust": 55,
-      "opportunity": 45,
-      "priority": 40,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.610Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "799元价位提供300Hz高刷，降低电竞显示器入门门槛，利好预算有限的游戏玩家；对显示器厂商形成价格与规格压力。",
-        "riskNotes": "来源为IT之家转述商品页，非小米官方发布；标题称300Hz而摘要称原生280Hz，参数口径需复核；HDR400为入门认证，实际观感有限；价格可能为促销价。"
       }
     },
     {
@@ -833,6 +810,38 @@
       }
     },
     {
+      "id": "560093c9b35b",
+      "title": "苹果 iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/578.htm",
+      "publishedAt": "2026-10-25T04:25:03.000Z",
+      "summary": "拆机视频显示iPhone Duo采用双电芯共4883mAh、电控胶拆卸、无实体SIM卡槽，属第三方拆解信息。",
+      "actionSteps": [
+        "核对苹果官网或发布会信息确认机型与规格",
+        "向本地运营商确认eSIM开通与转移流程",
+        "购机前查看官方维修政策与电池更换价格"
+      ],
+      "tags": [
+        "苹果",
+        "折叠屏",
+        "拆解",
+        "eSIM"
+      ],
+      "trust": 45,
+      "opportunity": 40,
+      "priority": 35,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-25T04:43:48.096Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "关注折叠机续航与维修性的消费者可参考；无实体卡槽意味着更依赖eSIM，换号与出国使用需提前确认运营商支持。",
+        "riskNotes": "信息来自YouTube拆机频道经IT之家转述，非苹果官方发布；机型名称、发布时间与规格均需以官方为准，拆解样本不代表量产机。"
+      }
+    },
+    {
       "id": "795b54b85a06",
       "title": "The Download: testing six tech promises and biotech’s blind spots",
       "category": "industry",
@@ -895,35 +904,35 @@
       }
     },
     {
-      "id": "bab14e9062cd",
-      "title": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元",
-      "category": "industry",
+      "id": "ed473a621746",
+      "title": "三名被解雇的 OpenAI 安全研究员否认泄密，怀疑因推动 AI 透明度被针对",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/497.htm",
-      "publishedAt": "2026-10-24T12:23:19.000Z",
-      "summary": "小米米家钛保温杯茶水分离版500ml在京东发售，杯体、滤网、杯盖内衬为纯钛，支持倒置泡茶分离，售价219元。",
+      "link": "https://www.ithome.com/1/017/563.htm",
+      "publishedAt": "2026-10-25T03:28:57.000Z",
+      "summary": "三名被OpenAI解雇的安全研究员否认泄密，怀疑因推动AI透明度被针对，双方说法对立。",
       "actionSteps": [
-        "在小米官方渠道核实材质与容量参数",
-        "查看用户实测的保温与防漏表现",
-        "对比同价位不锈钢与钛材质产品"
+        "等待OpenAI或当事方发布正式声明",
+        "在企业内明确保密与对外披露的合规流程",
+        "将持续关注AI安全治理相关监管动态"
       ],
       "tags": [
-        "小米",
-        "保温杯",
-        "纯钛",
-        "消费升级"
+        "OpenAI",
+        "AI安全",
+        "人事争议",
+        "透明度"
       ],
-      "trust": 55,
-      "opportunity": 35,
+      "trust": 35,
+      "opportunity": 30,
       "priority": 30,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.610Z",
+        "analyzedAt": "2026-10-25T04:43:48.097Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对消费者提供茶水分离的纯钛保温杯选择；对杯壶行业，纯钛材质与茶饮场景结合成为差异化卖点。",
-        "riskNotes": "来源为IT之家转述商品页，非小米官方发布；纯钛具体牌号与含量未披露；219元为发售价，可能变动；保温与密封性能需实测。"
+        "whyItMatters": "反映AI安全治理与信息透明的张力；对AI从业者提示：内部合规与对外发声边界需明确，企业安全团队话语权值得关注。",
+        "riskNotes": "仅为被解雇方单方说法，OpenAI内部调查结论未公开细节；事实与动机均无法独立核实，不宜据此定性。"
       }
     },
     {
@@ -1083,6 +1092,36 @@
       }
     },
     {
+      "id": "fa45a1891923",
+      "title": "张雪谈成功挑战“水上漂”吉尼斯世界纪录自己表现：打 99 分，留 1 分不要太骄傲",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/576.htm",
+      "publishedAt": "2026-10-25T04:05:19.000Z",
+      "summary": "张雪驾驶改装摩托车挑战水上行驶吉尼斯纪录后自评99分，称过程稳定谨慎，未刻意拉高车速。",
+      "actionSteps": [
+        "核对吉尼斯官方认证页面确认纪录有效性",
+        "评估此类事件对品牌曝光的可复制性",
+        "避免将个人挑战成绩直接作为产品性能宣传依据"
+      ],
+      "tags": [
+        "品牌营销",
+        "吉尼斯纪录"
+      ],
+      "trust": 50,
+      "opportunity": 20,
+      "priority": 20,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-25T04:43:48.097Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "属个人极限挑战与品牌营销事件，对普通消费者和企业经营无直接实质影响，主要体现机车品牌曝光价值。",
+        "riskNotes": "为赛后采访自述，成绩与认证细节需以吉尼斯官方记录为准；商业转化效果无数据支撑。"
+      }
+    },
+    {
       "id": "4d7be9fa8589",
       "title": "破与立：设计视角下的 iPhone Duo",
       "category": "knowledge",
@@ -1111,6 +1150,67 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对关注折叠或双屏手机设计趋势的消费者与产品从业者有参考价值，但不构成购买或投资依据。",
         "riskNotes": "摘要为栏目介绍，正文内容缺失；文章代表个人观点，非官方信息，产品是否存在及规格无法核实。"
+      }
+    },
+    {
+      "id": "86e572cba274",
+      "title": "R 星联合创始人丹 · 豪瑟回应 2009 年新项目《特工》为何取消：个人觉得太难了",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/565.htm",
+      "publishedAt": "2026-10-25T03:43:46.000Z",
+      "summary": "R星联合创始人丹·豪瑟称2009年项目《特工》因设计难题多次推进未果而取消。",
+      "actionSteps": [
+        "将此类访谈作为行业案例存档参考",
+        "在项目立项阶段设置核心玩法验证节点",
+        "避免据此推断R星当前产品计划"
+      ],
+      "tags": [
+        "游戏行业",
+        "项目取消",
+        "R星"
+      ],
+      "trust": 40,
+      "opportunity": 20,
+      "priority": 15,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-25T04:43:48.096Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对玩家属怀旧信息，对游戏从业者的启示是：开放世界加潜行的设计复杂度高，立项需尽早验证核心玩法。",
+        "riskNotes": "为个人回忆性表述经外媒转述，非官方档案；取消的具体原因与时间线无法独立核实，仅作行业轶事参考。"
+      }
+    },
+    {
+      "id": "d2cfb2607f98",
+      "title": "40.74 公里！张雪时隔 17 年圆梦“水上漂”，刷新改装摩托车在开阔水域行驶最远距离吉尼斯世界纪录",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/017/564.htm",
+      "publishedAt": "2026-10-25T03:35:19.000Z",
+      "summary": "张雪驾驶改装摩托车以40.74公里刷新开阔水域行驶最远距离吉尼斯纪录，打破原31.8公里成绩。",
+      "actionSteps": [
+        "核对吉尼斯官方纪录页面确认数据",
+        "区分改装车表现与量产车型宣传",
+        "评估事件营销的传播周期与成本效益"
+      ],
+      "tags": [
+        "吉尼斯纪录",
+        "品牌传播"
+      ],
+      "trust": 55,
+      "opportunity": 15,
+      "priority": 15,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-10-25T04:43:48.097Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "属个人挑战与品牌传播事件，对普通人和企业无直接经济影响，主要价值在机车品牌知名度提升。",
+        "riskNotes": "成绩与认证由媒体报道转述，需以吉尼斯官方记录核验；改装车辆性能不代表量产产品。"
       }
     },
     {
@@ -1173,37 +1273,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对普通人和企业无直接商业影响，仅反映生物科技创投圈的舆论与叙事热度，可作为行业文化观察素材。",
         "riskNotes": "原文为影评式随笔，摘要被截断，未提供任何数据、政策或公司动态，不能据此推断Theranos案后续或行业监管变化。"
-      }
-    },
-    {
-      "id": "911d59dbab9f",
-      "title": "I can't believe we're still arguing over whether X is for jerks",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks",
-      "publishedAt": "2026-10-24T12:14:34.000Z",
-      "summary": "Hacker News讨论文章，标题质疑关于X平台用户群体是否不友善的争论，仅10点1评论，信息量极低。",
-      "actionSteps": [
-        "打开原文链接确认具体论点",
-        "判断是否与自身品牌或平台运营相关",
-        "如相关再收集更多数据验证"
-      ],
-      "tags": [
-        "社区讨论",
-        "社交媒体",
-        "低信息量"
-      ],
-      "trust": 20,
-      "opportunity": 10,
-      "priority": 10,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.610Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "属社区观点讨论，对普通人和企业无直接商业影响，仅反映科技社区舆论话题。",
-        "riskNotes": "仅有标题与链接，无正文内容，无法判断论点与依据；评论极少，不具代表性；不应据此推断平台用户画像或商业结论。"
       }
     },
     {
@@ -1454,192 +1523,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "烟花爆竹相关生产、销售、运输企业和从业人员需关注合规要求变化，普通消费者在燃放时段和区域上可能面临更严格限制。",
         "riskNotes": "摘要未包含意见具体条款、适用对象、执行时间和申报材料，需查阅中国政府网原文附件核实，本分析不构成合规依据。"
-      }
-    },
-    {
-      "id": "53e99b53c10f",
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "publishedAt": "2026-10-24T11:18:54.000Z",
-      "summary": "有报道称一篇AI辅助撰写的Z-Library论文引用了并不存在的TorrentFreak文章，引发对AI生成内容引用真实性的讨论。",
-      "actionSteps": [
-        "打开原始报道与论文页面，逐条核对被引文献是否真实存在",
-        "在团队内建立AI辅助写作的引用二次核验流程",
-        "对已发布内容做抽查，发现虚构引用及时更正"
-      ],
-      "tags": [
-        "AI写作",
-        "引用造假",
-        "内容核验"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.610Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对使用AI写作的学生、研究者和内容团队而言，AI可能编造看似可信的参考文献，若不逐条核实会损害论文与报告的可信度。",
-        "riskNotes": "仅来自Hacker News聚合链接，未核实原论文、引用条目及TorrentFreak是否确无此文；具体作者与期刊信息缺失。"
-      }
-    },
-    {
-      "id": "1cf0b4d28dcb",
-      "title": "平安口袋银行 App 宣布将全面适配苹果 iPhone Duo 手机：支持“待机显示”模式、深度适配内外屏",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/418.htm",
-      "publishedAt": "2026-10-24T08:16:21.000Z",
-      "summary": "平安口袋银行App宣布将全面适配苹果iPhone Duo，支持待机显示、内外屏深度适配及AI语音助理。",
-      "actionSteps": [
-        "以苹果官方发布与App Store更新日志核实设备与功能",
-        "折叠屏用户更新后先小额试用再用于大额交易",
-        "关注银行关于AI语音助理的数据使用说明"
-      ],
-      "tags": [
-        "折叠屏",
-        "银行App",
-        "移动金融"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.609Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "若属实，折叠屏iPhone用户可获更完整的银行App体验；对同业意味着折叠屏适配成为移动金融竞争点。",
-        "riskNotes": "消息源自银行发文与媒体转述，iPhone Duo产品本身及发布时间未获苹果官方确认，适配细节需以App更新说明为准。"
-      }
-    },
-    {
-      "id": "bc6a2c6eb587",
-      "title": "达音科推出 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，999 元",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/496.htm",
-      "publishedAt": "2026-10-24T12:20:24.000Z",
-      "summary": "达音科在京东上架PRS 5五单元混合架构Hi-Fi耳机，定价999元，采用3D打印树脂腔体。",
-      "actionSteps": [
-        "查阅第三方实测评测与频响曲线后再决定",
-        "对比同价位竞品的单元配置与保修政策",
-        "关注首发期价格与退换货条款"
-      ],
-      "tags": [
-        "耳机",
-        "消费电子",
-        "新品"
-      ],
-      "trust": 3,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.610Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对音频爱好者是千元价位多单元耳机的又一选择，但参数与听感需实测，不宜仅凭单元数量判断。",
-        "riskNotes": "信息来自电商上架与媒体转述，未含独立评测或实测频响数据；价格与库存可能变动。"
-      }
-    },
-    {
-      "id": "d5858492ef74",
-      "title": "卫星发射升空出现“火箭云”奇观，揭秘宇宙级浪漫形成过程",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/495.htm",
-      "publishedAt": "2026-10-24T12:18:32.000Z",
-      "summary": "10月23日长征六号改在太原发射遥感五十号03星，高空尾迹形成“火箭云”被多地民众拍到。",
-      "actionSteps": [
-        "以官方航天发布核实发射任务与卫星用途",
-        "关注后续遥感数据应用与产业配套动态",
-        "将此类现象作为科普内容素材但注明来源"
-      ],
-      "tags": [
-        "航天发射",
-        "遥感卫星",
-        "科普"
-      ],
-      "trust": 3,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.610Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "属科普与航天关注热点，对普通人主要是观赏与科普价值，对航天及遥感产业是常规发射进展信号。",
-        "riskNotes": "发射信息来自媒体转述，具体卫星用途与轨道参数需以官方航天机构发布为准；‘火箭云’成因解释为科普性描述。"
-      }
-    },
-    {
-      "id": "000984af5b78",
-      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "publishedAt": "2026-10-24T10:51:35.000Z",
-      "summary": "有项目在Hacker News展示利用CVE-2022-22706漏洞为Tcl安卓电视实现自主root。",
-      "actionSteps": [
-        "先在官方CVE数据库核实漏洞影响范围与修补状态",
-        "在非主力设备上按项目文档小范围测试",
-        "评估root后失去官方保修与OTA更新的代价"
-      ],
-      "tags": [
-        "安卓电视",
-        "漏洞利用",
-        "root"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.610Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对智能电视开发者和极客可释放设备控制权，但普通用户操作不当可能导致设备损坏或暴露安全风险。",
-        "riskNotes": "仅见GitLab链接与少量热度，未验证漏洞适用机型范围、成功率及是否已被厂商修补；CVE细节需查官方公告。"
-      }
-    },
-    {
-      "id": "dc24e27885ad",
-      "title": "开发者成功为小米 8 手机刷入苹果 iOS 16.5 系统，将机型伪装为 iPhone X",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/017/429.htm",
-      "publishedAt": "2026-10-24T09:16:32.000Z",
-      "summary": "有开发者称在小米8上刷入iOS 16.5并将机型伪装为iPhone X，展示系统界面可运行。",
-      "actionSteps": [
-        "不要在日常使用或含敏感数据的手机上尝试此类刷机",
-        "关注项目是否开源并核实其可复现性与安全风险",
-        "企业移动管理策略中明确禁止非官方系统设备接入"
-      ],
-      "tags": [
-        "刷机",
-        "移动安全",
-        "iOS"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-10-24T12:41:35.609Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "普通用户若尝试此类刷机，可能面临设备变砖、失去保修、安全更新缺失及账号风险；对企业则是移动安全与设备管理的警示。",
-        "riskNotes": "仅据IT之家转述开发者视频，未见可复现的开源项目或技术细节；iOS系统闭源，实际功能完整性与合法性存疑。"
       }
     }
   ]
