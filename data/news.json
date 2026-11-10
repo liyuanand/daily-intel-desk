@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T18:49:51.431Z",
+  "generatedAt": "2026-11-10T07:20:57.804Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 19
+    "reused": 22
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,35 +194,14 @@
       "priority": 89
     },
     {
-      "id": "58446515405f",
-      "title": "The climate case for AI has not been made",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "publishedAt": "2026-11-09T10:00:00.000Z",
-      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 82,
-      "opportunity": 67,
-      "priority": 80
-    },
-    {
-      "id": "4de8d5accebb",
-      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "id": "6aa26246d681",
+      "title": "Ultorg: The User Interface for Relational Databases",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-      "publishedAt": "2026-11-09T17:42:55.000Z",
-      "summary": "Article URL: https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/ Comments URL: https://news.ycombinator.com/item?id=50428801 Points: 101 # Comments: 72",
+      "link": "https://www.ultorg.com/",
+      "publishedAt": "2026-11-10T03:59:39.000Z",
+      "summary": "Article URL: https://www.ultorg.com/ Comments URL: https://news.ycombinator.com/item?id=50435898 Points: 27 # Comments: 6",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -234,74 +213,14 @@
       "priority": 79
     },
     {
-      "id": "2b552d8f6871",
-      "title": "Going back two years on Hacker News is like entering another, better universe",
+      "id": "9c5da62bab37",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://news.ycombinator.com/front?day=2024-11-08",
-      "publishedAt": "2026-11-09T17:36:20.000Z",
-      "summary": "Article URL: https://news.ycombinator.com/front?day=2024-11-08 Comments URL: https://news.ycombinator.com/item?id=50428724 Points: 104 # Comments: 46",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "4d584363b40e",
-      "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-      "publishedAt": "2026-11-09T17:00:06.000Z",
-      "summary": "Article URL: https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer Comments URL: https://news.ycombinator.com/item?id=50428266 Points: 0 # Comments: 0",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "e32955d19304",
-      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://news.ycombinator.com/item?id=50427934",
-      "publishedAt": "2026-11-09T16:36:38.000Z",
-      "summary": "Hi HN, I’m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use (in the spirit of Zed, Ghostty, and other tools that just feel pl",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "AI",
-        "Agent"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "3ef732dd0eb2",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "publishedAt": "2026-11-09T16:00:45.000Z",
-      "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 240 # Comments: 140",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "publishedAt": "2026-11-10T03:20:06.000Z",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 110 # Comments: 53",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -315,35 +234,90 @@
       "priority": 79
     },
     {
-      "id": "c35a9b451747",
-      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+      "id": "7e8966081153",
+      "title": "Formalizing CPython",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
-      "publishedAt": "2026-11-09T15:39:01.000Z",
-      "summary": "Article URL: https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing Comments URL: https://news.ycombinator.com/item?id=50427085 Points: 123 # Comments: 70",
+      "link": "https://broyojo.com/python-formalization/",
+      "publishedAt": "2026-11-10T01:56:48.000Z",
+      "summary": "Article URL: https://broyojo.com/python-formalization/ Comments URL: https://news.ycombinator.com/item?id=50435105 Points: 41 # Comments: 15",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
         "先访谈 5 位潜在客户，再决定是否投入"
       ],
-      "tags": [
-        "AI"
-      ],
+      "tags": [],
       "trust": 58,
       "opportunity": 92,
       "priority": 79
     },
     {
-      "id": "3ba3de83ee38",
-      "title": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
+      "id": "d363b026f0d9",
+      "title": "Locating the source of a mysterious beep",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
-      "publishedAt": "2026-11-09T15:23:57.000Z",
-      "summary": "Article URL: https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/ Comments URL: https://news.ycombinator.com/item?id=50426899 Points: 98 # Comments: 97",
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "publishedAt": "2026-11-10T00:10:46.000Z",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 120 # Comments: 58",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "c5380c1fb93a",
+      "title": "Horible public key tricks",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://maurycyz.com/projects/badcert/",
+      "publishedAt": "2026-11-10T00:07:17.000Z",
+      "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 121 # Comments: 39",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "ffa9f549808b",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "publishedAt": "2026-11-09T23:08:13.000Z",
+      "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 330 # Comments: 231",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "3c40bebd5240",
+      "title": "Exact – a new cross platform UI framework",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://github.com/expo/exact",
+      "publishedAt": "2026-11-09T22:59:13.000Z",
+      "summary": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 110 # Comments: 69",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -386,20 +360,122 @@
       }
     },
     {
-      "id": "ce3ba1cb2ffd",
-      "title": "《GTA 6》PS5 版正式开启预载，XBOX Series X｜S 需等到北京时间早上 8 点",
+      "id": "0e52a7973d31",
+      "title": "诺基亚粉丝坚持“回帖盖楼”14 年：每天一句“我觉得，对吧，我还是支持诺基亚”，三千余层盖出一代人的情怀",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/566.htm",
-      "publishedAt": "2026-11-09T15:59:13.000Z",
-      "summary": "IT之家 11 月 9 日消息，备受瞩目的《GTA6》PS5 版现已在亚太地区（GMT+8 区域）开启预载，而 XBOX Series X|S 版将于格林尼治标准时间 11 月 10 日 00:00（对应北京时间 8:00）开始预载，盒装兑换码版本预计将于 11 月 12 日起在各大零售商销售。 document.write(\" \"); document.getElementById(\"vote2409\").innerHTML = vo",
+      "link": "https://www.ithome.com/1/024/837.htm",
+      "publishedAt": "2026-11-10T07:10:28.000Z",
+      "summary": "IT之家 11 月 10 日消息，早在 2012 年 11 月，网友“清末先生”便在诺记吧发布了一篇名为《【盖楼】每日一句“我觉得，对吧，我还是支持诺基亚”到王者归来》的帖子，留下“我觉得，对吧，我还是支持诺基亚”这句话。 时隔 14 年，这篇帖子仍在持续更新，截至 2026 年 11 月，该帖楼层已经达到 3315 楼 。 从全帖来看，其中不乏出现各种谩骂声，然而历经多年，这句“我觉得，对吧，我还是支持诺基亚”却一直没有改变。 根据目",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
       ],
       "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "cfbae91d1a5c",
+      "title": "宁德时代押注换电网络推广钠电池，年底前在全国建成 3000 座换电站",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/836.htm",
+      "publishedAt": "2026-11-10T07:10:18.000Z",
+      "summary": "IT之家 11 月 10 日消息，据彭博社报道，宁德时代表示，正在中国快速扩张的换电站网络，将有助于加快钠离子电池在新能源汽车领域的普及。 宁德时代一直在推动钠离子电池技术应用于汽车，以此作为传统锂离子电池的替代方案。钠离子电池被认为具有安全性更高、成本更低等优势，而且在极寒环境下表现更好。不过，其能量密度仍然受到关注，也就是单位体积或重量能够储存的电量相对有限。 宁德时代董事长曾毓群表示，钠离子电池的续航能力已经足以满足城市日常通勤需",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "新能源"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "34c93b464ace",
+      "title": "OPPO Bubble 潮玩自拍屏 11 月 16 日升级发布，现款 499 元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/834.htm",
+      "publishedAt": "2026-11-10T07:04:16.000Z",
+      "summary": "IT之家 11 月 10 日消息，OPPO 今日宣布 OPPO Bubble 潮玩自拍屏全新升级，将于 11 月 16 日 19:00 与 OPPO Reno17 系列手机同台发布。 据介绍，新品支持壁纸个性化编辑、后置超清自拍预览、10 米远程拍照预览、多人合拍等功能。 IT之家查询获悉，该产品于今年 5 月首次推出， 售价为 499 元 ，号称是“OPPO 手机的拍照外挂”。OPPO Bubble 潮玩自拍屏采用磁吸设计，同时支持十",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "a73a55b7bea7",
+      "title": "火灾、抗议、污染，苹果印度供应链麻烦不断",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/833.htm",
+      "publishedAt": "2026-11-10T06:59:35.000Z",
+      "summary": "IT之家 11 月 10 日消息，据路透社报道，印度南部一家为苹果 iPhone 生产零部件的塔塔电子（Tata Electronics）工厂发生安全事故， 造成 3 名外包工人窒息身亡 。目前，相关企业和印度泰米尔纳德邦政府已对此事展开调查。 事故发生在泰米尔纳德邦霍苏尔（Hosur）。这是苹果印度供应链近期发生的又一起事故。印度是苹果推动制造业务从中国向其他国家转移的核心布局之一。自 2017 年以来，苹果不断扩大 iPhone 在",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "557262b3eba2",
+      "title": "DC 宇宙换帅：前漫威制片人拉奇姆将于 12 月接管 DC 影业",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/832.htm",
+      "publishedAt": "2026-11-10T06:58:36.000Z",
+      "summary": "IT之家 11 月 10 日消息，在派拉蒙与华纳兄弟合并不到两个月后，DC 影业迎来重大人事变动， 重启后的 DC 宇宙（DCU）联合首席执行官詹姆斯 · 古恩（James Gunn）与彼得 · 萨弗兰（Peter Safran）宣布卸任。 DC 宇宙（DCU）属于 DC Studios，而 DC Studios 现在隶属于 Skydance（原派拉蒙天空之舞）。由于派拉蒙在 2026 年 10 月完成了对华纳兄弟探索（Warner B",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "5c2ebce16329",
+      "title": "5G 推进组：高通联合中兴通讯完多项 5G-A 先进技术互操作测试",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/827.htm",
+      "publishedAt": "2026-11-10T06:45:03.000Z",
+      "summary": "IT之家 11 月 10 日消息，据“5G 推进组”微信公众号，近日，在 IMT-2020（5G）推进组的组织下，高通技术公司携手中兴通讯完成多项 5G-A 芯片与系统互操作测试，涵盖了 HPUE（高功率终端）、F/A SUL（补充上行链路）、基于层 1 的快速波形切换以及端侧 AI / ML 等多项关键技术的验证。 据官方披露，HPUE FDD 频段测试采用基于高通 ® X105 5G 调制解调器及射频系统的移动测试终端，在 n1（2",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
         "视频"
       ],
       "trust": 58,
@@ -407,162 +483,14 @@
       "priority": 70
     },
     {
-      "id": "02706e94448e",
-      "title": "英伟达黄仁勋承认出轨，消息称其去年已聘请擅长处理丑闻的危机公关公司",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/565.htm",
-      "publishedAt": "2026-11-09T15:14:20.000Z",
-      "summary": "IT之家 11 月 9 日消息，据《连线》报道，英伟达 CEO 黄仁勋早在承认婚外情之前一年，就已开始与一家擅长处理公众丑闻的危机公关公司合作。据两名知情人士透露，至少从 2025 年 10 月起，公关公司 Heller 就一直在幕后负责黄仁勋的相关公关事务。而就在今日，黄仁勋承认与一名女性存在婚外情。 Heller 创始人丽莎 · 海勒（Risa Heller）在业内以处理权势人物的性不端指控及其他个人丑闻而闻名。根据《纽约杂志》20",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "5cc9b56dd9e2",
-      "title": "欧洲力推本土制造电池，或使一辆电动汽车成本增加 2100 欧元",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/564.htm",
-      "publishedAt": "2026-11-09T15:13:08.000Z",
-      "summary": "IT之家 11 月 9 日消息，当前，欧洲政策制定者希望汽车电池更多地在本土生产。然而由于欧洲制造的电池成本更高， 增加的费用最终很可能由购车者承担 。 当地时间 7 日，据外媒 insideevs 报道，布鲁塞尔智库布鲁盖尔今年 9 月发表的一份报告提出，旨在保护欧洲现有汽车制造商的政策，可能最终 让消费者和纳税人为此买单 。 如果规定汽车必须使用欧盟生产的电芯，每千瓦时的成本可能 从 50 欧元（IT之家注：现汇率约合 372.3 ",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [
-        "政策"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "080a559044e9",
-      "title": "FEVM 迷你主机 FNPH1 实物亮相：2cm 超薄，0.4L 体积",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/563.htm",
-      "publishedAt": "2026-11-09T14:56:01.000Z",
-      "summary": "IT之家 11 月 9 日消息，FEVM（奋微）今日正式展示了其 FNPH1 迷你主机。这一型号采用超薄设计， 厚度约 2cm ，体积仅 0.4L，质量 450g。 IT之家注： FNPH1 实际版本与泄露版本存在差异，规格以实物为准。 FNPH1 采用英特尔酷睿 Ultra X7 处理器 358H，支持选配 64GB LPDDR5X-9600 内存，配备 Wi-Fi 7 无线网卡， 提供 2 个 USB4、10GbE + 2.5GbE",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "76f8b1dba0d7",
-      "title": "何小鹏：希望小鹏明年能成为第一个在欧洲上线智能辅助驾驶的中国品牌",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/561.htm",
-      "publishedAt": "2026-11-09T14:46:18.000Z",
-      "summary": "IT之家 11 月 9 日消息，小鹏汽车官微今天宣布，小鹏 GX 成为第七届世界媒体峰会的智驾用车，在北京为世界各大通讯社及全球权威媒体提供出行服务。随后，小鹏创始人何小鹏转发有关微博并发文：希望明年能够成为 第一个在欧洲上线智能辅助驾驶的中 国品牌 ，让更多全球朋友在不同区域都能体验到。 今年 10 月，小鹏汽车通用智能中心负责人刘先明接受彭博社采访时透露，该公司成功在约两周时间内，将智驾系统从一个欧洲国家微调适配到另一个欧洲国家。 ",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "266acc3d0313",
-      "title": "AOC“U32U4”31.5 英寸显示器发售：4K 120Hz QD-OLED Penta Tandem 五层堆栈面板 + 双扬，6499 元",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/560.htm",
-      "publishedAt": "2026-11-09T14:38:00.000Z",
-      "summary": "IT之家 11 月 9 日消息，AOC 旗下“U32U4”31.5 英寸显示器现已在京东发售，该机主打 4K 120Hz QD-OLED， 定价为 6499 元 。 京东 AOC“U32U4”显示器 6499 元 直达链接 该机配备一块 3840x2160 分辨率 120Hz QD-OLED Penta Tandem 五层堆栈面板，峰值亮度 1000 尼特，对比度 150 万:1，GtG 响应速度 0.03ms，显示器支持原生 10-B",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "d53ebba870f7",
-      "title": "微软商店 Microsoft Store《我的世界》PC 版游戏涨价，国区 89 元起 → 110.99 元起",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/558.htm",
-      "publishedAt": "2026-11-09T14:26:28.000Z",
-      "summary": "IT之家 11 月 9 日消息，微软现已对 Microsoft Store 微软商店《我的世界》PC 版（Minecraft：Java & Bedrock Edition for PC）进行涨价，国区起售价从 89 元涨至 110.99 元，IT之家附游戏商品页（ https://www.xbox.com/zh-CN/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49S",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "12b966711f13",
-      "title": "美团龙猫开源 LongCat-2.5 模型：总参数 1.6 万亿，支持百万上下文",
+      "id": "831d094a11aa",
+      "title": "微软新专利瞄准闲置显卡：用户贡献 GPU 训练 AI，可获得现金或免费软件",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/556.htm",
-      "publishedAt": "2026-11-09T14:16:38.000Z",
-      "summary": "美团龙猫开源LongCat-2.5原生多模态模型，总参数1.6万亿，支持百万上下文与MIT商用许可。",
-      "actionSteps": [
-        "查阅官方模型卡与许可证条款",
-        "在自有数据上做小规模基准测试",
-        "评估推理算力成本与数据安全方案"
-      ],
-      "tags": [
-        "开源模型",
-        "多模态",
-        "美团",
-        "AI"
-      ],
-      "trust": 65,
-      "opportunity": 70,
-      "priority": 70,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-09T18:49:51.431Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "企业可低成本本地部署或二次训练长上下文多模态模型，用于代码开发、办公自动化等场景。",
-        "riskNotes": "参数规模与性能宣称来自厂商与媒体，需以官方模型卡和基准测试复核；超大模型部署的算力成本未披露。"
-      }
-    },
-    {
-      "id": "bc8ec7d46f76",
-      "title": "青少年资料填“成年人”也没用，Meta 将在全球推广 AI 年龄估算技术",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/546.htm",
-      "publishedAt": "2026-11-09T13:43:55.000Z",
-      "summary": "IT之家 11 月 9 日消息，据路透社报道，Meta 今天（9 日）宣布将在全球推广 AI 年龄估算技术，把 Instagram 上 另外数百万名青少年用户纳入“青少年账户”保护范围 ，即使他们填写的出生日期显示自己是成年人也不例外。 在出台此项措施之际，Meta 因旗下平台涉嫌伤害未成年用户而面临多起诉讼。 “青少年账户”功能覆盖 Instagram、Facebook 和 Messenger，内置多项保护措施，可自动限制哪些人能够联",
+      "link": "https://www.ithome.com/1/024/826.htm",
+      "publishedAt": "2026-11-10T06:43:50.000Z",
+      "summary": "IT之家 11 月 10 日消息，微软一项新的微软专利显示，该公司可能很快会允许用户通过将闲置的 GPU 用于 AI 训练来赚钱。 微软于 2026 年 11 月 5 日公布了一项名为《利用边缘设备的闲置 GPU 算力开展机会式微型训练》（Opportunistic Micro-training on Edge Devices Using Spare GPU Utilization）的专利。该专利描述了一套全新的计算资源调度系统：将原本",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -576,103 +504,14 @@
       "priority": 70
     },
     {
-      "id": "fd3f63cd3cc4",
-      "title": "研究显示 OpenAI ChatGPT 占全球 AI 聊天机器人流量超 81%，断层领跑",
+      "id": "f6c41a8808fc",
+      "title": "谷歌 Gemini 上线记忆摘要，可查看 / 编辑 / 删除 AI 记住的个人信息",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/542.htm",
-      "publishedAt": "2026-11-09T13:32:43.000Z",
-      "summary": "IT之家 11 月 9 日消息，今年早些时候，随着谷歌和 Anthropic 等竞争对手势头渐起，ChatGPT 在 AI 市场的主导地位一度显现出松动迹象。不过，一项最新研究显示，OpenAI 旗下这款旗舰产品正在意外反弹。 研究与增长营销公司 Graphite 的一项研究显示，目前 ChatGPT 占全球主要 AI 聊天机器人工具总流量的比例已超过 81%，没有任何一家竞争对手的市场份额达到 10%。 考虑到谷歌 Gemini 和 ",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "机器人"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "0936d4be3445",
-      "title": "谷歌扩充 TPU 芯片阵容，推出 8tx/8i Max 两款新品挑战英伟达",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/525.htm",
-      "publishedAt": "2026-11-09T12:43:54.000Z",
-      "summary": "IT之家 11 月 9 日消息，据彭博社报道，Alphabet 旗下谷歌正在扩大人工智能芯片产品阵容，希望借助自身在 AI 芯片市场的快速崛起，进一步挑战英伟达。这一市场规模已达数千亿美元。 谷歌将推出两款新的张量处理单元（TPU）。TPU 是谷歌自主设计的专用芯片，主要用于开发和运行 AI 软件。此次推出的新版本分别针对机密计算，以及帮助 AI 模型在处理请求时访问更广泛的信息。总体而言，这些芯片旨在满足行业向 AI 智能体转型过程中",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "机器人"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "f7501aacab66",
-      "title": "美国一法学教授尝试利用 Anthropic 更新讲义页码，反被 AI 删除全年课堂笔记",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/515.htm",
-      "publishedAt": "2026-11-09T12:14:54.000Z",
-      "summary": "IT之家 11 月 9 日消息，美国宪法领域知名学者、芝加哥大学法学院教授 William Baude（威廉 · 鲍德）日前分享了一起 AI 操作失误事件。他原本只是请 Anthropic 旗下 AI 助手 Claude 帮忙更新旧版宪法法律讲义中的页码，没想到午餐回来后，却发现 Claude 删除了整整一年的课堂笔记，连本学期正在使用的课程大纲也一并遭到删除。 Baude 于 11 月 6 日在社交平台发文讲述了事件经过，并附上 Cl",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "Agent",
-        "机器人"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "fcfd47e85a1d",
-      "title": "韩国 2026 年高考开考在即：将有专人查 AI 眼镜，任何电子设备禁止进入考场",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/502.htm",
-      "publishedAt": "2026-11-09T11:43:43.000Z",
-      "summary": "IT之家 11 月 9 日消息，据新华社报道，今年的韩国大学修学能力考试（即高考）定于本月 19 日举行。韩国教育部 9 日发布“考生注意事项指南”，明确 禁止考生携带任何电子设备进入考场 ，尤其是出现在近期多起作弊丑闻的人工智能（AI）眼镜。 指南显示，禁带物品包括 手机、平板电脑、AI 眼镜、智能手表、具备蓝牙通信功能的耳机等 。考生若误将电子设备带入考场，须在第一场考试开始前按监考人员要求上交，所有科目考完后方可领回；若未按要求上",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "教育"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "705aa6cbf97f",
-      "title": "国行 iPad、MacBook 用上“Apple 智能”在望，相关生成式 AI 服务完成备案",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/499.htm",
-      "publishedAt": "2026-11-09T11:32:07.000Z",
-      "summary": "IT之家 11 月 9 日消息，据“网信上海”公众号，根据《生成式人工智能服务管理暂行办法》相关要求，“Apple 智能”生成式人工智能服务新增 苹果平板和苹果笔记本电脑 两类场景，已完成备案。目前适用场景为苹果手机、平板、笔记本电脑。 据IT之家此前报道，苹果多款 iPhone 手机于 9 月 29 日国行备案换证，增加搭载的大模型备案编号： Shanghai-AppleZhiNeng-202506160057 Shanghai-To",
+      "link": "https://www.ithome.com/1/024/823.htm",
+      "publishedAt": "2026-11-10T06:39:31.000Z",
+      "summary": "IT之家 11 月 10 日消息，科技媒体 Android Authority 昨日（11 月 9 日）发布博文，报道称谷歌正在为 Gemini 推出“记忆摘要”（Memory summary）功能， 让用户能查看、编辑和删除 AI 记住的个人信息，从而更好管理“AI 到底知道我什么”。 与过去零散展示记忆条目不同，新功能会按类别整理 AI 收集的个人信息，包括个人背景、人际关系、工作、兴趣和偏好等。用户可以逐项编辑，也可以删除不希望 ",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -686,39 +525,108 @@
       "priority": 70
     },
     {
-      "id": "e7a0388e146e",
-      "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/118227",
-      "publishedAt": "2026-11-09T07:40:22.000Z",
-      "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ... 查看全文",
+      "id": "8bcc294970ce",
+      "title": "软银集团 2027 财年上半年归母亏损 7680.07 亿日元，同比由盈转亏",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/820.htm",
+      "publishedAt": "2026-11-10T06:32:55.000Z",
+      "summary": "IT之家 11 月 10 日消息，软银集团今日发布 2027 财年（2026 年 4 月～2027 年 3 月）上半年（2026 年 4 月～2026 年 9 月）业绩及第二财季（2026 年 7 月～2026 年 9 月）业绩报告： 2027 财年上半年 营业总收入 ：4.24 万亿日元 （IT之家注：现汇率约合 1790.95 亿元人民币） ，同比增长 13.3%，环比增长 109.7% 毛利润 ：2.2 万亿日元 （现汇率约合 9",
       "actionSteps": [
-        "找到原始研究或权威资料",
-        "区分事实、推测和传播口号",
-        "写下这条知识会改变的一个决策"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
-      "tags": [],
+      "tags": [
+        "AI"
+      ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "8d052e0d103e",
-      "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/118029",
-      "publishedAt": "2026-11-09T07:02:44.000Z",
-      "summary": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。 查看全文",
+      "id": "bd3d3c58498c",
+      "title": "传 Rapidus 在 SRAM 方面遭遇问题，2027 财年内量产目标面临挑战",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/807.htm",
+      "publishedAt": "2026-11-10T06:09:28.000Z",
+      "summary": "IT之家 11 月 10 日消息，彭博社北京时间今日中午报道称，日本先进半导体企业 Rapidus 未能及时在 SRAM 方面达成里程碑 ，其在 2027 财年内量产 2nm 的目标面临挑战。 SRAM 即静态随机存取存储器，是所有先进芯片的关键组成之一。对于 AI 芯片来说，一个大规模的 SRAM 缓存可显著提升任务处理速度。 报道宣称，Rapidus 尚未生产出可用的 SRAM。而根据此前规划的量产路线图，这本应该在 2026 年夏",
       "actionSteps": [
-        "找到原始研究或权威资料",
-        "区分事实、推测和传播口号",
-        "写下这条知识会改变的一个决策"
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
       ],
-      "tags": [],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "b8d938f972fa",
+      "title": "全球最强 AI 模型：Claude Fable 5.2 登场，编程超 GPT-6 Astra、登顶多项基准",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/796.htm",
+      "publishedAt": "2026-11-10T05:52:12.000Z",
+      "summary": "IT之家 11 月 10 日消息，Anthropic 今天（11 月 10 日）发布 Claude Fable 5.2 与 Claude Mythos 5.2 两款前沿 AI 模型。官方称，新模型在编码、推理、科学研究、网络安全及机器人等领域均有显著提升，同时输出速度最高提高 30%，成本下降 20%。 根据官方披露的跑分数据，在面向“智能体编码”的 FrontierCode 2.0 基准测试中，Claude Fable 5.2 取得 ",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "视频",
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "900831f209a4",
+      "title": "OPPO Pad Air6 平板两款配色公布：奇遇蓝、星光银，11 月 16 日发布",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/795.htm",
+      "publishedAt": "2026-11-10T05:49:36.000Z",
+      "summary": "IT之家 11 月 10 日消息，OPPO 今日公布 OPPO Pad Air6 两款配色官图，分别为奇遇蓝和星光银，新品将于 11 月 16 日 19:00 发布。 OPPO Pad Air6 平板配置此前已经曝光，新品预计搭载 天玑 7360 处理器 ，搭配 LPDDR5X + UFS3.1，提供 8GB+128GB/8GB+256GB/12GB+256GB 三个规格。机身正面配备 12.1 英寸 2.8K 120Hz LCD 大屏",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "02178f92c51e",
+      "title": "台积电 2026 年 10 月营收 5868.9 亿新台币，同比增长 59.7%",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/758.htm",
+      "publishedAt": "2026-11-10T05:34:11.000Z",
+      "summary": "IT之家 11 月 10 日消息，台积电今日发布 2026 财年（2026 年 1 月～2026 年 12 月）10 月报告： 2026 年前 10 月 营业总收入 ：4.49 万亿新台币 （IT之家注：现汇率约合 9128.23 亿元人民币） ，同比增长 43.3% 2026 年 10 月 营业总收入 ：5868.9 亿新台币 （现汇率约合 1194.32 亿元人民币） ，同比增长 59.7%，环比增长 14.7% AI 解读 台积电",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
@@ -785,6 +693,25 @@
         "whyItMatters": "科技型企业、科研机构和地方产业园区可能获得政策支持方向指引，涉及产学研合作、成果转化等；企业应关注申报条件与执行时间。",
         "riskNotes": "摘要未含具体条款、适用对象、执行时间和申报材料，无法判断实际影响；来源为政府网属官方一手，但需核对原文全文及配套细则。"
       }
+    },
+    {
+      "id": "8d052e0d103e",
+      "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/118029",
+      "publishedAt": "2026-11-09T07:02:44.000Z",
+      "summary": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。 查看全文",
+      "actionSteps": [
+        "找到原始研究或权威资料",
+        "区分事实、推测和传播口号",
+        "写下这条知识会改变的一个决策"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 65,
+      "priority": 67
     },
     {
       "id": "24114b9f9a7a",
@@ -881,6 +808,38 @@
       }
     },
     {
+      "id": "fe0656248ddf",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "publishedAt": "2026-11-10T06:01:08.000Z",
+      "summary": "Hacker News讨论称亚马逊用Strands Decider替代Sonnet 4.6节省数百万美元，指向模型路由降本思路。",
+      "actionSteps": [
+        "阅读原文核实替代方案的技术架构与成本口径",
+        "在自有业务中抽样测试简单任务改用小模型的准确率",
+        "建立模型调用成本与质量的对比监控指标"
+      ],
+      "tags": [
+        "模型路由",
+        "降本",
+        "推理成本",
+        "企业AI"
+      ],
+      "trust": 40,
+      "opportunity": 60,
+      "priority": 55,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "企业可关注按任务难度分流调用不同模型的降本方式，降低AI应用推理成本。",
+        "riskNotes": "来源为厂商博客与论坛讨论，节省金额为单方说法，无独立验证；模型名称与版本需核实，成本结论不可直接照搬。"
+      }
+    },
+    {
       "id": "550d50566b9a",
       "title": "事业单位登记管理条例",
       "category": "policy",
@@ -913,35 +872,67 @@
       }
     },
     {
-      "id": "4c37142115a6",
-      "title": "美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”",
+      "id": "3cd014a91296",
+      "title": "金鸡百花电影节首次设立 AI 单元",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/559.htm",
-      "publishedAt": "2026-11-09T14:32:49.000Z",
-      "summary": "风投家科斯拉投资Coframe，主张AI为每位访客生成个性化网页，称将重塑互联网体验。",
+      "link": "https://www.ithome.com/1/024/835.htm",
+      "publishedAt": "2026-11-10T07:09:02.000Z",
+      "summary": "金鸡百花电影节首次设电影AI单元，AI极客松287支团队报名、20支入围，72小时限时用AI工具创作影像。",
       "actionSteps": [
-        "核实Coframe官网与融资公告原文",
-        "评估个性化网页对现有站点SEO与隐私政策的影响",
-        "小范围测试个性化落地页并监测转化数据"
+        "检索中国金鸡百花电影节官方渠道核实AI单元规则与报名条件",
+        "梳理参赛作品所用AI工具与工作流，评估可复用环节",
+        "关注后续获奖作品与产业对接动向，判断合作机会"
       ],
       "tags": [
-        "AI",
-        "个性化",
-        "互联网",
-        "创投"
+        "影视AI",
+        "电影节",
+        "创作者",
+        "活动"
       ],
-      "trust": 45,
-      "opportunity": 55,
+      "trust": 65,
+      "opportunity": 45,
       "priority": 50,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-09T18:49:51.431Z",
+        "analyzedAt": "2026-11-10T07:20:57.803Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "企业营销与建站可能从统一页面转向按访客定制，提升转化但也增加内容一致性与合规成本。",
-        "riskNotes": "信息源自媒体转述，融资额与产品效果未经官方披露；个性化网页的隐私与广告合规风险需复核。"
+        "whyItMatters": "影视从业者与AI创作者多了一个官方展示与交流渠道，AI影像工具在影视流程中的可见度提升。",
+        "riskNotes": "信息源自IT之家转述新华社，未见电影节官方公告原文；入围与报名数据需以主办方发布为准，未提及奖金、扶持或商业合作条款。"
+      }
+    },
+    {
+      "id": "3ec2e278915e",
+      "title": "The backlash about data centers might really just be about electricity",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "publishedAt": "2026-11-09T19:35:33.000Z",
+      "summary": "美媒观察称，美国选民对数据中心的反对声浪，核心可能更多指向电力供应与电价，而非AI本身。",
+      "actionSteps": [
+        "查阅原文确认引用的民调与地区案例",
+        "跟踪本地数据中心项目的电力配套与公众沟通安排",
+        "评估用电密集型业务的选址与能源成本风险"
+      ],
+      "tags": [
+        "数据中心",
+        "电力",
+        "舆情",
+        "美国"
+      ],
+      "trust": 55,
+      "opportunity": 35,
+      "priority": 45,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "数据中心选址与扩张面临电力与社区舆论约束，影响相关企业用电成本、项目审批及周边居民电价讨论。",
+        "riskNotes": "为媒体评论性报道，摘要截断，未提供具体民调或电价数据；属美国地方语境，不能直接套用于其他市场。"
       }
     },
     {
@@ -976,65 +967,98 @@
       }
     },
     {
-      "id": "f42cfd3e65b9",
-      "title": "Too many men suffering in silence, national health report finds (Canada)",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
-      "publishedAt": "2026-11-09T18:27:58.000Z",
-      "summary": "加拿大国家健康报告指出大量男性默默承受心理困扰，相关讨论在技术社区出现。",
-      "actionSteps": [
-        "查找加拿大官方健康报告原文",
-        "评估企业员工心理支持服务的覆盖情况",
-        "关注心理健康数字产品的本地合规要求"
-      ],
-      "tags": [
-        "心理健康",
-        "加拿大",
-        "社会"
-      ],
-      "trust": 35,
-      "opportunity": 40,
-      "priority": 30,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-09T18:49:51.431Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "反映男性心理健康服务缺口，可能带动企业EAP、心理咨询与数字健康产品的需求。",
-        "riskNotes": "来源为Hacker News转载的地方媒体报道，非官方报告原文，数据与结论需核对加拿大官方发布。"
-      }
-    },
-    {
-      "id": "e804e0e79289",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "id": "58446515405f",
+      "title": "The climate case for AI has not been made",
       "category": "industry",
       "source": "MIT Technology Review",
       "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "publishedAt": "2026-11-06T10:00:00.000Z",
-      "summary": "MIT科技评论记者体验人形机器人打扫公寓，认为像未来生活预演，但未披露价格与可靠性细节。",
+      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "publishedAt": "2026-11-09T10:00:00.000Z",
+      "summary": "MIT科技评论指出，AI对气候的正面论证尚未成立，联合国气候会议将聚焦AI议题。",
       "actionSteps": [
-        "关注该机器人厂商后续公布的售价与交付时间",
-        "对比现有扫地机器人等成熟替代方案成本",
-        "暂不据此调整家庭服务或清洁消费预算"
+        "查阅原文与引用的能耗研究数据",
+        "测算自身AI工作负载的能耗与碳排口径",
+        "关注气候会议后是否形成披露或采购要求"
       ],
       "tags": [
-        "人形机器人",
-        "家政服务",
-        "消费科技"
+        "AI能耗",
+        "气候",
+        "政策",
+        "可持续"
       ],
-      "trust": 45,
-      "opportunity": 35,
-      "priority": 30,
+      "trust": 60,
+      "opportunity": 30,
+      "priority": 45,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-06T15:56:16.713Z",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "家庭服务机器人若成熟，可能改变家政服务与清洁用品消费，但当前仍属早期体验，普通家庭短期难负担。",
-        "riskNotes": "仅为记者个人体验报道，无价格、故障率、量产时间等数据；标题含未来感表述，需以厂商官方信息复核。"
+        "whyItMatters": "AI能耗与气候影响将进入政策讨论，企业AI部署可能面临能耗披露与绿色采购压力。",
+        "riskNotes": "为评论文章，摘要截断，未给出具体能耗数据或政策条款；结论属观点，需结合权威能源研究复核。"
+      }
+    },
+    {
+      "id": "a1aede100fe3",
+      "title": "派拉蒙天舞 CEO：AI 可能成为电影史上最大创意突破，助力原创叙事诞生",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/831.htm",
+      "publishedAt": "2026-11-10T06:54:28.000Z",
+      "summary": "派拉蒙天舞CEO称AI或成影史最大创意突破，类比90年代CGI，认为其将释放原创叙事空间。",
+      "actionSteps": [
+        "查找电话会议实录或财报电话会原文核实表述",
+        "跟踪派拉蒙后续AI相关项目与招聘方向",
+        "评估自身岗位中可被AI辅助的创意环节"
+      ],
+      "tags": [
+        "影视AI",
+        "高管表态",
+        "创意",
+        "派拉蒙"
+      ],
+      "trust": 55,
+      "opportunity": 40,
+      "priority": 40,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "头部制片方公开看好AI，可能推动影视制作流程与创意岗位变化，影响从业者技能需求。",
+        "riskNotes": "为高管电话会议表态，属愿景性判断，无具体投入数字或落地计划；媒体报道经二次转述，需核对原始发言。"
+      }
+    },
+    {
+      "id": "e4c25a8d290e",
+      "title": "今年双十一，这些鼠标值得一看",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/111065",
+      "publishedAt": "2026-11-10T03:00:25.000Z",
+      "summary": "少数派发布双十一鼠标选购推荐，附带鼠标垫与耳机建议，属消费导购内容。",
+      "actionSteps": [
+        "对照自身手型与使用场景筛选候选型号",
+        "在多个平台比价并核对促销规则",
+        "查看真实用户评价后再下单"
+      ],
+      "tags": [
+        "消费电子",
+        "选购",
+        "双十一"
+      ],
+      "trust": 50,
+      "opportunity": 20,
+      "priority": 25,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "为个人消费者提供选购参考，对普通办公与游戏用户有实用价值，商业影响有限。",
+        "riskNotes": "导购类内容可能含推广或返利链接，价格与库存随促销变动，需以电商实际页面为准。"
       }
     },
     {
@@ -1065,37 +1089,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "为个人用户提供应用选型参考，可能影响小众效率工具的关注度与下载量。",
         "riskNotes": "摘要仅为导流文案，未列具体应用与评测依据，需阅读全文核实推荐内容与安全性。"
-      }
-    },
-    {
-      "id": "f48b45604923",
-      "title": "iPhone 变强了，但我没有",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/118250",
-      "publishedAt": "2026-11-06T06:56:41.000Z",
-      "summary": "少数派文章以iPhone 18 Pro Max在深圳、香港、吉隆坡街拍为线索，记录拍摄体验与个人心情感悟。",
-      "actionSteps": [
-        "查阅专业评测的影像参数与样张对比",
-        "结合自身拍摄需求判断是否升级",
-        "不将个人叙事当作购买决策依据"
-      ],
-      "tags": [
-        "iPhone",
-        "消费电子",
-        "影像体验"
-      ],
-      "trust": 40,
-      "opportunity": 15,
-      "priority": 20,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-06T15:56:16.713Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "属消费体验类内容，对普通用户选购手机参考有限，更多是生活方式叙事，不构成产品性能结论。",
-        "riskNotes": "为媒体个人体验稿，非评测数据；标题暗示产品变强但作者感受未变，需区分主观感受与客观参数。"
       }
     },
     {
@@ -1224,67 +1217,65 @@
       }
     },
     {
-      "id": "e18cab0e30e9",
-      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "publishedAt": "2026-11-09T18:25:01.000Z",
-      "summary": "英飞凌宣布实现300毫米功率碳化硅晶圆里程碑，来源为Hacker News转载其新闻稿链接。",
+      "id": "bd4930ce38b9",
+      "title": "支撑 AR / VR、车载光场等关键像素引擎，我国牵头制定的光栅扫描激光显示国际标准正式发布",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/024/838.htm",
+      "publishedAt": "2026-11-10T07:11:29.000Z",
+      "summary": "我国专家牵头制定的光栅扫描激光显示扫描特性测试方法IEC国际标准发布，涉及AR/VR与车载光场等应用。",
       "actionSteps": [
-        "打开英飞凌官网新闻稿核对技术参数与量产计划",
-        "评估该进展对碳化硅器件价格与供给的潜在影响",
-        "关注下游客户导入与行业竞争对手跟进情况"
+        "在IEC官网检索该标准编号与适用范围",
+        "评估自身产品测试流程是否符合新方法",
+        "关注检测认证机构发布的实施指引"
       ],
       "tags": [
-        "碳化硅",
-        "功率半导体",
-        "英飞凌",
-        "供应链"
+        "激光显示",
+        "国际标准",
+        "AR/VR"
       ],
       "trust": 3,
-      "opportunity": 3,
+      "opportunity": 2,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-09T18:49:51.431Z",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "碳化硅大尺寸化有望降低功率器件单位成本，利好电动车、光伏逆变器与充电桩等下游；对相关采购与投资具参考价值。",
-        "riskNotes": "仅标题与链接，无量产时间、良率、客户验证等数据；Hacker News为二手来源，须以英飞凌官网新闻稿原文为准。"
+        "whyItMatters": "标准统一测试方法有助于激光显示、AR/VR和车载显示产品的质量评估与国际贸易，相关企业可关注合规与检测需求。",
+        "riskNotes": "报道转述央视新闻，未提供标准编号全文与生效细节；标准为测试方法类，不等于产业扶持政策或市场收益。"
       }
     },
     {
-      "id": "feb2ba211559",
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://research.meta.ai/blog/muse-ember",
-      "publishedAt": "2026-11-09T17:58:46.000Z",
-      "summary": "Meta研究博客发布号称最小最高效的模型Muse Ember，Hacker News上有讨论。",
+      "id": "0fe1ff6beb44",
+      "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/118854",
+      "publishedAt": "2026-11-10T00:24:40.000Z",
+      "summary": "少数派早报提及火山引擎发布Seedream 5.5、苹果研究团队用仿真训练人形机器人等动态，但摘要主要为作者评选说明。",
       "actionSteps": [
-        "查阅Meta研究博客获取模型规格与许可",
-        "在自有任务上做小规模基准对比",
-        "评估部署成本与数据合规要求"
+        "检索火山引擎官方渠道确认Seedream 5.5发布信息",
+        "查阅苹果研究团队论文或官方博客核实仿真训练内容",
+        "对比同类模型能力与定价后再评估采用"
       ],
       "tags": [
-        "小模型",
-        "Meta",
-        "模型效率",
-        "开发者"
+        "Seedream",
+        "人形机器人",
+        "AI模型"
       ],
       "trust": 2,
-      "opportunity": 3,
+      "opportunity": 2,
       "priority": 2,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-09T18:49:51.431Z",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若高效小模型属实，可降低端侧与低成本场景的推理门槛，值得开发者验证其实际性能与许可条款。",
-        "riskNotes": "仅有标题与链接，无参数规模、基准成绩与许可证信息；需以Meta官方博客与可复现评测为准，避免采信宣传口径。"
+        "whyItMatters": "若属实，图像生成模型迭代和机器人仿真训练进展会影响内容创作与具身智能相关企业的技术选型。",
+        "riskNotes": "摘要未包含发布细节、参数、价格或官方链接，属二手转述；需以火山引擎和苹果官方公告核实。"
       }
     },
     {
@@ -1476,35 +1467,96 @@
       }
     },
     {
-      "id": "b788f99ed6d7",
-      "title": "179 → 123 元：小米智能摄像机 3 国补新低，500 万像素、6 种 AI 灵敏检测",
+      "id": "0e966ba82f2d",
+      "title": "《使命召唤》玩家在飞机上连麦语音开黑被误当“恐怖分子”，导致航班紧急疏散",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/024/554.htm",
-      "publishedAt": "2026-11-09T14:10:04.000Z",
-      "summary": "小米智能摄像机3在京东双十一叠加国补后低至约123元，500万像素并支持多种AI检测。",
+      "link": "https://www.ithome.com/1/024/830.htm",
+      "publishedAt": "2026-11-10T06:51:22.000Z",
+      "summary": "美国一航班乘客因连麦玩《使命召唤》谈及炸弹内容被误认为威胁，导致航班紧急疏散。",
       "actionSteps": [
-        "在结算页确认国补资格与最终实付金额",
-        "核对凑单品退款规则避免影响优惠",
-        "比较同类产品隐私与数据存储条款后再下单"
+        "出行前提醒团队成员公共场合语音内容风险",
+        "关注航司与机场官方通报确认事件细节",
+        "在差旅安全指南中加入敏感话题规避条款"
       ],
       "tags": [
-        "智能家居",
-        "国补",
-        "促销",
-        "安防"
+        "航空安全",
+        "公共场合",
+        "游戏"
       ],
       "trust": 2,
+      "opportunity": 0,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "提醒乘客在公共交通等敏感场所避免公开谈论爆炸、武器等易引发误解的内容，企业差旅培训可纳入此类风险。",
+        "riskNotes": "信息源自外媒转述，具体航班、时间与官方处置结论需以机场或航司声明核实；事件为个案，不宜过度推广。"
+      }
+    },
+    {
+      "id": "9bcd8c3d6761",
+      "title": "Mathematicians Are Like Luddites",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://alok.blog/luddite/",
+      "publishedAt": "2026-11-10T05:52:38.000Z",
+      "summary": "Hacker News 讨论文章将数学家类比卢德分子，探讨自动化与AI对数学研究的影响，评论数为零。",
+      "actionSteps": [
+        "打开原文链接阅读全文，确认核心论点",
+        "核查作者背景与文中引用来源",
+        "区分观点表达与可验证事实后再引用"
+      ],
+      "tags": [
+        "AI与就业",
+        "数学研究",
+        "观点讨论"
+      ],
+      "trust": 1,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对普通读者而言，这是关于AI替代知识工作的观点讨论，不涉及具体产品或政策，实际影响有限。",
+        "riskNotes": "仅有标题和链接，摘要缺失，无法核实文章论点与论据；评论数为0，缺乏社区验证，观点代表性不明。"
+      }
+    },
+    {
+      "id": "2f7eb611b838",
+      "title": "Your TV can see through walls",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://maurycyz.com/projects/fading/",
+      "publishedAt": "2026-11-10T05:24:45.000Z",
+      "summary": "Hacker News 分享项目文章，主题为利用电视信号实现穿墙感知，获41点、11条评论。",
+      "actionSteps": [
+        "阅读原文确认所用信号频段与实验设置",
+        "核查是否存在隐私与无线电合规问题",
+        "评估技术成熟度后再考虑应用场景"
+      ],
+      "tags": [
+        "无线感知",
+        "隐私",
+        "开源项目"
+      ],
+      "trust": 1,
       "opportunity": 2,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-09T18:49:51.431Z",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "家庭安防用户可低成本入手；但需注意国补资格、凑单退款与晒单返豆等规则的实际兑现条件。",
-        "riskNotes": "价格依赖优惠券、PLUS凑单与10%国补叠加，活动可能随时变更；国补适用地区与资格需自行核实，实付以结算页为准。"
+        "whyItMatters": "若技术可行，涉及无线信号感知与隐私边界，对智能家居和安防领域有探索价值，也可能引发隐私合规讨论。",
+        "riskNotes": "仅有标题与链接，未核实技术原理、实验条件与可复现性；标题表述夸张，需谨慎对待。"
       }
     },
     {
@@ -1536,6 +1588,37 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对内容工具与软件有需求的个人用户可关注折扣，但属营销信息，实际价值取决于个人使用需求。",
         "riskNotes": "促销价格、期限与适用范围以商家页面为准，摘要未列具体折扣，且活动可能随时变更。"
+      }
+    },
+    {
+      "id": "e7a0388e146e",
+      "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/118227",
+      "publishedAt": "2026-11-09T07:40:22.000Z",
+      "summary": "少数派发布Sonos Beam Ultra与Ace Ultra体验文章，属联合品牌众测活动的获奖内容。",
+      "actionSteps": [
+        "查阅多家独立评测对比音质与价格",
+        "确认产品官方售价与售后政策",
+        "结合自身房间与使用场景判断是否适配"
+      ],
+      "tags": [
+        "Sonos",
+        "音频设备",
+        "众测"
+      ],
+      "trust": 1,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-10T07:20:57.804Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "为消费者提供回音壁与耳机使用体验参考，但内容带品牌合作背景，购买决策需多方比对。",
+        "riskNotes": "文章为品牌联合众测获奖作品，存在利益关联；缺少独立评测与价格对比，结论需交叉验证。"
       }
     },
     {
@@ -1598,36 +1681,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对普通人和企业直接经济影响有限，主要涉及党政机关、国有单位及基层组织的政治工作安排与时间节点。",
         "riskNotes": "摘要仅提及通知标题，未含具体条款、适用对象与执行时间；需以中国政府网原文附件为准，避免据二手解读推断。"
-      }
-    },
-    {
-      "id": "88bac59b26f5",
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/118623",
-      "publishedAt": "2026-11-06T09:30:15.000Z",
-      "summary": "少数派推荐本周9部值得一看的影视作品，含《戴高乐之战》引进及制作成本等信息。",
-      "actionSteps": [
-        "找到原始研究或权威资料",
-        "区分事实、推测和传播口号",
-        "写下这条知识会改变的一个决策"
-      ],
-      "tags": [
-        "影视",
-        "文化消费"
-      ],
-      "trust": 2,
-      "opportunity": 0,
-      "priority": 0,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-06T15:56:16.713Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "属文化消费推荐，对影视引进与内容消费趋势有轻度参考，无商业决策影响。",
-        "riskNotes": "为媒体编辑推荐，非官方发行公告；引进与档期信息需以片方或院线公告为准。"
       }
     }
   ]
