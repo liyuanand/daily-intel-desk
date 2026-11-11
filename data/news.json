@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:25:05.559Z",
+  "generatedAt": "2026-11-11T16:12:07.221Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 25
+    "reused": 24
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,14 +194,14 @@
       "priority": 89
     },
     {
-      "id": "1f4032c621b9",
-      "title": "Hooked on Tuna",
+      "id": "106470241524",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
-      "publishedAt": "2026-11-11T02:23:25.000Z",
-      "summary": "https://blue-continuum.com/hooked-on-tuna Comments URL: https://news.ycombinator.com/item?id=50449080 Points: 22 # Comments: 1",
+      "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "publishedAt": "2026-11-11T13:56:05.000Z",
+      "summary": "Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 138 # Comments: 73",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -213,14 +213,14 @@
       "priority": 79
     },
     {
-      "id": "8526b86f26c0",
-      "title": "A great old-timey game-programming hack (2013)",
+      "id": "d584bdd46b86",
+      "title": "Hyper-Realistic Sand with WebGL2",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "publishedAt": "2026-11-11T01:56:31.000Z",
-      "summary": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 91 # Comments: 14",
+      "link": "https://av.github.io/safe-sand/",
+      "publishedAt": "2026-11-11T13:39:29.000Z",
+      "summary": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 43 # Comments: 7",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -232,14 +232,14 @@
       "priority": 79
     },
     {
-      "id": "c0a7d4957512",
-      "title": "LLMs Play Zachtronics' TIS-100",
+      "id": "d4125130139b",
+      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://tis-100.wincon.dev/",
-      "publishedAt": "2026-11-11T00:37:05.000Z",
-      "summary": "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 37 # Comments: 5",
+      "link": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+      "publishedAt": "2026-11-11T13:34:24.000Z",
+      "summary": "No internet connection needed. Uses a locally-installed compiler for assembly generation. Comments URL: https://news.ycombinator.com/item?id=50453229 Points: 31 # Comments: 4",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -251,14 +251,33 @@
       "priority": 79
     },
     {
-      "id": "5a85cb8e7dc7",
-      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+      "id": "f20aa0a9a1f2",
+      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-      "publishedAt": "2026-11-11T00:15:33.000Z",
-      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 38 # Comments: 19",
+      "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+      "publishedAt": "2026-11-11T13:29:46.000Z",
+      "summary": "Article URL: https://machinelearning.apple.com/research/attention-mamba-distillation Comments URL: https://news.ycombinator.com/item?id=50453171 Points: 7 # Comments: 1",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "488f8483b8c1",
+      "title": "EventSourcingDB 1.3.0 Is Available",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
+      "publishedAt": "2026-11-11T13:19:45.000Z",
+      "summary": "Article URL: https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available Comments URL: https://news.ycombinator.com/item?id=50453080 Points: 13 # Comments: 0",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -272,14 +291,14 @@
       "priority": 79
     },
     {
-      "id": "ae3c6c28ceab",
-      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "id": "bf4b45fa964b",
+      "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "publishedAt": "2026-11-10T22:17:56.000Z",
-      "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 369 # Comments: 169",
+      "link": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+      "publishedAt": "2026-11-11T12:44:06.000Z",
+      "summary": "Article URL: https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/ Comments URL: https://news.ycombinator.com/item?id=50452742 Points: 90 # Comments: 19",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -291,43 +310,20 @@
       "priority": 79
     },
     {
-      "id": "369640935efc",
-      "title": "$30M Raised to Redo the CPU",
+      "id": "2e2cb0e4d917",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "publishedAt": "2026-11-10T22:14:03.000Z",
-      "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 68 # Comments: 57",
+      "link": "https://nathan.rs/posts/weight-space-lp/",
+      "publishedAt": "2026-11-11T12:30:17.000Z",
+      "summary": "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 128 # Comments: 19",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
         "先访谈 5 位潜在客户，再决定是否投入"
       ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "168143ea4218",
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "publishedAt": "2026-11-10T21:25:03.000Z",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 128 # Comments: 97",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "AI"
-      ],
+      "tags": [],
       "trust": 58,
       "opportunity": 92,
       "priority": 79
@@ -364,14 +360,14 @@
       }
     },
     {
-      "id": "5d883f65f912",
-      "title": "同比增 1860.32%：微软 11 月共修复 1235 个漏洞，刷新历年同月修复数纪录",
+      "id": "5f89df33fc27",
+      "title": "保时捷 CEO 骆明楷批评特斯拉 Roadster 发布会：我们不想搞任何特效或表演",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/435.htm",
-      "publishedAt": "2026-11-11T06:08:42.000Z",
-      "summary": "IT之家 11 月 11 日消息，科技媒体 bleepingcomputer 今天（11 月 11 日）发布博文，报道称在本月补丁星期二活动日（11 月 10 日）中，微软共计修复 1,235 个漏洞，刷新补丁星期二活动日历年 11 月修复漏洞数纪录， 仅次于 10 月创造的 1411 个漏洞修复数纪录 。 在修复漏洞数量纪录方面，2026 年 11 月修复 1,235 个漏洞，而 2025 年 11 月共修复 63 个漏洞， 同比增长",
+      "link": "https://www.ithome.com/1/025/820.htm",
+      "publishedAt": "2026-11-11T15:01:31.000Z",
+      "summary": "IT之家 11 月 11 日消息，据彭博社今天（11 日）晚间报道，保时捷 CEO 骆明楷（Michael Leiters）批评特斯拉 Roadster 发布会过于追求噱头，并指出特斯拉展示的飞行汽车与保时捷 Mission S 概念车 面向不同的消费群体 。 骆明楷在柏林出席一场会议时直言：“我们不想搞任何特效或表演。”同时，他强调，保时捷希望通过新车 展示真正的技术创新 。 特斯拉与保时捷都在当地时间 10 月 15 日（IT之家注",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -383,14 +379,14 @@
       "priority": 70
     },
     {
-      "id": "dcf617714c69",
-      "title": "闪迪公布 eMMC 模组 iNAND CL EM181，面向嵌入式应用",
+      "id": "73afd3536dd4",
+      "title": "553mm 超薄机身：卡萨帝热泵洗烘一体机 10498 → 5500 元破冰新低",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/434.htm",
-      "publishedAt": "2026-11-11T06:08:04.000Z",
-      "summary": "IT之家 11 月 11 日消息，Sandisk（闪迪）当地时间昨日在 electronica 2026 慕尼黑电子展上公布了其面向各类嵌入式应用的 新款 e.MMC 5.1A 闪存模组 SANDISK iNAND CL EM181。 CL EM181 提供 64GB / 128GB / 256GB 三种容量版本 ，顺序读写分别为 300MB/s 和 225MB/s。其支持 SmartSLC 技术，具备 LDPC ECC 纠错，工作温度",
+      "link": "https://www.ithome.com/1/025/819.htm",
+      "publishedAt": "2026-11-11T14:55:17.000Z",
+      "summary": "卡萨帝 · 揽光 GLD 热泵洗烘一体机 10kg，型号 CE AB10LWUGLDU1。 日常售价 10498 元，今日叠加 PLUS 立减 + 15% 国补后仅需 6104.2 元： 领 8.5 折洗衣机券： 点此查看 售价下方可选“ 家电组合购 ”任选 1 件家电一起加购下单 下单时选择“以旧换新 → 个护健康 → 普通牙刷 （无需回收）” 洗衣机实付 5900 元，今日下单官方返 300 元红包。 参与家电家居多买多返（售价下方",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -402,14 +398,14 @@
       "priority": 70
     },
     {
-      "id": "4234113dffa2",
-      "title": "晒单赠泡泡玛特盲盒：AMD 锐龙 R7 9700X 处理器京东 1498 元 11.11 发车",
+      "id": "964b0fcd6e16",
+      "title": "以旧换新 3999 → 2291 元：小米米家智能净烟机 3 Pro 国补直降，7 级大风力",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/433.htm",
-      "publishedAt": "2026-11-11T06:07:56.000Z",
-      "summary": "AMD 锐龙 R7 9700X 24 年 8 月开售，8 核 16 线程，5.5GHz 65W，今年日常售价 1729 元。 今日 11.11 国补后 1502 元，首次加入店铺会员后下单返 5 元京豆，折合仅需 1497 元。 晒单赠泡泡玛特盲盒哦： 京东 AMD 锐龙 7 9700X 处理器 (R7) 4nm 8 核 16 线程 国补后 1502 元 直达链接 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点",
+      "link": "https://www.ithome.com/1/025/818.htm",
+      "publishedAt": "2026-11-11T14:49:11.000Z",
+      "summary": "【京东活动可能随时变更，需以实付款为准】 小米 · 米家智能净烟机 3 Pro 开售于 2026 年 8 月，官方定价 3999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2291 元： 领 8.7 折券： 点此查看 。 下单时选择“以旧换新 → 个护健康 → 普通牙刷 （无需回收）”补贴 200 元。 参与“多买多返”活动返 30 元 E 卡，晒单返 50 元京豆，社交平台种草返 ",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
@@ -421,36 +417,73 @@
       "priority": 70
     },
     {
-      "id": "7e385e25e41f",
-      "title": "北京：建立具身智能机器人企业上市“一对一”服务机制，培育优势龙头企业",
+      "id": "865d1068fd46",
+      "title": "俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/432.htm",
-      "publishedAt": "2026-11-11T06:04:35.000Z",
-      "summary": "IT之家 11 月 11 日消息，为加快推动北京市具身智能机器人产业高质量发展，北京市经济和信息化局今日印发《北京市具身智能机器人产业高质量发展行动方案（2026-2028 年）》。 IT之家注意到， 该《行动方案》提到建立具身智能机器人企业上市“一对一”服务机制 ， 培育优势龙头企业 。在整机、关键零部件、具身智能模型和数据采集等重点领域，培育不少于 200 家科技和创新型中小企业、高新技术企业、专精特新中小企业、专精特新“小巨人”企",
+      "link": "https://www.ithome.com/1/025/817.htm",
+      "publishedAt": "2026-11-11T14:46:46.000Z",
+      "summary": "IT之家 11 月 11 日消息，据央视新闻报道，当地时间 10 日，俄罗斯国家原子能公司首席执行官利哈乔夫表示，该公司计划于 2027 年选定月球核电站方案。 利哈乔夫在当日举行的政府航天发展战略会议后透露，俄罗斯国家原子能公司正在 研究 5 种月球核电站方案 ，将于 2027 年选定其中一种。当前，国家原子能公司、俄罗斯库尔恰托夫研究所与俄罗斯科学院正在联合研究相关课题。 他进一步表示：“这里说的是功率可达 10 千瓦的月球核电站，",
       "actionSteps": [
         "找到两个独立数据源交叉验证",
         "拆分受益与受损环节",
         "跟踪接下来 30 天的关键指标"
       ],
-      "tags": [
-        "机器人",
-        "中小企业"
-      ],
+      "tags": [],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "d79180c31647",
-      "title": "阿里 Qwen Code 1.0 发布：Qoder 与 Qwen Code Harness 融合开源",
+      "id": "a27a2f399375",
+      "title": "热泵洗烘一体机破冰新低：海信 12kg 洗 +8kg 烘 6199 → 3238 元限 1 小时",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/025/816.htm",
+      "publishedAt": "2026-11-11T14:46:10.000Z",
+      "summary": "12kg 洗 + 8kg 烘 海信 · 大薄荷 E3S 热泵洗烘一体机 灰白双色可选 ，日常大促价 6199 元。 今日 11.11 下单仅需 3668 元， 11 月 11 日 下单返 400 元 E 卡，折合仅需 3268 元。 京东家电“多买多返”返 30 元 E 卡（售价下方可见活动标签），折合仅需 3238 元官方好价： 下单时需选择“ 以旧换新 ” → 家庭小电 → 普通餐具： 京东 海信 热泵洗烘一体机 大薄荷 2.0 E",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "59be04e3fab8",
+      "title": "AI 提升飓风预报精度，人类气象专家仍不可替代",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/393.htm",
-      "publishedAt": "2026-11-11T04:20:07.000Z",
-      "summary": "IT之家 11 月 11 日消息，阿里今日官宣推出 Qwen Code 1.0 版本， Qoder 与 Qwen Code 融合开源 。 阿里把在 Qoder 中打磨的 Harness 能力融入 Qwen Code，随 Qwen Code 1.0 Preview 一起开放，为开发者提供可嵌入自身产品的 Agent 运行基础。 Qwen Code 1.0 从进程内的内存事件总线起步，沿着统一事件模型向分布式演进：将接入、调度与执行分层扩展",
+      "link": "https://www.ithome.com/1/025/806.htm",
+      "publishedAt": "2026-11-11T13:42:22.000Z",
+      "summary": "IT之家 11 月 11 日消息，人工智能经常因为数据中心能耗巨大而受到批评。数据中心对电力的庞大需求推动了化石燃料的使用，也进一步加剧了气候变化。 但与此同时，AI 也正在帮助气象学家显著提高天气预报的准确性，其中就包括飓风预测。这类天气系统以预测难度极高著称，而在全球变暖的背景下，飓风带来的威胁也日益加剧。 据 Techxplore 报道，美国国家飓风中心（NHC）去年开始使用谷歌 DeepMind 的 AI 模型，目前正与该公司合",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "51ccf6fe3f74",
+      "title": "统信桌面操作系统 V25（2500u2）发布：新增防卡死保护，AI 助手变身“小 U 同学”",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/025/762.htm",
+      "publishedAt": "2026-11-11T11:40:27.000Z",
+      "summary": "IT之家 11 月 11 日消息，统信桌面操作系统 V25（2500u2）正式发布。本次版本为质量提升更新，围绕系统稳定与性能、智能体验、国产生态适配三大方向升级，全面覆盖 AMD64、ARM64、LoongArch、SW64 架构。 核心亮点方面，系统新增 防卡死保护机制 ，在严重卡顿状态下仍可唤醒任务栏、启动器与系统监视器，强制关闭导致卡顿的应用；原 UOS AI 升级为 “小 U 同学” ，支持全盘知识库检索、多智能体自动调度与任",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -458,21 +491,21 @@
       ],
       "tags": [
         "AI",
-        "Agent"
+        "视频"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "45708fc69551",
-      "title": "iOS 27.3 将补齐苹果 Siri AI 生态拼图：看懂你的健康信息，覆盖 92 种数据",
+      "id": "c04c27ca3469",
+      "title": "Anthropic Claude 仅用 3 天完成 AI 模型适配 AMD GPU，英伟达 CUDA 护城河遇挑战",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/392.htm",
-      "publishedAt": "2026-11-11T04:18:10.000Z",
-      "summary": "IT之家 11 月 11 日消息，消息源 @itspdfu 今天（11 月 11 日）在 X 平台发布推文，爆料称在 iOS 27.3 首个开发者预览版 Beta 中， 苹果为 Siri AI 加入了读取“健康”（Health）应用的相关功能 Flag，不过目前均处于禁用状态。 IT之家援引官方支持文档介绍， 当前 Siri AI 尚不支持读取健康 Health 应用数据。 用户可以设置 Siri 访问“健康”应用数据，但 Siri A",
+      "link": "https://www.ithome.com/1/025/736.htm",
+      "publishedAt": "2026-11-11T11:26:23.000Z",
+      "summary": "IT之家 11 月 11 日消息，英伟达 CUDA 生态系统的领先优势，可能正在受到越来越大的挑战。Anthropic IPO 路演材料中的一张幻灯片显示，随着高性能 AI 模型逐渐具备自主适配不同计算平台的能力，GPU 正在变得越来越像可以相互替换的通用算力资源。 IT之家注意到，Anthropic 的 IPO 路演材料披露了一项颇为引人关注的信息：其 Claude Mythos Preview 模型仅用了大约 3 天时间，就摸索出如",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -486,75 +519,36 @@
       "priority": 70
     },
     {
-      "id": "8efbac5daae6",
-      "title": "华为麒麟 9050 系列芯片官宣搭载新一代达芬奇架构 NPU，业界首个 30B MoE 大模型入端",
+      "id": "f5c3ac6ab6df",
+      "title": "不能再随便用：高盛、思科等企业开始对员工 AI 使用设限",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/331.htm",
-      "publishedAt": "2026-11-11T03:44:17.000Z",
-      "summary": "IT之家 11 月 11 日消息，华为麒麟官方公众号今日发文，详细介绍了首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列的新一代达芬奇架构 NPU，其支持 30B 大模型端侧运行，具备不用联网、不用等云端的特性。 新一代达芬奇架构 NPU 性能提升 140%、功耗降低 66% ，支持 Transformer 引擎、超低功耗感知引擎和 CANN 异构计算架构； 业界首个 30B MoE 大模型入端 ，支持多级存算协同优化、低比特",
+      "link": "https://www.ithome.com/1/025/734.htm",
+      "publishedAt": "2026-11-11T11:18:18.000Z",
+      "summary": "IT之家 11 月 11 日消息，据《商业内幕》报道，在过去几年不断鼓励员工拥抱 AI 技术之后，包括高盛、思科和摩根大通在内的企业，正开始采取更有针对性的 AI 部署策略。从设定使用预算、追踪调用量，到限制特定员工或工具的访问权限，这些不同的管理措施背后，是企业在不断加大 AI 投入的同时，也希望降低相关安全风险。 麦肯锡公司（McKinsey & Company）技术、媒体和电信业务高级合伙人拉里 · 哈马莱宁（Lari Hämäl",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
         "记录成本、耗时和可复用模板"
       ],
       "tags": [
-        "AI"
+        "AI",
+        "政策"
       ],
       "trust": 58,
       "opportunity": 67,
       "priority": 70
     },
     {
-      "id": "f5e18bd7876a",
-      "title": "全新深蓝 G318 四驱畅行乾崑版上市，一口价 18.98 万元，搭载华为全家桶",
+      "id": "f1c97f6f0762",
+      "title": "奇瑞瑞虎 9 猎鹰 700 版上市，限时焕新价 17.29 万元起",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/324.htm",
-      "publishedAt": "2026-11-11T03:14:41.000Z",
-      "summary": "IT之家 11 月 11 日消息，全新深蓝 G318 四驱畅行乾崑版汽车今日正式上市， 官方一口价 18.98 万元 ，是 18 万级唯一搭载华为乾崑技术与鸿蒙座舱的双电机四驱方盒子。 全新深蓝 G318 于今年 8 月在成都车展上市 ， 搭载华为乾崑 ADS 5 Pro ，覆盖城区通勤、高速行驶以及智能泊车等多种场景。 该车还搭载鸿蒙座舱 Harmony Space 5 ，并配备车载大模型能力，支持 10 种方言混说，可实现自然语言交",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "33dbf4652dc8",
-      "title": "Reddit 将推出 AI 汇总商品评价系统，引发用户担忧",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/318.htm",
-      "publishedAt": "2026-11-11T03:05:20.000Z",
-      "summary": "IT之家 11 月 11 日消息，据科技媒体 CNET 昨天报道，网络论坛 Reddit 正在测试 Reviews 功能。可通过 AI 汇总用户评论，分析一件商品的优缺点。 Reddit 表示，该功能可以充分利用论坛的自然讨论内容，帮助用户真正了解某款产品实际表现，并判断商品是否适合自己。 不过这项功能公布后引发了一些用户不满。他们担心，这项功能会损害真实人际交流和建议。许多负责维护社区（即 subreddit）秩序的 Reddit 版",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "840fb9d2e256",
-      "title": "马斯克、特斯拉因证券欺诈推文各缴 2000 万美元罚款，SEC 向 3350 名投资者分配 4153 万美元",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/317.htm",
-      "publishedAt": "2026-11-11T03:04:24.000Z",
-      "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，美国证券交易委员会（SEC）表示已完成针对马斯克和特斯拉 2018 年和解案件设立的公平基金（Fair Fund）分配工作。 SEC 管理人共向 3350 名符合条件的投资者分配了 4,153 万美元 （IT之家注：现汇率约合 2.78 亿元人民币） ，款项包含利息，并已扣除相关管理费用。 据路透社报道，SEC 已向纽约曼哈顿联邦法院提交文件，请求法官正式关闭该公平基金。该",
+      "link": "https://www.ithome.com/1/025/733.htm",
+      "publishedAt": "2026-11-11T11:14:14.000Z",
+      "summary": "IT之家 11 月 11 日消息，奇瑞瑞虎 9 猎鹰 700 版今日正式上市，官方指导价 18.99 万元，限时红包价 18.29 万元，叠加置换补贴等 限时焕新价 17.29 万元 。 车身尺寸方面，新车长宽高分别为 4853/1930/1718mm，轴距为 2820mm；IT之家获悉， 新车搭载猎鹰 700 辅助驾驶系统 ，配备激光雷达，拥有 560TOPS 车端算力，支持高速 NOA、城市 NOA、无导航 AI 漫游及全场景泊车。",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -1088,55 +1082,85 @@
       }
     },
     {
-      "id": "7cab729f0096",
-      "title": "DEEPX 2nm 低功耗 AI 芯片 DX-M2 实物芯片预计 2027 年初面世",
+      "id": "8a79d4b1b488",
+      "title": "马斯克旗下 Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/442.htm",
-      "publishedAt": "2026-11-11T06:20:09.000Z",
-      "summary": "DEEPX称DX-M2基于三星2nm工艺，80TOPs、5W功耗，可本地跑10B级模型，实物预计2027年初。",
+      "link": "https://www.ithome.com/1/025/809.htm",
+      "publishedAt": "2026-11-11T13:56:44.000Z",
+      "summary": "彭博社报道称 Grok 被指用于生成儿童色情图像，xAI 面临多起集体诉讼。",
       "actionSteps": [
-        "关注DEEPX官网与三星代工后续公告核实规格",
-        "评估自身端侧场景是否依赖10B级本地推理",
-        "待样品或开发板发布后再做选型测试"
+        "查阅彭博社原文与法院公开文件",
+        "企业复核自身生成式 AI 内容审核策略",
+        "关注监管机构后续表态与合规要求"
       ],
       "tags": [
-        "边缘AI",
-        "AI芯片",
-        "2nm",
-        "端侧大模型"
+        "Grok",
+        "AI合规",
+        "内容安全"
       ],
       "trust": 2,
-      "opportunity": 3,
-      "priority": 2,
+      "opportunity": 1,
+      "priority": 3,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若属实，边缘设备本地跑大模型的门槛将明显下降，利好端侧AI硬件、机器人和工业检测等场景；但离量产尚远。",
-        "riskNotes": "仅厂商单方宣布，2nm良率、实际能效和10B模型运行速度均未验证；CES 2027奖项与2027年初面世时间需以官方发布为准。"
+        "whyItMatters": "对 AI 企业提示内容安全与未成年人保护合规风险上升；对用户提示使用生成式工具的法律边界。",
+        "riskNotes": "信息经 IT 之家转述彭博社，诉讼处于指控阶段未经法院认定；具体案情、平台责任与判决结果均待核实。"
       }
     },
     {
-      "id": "963ed619b4d6",
-      "title": "中汽协会：我国 10 月汽车产销量双双超过 300 万辆，新能源销量同比增长 13.1%",
+      "id": "a568ca36275c",
+      "title": "大水冲了龙王庙？AI 编程工具 Grok Build 漏洞导致 SpaceXSI 敏感资料暴露",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/025/790.htm",
+      "publishedAt": "2026-11-11T13:08:20.000Z",
+      "summary": "安全公司称AI编程工具Grok Build存在漏洞，分享链接可被公开检索，导致数千用户及企业内部资料泄露。",
+      "actionSteps": [
+        "排查团队所用AI编程工具的分享链接是否可被外部检索",
+        "关闭默认公开分享并改为白名单访问",
+        "对已公开链接做敏感信息清理与访问日志审计"
+      ],
+      "tags": [
+        "AI安全",
+        "数据泄露",
+        "企业合规"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "使用AI生成应用并公开分享链接的企业，可能无意中暴露员工信息与内部数据，需审查分享权限与DNS暴露面。",
+        "riskNotes": "消息源自IT之家转述安全公司Claroc与Ars Technica，未见厂商官方确认；文中公司名'SpaceXSI'疑为转写错误，漏洞范围与影响规模需以官方公告核实。"
+      }
+    },
+    {
+      "id": "79ecf6fd158b",
+      "title": "谷歌 DeepMind 发布 AlphaGenome 2 基因序列模型：识别致病变异能力提升近一倍",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/438.htm",
-      "publishedAt": "2026-11-11T06:11:28.000Z",
-      "summary": "中汽协数据显示 10 月我国汽车产销均超 300 万辆，新能源汽车销量 194 万辆，同比增长 13.1%，占比 64.3%。",
+      "link": "https://www.ithome.com/1/025/822.htm",
+      "publishedAt": "2026-11-11T15:19:51.000Z",
+      "summary": "谷歌DeepMind发布AlphaGenome 2基因序列模型，称识别致病变异能力提升近一倍，可预测变异对特定细胞类型的影响。",
       "actionSteps": [
-        "查阅中汽协官网原始月度数据",
-        "对比细分车型与价格带走势",
-        "据此评估购车或供应链相关决策"
+        "查阅DeepMind官方发布与论文原文核对指标",
+        "评估在靶点或变异筛选研究中的试用价值",
+        "明确其科研定位，不用于临床决策"
       ],
       "tags": [
-        "新能源汽车",
-        "汽车产销",
-        "行业数据"
+        "基因AI",
+        "DeepMind",
+        "生物科技"
       ],
       "trust": 3,
       "opportunity": 2,
@@ -1144,62 +1168,92 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "反映新能源车渗透率持续走高，影响购车选择、充电设施需求及汽车产业链就业与投资判断。",
-        "riskNotes": "数据经媒体转述中汽协发布，具体口径与全年累计数据应以中汽协官网原始发布为准。"
+        "whyItMatters": "对基因研究与生物医药企业是潜在研究工具升级，但属科研用途，普通人短期无直接应用。",
+        "riskNotes": "'提升近一倍'为媒体转述的厂商口径，需核对DeepMind官方论文与基准；模型可用范围、许可与临床适用性未说明，不可视为诊断工具。"
       }
     },
     {
-      "id": "b79013cc8fb8",
-      "title": "Nordic 推出支持边缘 AI 推理的 Wi-Fi SoC「nRF71」系列，待机功耗最高降低 1/20",
+      "id": "5024f246bf26",
+      "title": "Adobe 公布四项 AI 实验项目：照片秒变 3D 场景，还能通过聊天设计 AI 角色",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/414.htm",
-      "publishedAt": "2026-11-11T05:53:04.000Z",
-      "summary": "Nordic推出nRF71系列Wi-Fi SoC，内置Axon NPU支持边缘AI推理，称待机功耗最高降为1/20。",
+      "link": "https://www.ithome.com/1/025/815.htm",
+      "publishedAt": "2026-11-11T14:32:05.000Z",
+      "summary": "Adobe在MAX大会公布四项实验项目，包括图片转可探索3D场景、对话式设计AI角色及复制粘贴式修图。",
       "actionSteps": [
-        "下载nRF71数据手册核对NPU算力与功耗条件",
-        "对比现有Wi-Fi SoC方案评估替换成本",
-        "向代理商确认样品与量产时间"
-      ],
-      "tags": [
-        "Wi-Fi SoC",
-        "边缘AI",
-        "低功耗",
-        "物联网"
-      ],
-      "trust": 3,
-      "opportunity": 3,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "面向物联网与可穿戴的低功耗Wi-Fi加边缘推理方案增多，利好智能家居、传感器等产品降低功耗与云端依赖。",
-        "riskNotes": "功耗降幅为厂商口径，测试条件未披露；NPU算力与模型支持范围需查数据手册，量产供货时间待确认。"
-      }
-    },
-    {
-      "id": "8650a57649a1",
-      "title": "Adobe Photoshop 迎来 AI 进化：照片能重新打光，删物体还能清理倒影",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/403.htm",
-      "publishedAt": "2026-11-11T05:34:37.000Z",
-      "summary": "Adobe MAX 2026 大会宣布 Photoshop 等创意软件新增 AI 功能，含照片重新打光、删物体并清理倒影等。",
-      "actionSteps": [
-        "关注 Adobe 官方发布确认功能与定价",
-        "在试用版中测试重打光与物体移除效果",
-        "评估对现有修图外包与工作流的影响"
+        "关注Adobe官方实验项目页面获取一手信息",
+        "评估3D场景生成对现有素材流程的潜在替代",
+        "暂不据此调整采购或培训预算"
       ],
       "tags": [
         "Adobe",
-        "AI修图",
+        "生成式AI",
         "创意工具"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "创意与电商从业者可关注未来工作流变化，但实验项目未必商用，短期不影响现有工具选型。",
+        "riskNotes": "均为实验阶段功能，无发布时间、定价与可用地区信息；报道为媒体转述，需以Adobe官方博客核实。"
+      }
+    },
+    {
+      "id": "4094c0e884d3",
+      "title": "Pharo in the Browser with WebAssembly",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+      "publishedAt": "2026-11-11T14:21:27.000Z",
+      "summary": "技术文章介绍通过WebAssembly在浏览器中运行Pharo虚拟机，HN讨论热度中等。",
+      "actionSteps": [
+        "打开演示页面实测加载与交互性能",
+        "评估在浏览器教学或原型场景的可行性",
+        "关注项目仓库的更新频率与许可证"
+      ],
+      "tags": [
+        "WebAssembly",
+        "开发工具",
+        "开源"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对开发者意味着Smalltalk类环境可零安装试用，可能降低教学与原型验证门槛。",
+        "riskNotes": "仅HN链接与54点热度，未验证性能、兼容性与维护状态；非商业产品发布。"
+      }
+    },
+    {
+      "id": "dadb501df184",
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://blog.atuin.sh/threads-agent-sessions/",
+      "publishedAt": "2026-11-11T14:10:46.000Z",
+      "summary": "Atuin 推出 Threads 功能，宣称可在多台机器间同步并管理 AI 代理会话，登上 Hacker News 热榜。",
+      "actionSteps": [
+        "阅读官方博客确认支持的工具与同步机制",
+        "核查会话数据存储位置与加密方式",
+        "在小规模非敏感项目中试用并评估迁移成本"
+      ],
+      "tags": [
+        "AI代理",
+        "开发工具",
+        "会话同步"
       ],
       "trust": 2,
       "opportunity": 3,
@@ -1207,31 +1261,61 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "设计师与内容创作者可减少修图与剪辑工时，中小商家制作营销素材的门槛下降。",
-        "riskNotes": "信息来自媒体转述大会内容，具体功能上线时间、订阅价格与地区可用性需以 Adobe 官方公告为准。"
+        "whyItMatters": "对多设备使用 AI 编码代理的开发者，会话跨机同步可减少重复配置与上下文丢失，值得关注其开源实现与数据存储方式。",
+        "riskNotes": "仅有博客标题与 HN 讨论热度，未核实功能细节、是否开源、同步是否端到端加密及定价；52 分属中等热度，不代表产品成熟。"
       }
     },
     {
-      "id": "53d6f601edc3",
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "id": "66f930294c82",
+      "title": "DeepL 推出旗下最逼真语音 AI 翻译模型 Aure，实时复现说话者语气起伏、情绪流转等",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/025/810.htm",
+      "publishedAt": "2026-11-11T14:06:51.000Z",
+      "summary": "DeepL 发布语音翻译模型 Aure，称可实时复现语气、情绪与语速，暂不支持中文。",
+      "actionSteps": [
+        "查阅 DeepL 官方博客确认支持语言与上线时间",
+        "用目标语种样本测试情绪还原与延迟",
+        "评估与现有翻译流程的集成成本"
+      ],
+      "tags": [
+        "语音翻译",
+        "DeepL",
+        "多语言"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "跨境客服、会议与内容本地化企业可关注语音翻译自然度提升，但中文缺失意味着国内场景短期难直接受益。",
+        "riskNotes": "信息源自 IT 之家转述官方发布，未见 DeepL 一手公告原文；支持语言、延迟、价格与准确率均未核实。"
+      }
+    },
+    {
+      "id": "6d41d763cffc",
+      "title": "Apple is killing its Support Community forum next week",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "publishedAt": "2026-11-11T04:28:57.000Z",
-      "summary": "技术博客介绍用 macOS Secure Enclave 硬件保护 SSH 私钥，登上 Hacker News 热榜，讨论热度中等。",
+      "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "publishedAt": "2026-11-11T14:02:11.000Z",
+      "summary": "报道称苹果将于下周关闭其支持社区论坛，HN 讨论热度较高。",
       "actionSteps": [
-        "阅读原文与评论区，确认适用机型与系统版本",
-        "在测试机按步骤配置并验证 SSH 登录",
-        "评估后决定是否推广到团队密钥管理规范"
+        "查证苹果官方支持页面公告",
+        "备份常用论坛帖与解决方案",
+        "评估转向官方支持或其他社区渠道"
       ],
       "tags": [
-        "SSH",
-        "macOS",
-        "密钥安全",
-        "开发者工具"
+        "Apple",
+        "社区论坛",
+        "用户支持"
       ],
       "trust": 2,
       "opportunity": 2,
@@ -1239,72 +1323,10 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "开发者与运维人员可借此降低私钥被窃取风险，减少服务器与代码仓库被入侵的损失。",
-        "riskNotes": "仅为个人技术博客，非苹果官方文档；Secure Enclave 支持范围、兼容性与实际安全增益需自行验证。"
-      }
-    },
-    {
-      "id": "6bdd0b4410e5",
-      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-      "publishedAt": "2026-11-11T02:57:08.000Z",
-      "summary": "Science 报道美国为防范生物恐怖主义，对合成 DNA 订购实施新规，HN 讨论热度中等。",
-      "actionSteps": [
-        "查阅 Science 原文与官方规则文本",
-        "梳理自身是否涉及合成 DNA 采购",
-        "评估合规流程与供应商筛查要求"
-      ],
-      "tags": [
-        "合成DNA",
-        "生物安全",
-        "美国监管"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "涉及生物科技、科研机构与合成生物学企业的合规成本，跨境订购流程可能变化。",
-        "riskNotes": "摘要仅含标题与链接，未见规则条文细节；应以美国政府官方发布文本为准，避免误读适用范围。"
-      }
-    },
-    {
-      "id": "0fe1ff6beb44",
-      "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/118854",
-      "publishedAt": "2026-11-10T00:24:40.000Z",
-      "summary": "少数派早报提及火山引擎发布Seedream 5.5、苹果研究团队用仿真训练人形机器人等动态，但摘要主要为作者评选说明。",
-      "actionSteps": [
-        "检索火山引擎官方渠道确认Seedream 5.5发布信息",
-        "查阅苹果研究团队论文或官方博客核实仿真训练内容",
-        "对比同类模型能力与定价后再评估采用"
-      ],
-      "tags": [
-        "Seedream",
-        "人形机器人",
-        "AI模型"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-10T07:20:57.804Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "若属实，图像生成模型迭代和机器人仿真训练进展会影响内容创作与具身智能相关企业的技术选型。",
-        "riskNotes": "摘要未包含发布细节、参数、价格或官方链接，属二手转述；需以火山引擎和苹果官方公告核实。"
+        "whyItMatters": "长期依赖该论坛排障的用户与第三方维修、IT 支持从业者需寻找替代知识库，可能影响自助维修信息获取。",
+        "riskNotes": "消息源自 The Verge 报道，未核实苹果官方公告；关闭范围、是否归档历史内容及替代渠道均不明确。"
       }
     },
     {
@@ -1337,69 +1359,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "企业采购AI算力或对外宣传绿色AI时，可能面临气候效益缺乏证据的质疑；投资者需关注英伟达调查进展对供应链情绪的扰动。",
         "riskNotes": "仅为通讯摘要，评论作者观点与英伟达调查细节均未展开，调查性质、主体和进展不明，需查阅原文与官方披露核实。"
-      }
-    },
-    {
-      "id": "b044ec790c18",
-      "title": "Innovating with AI in the special chemicals industry",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "publishedAt": "2026-11-09T13:00:00.000Z",
-      "summary": "MIT科技评论探讨特种化学品行业如何用AI、云计算与建模加速创新，核心挑战是连接可靠数据与专业经验。",
-      "actionSteps": [
-        "盘点内部实验与工艺数据的可用性与质量",
-        "建立领域专家与数据团队协同机制",
-        "选择小范围场景试点并设定可量化指标"
-      ],
-      "tags": [
-        "特种化学品",
-        "AI应用",
-        "数据治理",
-        "数字化"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-09T18:49:51.431Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "化工企业推进AI时，数据治理与领域专家协同比模型本身更关键；对数字化转型预算分配有参考意义。",
-        "riskNotes": "为行业观点类内容，未提供具体案例数据或成效指标，结论需结合企业自身数据基础评估。"
-      }
-    },
-    {
-      "id": "8d052e0d103e",
-      "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/118029",
-      "publishedAt": "2026-11-09T07:02:44.000Z",
-      "summary": "少数派在全国消防日发布科普文章，介绍天花板上的消防设备（如烟感、喷淋）如何保障安全。",
-      "actionSteps": [
-        "查看全文了解常见消防设备功能",
-        "检查住所或办公场所烟感与喷淋是否完好",
-        "向物业确认消防设施年检记录"
-      ],
-      "tags": [
-        "消防安全",
-        "科普",
-        "家庭安全"
-      ],
-      "trust": 2,
-      "opportunity": 1,
-      "priority": 2,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "帮助居民和企业识别办公与住宅消防设施，提升火灾早期预警与逃生意识。",
-        "riskNotes": "摘要仅含导语，未见具体设备清单与标准条款；消防规范应以应急管理部门官方文件为准。"
       }
     },
     {
@@ -1465,118 +1424,53 @@
       }
     },
     {
-      "id": "f177c52e59c7",
-      "title": "“小米换机”应用上架华为鸿蒙应用市场，支持将 HarmonyOS 数据迁移至小米设备",
+      "id": "c3917f85d073",
+      "title": "Xbox 版《GTA 6》预载文件出现 AMD FSR 4.1 线索，首发未必支持",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/443.htm",
-      "publishedAt": "2026-11-11T06:21:41.000Z",
-      "summary": "小米换机应用上架鸿蒙应用市场，支持将HarmonyOS设备数据迁移至小米手机。",
+      "link": "https://www.ithome.com/1/025/821.htm",
+      "publishedAt": "2026-11-11T15:02:56.000Z",
+      "summary": "数据挖掘者在 Xbox 版《GTA 6》预载文件中发现 AMD FSR 相关库文件，推测可能支持 FSR 4.1 但首发未必启用。",
       "actionSteps": [
-        "在鸿蒙应用市场核实应用开发者与版本信息",
-        "换机前备份重要数据并确认迁移范围",
-        "关注双方官方声明判断长期可用性"
+        "等待官方技术说明或发售实测",
+        "关注 AMD 与 Rockstar 官方渠道",
+        "勿据此提前调整硬件采购决策"
       ],
       "tags": [
-        "鸿蒙",
-        "小米",
-        "换机迁移",
-        "手机生态"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "降低鸿蒙用户换机到小米的迁移成本，反映手机厂商在系统生态间争夺存量用户，消费者换机阻力减小。",
-        "riskNotes": "来源为IT之家转述用户投稿，小米与华为均未官方确认；迁移范围、隐私处理与后续是否下架需核实。"
-      }
-    },
-    {
-      "id": "5913371bf902",
-      "title": "国补后 2999 → 1588 元：KTC 显示器 M27P6S 新低，4K 160Hz/1080P 320Hz 双模 Mini LED",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/439.htm",
-      "publishedAt": "2026-11-11T06:11:29.000Z",
-      "summary": "KTC 27英寸双模Mini LED显示器M27P6S京东大促叠加国补后约1588元，称创价格新低。",
-      "actionSteps": [
-        "在京东结算页确认国补资格与最终实付价",
-        "核对面板参数、保修与退换政策",
-        "对比同价位其他双模显示器再下单"
-      ],
-      "tags": [
-        "显示器",
-        "促销",
-        "国补",
-        "Mini LED"
-      ],
-      "trust": 2,
-      "opportunity": 2,
-      "priority": 1,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "4K 160Hz与1080P 320Hz双模显示器价格下探，对预算有限的游戏和办公用户有吸引力。",
-        "riskNotes": "价格为限时促销且依赖国补资格，可能随时变动；国补政策适用地区与资格需自行核实，实际到手价以结算页为准。"
-      }
-    },
-    {
-      "id": "7bd2c60903fc",
-      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/gmkurtzer/ginux",
-      "publishedAt": "2026-11-11T05:25:54.000Z",
-      "summary": "Greg Kurtzer发布Ginux，定位为用户空间内核，项目托管于GitHub。",
-      "actionSteps": [
-        "阅读GitHub仓库文档与issue了解设计目标",
-        "在隔离测试环境做小规模验证",
-        "跟踪社区讨论判断项目活跃度"
-      ],
-      "tags": [
-        "开源",
-        "用户空间内核",
-        "开发者工具"
+        "GTA6",
+        "AMD FSR",
+        "游戏硬件"
       ],
       "trust": 1,
-      "opportunity": 2,
+      "opportunity": 1,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "属于开发者工具类实验项目，对普通用户影响有限；对容器、沙箱和轻量隔离方案感兴趣的工程师值得观察。",
-        "riskNotes": "仅有GitHub链接与少量HN讨论，成熟度、性能与安全性均无独立验证，不宜用于生产环境。"
+        "whyItMatters": "对玩家意味着画质与帧率表现或有提升空间；对硬件与游戏行业是技术选型信号，但均属推测。",
+        "riskNotes": "仅基于文件名挖掘，非 Rockstar 或 AMD 官方确认；预载文件可能为占位或旧版本，结论不确定性高。"
       }
     },
     {
-      "id": "00f74ddcf336",
-      "title": "AirPods 耳机充电盒秒变苹果 Mac 无线鼠标：体感移动 + 轻敲点击，还能“打鸭子”",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/025/398.htm",
-      "publishedAt": "2026-11-11T04:48:13.000Z",
-      "summary": "开发者开源 AirPointer 项目，将 AirPods 充电盒通过体感与轻敲变为 Mac 无线鼠标，可玩小游戏。",
+      "id": "ad8780c2a1d5",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "publishedAt": "2026-11-11T13:10:00.000Z",
+      "summary": "MIT科技评论每日简报，讨论意识延续的六种设想与开放AI风险的权衡议题。",
       "actionSteps": [
-        "查看开源仓库了解实现原理",
-        "在非关键设备上试装体验",
-        "评估是否可借鉴到自有交互原型"
+        "将其作为AI风险议题的背景阅读",
+        "追踪文中引用的原始研究或报告",
+        "区分观点与可验证事实后再引用"
       ],
       "tags": [
-        "开源项目",
-        "AirPods",
-        "人机交互"
+        "AI治理",
+        "科技趋势"
       ],
       "trust": 2,
       "opportunity": 1,
@@ -1584,10 +1478,71 @@
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-11T06:25:05.559Z",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "展示消费硬件复用为输入设备的创意，对开源硬件爱好者与交互原型开发有参考价值。",
-        "riskNotes": "属个人开源项目，稳定性、精度与隐私（传感器数据）未经验证，不宜用于正式工作场景。"
+        "whyItMatters": "属观点综述类内容，对普通读者提供AI治理讨论背景，但无具体可执行信息。",
+        "riskNotes": "为 newsletter 摘要，正文未提供，涉及'意识延续'等推测性话题，不宜作为事实或政策依据。"
+      }
+    },
+    {
+      "id": "31f47d85113d",
+      "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/118781",
+      "publishedAt": "2026-11-11T09:30:00.000Z",
+      "summary": "少数派城市漫步指南，作者因行程变动增加安特卫普一站，分享当地时尚与生活体验。",
+      "actionSteps": [
+        "作为旅行灵感收藏",
+        "出行前另行核实交通与开放时间",
+        "结合官方旅游信息交叉验证"
+      ],
+      "tags": [
+        "旅行",
+        "生活方式"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "为计划赴比利时旅行者提供生活化参考，商业价值有限。",
+        "riskNotes": "个人游记，主观体验为主，不含价格、签证等需核实信息。"
+      }
+    },
+    {
+      "id": "531eedc828de",
+      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/118175",
+      "publishedAt": "2026-11-11T06:50:39.000Z",
+      "summary": "少数派文章以 macOS 内置加州风景壁纸为线索，介绍优胜美地、金门大桥等实地景观。",
+      "actionSteps": [
+        "浏览原文获取具体地点清单",
+        "对照地图核实可达性与季节",
+        "如需出行参考官方景区信息"
+      ],
+      "tags": [
+        "macOS",
+        "旅行",
+        "科普"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-11T16:12:07.221Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对普通读者是轻量科普与旅行参考，对内容创作者提示可做系统壁纸与地理文化结合的选题。",
+        "riskNotes": "属媒体个人游记类内容，非官方地理或旅游信息，具体地点与路线需另行核实。"
       }
     },
     {
