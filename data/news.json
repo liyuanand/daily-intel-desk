@@ -1,22 +1,13 @@
 {
-  "generatedAt": "2026-11-12T07:13:07.944Z",
-  "status": "partial",
-  "failedSources": [
-    {
-      "name": "IT 之家",
-      "error": "404 Not Found"
-    },
-    {
-      "name": "IT 之家",
-      "error": "404 Not Found"
-    }
-  ],
+  "generatedAt": "2026-11-12T16:49:23.119Z",
+  "status": "ok",
+  "failedSources": [],
   "ai": {
     "enabled": true,
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 24
+    "reused": 25
   },
   "categories": {
     "ai": "AI 实操",
@@ -203,46 +194,35 @@
       "priority": 89
     },
     {
-      "id": "5b070766ec4d",
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "id": "6edaf29caa3e",
+      "title": "I'm making LLMs work on small and old devices",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "publishedAt": "2026-11-12T02:11:11.000Z",
-      "summary": "Wiz博客披露Apache HTTP Server存在严重RCE漏洞（CVE-2026-119618），HN热度高。",
+      "link": "https://github.com/hyperionaidev/smolmaxxing/",
+      "publishedAt": "2026-11-12T15:23:10.000Z",
+      "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 22 # Comments: 6",
       "actionSteps": [
-        "核对Apache官方安全公告确认CVE与受影响版本",
-        "盘点自有Apache HTTP Server实例及版本",
-        "按官方指引升级或采取缓解措施并复测"
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
       ],
       "tags": [
-        "安全漏洞",
-        "Apache",
-        "RCE",
-        "运维"
+        "AI"
       ],
-      "trust": 60,
-      "opportunity": 30,
-      "priority": 80,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-12T07:13:07.944Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "Apache HTTP Server部署极广，若漏洞属实，企业需尽快排查版本并打补丁，否则面临远程代码执行风险。",
-        "riskNotes": "信息来自安全厂商博客而非Apache官方公告，CVE编号与影响范围需以官方安全公告复核；不得据此断定所有部署均受影响。"
-      }
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
     },
     {
-      "id": "f8d4c585f627",
-      "title": "Lock Your GitHub Actions",
+      "id": "51f4124d0ffe",
+      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "publishedAt": "2026-11-11T22:16:41.000Z",
-      "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 209 # Comments: 41",
+      "link": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+      "publishedAt": "2026-11-12T15:14:52.000Z",
+      "summary": "Article URL: https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/ Comments URL: https://news.ycombinator.com/item?id=50468720 Points: 16 # Comments: 4",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "在 48 小时内做一个可售卖的最小方案",
@@ -254,23 +234,96 @@
       "priority": 79
     },
     {
-      "id": "1399104b4951",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "id": "df48ccc41048",
+      "title": "Roadside investigations of psyllids, ants and eucs",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "publishedAt": "2026-11-11T21:24:35.000Z",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 510 # Comments: 498",
+      "link": "https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/",
+      "publishedAt": "2026-11-12T15:13:06.000Z",
+      "summary": "Article URL: https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/ Comments URL: https://news.ycombinator.com/item?id=50468687 Points: 3 # Comments: 1",
       "actionSteps": [
         "定义付费客户和高频痛点",
-        "画出触发器、数据、决策和输出四段流程",
+        "在 48 小时内做一个可售卖的最小方案",
         "先访谈 5 位潜在客户，再决定是否投入"
       ],
-      "tags": [
-        "AI",
-        "Agent"
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "9d5789e22950",
+      "title": "Running web sites makes me not want to",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+      "publishedAt": "2026-11-12T14:30:38.000Z",
+      "summary": "Article URL: https://lowkey.party/running-web-sites-makes-me-not-want-to Comments URL: https://news.ycombinator.com/item?id=50467869 Points: 18 # Comments: 7",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
       ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "8f7f084ecdcb",
+      "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
+      "publishedAt": "2026-11-12T14:25:23.000Z",
+      "summary": "Article URL: https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/ Comments URL: https://news.ycombinator.com/item?id=50467763 Points: 52 # Comments: 4",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "0ecc21d01c24",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "publishedAt": "2026-11-12T14:18:49.000Z",
+      "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 93 # Comments: 30",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "19edf142065b",
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "publishedAt": "2026-11-12T14:12:37.000Z",
+      "summary": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 79 # Comments: 0",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
       "trust": 58,
       "opportunity": 92,
       "priority": 79
@@ -305,6 +358,237 @@
         "whyItMatters": "行政法规修改废止可能影响企业合规义务与审批流程，相关行业需核对是否涉及自身经营领域。",
         "riskNotes": "摘要未列明具体法规名称与修改内容，须以中国政府网原文及附件为准，避免误读适用范围。"
       }
+    },
+    {
+      "id": "66dc158fd28d",
+      "title": "特别版车型？阿斯顿 · 马丁与迪士尼、卢卡斯影业达成合作，共庆《星球大战》50 周年",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/438.htm",
+      "publishedAt": "2026-11-12T15:48:38.000Z",
+      "summary": "IT之家 11 月 12 日消息，2027 年是《星球大战》系列诞生 50 周年，阿斯顿 · 马丁宣布与迪士尼、卢卡斯影业合作，共同庆祝这一里程碑。阿斯顿 · 马丁计划在未来一年举办系列活动，回顾《星球大战》的发展历程，但具体内容尚未公布。 阿斯顿 · 马丁透露，双方将通过周年庆期间的一系列活动及合作项目，展现英国顶级奢华工艺与电影叙事的艺术魅力。 阿斯顿 · 马丁全球营销总监芬巴尔 · 麦克福尔表示：“过去 50 年，《星球大战》证明",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "6fc28ea92731",
+      "title": "欧几里得望远镜公布首批大规模观测数据：涵盖超 9 亿个星系",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/435.htm",
+      "publishedAt": "2026-11-12T15:19:43.000Z",
+      "summary": "IT之家 11 月 12 日消息，欧洲航天局（ESA）公布了欧几里得（Euclid）空间望远镜任务首批大规模观测数据。这项任务旨在绘制宇宙的大尺度结构，此次公布的数据涵盖了超过 9 亿个星系的观测结果。科学家希望借此进一步研究宇宙中两种至今仍充满谜团的成分：暗物质和暗能量。 当地时间周四公布的数据覆盖了相当于从地球上看到的月球视面积约 9500 倍的天空区域。欧几里得望远镜的最终目标是在 2031 年前绘制有史以来规模最大的宇宙三维地图",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "61a4ff2ea2c0",
+      "title": "比亚迪腾势汽车李慧谈“速成车”：我们宁愿慢一点，也绝不在安全上“抄近路”",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/434.htm",
+      "publishedAt": "2026-11-12T15:17:40.000Z",
+      "summary": "IT之家 11 月 12 日消息，今天晚间的腾势 N8 上市发布会伊始，比亚迪腾势汽车总经理李慧就谈到了“速成车”。 李慧直言，今年的车市非常热闹，前 10 个月 平均每天有 3 场发布会 。热闹之下，行业内诞生了一个扎心的词 ——“速成车”。“速成车”压缩的是消费者 看不见、摸不着，但又关乎安全底线 的验证环节。这种走捷径的方式，是把用户当成免费的试车员。 他透露，腾势 N8 于 2023 年 8 月正式立项，至今打磨了 整整三年多 ",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "d5f1a4d125f9",
+      "title": "长安汽车拟挂牌转让阿维塔 10% 股权，交易价格约 32 亿元",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/433.htm",
+      "publishedAt": "2026-11-12T15:15:19.000Z",
+      "summary": "IT之家 11 月 12 日消息，上海联合产权交易所显示，重庆长安汽车股份有限公司今日挂牌转让持有的阿维塔科技（重庆）股份有限公司 10% 股权，交易价格为 31.828 亿元，披露结束时间为 12 月 10 日。 交易完成后， 长安汽车仍为阿维塔第一大股东 。IT之家附阿维塔目前股东与持股比例如下： 股东名称 持股比例 (%) 重庆长安汽车股份有限公司 40.994 宁德时代新能源科技股份有限公司 9.1742 重庆安渝私募股权投资基",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "新能源"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "e6e81c315fdc",
+      "title": "西门子 CEO 博乐仁：无论黄仁勋是否离职，与英伟达的合作都不会受影响",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/374.htm",
+      "publishedAt": "2026-11-12T12:10:00.000Z",
+      "summary": "IT之家 11 月 12 日消息，据路透社报道，西门子 CEO 博乐仁（Roland Busch）表示，无论英伟达最终如何决定其创始人兼 CEO 黄仁勋（Jensen Huang）的去留，西门子都将继续与这家 AI 芯片巨头保持合作。 此前，有报道称黄仁勋涉及两起婚外情。面对相关风波，英伟达董事会正在考虑是否解除黄仁勋的 CEO 职务。 IT之家注意到，博乐仁在西门子公布第四季度业绩后接受记者采访时表示：“我们讨论的是一家规模相当大的企",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "6c790a4104dc",
+      "title": "上下水版 2999 → 678 元：科沃斯全能基站扫拖机器人“地宝 mini2”破冰新低",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/367.htm",
+      "publishedAt": "2026-11-12T11:58:23.000Z",
+      "summary": "科沃斯 2025 年 4 月发布了 科沃斯地宝 mini 2 ，水箱版定价 2199 元，上下水版定价 2999 元。 今日上下水版按下方步骤下单， 仅需 678 元破冰新低 。 先领 9 折券： 点此领券 点击下方卡片加购物车 1 件 进入 “京东购物”微信小程序 购物车 → 点击此商品 → 进入宝贝页面 下单 → 下单页面选择“以旧换新”实付 778 元 返 100 元后，仅需 678 元： 京东 科沃斯 mini 2 扫地机器人 ",
+      "actionSteps": [
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
+      ],
+      "tags": [
+        "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "80e43a664deb",
+      "title": "AWS 首席 AI 和技术官马特 · 伍德：优秀的工程师要爱上问题，而非现成解法",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/359.htm",
+      "publishedAt": "2026-11-12T11:31:53.000Z",
+      "summary": "IT之家 11 月 12 日消息，据《商业内幕》今天（12 日）晚间报道，亚马逊云科技（AWS）首席 AI 与技术官马特 · 伍德认为，真正优秀的工程师应该更关注要解决的问题，而不是执着于某一种解决办法。“我们希望工程师 不要太迷恋自己提出的具体方案，而是把更多热情放在问题本身 。” 在他看来，优秀工程师不会只用 AI 写代码， 还会利用 AI 深入分析问题，并尝试不同的解决思路 。 过去，软件开发成本较高，团队集中资源实施一种解决方案",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "自动化"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "44fef926f636",
+      "title": "OpenAI CEO 奥尔特曼现身超跑聚会，身旁停着数百万美元柯尼塞格",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/355.htm",
+      "publishedAt": "2026-11-12T11:08:23.000Z",
+      "summary": "IT之家 11 月 12 日消息，萨姆 · 奥尔特曼（Sam Altman）不仅是硅谷科技圈的风云人物，也是一位不折不扣的汽车发烧友。 上周日，一名 TikTok 用户发布了一段视频，展示了一场颇为壮观的跑车聚会。视频中，大量跑车和豪华超跑停在一条蜿蜒的公路旁，车型从福特 Mustang、讴歌 NSX，到帕加尼 Utopia 和柯尼塞格 Regera。 而就在一辆银色雷克萨斯 LFA 旁边，站着一位意想不到的人物：OpenAI CEO ",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "c5fe532c77f1",
+      "title": "月之暗面徐天天：AI 迭代速度将继续加快",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/353.htm",
+      "publishedAt": "2026-11-12T11:07:44.000Z",
+      "summary": "IT之家 11 月 12 日消息，据新浪财经报道，在今日“以发展应变局”为主题的第十七届财新峰会上，月之暗面金融行业与生态负责人徐天天发表讲话。 针对“AI 迭代速度是否还会加快”问题，徐天天表示， 当前整个 AI 智能远远未达到上限 。 她指出，这背后有三条增长曲线：其一，预训练算力曲线；其二，后训练与推理端曲线，AI 已从快思考转变为慢思考，展现思考链路；其三，智能体设计曲线，智能体设计越来越复杂，将导致智能上限提高。这三条曲线都在",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "Agent"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "bff8951e7e68",
+      "title": "飞利浦弈威“27M4N8500V”27 英寸显示器发售：2K 360Hz QD-OLED，3499 元",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/350.htm",
+      "publishedAt": "2026-11-12T10:55:25.000Z",
+      "summary": "IT之家 11 月 12 日消息，飞利浦旗下弈威“27M4N8500V”27 英寸显示器现已在京东发售，定价为 3499 元。 京东 飞利浦“27M4N8500V”显示器 3499 元 直达链接 IT之家获悉，这款显示器搭载全新一代 AI Sensor 智能感应器，支持人体位移和环境光变化双重自适应；两枚快捷键可一键切换专属配置文件；采用石墨烯 + 铝制散热模组。 这款显示器搭载了一块 26.5 英寸 2K（2560×1440）360H",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "697f6fad51c8",
+      "title": "Anthropic 被曝为 Claude 加入限制：禁止生成宝可梦相关游戏素材",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/348.htm",
+      "publishedAt": "2026-11-12T10:45:49.000Z",
+      "summary": "IT之家 11 月 12 日消息，随着 AI 被广泛用于生成艺术作品、视频乃至电子游戏素材，相关技术的发展速度已经超过了版权限制措施的完善速度。如今，游戏行业也开始采取行动。最新迹象显示，Claude 的开发商 Anthropic 已经为其大语言模型加入限制，禁止用户利用宝可梦（Pokémon）相关知识产权生成游戏素材。 IT之家注意到，这一发现最初来自日本媒体 Automaton 收集的用户反馈。多名用户发现，当他们尝试使用 Clau",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "视频"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
     },
     {
       "id": "6b6043b9033e",
@@ -401,35 +685,35 @@
       }
     },
     {
-      "id": "081caafcc522",
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "publishedAt": "2026-11-11T22:31:06.000Z",
-      "summary": "WSJ报道称Nvidia正准备撤换CEO黄仁勋，HN评论超千条，属重大公司治理传闻。",
+      "id": "7450b7fe05d4",
+      "title": "科大讯飞星火语音基座大模型 SparkAudio 1.0 上线 API 服务，支持 99 种语言、202 种方言",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/386.htm",
+      "publishedAt": "2026-11-12T13:07:18.000Z",
+      "summary": "科大讯飞宣布 SparkAudio 1.0 语音基座大模型上线开放平台 API，支持 99 种语言、202 种方言及多项音频理解任务。",
       "actionSteps": [
-        "查找Nvidia官方声明或SEC披露文件核实",
-        "交叉比对多家权威媒体后续报道",
-        "在事实确认前避免据此做采购或投资决策"
+        "查阅讯飞开放平台 SparkAudio 1.0 官方文档",
+        "用自有方言或噪声音频做小样本测试",
+        "对比现有语音服务在价格与延迟上的差异"
       ],
       "tags": [
-        "Nvidia",
-        "公司治理",
-        "AI芯片",
-        "传闻"
+        "语音大模型",
+        "API",
+        "科大讯飞",
+        "多语言"
       ],
-      "trust": 25,
-      "opportunity": 20,
+      "trust": 60,
+      "opportunity": 65,
       "priority": 60,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-12T07:13:07.944Z",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若属实将影响AI芯片供应链与相关企业预期；但当前仅为媒体报道，普通人和企业不宜据此调整采购或投资。",
-        "riskNotes": "标题与摘要来自HN转载，未核实WSJ原文细节；此类重大人事消息须以Nvidia官方公告或权威媒体交叉验证，存在误传可能。"
+        "whyItMatters": "开发者可直接调用语音转写、翻译、方言识别与情感分析能力，降低自建语音管线的门槛，利好客服、会议记录等场景。",
+        "riskNotes": "信息来自 IT 之家转述厂商公告，未核实官方文档；语言与方言数量、准确率、定价和调用限制需以讯飞开放平台为准。"
       }
     },
     {
@@ -559,6 +843,70 @@
       }
     },
     {
+      "id": "dbdf4c7eada9",
+      "title": "黄仁勋辞职后，特朗普呼吁苹果执行董事长库克接任英伟达 CEO",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/439.htm",
+      "publishedAt": "2026-11-12T15:57:36.000Z",
+      "summary": "报道称黄仁勋离任英伟达 CEO 后，特朗普在 Truth Social 呼吁由苹果执行董事长库克接任英伟达 CEO。",
+      "actionSteps": [
+        "查证英伟达投资者关系页面的高管变动公告",
+        "核对特朗普 Truth Social 原文",
+        "在事实确认前避免据此调整持仓或采购计划"
+      ],
+      "tags": [
+        "英伟达",
+        "人事变动",
+        "传闻",
+        "半导体"
+      ],
+      "trust": 20,
+      "opportunity": 15,
+      "priority": 50,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "若高层变动属实，将影响英伟达战略与供应链预期；但总统公开喊话不具任命效力，市场反应需谨慎看待。",
+        "riskNotes": "该消息涉及重大人事，摘要未提供英伟达官方公告或一手来源，真实性存疑，须以公司公告和监管文件核实。"
+      }
+    },
+    {
+      "id": "a1a055bd040b",
+      "title": "广汽埃安 Ray 7 车型上市：华为 192 线激光雷达、搭文远知行 L4 级 Robotaxi 同源大模型，限时价 11.47 万元起",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/385.htm",
+      "publishedAt": "2026-11-12T13:05:37.000Z",
+      "summary": "广汽埃安 Ray 7 上市，配华为 192 线激光雷达与文远知行 L4 同源大模型，限时价 11.47 万元起。",
+      "actionSteps": [
+        "核对广汽官方配置表与限时价适用条件",
+        "确认激光雷达对应智驾功能是否需订阅",
+        "到店试驾并比较同级竞品落地价"
+      ],
+      "tags": [
+        "新能源汽车",
+        "智能驾驶",
+        "广汽埃安",
+        "定价"
+      ],
+      "trust": 55,
+      "opportunity": 45,
+      "priority": 45,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "中大型纯电轿车下探至 11 万元级并搭载高阶智驾硬件，可能加剧同级价格竞争，影响购车者选择。",
+        "riskNotes": "价格与配置来自媒体转述厂商发布，智驾实际能力、交付时间和限时条件需以官方配置表和门店为准。"
+      }
+    },
+    {
       "id": "997ee517f70b",
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "category": "industry",
@@ -622,129 +970,99 @@
       }
     },
     {
-      "id": "50d303e5bf84",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "category": "industry",
-      "source": "MIT Technology Review",
-      "sourceFeed": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "publishedAt": "2026-11-09T17:05:43.000Z",
-      "summary": "加州州参议员Scott Wiener赢得旧金山选区众议员席位，他曾主导先进AI风险立法。",
+      "id": "82c7456d0059",
+      "title": "Mac 选购指南 2026 冬季版",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/85735",
+      "publishedAt": "2026-11-12T06:42:04.000Z",
+      "summary": "少数派发布 2026 冬季 Mac 选购指南，针对内存与存储涨价背景给出换机建议。",
       "actionSteps": [
-        "跟踪Wiener在国会的AI相关提案",
-        "评估产品在美国市场的合规敞口",
-        "建立美国AI立法动态监测清单"
+        "核对苹果官网当前各机型配置与价格",
+        "按实际工作负载确定内存和存储下限",
+        "比较官方翻新与教育优惠等渠道后再下单"
       ],
       "tags": [
-        "AI监管",
-        "美国",
-        "立法"
-      ],
-      "trust": 60,
-      "opportunity": 35,
-      "priority": 45,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-09T18:49:51.431Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "美国AI监管推动者进入国会，可能影响未来联邦AI立法走向，出海AI企业需关注合规趋势。",
-        "riskNotes": "报道来自科技媒体，选举结果与后续立法议程需以官方选举与国会记录核实，短期无具体法案。"
-      }
-    },
-    {
-      "id": "fe84897fa929",
-      "title": "Bad ideas that aren't bad anymore",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
-      "publishedAt": "2026-11-12T03:18:13.000Z",
-      "summary": "HN热帖讨论过去被视为坏主意、如今因环境变化而可行的技术或商业思路，原文为个人博客观点。",
-      "actionSteps": [
-        "打开原文，列出文中提到的具体“坏主意”及其翻盘条件",
-        "对照自身业务，筛选1-2个可低成本验证的旧方案",
-        "设定小规模试验指标，再决定是否投入"
-      ],
-      "tags": [
-        "技术趋势",
-        "创新",
-        "HN"
-      ],
-      "trust": 35,
-      "opportunity": 45,
-      "priority": 35,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-12T07:13:07.944Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对普通人和企业而言，可借此复盘曾被否定的方案是否因成本、工具或市场变化而重新可行，避免错过低成本试错窗口。",
-        "riskNotes": "仅有标题和链接，未核实原文具体论点与案例；属个人观点，非行业数据或官方结论。"
-      }
-    },
-    {
-      "id": "9f0d8476fee2",
-      "title": "Lean Grimoire",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-      "publishedAt": "2026-11-12T02:36:48.000Z",
-      "summary": "陶哲轩博客发布Lean Grimoire相关文章，HN讨论热度中等，涉及形式化数学与Lean工具。",
-      "actionSteps": [
-        "阅读原文，确认Lean Grimoire的具体功能与定位",
-        "评估团队是否有形式化验证或数学建模需求",
-        "关注Lean社区后续讨论与工具成熟度"
-      ],
-      "tags": [
-        "形式化验证",
-        "Lean",
-        "数学",
-        "开源"
+        "Mac",
+        "选购指南",
+        "消费电子",
+        "涨价"
       ],
       "trust": 55,
-      "opportunity": 40,
-      "priority": 35,
+      "opportunity": 25,
+      "priority": 40,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-12T07:13:07.944Z",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若内容涉及形式化证明工具的新用法，可能降低数学与软件验证门槛，对教育、科研和高质量软件团队有参考价值。",
-        "riskNotes": "仅凭标题无法确认具体内容与适用范围；作者权威性高但文章观点不等于产品成熟度。"
+        "whyItMatters": "内存和存储涨价会推高 Mac 购机成本，消费者需权衡配置与预算，避免为未来需求过度付费。",
+        "riskNotes": "摘要未给出具体价格与配置数据，涨价幅度和机型建议需以苹果官网及授权渠道实时报价为准。"
       }
     },
     {
-      "id": "7d083511db3c",
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "id": "a02c01148949",
+      "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://github.com/tylertms/Stela",
-      "publishedAt": "2026-11-11T23:02:38.000Z",
-      "summary": "GitHub项目Stela尝试为x86-64 PC提供通用Apple Silicon兼容层，HN讨论活跃。",
+      "link": "https://fable52.games",
+      "publishedAt": "2026-11-12T15:30:01.000Z",
+      "summary": "Hacker News 上出现 Fable52.games，可在线游玩并查看 Fable 5.2 单文件 HTML 游戏，获 24 分、16 条评论。",
       "actionSteps": [
-        "查看仓库README确认支持范围与限制",
-        "在隔离环境中小规模测试兼容性",
-        "关注issue区活跃度与维护者背景"
+        "访问站点确认游戏内容与开源许可",
+        "查看评论区了解技术实现与争议",
+        "评估是否可用于自身原型或教学参考"
       ],
       "tags": [
+        "网页游戏",
+        "HTML",
         "开源",
-        "兼容层",
-        "Apple Silicon",
-        "开发工具"
+        "开发者工具"
       ],
-      "trust": 40,
-      "opportunity": 50,
-      "priority": 35,
+      "trust": 45,
+      "opportunity": 40,
+      "priority": 30,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-12T07:13:07.944Z",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若可行，可能让x86设备运行部分Apple Silicon软件，对开发者和老旧硬件再利用有潜在价值，但早期项目风险高。",
-        "riskNotes": "仅为GitHub仓库标题，未验证兼容范围、性能与法律合规性；开源项目成熟度未知。"
+        "whyItMatters": "单文件 HTML 游戏便于分发和二次修改，开发者可借此了解轻量网页游戏的技术实现与社区反馈。",
+        "riskNotes": "仅有标题和链接，未核实站点内容、授权协议与安全性；Hacker News 热度不代表产品质量。"
+      }
+    },
+    {
+      "id": "3e5c3e8eec45",
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://github.com/chocoford/ExcalidrawZ",
+      "publishedAt": "2026-11-12T15:25:52.000Z",
+      "summary": "GitHub 项目 ExcalidrawZ 提供 macOS/iOS 本地原生版 Excalidraw，Hacker News 获 19 分。",
+      "actionSteps": [
+        "查看仓库 README 与最近提交记录",
+        "确认是否支持导入导出 Excalidraw 格式",
+        "在非关键数据上试用后再决定是否采用"
+      ],
+      "tags": [
+        "Excalidraw",
+        "macOS",
+        "本地工具",
+        "开源"
+      ],
+      "trust": 45,
+      "opportunity": 35,
+      "priority": 30,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "偏好本地存储与离线绘图的用户可多一个白板工具选择，减少对浏览器和云端服务的依赖。",
+        "riskNotes": "仅凭仓库标题与链接，未核实功能完整度、数据格式兼容性和维护活跃度。"
       }
     },
     {
@@ -776,37 +1094,6 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "对高校学生和移动开发者是展示与就业渠道；对Apple而言是生态人才储备，对参赛者实际收益取决于赛事资源与后续孵化。",
         "riskNotes": "摘要来自媒体转述，未提供获奖项目、奖金或落地支持等细节；赛事主办方信息需以官方渠道核实，不宜高估其商业价值。"
-      }
-    },
-    {
-      "id": "e4c25a8d290e",
-      "title": "今年双十一，这些鼠标值得一看",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/111065",
-      "publishedAt": "2026-11-10T03:00:25.000Z",
-      "summary": "少数派发布双十一鼠标选购推荐，附带鼠标垫与耳机建议，属消费导购内容。",
-      "actionSteps": [
-        "对照自身手型与使用场景筛选候选型号",
-        "在多个平台比价并核对促销规则",
-        "查看真实用户评价后再下单"
-      ],
-      "tags": [
-        "消费电子",
-        "选购",
-        "双十一"
-      ],
-      "trust": 50,
-      "opportunity": 20,
-      "priority": 25,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-10T07:20:57.804Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "为个人消费者提供选购参考，对普通办公与游戏用户有实用价值，商业影响有限。",
-        "riskNotes": "导购类内容可能含推广或返利链接，价格与库存随促销变动，需以电商实际页面为准。"
       }
     },
     {
@@ -872,67 +1159,6 @@
       }
     },
     {
-      "id": "a1fe8bc6737e",
-      "title": "派评 | 近期值得关注的 App",
-      "category": "knowledge",
-      "source": "少数派",
-      "sourceFeed": "少数派",
-      "link": "https://sspai.com/post/118833",
-      "publishedAt": "2026-11-09T10:27:59.000Z",
-      "summary": "少数派发布近期值得关注的App派评，推荐若干实用正版软件。",
-      "actionSteps": [
-        "阅读原文获取具体应用清单",
-        "核查推荐应用的隐私权限与付费模式",
-        "按自身需求试用并对比替代方案"
-      ],
-      "tags": [
-        "应用推荐",
-        "效率工具"
-      ],
-      "trust": 40,
-      "opportunity": 25,
-      "priority": 20,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-09T18:49:51.431Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "为个人用户提供应用选型参考，可能影响小众效率工具的关注度与下载量。",
-        "riskNotes": "摘要仅为导流文案，未列具体应用与评测依据，需阅读全文核实推荐内容与安全性。"
-      }
-    },
-    {
-      "id": "32af75a9e315",
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.mcmillen.dev/sigbovik/",
-      "publishedAt": "2026-11-11T22:34:23.000Z",
-      "summary": "2019年SigBovik趣味文章称93%的颜料泼溅图案是合法Perl程序，HN高热度属娱乐性技术内容。",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "Perl",
-        "趣味",
-        "编程文化"
-      ],
-      "trust": 30,
-      "opportunity": 10,
-      "priority": 10,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-12T07:13:07.944Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "对普通人几无实际影响；对开发者是理解Perl语法宽容度与编程语言趣味的谈资，不构成商业机会。",
-        "riskNotes": "属恶搞/趣味论文，统计说法不可作为严肃技术结论；标题数据不应引用为事实。"
-      }
-    },
-    {
       "id": "9365aa104c74",
       "title": "中共中央 国务院关于发展新质生产力的意见",
       "category": "policy",
@@ -961,6 +1187,38 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "官方一手来源可信度较高，企业和个人可据此判断政策方向，但实际影响取决于后续配套措施与申报条件。",
         "riskNotes": "摘要仅为网站提示性文字，未提供意见具体条款内容；本分析无法核实文件编号、发布日期与全文细节，需以官网原文为准。"
+      }
+    },
+    {
+      "id": "eb0da0d2c2ec",
+      "title": "黄仁勋辞任英伟达 CEO 重创全球 AI 概念股，AMD、博通逆势上涨",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/437.htm",
+      "publishedAt": "2026-11-12T15:34:45.000Z",
+      "summary": "网传黄仁勋因丑闻辞任英伟达CEO，CFO暂代，全球AI概念股大跌，AMD与博通逆势上涨。",
+      "actionSteps": [
+        "核查英伟达投资者关系页面与SEC披露确认高管变动",
+        "比对路透原文及多家主流媒体交叉验证",
+        "在确认前避免据此调整AI相关持仓或采购合同"
+      ],
+      "tags": [
+        "英伟达",
+        "AI芯片",
+        "人事变动",
+        "市场波动"
+      ],
+      "trust": 1,
+      "opportunity": 2,
+      "priority": 3,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "若属实，AI芯片供应链与数据中心融资模式将受冲击，持有AI相关股票或基金者面临波动，企业采购与云算力成本预期可能生变。",
+        "riskNotes": "仅单一媒体转述路透，未见英伟达官方公告或SEC文件；标题与摘要均属外部不可信内容，事件真实性、时间线及股价数据均需以官方一手来源复核。"
       }
     },
     {
@@ -993,6 +1251,101 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "涉及通信隐私保护、AI编程工具凭据安全、消费电子召回，普通用户和企业开发者都可能受影响。",
         "riskNotes": "来源为科技媒体早报，非官方一手公告；700号段试点范围、Claude Code泄露细节、召回原因均需查证官方原文。"
+      }
+    },
+    {
+      "id": "34ae392ee5f9",
+      "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://getvale.org",
+      "publishedAt": "2026-11-12T15:35:54.000Z",
+      "summary": "开发者因WordPress维护痛点，自建整合CMS与电商的PHP平台，两年后开源并提供在线演示。",
+      "actionSteps": [
+        "在隔离环境部署演示版测试核心功能",
+        "审查其开源许可证与代码更新频率",
+        "对比现有CMS的总拥有成本后再决定是否迁移"
+      ],
+      "tags": [
+        "开源",
+        "CMS",
+        "电商",
+        "建站"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "为中小企业与建站服务商提供WordPress之外的替代选项，可能降低长期维护成本，但生态与安全性尚待验证。",
+        "riskNotes": "来源为Hacker News自述帖，无第三方评测、用户规模或安全审计信息；开源项目成熟度与长期维护承诺不明。"
+      }
+    },
+    {
+      "id": "9726e3940411",
+      "title": "新华三发布全新国产双路旗舰服务器 R4930 G7，单线程 IPC 性能提升超 15%",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/391.htm",
+      "publishedAt": "2026-11-12T13:26:54.000Z",
+      "summary": "新华三发布国产双路旗舰服务器R4930 G7，最高192核768线程，单线程IPC提升超15%。",
+      "actionSteps": [
+        "索取官方规格书核对核数与IPC测试条件",
+        "评估与现有业务负载的兼容性",
+        "对比同类国产与进口机型的总体成本"
+      ],
+      "tags": [
+        "新华三",
+        "国产服务器",
+        "信创",
+        "算力"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "国产算力硬件迭代利好政企与信创采购，可能降低对进口服务器依赖，影响数据中心建设与AI推理部署成本。",
+        "riskNotes": "数据来自厂商新闻稿，非独立测评；实际性能、功耗、价格与供货情况需以官方规格书和第三方测试复核。"
+      }
+    },
+    {
+      "id": "56aae23ea0ec",
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "category": "industry",
+      "source": "MIT Technology Review",
+      "sourceFeed": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "publishedAt": "2026-11-12T13:10:00.000Z",
+      "summary": "MIT科技评论每日简报，聚焦COP31气候谈判看点与长寿/抗衰老研究进展。",
+      "actionSteps": [
+        "查阅UNFCCC官网获取COP31正式议程与决议草案",
+        "跟踪长寿研究原始论文而非二手报道",
+        "评估气候政策对自身行业碳成本的潜在影响"
+      ],
+      "tags": [
+        "COP31",
+        "气候政策",
+        "长寿研究"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "气候谈判结果影响能源与碳合规成本；长寿研究进展关系医疗健康产业与个人健康消费方向。",
+        "riskNotes": "仅为 newsletter 摘要，未给出具体政策条款或研究数据；COP31 议程与结论需以UNFCCC官方文件为准。"
       }
     },
     {
@@ -1152,65 +1505,65 @@
       }
     },
     {
-      "id": "3d807e9b88a9",
-      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.getlazarus.org/forums/topic/17/",
-      "publishedAt": "2026-11-12T05:49:34.000Z",
-      "summary": "Hacker News用户分享正在开发的开源Linux弹珠模拟引擎项目，附论坛讨论链接。",
+      "id": "9f10977ee190",
+      "title": "Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/026/440.htm",
+      "publishedAt": "2026-11-12T16:05:20.000Z",
+      "summary": "Epic游戏商店本周免费送出《斗阵骑士Knightica》，下周预告《异形：隔离》等两款。",
       "actionSteps": [
-        "访问项目论坛页确认代码仓库与许可证",
-        "评估物理引擎实现是否可复用",
-        "若关注则订阅更新并观察维护频率"
+        "前往Epic官方商店确认领取期限",
+        "领取后核对库内游戏状态",
+        "关注下周免费名单官方公告"
       ],
       "tags": [
-        "开源",
-        "游戏引擎",
-        "物理模拟"
+        "Epic",
+        "免费游戏",
+        "消费"
       ],
-      "trust": 1,
-      "opportunity": 2,
+      "trust": 3,
+      "opportunity": 1,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-12T07:13:07.944Z",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对开源游戏引擎和物理模拟感兴趣的开发者可关注，但属个人项目，商业影响有限。",
-        "riskNotes": "仅论坛帖与少量评论，项目成熟度、许可证和维护活跃度均未验证。"
+        "whyItMatters": "玩家可零成本获取游戏，属消费福利信息，对普通用户仅有娱乐价值。",
+        "riskNotes": "领取时间与下周名单以Epic官方商店页面为准，摘要可能随活动调整而变化。"
       }
     },
     {
-      "id": "b8e0d80d83af",
-      "title": "Darling Development Update – Q4 2026",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-      "publishedAt": "2026-11-12T04:32:31.000Z",
-      "summary": "Darling项目发布2026年第四季度开发进展，该项目致力于在Linux上运行macOS二进制程序。",
+      "id": "351489b77bc4",
+      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+      "category": "knowledge",
+      "source": "少数派",
+      "sourceFeed": "少数派",
+      "link": "https://sspai.com/post/118366",
+      "publishedAt": "2026-11-12T08:37:25.000Z",
+      "summary": "作者记录夏末大阪旅行见闻与摄影，分享关西城市漫步体验与时节感受。",
       "actionSteps": [
-        "阅读官方更新日志确认新增兼容能力",
-        "在隔离环境测试目标macOS应用",
-        "评估与虚拟机等替代方案的取舍"
+        "参考其季节建议规划行程",
+        "交叉核对官方旅游与签证信息",
+        "结合实时汇率与机票价格做预算"
       ],
       "tags": [
-        "兼容层",
-        "Linux",
-        "macOS"
+        "旅行",
+        "大阪",
+        "生活"
       ],
       "trust": 2,
-      "opportunity": 2,
+      "opportunity": 1,
       "priority": 1,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-12T07:13:07.944Z",
+        "analyzedAt": "2026-11-12T16:49:23.118Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对跨平台兼容层和macOS应用迁移感兴趣的开发者有参考价值，但距生产可用仍有距离。",
-        "riskNotes": "为项目方自述进展，未提供独立性能测试；兼容范围和稳定性需自行验证。"
+        "whyItMatters": "为计划赴日旅行者提供季节选择与路线参考，属生活消费类内容，无直接商业影响。",
+        "riskNotes": "个人游记，主观体验为主，不含价格、签证或安全等可核实信息。"
       }
     },
     {
