@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:51:16.890Z",
+  "generatedAt": "2026-11-22T16:17:18.939Z",
   "status": "ok",
   "failedSources": [],
   "ai": {
@@ -7,7 +7,7 @@
     "status": "ok",
     "model": "deepseek-chat",
     "analyzed": 12,
-    "reused": 26
+    "reused": 27
   },
   "categories": {
     "ai": "AI 实操",
@@ -194,141 +194,121 @@
       "priority": 89
     },
     {
-      "id": "7893687ce631",
-      "title": "Data Processing Incidents on Inference Providers",
+      "id": "3c4f4993adca",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
       "category": "opportunity",
       "source": "Hacker News",
       "sourceFeed": "Hacker News",
-      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "publishedAt": "2026-11-22T02:14:14.000Z",
-      "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 89 # Comments: 32",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "78ed71768c6f",
-      "title": "The Mythology of Conscious AI",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "publishedAt": "2026-11-22T02:10:02.000Z",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 27 # Comments: 60",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "01af6e752b2c",
-      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/ItsNotRexed/Leonida",
-      "publishedAt": "2026-11-22T00:57:26.000Z",
-      "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 118 # Comments: 79",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "c4a226a4ddc4",
-      "title": "Sandwich Simulator",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://stulle.app/",
-      "publishedAt": "2026-11-22T00:07:59.000Z",
-      "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 134 # Comments: 52",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "cfc547c2291f",
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "publishedAt": "2026-11-21T22:09:58.000Z",
-      "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 98 # Comments: 9",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "522b28941c1f",
-      "title": "Advice for the next 100 Rust GUIs",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://linebender.org/blog/next-100-guis/",
-      "publishedAt": "2026-11-21T21:17:53.000Z",
-      "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 130 # Comments: 34",
-      "actionSteps": [
-        "定义付费客户和高频痛点",
-        "在 48 小时内做一个可售卖的最小方案",
-        "先访谈 5 位潜在客户，再决定是否投入"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 92,
-      "priority": 79
-    },
-    {
-      "id": "187dad26ad22",
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://tasklet.ai/careers",
-      "publishedAt": "2026-11-21T21:11:08.000Z",
-      "summary": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
+      "link": "https://github.com/gulivan/worker755",
+      "publishedAt": "2026-11-22T13:56:58.000Z",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 69 # Comments: 17",
       "actionSteps": [
         "定义付费客户和高频痛点",
         "画出触发器、数据、决策和输出四段流程",
         "先访谈 5 位潜在客户，再决定是否投入"
       ],
       "tags": [
-        "AI",
         "Agent"
       ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "2d7d190b4c02",
+      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "publishedAt": "2026-11-22T13:37:10.000Z",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html Comments URL: https://news.ycombinator.com/item?id=50599583 Points: 46 # Comments: 34",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "0ceef4b235ec",
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://simonwillison.net/2026/Nov/21/muru/",
+      "publishedAt": "2026-11-22T09:57:01.000Z",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 38 # Comments: 7",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "bf1d56f79e08",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "publishedAt": "2026-11-22T08:57:34.000Z",
+      "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 413 # Comments: 514",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "d26d10b87f22",
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "publishedAt": "2026-11-22T06:52:25.000Z",
+      "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 61 # Comments: 7",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
+      "trust": 58,
+      "opportunity": 92,
+      "priority": 79
+    },
+    {
+      "id": "3400785e0033",
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://github.com/EL4CTEO/fast-anything",
+      "publishedAt": "2026-11-22T04:10:09.000Z",
+      "summary": "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 106 # Comments: 85",
+      "actionSteps": [
+        "定义付费客户和高频痛点",
+        "在 48 小时内做一个可售卖的最小方案",
+        "先访谈 5 位潜在客户，再决定是否投入"
+      ],
+      "tags": [],
       "trust": 58,
       "opportunity": 92,
       "priority": 79
@@ -365,127 +345,50 @@
       }
     },
     {
-      "id": "e4a980d1fc61",
-      "title": "慧荣展示旗下首款 PCIe 6.0 SSD 主控 SM8466，预计 2028 年前出货",
-      "category": "industry",
+      "id": "804aeed613ab",
+      "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
+      "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/567.htm",
-      "publishedAt": "2026-11-22T05:19:04.000Z",
-      "summary": "IT之家 11 月 22 日消息，据科技媒体 Tom's Hardware 前天报道，慧荣科技近日在 SC26 大会展示旗下首款 PCIe 6.0 SSD 主控 MonTitan SM8466，该产品面向数据中心和超大规模存储应用，最终版已流片，预计 2027 年底-2028 年初出货。 IT之家从原报道获悉，该主控采用 PCIe 6.x x4 主机接口和 16 通道 NAND 架构，连续传输速度最高可达 28GB/s，随机性能最高可达",
+      "link": "https://www.ithome.com/1/030/713.htm",
+      "publishedAt": "2026-11-22T14:00:48.000Z",
+      "summary": "据金融时报报道，戴尔、HPE、联想、超微等AI服务器厂商在签约数月后、交付前大幅提价，最高涨幅达45%，成本压力向下游传导。",
       "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "76ef1eeb14d1",
-      "title": "鸿蒙智行问界新 M7 无伪装实车上路，新增银色车漆款",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/566.htm",
-      "publishedAt": "2026-11-22T04:54:11.000Z",
-      "summary": "IT之家 11 月 22 日消息，据博主 @Ark咔嚓一下 分享，鸿蒙智行问界新 M7 无伪装实车已现身街头， 新增银色车漆款 。 据IT之家此前报道，工信部今年 10 月发布的第 412 批《道路机动车辆生产企业及产品公告》新产品公示， 鸿蒙智行问界新款 M7 完成申报 。申报信息显示， 新车提供纯电 + 增程可选，拥有五 / 六座两种布局方案。 纯电版提供双电机四驱和单电机后驱版本可选，外观尺寸为 5080×1999×1780mm，",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "6c6ce02cfcad",
-      "title": "长城谭健确认魏牌二代蓝山本月上市，预售价 28.98 万起",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/565.htm",
-      "publishedAt": "2026-11-22T04:47:36.000Z",
-      "summary": "IT之家 11 月 22 日消息，长城汽车魏牌执行副总经理谭健今日在微博表示， 魏牌第二代蓝山将在 11 月上市 。 谭健表示，他今天已去工厂查看状况，车辆生产节奏在快速推进，目标是更多的储备车辆，结合下单节奏来实现部分版型的上市即交付。 据IT之家此前报道， 魏牌二代蓝山 11 月 9 日开启预售 ，提供 5 座、6 座合计 4 款配置，价格区间为 28.98 万-32.98 万元。 五座：登峰版 28.98 万元，巅峰版 30.98",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
+        "核查自身AI服务器采购合同中的价格调整与不可抗力条款",
+        "向供应商书面确认交付时间与最终报价",
+        "评估替代供应商或延后非紧急扩容的可行性"
       ],
       "tags": [
-        "AI"
+        "AI服务器",
+        "涨价",
+        "供应链",
+        "采购风险"
       ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "9086d4fefa02",
-      "title": "33.99 万元起：全新雷克萨斯 ES 纯电版上市",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/564.htm",
-      "publishedAt": "2026-11-22T04:29:56.000Z",
-      "summary": "IT之家 11 月 22 日消息，全新雷克萨斯 ES 纯电版今日正式上市，提供 2 种车型， 定价 33.99 万元起。该车采用宁德时代三元锂离子电芯 ，具备“交互式模拟手动换挡系统 IMD”。现阶段订车可享 5 年 0 息、8 年 / 16 万公里内电池免费保修、10 年三电保修、赠送充电桩等权益。 IT之家附该车各版本定价如下： ES 350e 长续航版：33.99 万元起 ES 500e 高性能版：35.99 万元起 外观方面，全",
-      "actionSteps": [
-        "找到两个独立数据源交叉验证",
-        "拆分受益与受损环节",
-        "跟踪接下来 30 天的关键指标"
-      ],
-      "tags": [],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "329b54ad7ed6",
-      "title": "Together.ai: Prompt Leakage for Requests",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "publishedAt": "2026-11-22T03:07:27.000Z",
-      "summary": "Together.ai 披露2026年6-7月发生提示词泄露安全事件，HN讨论热度有限，细节需查原文。",
-      "actionSteps": [
-        "打开原文确认受影响接口、时间窗与是否涉及自有账号",
-        "排查同期调用日志与提示词中是否含密钥或敏感信息",
-        "评估是否需要轮换密钥并调整提示词分层设计"
-      ],
-      "tags": [
-        "AI安全",
-        "API风险",
-        "提示词"
-      ],
-      "trust": 60,
+      "trust": 45,
       "opportunity": 35,
       "priority": 70,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "使用第三方大模型API的企业需评估提示词与系统指令外泄风险，可能暴露业务逻辑或敏感配置。",
-        "riskNotes": "仅有标题与链接，泄露范围、影响客户数、修复状态均未核实；来源为厂商博客，属一手但内容未读。"
+        "whyItMatters": "自建数据中心的企业面临预算超支和交付不确定性；已签固定价合同的买方可能被迫接受调价或延期，采购谈判需重估价格条款与违约风险。",
+        "riskNotes": "消息源为金融时报转述IT之家，属二手报道，未获厂商官方确认；具体涨幅、涉及客户与合同条款均未披露，需以厂商公告或一手采访核实。"
       }
     },
     {
-      "id": "20f50de5461f",
-      "title": "试题用于大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
-      "category": "ai",
+      "id": "bf806ba79814",
+      "title": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路",
+      "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/540.htm",
-      "publishedAt": "2026-11-22T01:42:10.000Z",
-      "summary": "IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。 声明称，近期部分人工智能大模型产品及其运营、推广主体宣称其 大模型经过了中医类别医师资格考试试题测试 等事宜。 声明称，中心从未以任何形式向社会公开、发布或出售中医类别医师资格考试历年试题（含真题、原题）、参考答案及相关考试资料，亦未授权任何单位或个人公开、发",
+      "link": "https://www.ithome.com/1/030/708.htm",
+      "publishedAt": "2026-11-22T12:56:39.000Z",
+      "summary": "IT之家 11 月 22 日消息，科技初创公司 Nomadic 本周展示了旗下的 NOMAD 无人机，同时宣布完成 600 万美元 （IT之家注：现汇率约合 4,016 万元人民币） 种子轮融资。这款四旋翼无人机有一项与其名字相呼应的独特能力：几乎可以一直飞行，无需返回基地。NOMAD 无人机能够停靠在高压输电线上，直接从线路获取电能并为自身充电，随后继续执行下一项任务。 此前外界鲜有关于 NOMAD 无人机的消息。Nomadic 表示",
       "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
+        "找到两个独立数据源交叉验证",
+        "拆分受益与受损环节",
+        "跟踪接下来 30 天的关键指标"
       ],
       "tags": [],
       "trust": 58,
@@ -493,99 +396,14 @@
       "priority": 70
     },
     {
-      "id": "5b4cbe540e4b",
-      "title": "李小龙预热华为史上最薄智能手表 WATCH Air：对男性穿西装衬衣非常友好",
+      "id": "76692c7ea699",
+      "title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/534.htm",
-      "publishedAt": "2026-11-22T01:10:17.000Z",
-      "summary": "IT之家 11 月 22 日消息，华为史上最薄智能手表 —— 华为WATCH Air 将于 11 月 24 日 14:30 登场。该产品拥有 6.9 毫米机身，号称“薄，且强”。 11 月 20 日，华为终端 BG CTO 李小龙对这款新品进行了预热。他表示，这款表又轻又薄，佩戴舒适性非常好，尤其对男性穿西装衬衣非常友好， 不会和衬衣袖子干涉 。他还提到：“因为非常轻，运动时佩戴也非常稳定， 心率数据准确性很好 ，是一个全能型选手。” ",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "e03b75c54d22",
-      "title": "搜狐张朝阳回应“被证监会出具警示函”：此张朝阳不是我",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/533.htm",
-      "publishedAt": "2026-11-22T00:59:23.000Z",
-      "summary": "IT之家 11 月 22 日消息，11 月 20 日，北京证监局披露的一则对“张朝阳”出具警示函的信息在网络传播，部分舆论误将其与搜狐创始人、董事局主席兼首席执行官张朝阳关联。 IT之家注意到，张朝阳本人在搜狐视频关注流回应：“此张朝阳不是我”“ 首先我并没有收到警示函，其次我也没有从事证券咨询业啊 ”。同时，他还吐槽：“看来 AI 还是不行，区别不了同名同姓的人。” 公开资料显示， 张朝阳于 1964 年 10 月 31 日出生于陕西",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI",
-        "视频"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "e749b41b2305",
-      "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/524.htm",
-      "publishedAt": "2026-11-22T00:04:47.000Z",
-      "summary": "IT之家 11 月 22 日消息，据科技媒体 Tom's Hardware 昨天报道，群联在 SC26 大会中展示两款企业级固态硬盘，专为 AI 场景设计。其中一款甚至带有 NPU 和 64GB 内存，可以直接运行 AI 模型。 IT之家从原报道获悉， 其中一款产品 SSD 内置 NPU（神经网络引擎） 、 64GB 内存 ，带宽达到 130GB/s，支持直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cp",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "ef20b7faeabe",
-      "title": "OSTA 新特性放开：华为鸿蒙 HarmonyOS 7 系统更多机型小艺助理上线“小艺星芒”音色",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/519.htm",
-      "publishedAt": "2026-11-21T23:35:28.000Z",
-      "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫开通微博， 透露最受欢迎的 16G 版本已经在全平台售罄 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 据介绍，华为星芒 OSTA O1 Pro 首搭 HarmonyOS 7 AI 先锋版系统，支持全新 AI 交互、",
-      "actionSteps": [
-        "先确定一个真实业务场景",
-        "用最小样例跑通工具链",
-        "记录成本、耗时和可复用模板"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "trust": 58,
-      "opportunity": 67,
-      "priority": 70
-    },
-    {
-      "id": "09f062a102f7",
-      "title": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/518.htm",
-      "publishedAt": "2026-11-21T23:31:46.000Z",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态 博主 @数码闲聊站 21 日下午爆料称，当下手机市场“阔形态”升级势不可挡：除了华为，其他家也考虑在正代旗舰线加入阔形态，与常规直板机双线并行。>> 查看详情 2. “几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家 1",
+      "link": "https://www.ithome.com/1/030/699.htm",
+      "publishedAt": "2026-11-22T11:24:43.000Z",
+      "summary": "IT之家 11 月 22 日消息，开发者 WollyMonjac 完成了一项颇具复古科技色彩的项目：将一个语言模型塞进软盘，让运行 DOS 系统的 486DX 和 Pentium 老电脑也能使用 AI。 不过需要说明的是，WollyMonjac 开发的 Tiny 2.1 并不是大型语言模型（LLM）。尽管它采用了与大型模型相同的 Transformer 架构，但开发者对它的定位相当朴素：一个使用 Turbo C 2.0 编写的微型问答 ",
       "actionSteps": [
         "先确定一个真实业务场景",
         "用最小样例跑通工具链",
@@ -594,6 +412,112 @@
       "tags": [
         "AI",
         "机器人"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "452aeb9739ad",
+      "title": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/030/696.htm",
+      "publishedAt": "2026-11-22T11:13:03.000Z",
+      "summary": "IT之家 11 月 22 日消息，纽约音乐厅 Domino 计划于明年开业，试图重新唤起威廉斯堡（Williamsburg）曾经的复古嬉皮士文化氛围。然而，其官方网站上出现的一系列 AI 生成错误，却充满了 2026 年的时代特色。 据IT之家了解，Domino 由 Mumford & Sons 乐队成员、本 · 洛维特（Ben Lovett）创立。网站原本希望通过 The Strokes 乐队、仓库派对等元素，重现威廉斯堡昔日的独立音",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "710028a7066f",
+      "title": "闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/030/692.htm",
+      "publishedAt": "2026-11-22T10:54:53.000Z",
+      "summary": "IT之家 11 月 22 日消息，闲鱼表示，2026 年第二季度平台延续强劲增长势头， 日均活跃用户同比增长 23%，订单量同比增长 29% 。平台在 AI 加持及持续创新服务下，令个人用户、小微卖家的交易更加频繁便捷。 闲鱼表示，今年以来，AI 技术在平台交易全链路的落地补齐了普通用户的经营短板，成为拉动本季度订单量增长的核心动力。财报披露，智能定价、自动生成商品描述及精准买家匹配等 AI 功能，大幅降低了交易门槛。 阿里巴巴集团副总",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "503f2750b439",
+      "title": "小鹏 G9L 在泰国、印尼上市，售价折合人民币超 47 万元",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/030/687.htm",
+      "publishedAt": "2026-11-22T10:33:14.000Z",
+      "summary": "IT之家 11 月 22 日消息，据小鹏集团消息，小鹏近日在泰国曼谷、印度尼西亚雅加达同步发布小鹏 G9L，两地售价分别折合人民币约 47.15 万元和 47.6 万元。这是小鹏首次在两个东南亚核心市场同步推出同一款旗舰车型。 在智能驾驶方面，小鹏 G9L 搭载图灵 AI 芯片，并具备全栈智能驾驶技术能力，为应对雅加达城市拥堵、曼谷复杂混合交通等场景提供硬件基础，持续降低用户日常驾驶负担。 在能源补给方面，全域 800V 高压平台与 5",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "fd3befb3d520",
+      "title": "报告：美国会计行业 AI 采用率高，但技术整合成熟度不足",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/030/679.htm",
+      "publishedAt": "2026-11-22T09:58:03.000Z",
+      "summary": "IT之家 11 月 22 日消息，会计师正在成为观察人工智能如何改变职场的一个意想不到的样本。 据IT之家了解，由于会计工作具有流程固定、数据密集等特点，会计事务所一直是较早采用人工智能技术的行业之一，也经常被列为最容易受到 AI 冲击、面临岗位替代风险的行业。 不过，一份最新报告显示，会计行业还反映出 AI 发展中的另一个重要问题： 技术宣传所描绘的前景，与企业实际应用情况之间存在明显差距。 周三，沃尔特斯克鲁威尔税务与会计（Wolt",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI",
+        "Agent"
+      ],
+      "trust": 58,
+      "opportunity": 67,
+      "priority": 70
+    },
+    {
+      "id": "47eace5709a1",
+      "title": "菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/030/677.htm",
+      "publishedAt": "2026-11-22T09:35:58.000Z",
+      "summary": "IT之家 11 月 22 日消息，当地时间 11 月 20 日，Anthropic 数学家莱文特 · 阿尔珀格（Levent Alpöge）宣布，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。 据IT之家此前报道，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，以 Lean 库形式给出的黎曼猜想证明已经通过核验，该证明的代码约 1700 万行。 据每日经济新闻报道，2022 年",
+      "actionSteps": [
+        "先确定一个真实业务场景",
+        "用最小样例跑通工具链",
+        "记录成本、耗时和可复用模板"
+      ],
+      "tags": [
+        "AI"
       ],
       "trust": 58,
       "opportunity": 67,
@@ -776,65 +700,35 @@
       }
     },
     {
-      "id": "05e625c47c85",
-      "title": "特斯拉在韩连续 9 个月位居进口车销量第一，大多产自上海超级工厂",
+      "id": "32c75de8dfdd",
+      "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
       "category": "industry",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/569.htm",
-      "publishedAt": "2026-11-22T05:46:43.000Z",
-      "summary": "特斯拉在韩连续9个月居进口车销量第一，多产自上海工厂；韩国对华汽车贸易逆差创历史新高。",
+      "link": "https://www.ithome.com/1/030/711.htm",
+      "publishedAt": "2026-11-22T13:23:38.000Z",
+      "summary": "MiniMax称其内部模型对现代密码方案开展自动化密码分析，发现多处未知算法缺陷，将部分理论攻击推进至秒级至分钟级可执行破解。",
       "actionSteps": [
-        "查韩国贸易协会原始月度数据确认口径",
-        "跟踪上海工厂出口车型与关税政策变化",
-        "评估对韩汽车零部件与售后市场的连带影响"
+        "关注官方技术报告与后续学术复现结果",
+        "梳理自身系统所用密码算法与标准版本",
+        "对高风险系统安排独立安全评估"
       ],
       "tags": [
-        "特斯拉",
-        "汽车出口",
-        "中韩贸易"
-      ],
-      "trust": 55,
-      "opportunity": 50,
-      "priority": 55,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "反映中国电动车出口竞争力上升，影响韩国经销商、零部件与二手车市场格局。",
-        "riskNotes": "数据来自韩联社转述贸易协会，具体统计口径与逆差构成未核实；单一来源。"
-      }
-    },
-    {
-      "id": "9212cb3d4e2e",
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "publishedAt": "2026-11-22T04:04:56.000Z",
-      "summary": "报道称丰田、日产、本田将推动零部件标准化以降低成本，HN讨论热度较高。",
-      "actionSteps": [
-        "查阅Car and Driver原文确认细节",
-        "核实三家车企官方声明",
-        "评估对零部件供应链的潜在影响"
-      ],
-      "tags": [
-        "汽车",
-        "供应链",
-        "日企"
+        "密码学",
+        "AI安全",
+        "MiniMax",
+        "研究进展"
       ],
       "trust": 40,
-      "opportunity": 60,
+      "opportunity": 45,
       "priority": 55,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若落地，零部件通用化可能降低维修与采购成本，利好中小供应商与售后市场，但需看具体品类与时间表。",
-        "riskNotes": "仅标题与链接，无原文细节；标准化范围、是否含电动化部件、是否官方确认均未核实，存在标题夸大可能。"
+        "whyItMatters": "若属实，将加速AI辅助密码学攻防研究，对依赖相关密码方案的企业安全评估和合规选型形成压力，也提示AI在安全研究中的双刃剑效应。",
+        "riskNotes": "信息来自MiniMax单方发布，未经第三方复现或同行评审；'攻破NIST竞赛方案'的具体范围、条件与影响未明，不应据此判断现有生产系统已被攻破。"
       }
     },
     {
@@ -901,158 +795,35 @@
       }
     },
     {
-      "id": "fd496f6e3e16",
-      "title": "无需游戏引擎！马斯克称特斯拉 FSD v15 实景视图仅动用 AI4 芯片一个 TRIP 加速器一半算力",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/563.htm",
-      "publishedAt": "2026-11-22T04:18:50.000Z",
-      "summary": "特斯拉在美国推出FSD v15及实景视图，马斯克称仅用AI4芯片一个TRIP加速器一半算力，博主称其以3D高斯重建弥补硬件劣势。",
+      "id": "91dd82d56d30",
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+      "publishedAt": "2026-11-22T15:16:02.000Z",
+      "summary": "Backblaze更新隐私政策后，用户担忧个人数据被出售或共享，在社区引发讨论。",
       "actionSteps": [
-        "查阅特斯拉官方发布与FSD v15更新说明",
-        "跟踪第三方实测与拆解报告",
-        "对比同类车企芯片算力与算法路线"
+        "查阅Backblaze更新后的隐私政策原文",
+        "评估所存数据的敏感级别与合规要求",
+        "必要时启用加密或迁移至替代备份方案"
       ],
       "tags": [
-        "特斯拉",
-        "自动驾驶",
-        "AI芯片"
+        "数据隐私",
+        "Backblaze",
+        "政策变更",
+        "云备份"
       ],
-      "trust": 45,
-      "opportunity": 55,
+      "trust": 35,
+      "opportunity": 25,
       "priority": 50,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若属实，说明算法优化可降低对高算力芯片的依赖，利好智能驾驶软件与视觉重建方向；但普通用户短期内难以直接受益。",
-        "riskNotes": "核心性能说法来自马斯克与博主转述，非第三方实测；IT之家为二手报道，特斯拉官方技术细节未核实，算力对比缺乏基准。"
-      }
-    },
-    {
-      "id": "094de9a22cd5",
-      "title": "韩国高考 AI 作弊事件发酵，教育部长引咎辞职",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/558.htm",
-      "publishedAt": "2026-11-22T03:21:10.000Z",
-      "summary": "韩国高考期间发生多起利用AI作弊事件，教育部长崔教振辞职，总统呼吁全面检讨高考制度。",
-      "actionSteps": [
-        "查阅韩国教育部官方通报",
-        "跟踪反作弊技术采购动向",
-        "评估对教育科技企业的合规要求"
-      ],
-      "tags": [
-        "AI作弊",
-        "教育",
-        "韩国"
-      ],
-      "trust": 55,
-      "opportunity": 50,
-      "priority": 50,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "显示AI工具对考试公平的冲击，可能推动各国考场反作弊技术与规则升级，教育科技与监考服务需求或上升。",
-        "riskNotes": "信息源自韩联社转述，辞职与作弊事件的因果及具体措施细节需以韩国官方通报为准；制度调整尚未明确。"
-      }
-    },
-    {
-      "id": "e68226b85436",
-      "title": "OSTA O1 Pro 为何搭载麒麟 9030S？华为星芒刘赫总结三大原因，价格考虑也是关键",
-      "category": "ai",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/548.htm",
-      "publishedAt": "2026-11-22T02:33:08.000Z",
-      "summary": "华为星芒OSTA O1 Pro发布，4999元起，搭载麒麟9030S，16G版本售罄，总经理解释选芯三原因。",
-      "actionSteps": [
-        "核对华为官方发布页的价格与配置",
-        "关注第三方实测的AI功能与续航表现",
-        "评估鸿蒙生态应用兼容性再决定采购"
-      ],
-      "tags": [
-        "华为",
-        "鸿蒙",
-        "国产芯片"
-      ],
-      "trust": 55,
-      "opportunity": 45,
-      "priority": 50,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "关注鸿蒙AI手机供应链与国产芯片走向的消费者和企业可跟踪实际体验与生态适配情况。",
-        "riskNotes": "报道为媒体转述厂商说法，销量售罄与国补价格需以官方渠道核实；芯片性能数据未给出。"
-      }
-    },
-    {
-      "id": "9459ab2e9bb7",
-      "title": "我国自主三代核电“华龙一号”再传捷报，漳州核电 4 号机组三台蒸汽发生器全部精准吊装就位",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/570.htm",
-      "publishedAt": "2026-11-22T05:54:35.000Z",
-      "summary": "华龙一号漳州核电4号机组三台蒸汽发生器全部吊装就位，该设备承担产汽、放射性包容与余热导出功能。",
-      "actionSteps": [
-        "跟踪漳州核电后续并网节点",
-        "查阅核电装备供应商公开信息",
-        "核实华龙一号批量化建设规划"
-      ],
-      "tags": [
-        "核电",
-        "华龙一号",
-        "能源"
-      ],
-      "trust": 70,
-      "opportunity": 45,
-      "priority": 45,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "反映自主三代核电建设推进，利好核电装备与工程服务链；对普通人意味着长期电力供应与低碳结构改善。",
-        "riskNotes": "源自新华社转述，属工程节点而非并网发电；无投资或政策条款，进度与成本数据未披露。"
-      }
-    },
-    {
-      "id": "5487db1c3ade",
-      "title": "智能手环销量全球 No.1：小米手环官宣累计出货超 2.4 亿只，连续 35 个季度拿下第一",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/568.htm",
-      "publishedAt": "2026-11-22T05:24:52.000Z",
-      "summary": "小米宣布智能手环全球累计出货超2.4亿只，Omdia称连续35个季度基础手环出货第一。",
-      "actionSteps": [
-        "查Omdia原始季度报告核实排名",
-        "评估手环配件与表带等周边供货机会",
-        "关注健康监测功能迭代对换机周期的影响"
-      ],
-      "tags": [
-        "小米",
-        "智能穿戴",
-        "出货量"
-      ],
-      "trust": 55,
-      "opportunity": 45,
-      "priority": 45,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "显示基础穿戴市场集中度高，影响配件厂商、渠道商与健康数据生态参与者。",
-        "riskNotes": "数据由厂商引用Omdia，未提供原始报告；出货量不等于销量或活跃用户。"
+        "whyItMatters": "使用Backblaze备份服务的企业和个人需重新评估数据隐私风险，尤其涉及敏感数据存储时的合规义务。",
+        "riskNotes": "报道来自Neowin转述用户担忧，政策具体变更条款未核实；是否实际出售数据尚无证据，需查阅官方政策原文。"
       }
     },
     {
@@ -1087,65 +858,35 @@
       }
     },
     {
-      "id": "05d6059ae0d5",
-      "title": "神舟二十三乘组整理“太空家园”，提前切换“六人模式”",
-      "category": "industry",
-      "source": "IT 之家",
-      "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/572.htm",
-      "publishedAt": "2026-11-22T06:08:30.000Z",
-      "summary": "神舟二十四号船箭组合体已转运至发射区，神舟二十三乘组整理太空家园，空间站将从3人在轨切换为6人模式。",
-      "actionSteps": [
-        "关注官方发射窗口公告",
-        "跟踪航天产业链相关公开信息",
-        "核实空间站后续任务安排"
-      ],
-      "tags": [
-        "航天",
-        "空间站",
-        "中国"
-      ],
-      "trust": 70,
-      "opportunity": 35,
-      "priority": 40,
-      "aiAnalysis": {
-        "version": 1,
-        "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
-        "basis": "headline_and_feed_summary",
-        "whyItMatters": "体现中国载人航天常态化轮换能力，对航天产业链与科普教育有正向信号，对普通人日常影响有限。",
-        "riskNotes": "信息源自央视转述，发射时间仅称近日择机，具体窗口未定；无商业或政策条款细节。"
-      }
-    },
-    {
-      "id": "cb1c33c89907",
-      "title": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确",
+      "id": "52b3ccba0623",
+      "title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
       "category": "ai",
       "source": "IT 之家",
       "sourceFeed": "IT 之家",
-      "link": "https://www.ithome.com/1/030/547.htm",
-      "publishedAt": "2026-11-22T02:31:50.000Z",
-      "summary": "Lean与Mathlib社区称阿尔波格以约1700万行Lean代码给出的黎曼猜想证明通过核验，引发关注。",
+      "link": "https://www.ithome.com/1/030/702.htm",
+      "publishedAt": "2026-11-22T11:44:18.000Z",
+      "summary": "B站出现大量以'大肥鱼''小飞鲸'为昵称的AI智能体账号在评论区活跃，官方发布问卷征集治理意见，将据反馈推进治理。",
       "actionSteps": [
-        "查阅Lean与Mathlib社区原始声明",
-        "确认是否有同行评审或数学界正式回应",
-        "谨慎对待相关AI能力宣传，不据此做投资决策"
+        "查阅B站官方问卷并提交使用体验反馈",
+        "梳理自身在平台上的AI账号运营方式",
+        "关注官方后续治理公告再调整策略"
       ],
       "tags": [
-        "AI数学",
-        "形式化证明",
-        "科研"
+        "B站",
+        "AI智能体",
+        "平台治理",
+        "内容生态"
       ],
-      "trust": 40,
+      "trust": 55,
       "opportunity": 30,
       "priority": 40,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "若成立是数学与AI辅助证明的重大事件，但普通人和企业短期无直接商业影响。",
-        "riskNotes": "报道为媒体转述社区声明，证明是否被数学界正式认可、作者与Anthropic关系均需核实；标题含夸大表述。"
+        "whyItMatters": "平台内容生态与AI账号治理规则可能收紧，运营AI账号的创作者和营销方需关注合规边界；普通用户可参与意见反馈影响规则走向。",
+        "riskNotes": "目前仅为意见征询，尚无具体治理规则或处罚条款；问卷结果与后续政策未定，不宜提前假设监管力度。"
       }
     },
     {
@@ -1211,34 +952,35 @@
       }
     },
     {
-      "id": "4ddc3fa4dc6d",
-      "title": "The Most Popular Car Colors in America",
-      "category": "opportunity",
-      "source": "Hacker News",
-      "sourceFeed": "Hacker News",
-      "link": "https://www.iseecars.com/most-popular-car-colors-study",
-      "publishedAt": "2026-11-22T02:47:18.000Z",
-      "summary": "iSeeCars发布美国最受欢迎汽车颜色研究，HN讨论较活跃，具体结论需查原文。",
+      "id": "7ce0f6b364db",
+      "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/030/710.htm",
+      "publishedAt": "2026-11-22T13:17:56.000Z",
+      "summary": "苹果首款折叠屏iPhone Duo上市约一个月后，拼多多百亿补贴降价千元，到手14499元起，首销期销量据称接近20万台。",
       "actionSteps": [
-        "阅读原文确认样本与年份",
-        "对比本地市场实际成交颜色分布",
-        "将结论用于采购或定价时做小范围验证"
+        "对比多平台实际到手价与售后政策",
+        "核实补贴是否含以旧换新等附加条件",
+        "评估折叠屏维修与保值成本后再决策"
       ],
       "tags": [
-        "汽车",
-        "消费趋势",
-        "二手车"
+        "苹果",
+        "折叠屏",
+        "电商补贴",
+        "消费电子"
       ],
-      "trust": 45,
+      "trust": 50,
       "opportunity": 40,
       "priority": 35,
       "aiAnalysis": {
         "version": 1,
         "model": "deepseek-chat",
-        "analyzedAt": "2026-11-22T06:51:16.889Z",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
         "basis": "headline_and_feed_summary",
-        "whyItMatters": "对二手车残值、车企配色策略和汽车美容改装生意有参考价值。",
-        "riskNotes": "仅标题与链接，样本量、统计方法未核实；属商业研究机构数据，非官方统计。"
+        "whyItMatters": "早期尝鲜者面临较快贬值，观望消费者可获更低入手价；对渠道商和配件厂商意味着折叠屏生态需求信号，但需警惕补贴可持续性。",
+        "riskNotes": "销量数据为'有消息称'，未经苹果官方确认；补贴价格随平台活动波动，非长期定价，购买前需核实实际成交条件。"
       }
     },
     {
@@ -1396,6 +1138,132 @@
       }
     },
     {
+      "id": "2d5462888352",
+      "title": "A better internet for everyone is possible. Today",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://osw-alliance.net/en/",
+      "publishedAt": "2026-11-22T15:24:32.000Z",
+      "summary": "Hacker News上一条关于OSW联盟'让互联网对所有人更好'的文章链接，讨论热度较低，仅9分4评论。",
+      "actionSteps": [
+        "访问原文了解联盟主张与成员构成",
+        "判断是否与自身业务或合规相关",
+        "如相关再跟踪后续动态"
+      ],
+      "tags": [
+        "互联网治理",
+        "社区讨论",
+        "低热度"
+      ],
+      "trust": 20,
+      "opportunity": 15,
+      "priority": 15,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对普通用户和企业暂无直接可操作影响，属理念性倡议讨论，需进一步了解联盟背景与具体主张。",
+        "riskNotes": "仅有标题和链接，无实质内容摘要；来源为社区讨论，权威性与影响力均不足，不宜作为决策依据。"
+      }
+    },
+    {
+      "id": "2d01b511af9d",
+      "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
+      "publishedAt": "2026-11-22T15:54:24.000Z",
+      "summary": "挪威拟将16岁以下社交媒体禁令扩展至网络游戏与即时通讯应用，报道来自Euronews。",
+      "actionSteps": [
+        "查阅挪威政府官方立法提案原文",
+        "梳理产品在挪威的用户年龄结构",
+        "评估年龄验证与家长同意机制成本"
+      ],
+      "tags": [
+        "监管",
+        "未成年人",
+        "游戏",
+        "出海合规"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "若落地，游戏与通讯类产品在挪威需做年龄验证与合规改造，影响出海企业的产品设计与用户增长策略。",
+        "riskNotes": "目前为拟议扩展，非最终立法；来源为媒体转述，需以挪威政府官方文本确认适用范围与生效时间。"
+      }
+    },
+    {
+      "id": "8f9895375318",
+      "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/030/717.htm",
+      "publishedAt": "2026-11-22T15:15:55.000Z",
+      "summary": "美初创公司Architect Labs称其AI系统自主设计出全新指令集CPU架构Frostbite，测试中每瓦性能达传统处理器4.59倍。",
+      "actionSteps": [
+        "查找Architect Labs原始研究博客与测试方法",
+        "核对对比处理器的型号与工艺节点",
+        "关注是否有第三方复现或流片进展"
+      ],
+      "tags": [
+        "AI芯片",
+        "CPU架构",
+        "能效"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "若属实，AI辅助芯片设计可能降低定制芯片门槛，影响云计算与边缘计算能效成本；但当前仅为研究博客自述，尚无第三方硅验证。",
+        "riskNotes": "来源为IT之家转述企业研究博客，非同行评审或流片数据；4.59倍对比基准、测试条件未披露，需复核原始论文与硅验证结果。"
+      }
+    },
+    {
+      "id": "ab7d951608d3",
+      "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
+      "category": "ai",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/030/715.htm",
+      "publishedAt": "2026-11-22T14:24:17.000Z",
+      "summary": "甲骨文称已筹集履行与OpenAI合同全部所需资金，得州Abilene园区接近完工并用于GPT-6 Astra训练。",
+      "actionSteps": [
+        "查阅甲骨文官方声明与财报披露",
+        "跟踪Abilene园区电力与建设进度",
+        "关注数据中心供应链相关公开信息"
+      ],
+      "tags": [
+        "AI基建",
+        "甲骨文",
+        "OpenAI",
+        "数据中心"
+      ],
+      "trust": 2,
+      "opportunity": 3,
+      "priority": 2,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "反映AI算力基建资本投入规模，影响云服务、电力与数据中心供应链；对普通用户意味着AI模型迭代可能加速。",
+        "riskNotes": "资金与进度均为甲骨文单方表述，合同金额与融资结构未公开；GPT-6 Astra训练说法需以OpenAI官方信息交叉验证。"
+      }
+    },
+    {
       "id": "1208f01e00a6",
       "title": "What a billion-dollar deal says about the US battery market",
       "category": "industry",
@@ -1487,6 +1355,99 @@
         "basis": "headline_and_feed_summary",
         "whyItMatters": "影响相关区域内旅游开发、基建、矿业与农林经营主体的合规边界，地方企业需关注分区调整带来的准入变化。",
         "riskNotes": "来源为中国政府网，属官方一手来源，可信度较高；但摘要未含具体省份名单、分区调整内容与执行时间，须核对批复原文及附件。"
+      }
+    },
+    {
+      "id": "3482c58c624c",
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "category": "opportunity",
+      "source": "Hacker News",
+      "sourceFeed": "Hacker News",
+      "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+      "publishedAt": "2026-11-22T15:42:40.000Z",
+      "summary": "Le Monde评论称科学 increasingly 显示化学物质与生活方式疾病相关之际，欧洲却在弱化相关化学品监管。",
+      "actionSteps": [
+        "查阅欧盟化学品法规修订官方文件",
+        "梳理产品涉及的高关注物质清单",
+        "评估供应链替代材料可行性"
+      ],
+      "tags": [
+        "欧盟监管",
+        "化学品",
+        "公共健康"
+      ],
+      "trust": 2,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "若监管放松，化工与消费品合规成本可能变化，同时公众健康议题关注度上升，影响相关企业声誉与供应链要求。",
+        "riskNotes": "为媒体评论文章，含观点成分；具体法规修订条款需以欧盟官方公报与机构文件核实。"
+      }
+    },
+    {
+      "id": "c405dffaed51",
+      "title": "研华 ASR-A505 单板计算机曝光，搭载英特尔 \"Nova Lake H\" 处理器",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/030/716.htm",
+      "publishedAt": "2026-11-22T14:45:34.000Z",
+      "summary": "研华泄露演示文稿显示正开发四英寸级单板计算机ASR-A505，搭载英特尔Nova Lake H处理器，16核16线程。",
+      "actionSteps": [
+        "关注研华官网产品发布页",
+        "核对英特尔Nova Lake H官方路线图",
+        "评估现有嵌入式项目是否需等待新平台"
+      ],
+      "tags": [
+        "嵌入式",
+        "单板计算机",
+        "英特尔"
+      ],
+      "trust": 1,
+      "opportunity": 2,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "面向工业与嵌入式市场的SBC若采用新平台，可能影响工控、边缘设备选型节奏；但泄露信息未经官方确认。",
+        "riskNotes": "信息源自网络泄露演示文稿，规格与发布时间均未获研华或英特尔官方证实，存在变更可能。"
+      }
+    },
+    {
+      "id": "bf872f7ac593",
+      "title": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化",
+      "category": "industry",
+      "source": "IT 之家",
+      "sourceFeed": "IT 之家",
+      "link": "https://www.ithome.com/1/030/714.htm",
+      "publishedAt": "2026-11-22T14:19:27.000Z",
+      "summary": "Rockstar表示GTA 6亲密互动场景制作难度高，内容随主角关系动态变化。",
+      "actionSteps": [
+        "关注官方预告与评级机构公示",
+        "核对各地区分级差异",
+        "评估对游戏发行时间的影响"
+      ],
+      "tags": [
+        "游戏",
+        "GTA6",
+        "内容分级"
+      ],
+      "trust": 2,
+      "opportunity": 1,
+      "priority": 1,
+      "aiAnalysis": {
+        "version": 1,
+        "model": "deepseek-chat",
+        "analyzedAt": "2026-11-22T16:17:18.939Z",
+        "basis": "headline_and_feed_summary",
+        "whyItMatters": "对玩家而言涉及游戏内容分级与体验预期；对行业而言反映高预算游戏在叙事与内容尺度上的制作复杂度。",
+        "riskNotes": "信息为开发商访谈转述，未涉及发售日期与分级结论，具体内容尺度需以官方评级机构信息为准。"
       }
     },
     {
